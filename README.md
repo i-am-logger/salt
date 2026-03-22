@@ -27,23 +27,22 @@ Every license is a single JSON file with a link to the original license text and
 
 ```json
 {
-  "key":              "mit",
-  "name":             "MIT License",
-  "short_name":       "MIT License",
+  "key": "mit",
+  "name": "MIT License",
+  "short_name": "MIT License",
   "spdx_license_key": "MIT",
-  "category":         "Permissive",
-
+  "category": "Permissive",
   "homepage_url": "http://opensource.org/licenses/mit-license.php",
-  "text_urls":    ["http://opensource.org/licenses/mit-license.php"],
-
-  "grants":       ["commercial-use", "modifications", "distribution", "private-use"],
-  "obligations":  { "include-copyright": ["distribution"] },
+  "text_urls": ["http://opensource.org/licenses/mit-license.php"],
+  "grants": ["commercial-use", "modifications", "distribution", "private-use"],
+  "obligations": {
+    "include-copyright": ["distribution"]
+  },
   "restrictions": {},
-  "disclaimers":  ["liability", "warranty"],
-
+  "disclaimers": ["liability", "warranty"],
   "integrity": {
     "algorithm": "sha256",
-    "digest":    "946b1bf9..."
+    "digest": "946b1bf947851b5efb7f3bf3858bbe7bdce3dface6ec0d65db763d5acbec9f6d"
   }
 }
 ```
