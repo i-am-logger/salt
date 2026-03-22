@@ -1,7 +1,9 @@
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)](https://nixos.org)
-[![Release](https://img.shields.io/github/v/release/i-am-logger/salt)](https://github.com/i-am-logger/salt/releases)
-[![CI and Release](https://github.com/i-am-logger/salt/actions/workflows/ci-and-release.yml/badge.svg)](https://github.com/i-am-logger/salt/actions/workflows/ci-and-release.yml)
+[![Nix](https://img.shields.io/badge/Nix-flake-5277C3?logo=nixos&logoColor=white)](https://nixos.wiki/wiki/Flakes)
+[![CI](https://github.com/i-am-logger/salt/actions/workflows/ci-and-release.yml/badge.svg)](https://github.com/i-am-logger/salt/actions/workflows/ci-and-release.yml)
+
+[![Release](https://img.shields.io/github/v/release/i-am-logger/salt?include_prereleases)](https://github.com/i-am-logger/salt/releases)
 [![Licenses](https://img.shields.io/badge/Licenses-2649-blue)](https://github.com/i-am-logger/salt)
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # SALT
