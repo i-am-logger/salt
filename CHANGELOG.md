@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/i-am-logger/salt/compare/salt-v0.3.0...salt-v0.4.0) (2026-03-22)
+
+
+### Features
+
+* add endorsement and competing-use restriction keys ([4206bea](https://github.com/i-am-logger/salt/commit/4206beac6e049e783bd645f827e66ae049a03154))
+
 ## [0.3.0](https://github.com/i-am-logger/salt/compare/salt-v0.2.2...salt-v0.3.0) (2026-03-22)
 
 
