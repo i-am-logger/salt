@@ -1,0 +1,26 @@
+{
+  "key": "ms-windows-sdk-server-2008-net-3.5",
+  "name": "Microsoft Windows SDK for Windows Server 2008 and .NET Framework 3.5",
+  "short_name": "MS Windows SDK Server 2008 .NET Framework 3.5",
+  "spdx_license_key": "LicenseRef-scancode-ms-win-sdk-server-2008-net-3.5",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9fb907e2d8993c7e251af13c374ed16ef7bab3362b59bc9ee2512947997424a8"
+  }
+}

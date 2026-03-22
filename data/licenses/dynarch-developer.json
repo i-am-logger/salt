@@ -1,0 +1,28 @@
+{
+  "key": "dynarch-developer",
+  "name": "Dynarch Developer Agreement",
+  "short_name": "Dynarch Developer Agreement",
+  "spdx_license_key": "LicenseRef-scancode-dynarch-developer",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [
+    "http://jescali-swiss.com/media/js/hmenu/license.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3362f7852a7586713675c5df2046c9e406fe1ebf602ce80f1ef9f610ab3574b0"
+  }
+}

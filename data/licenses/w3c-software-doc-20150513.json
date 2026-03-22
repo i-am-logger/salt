@@ -1,0 +1,30 @@
+{
+  "key": "w3c-software-doc-20150513",
+  "name": "W3C Software and Document (2015-05-13)",
+  "short_name": "W3C-SOFTWARE-DOC-20150513",
+  "spdx_license_key": "W3C-20150513",
+  "category": "Permissive",
+  "homepage_url": "https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f3c238ada409bf63a000753858ed2878a772703884de7c589c311817dda415ad"
+  }
+}

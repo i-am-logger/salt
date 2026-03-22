@@ -1,0 +1,25 @@
+{
+  "key": "ncbi",
+  "name": "NCBI Public Domain Notice",
+  "short_name": "NCBI Public Domain Notice",
+  "spdx_license_key": "NCBI-PD",
+  "category": "Public Domain",
+  "homepage_url": "https://github.com/ncbi/ngs/blob/master/LICENSE#L8",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "558c752ea02ddf4327c6971e3dc5d52b3a60228e5e49846760ef724b2a3f00b4"
+  }
+}

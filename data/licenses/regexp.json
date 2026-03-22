@@ -1,0 +1,29 @@
+{
+  "key": "regexp",
+  "name": "Regexp License",
+  "short_name": "Regexp License",
+  "spdx_license_key": "Spencer-86",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "96d46cba9906494d47f2dec3c8dc4563a4d431afa264ce002d1b0df327dfbc0c"
+  }
+}

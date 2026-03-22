@@ -1,0 +1,17 @@
+{
+  "key": "newton-king-cla",
+  "name": "James Newton-King CLA",
+  "short_name": "Newton-King CLA",
+  "spdx_license_key": "LicenseRef-scancode-newton-king-cla",
+  "category": "CLA",
+  "homepage_url": "https://github.com/JamesNK/Newtonsoft.Json/blob/ce7f283b94c86341036078ed2f4e241b907b816d/CONTRIBUTING.md",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "897bccfc60bb9f3ae7593784dbd1ec730b8e6a1dab2eefd4a031779b56762904"
+  }
+}

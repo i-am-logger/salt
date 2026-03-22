@@ -1,0 +1,26 @@
+{
+  "key": "cmigemo",
+  "name": "C/Migemo License",
+  "short_name": "C/Migemo License",
+  "spdx_license_key": "LicenseRef-scancode-cmigemo",
+  "category": "Proprietary Free",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/CMigemo",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing/CMigemo"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b06df78594a28aeef3353925f2e669a6a91c1349cc077aa816f8783a447bc2fc"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "key": "eupl-1.2",
+  "name": "European Union Public Licence 1.2",
+  "short_name": "EUPL 1.2",
+  "spdx_license_key": "EUPL-1.2",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://joinup.ec.europa.eu/sites/default/files/ckeditor_files/files/EUPL%20v1_2%20EN%20UTF-8.txt",
+  "text_urls": [
+    "https://joinup.ec.europa.eu/sites/default/files/ckeditor_files/files/EUPL%20v1_2%20EN%20UTF-8.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "63ef6ce15dcb0c4b0b9068faafd8a2176eab2e6b02172134aa715f0da217846f"
+  }
+}

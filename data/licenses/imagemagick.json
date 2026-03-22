@@ -1,0 +1,33 @@
+{
+  "key": "imagemagick",
+  "name": "ImageMagick License",
+  "short_name": "ImageMagick License",
+  "spdx_license_key": "ImageMagick",
+  "category": "Permissive",
+  "homepage_url": "http://www.imagemagick.org/script/license.php",
+  "text_urls": [
+    "http://www.imagemagick.org/script/license.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1ab5dceebf198040db969b9eb8597879872a13a8df36a41d4bf7af3781784224"
+  }
+}

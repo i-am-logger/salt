@@ -1,0 +1,25 @@
+{
+  "key": "oracle-devtools-vsnet-dev",
+  "name": "Oracle Developer Tools for Visual Studio .NET Development License",
+  "short_name": "Oracle DevTools for Visual Studio .NET Development",
+  "spdx_license_key": "LicenseRef-scancode-oracle-devtools-vsnet-dev",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/licenses/odt-lic-152011.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "81a325d63afaf7597f6755af80b5357d8247dcc2d9d9c7976a714a172b9c12e1"
+  }
+}

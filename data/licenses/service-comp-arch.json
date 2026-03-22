@@ -1,0 +1,29 @@
+{
+  "key": "service-comp-arch",
+  "name": "License for the Service Component Architecture JavaDoc, Interface Definition files and XSD files",
+  "short_name": "Service Component Architecture License",
+  "spdx_license_key": "LicenseRef-scancode-service-comp-arch",
+  "category": "Permissive",
+  "homepage_url": "http://www.osoa.org/display/Main/Service+Component+Architecture+Specifications",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "61326aec18d2bdd70116cde133ab46714b1a56de82a10b6399b65111f0070585"
+  }
+}

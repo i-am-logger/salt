@@ -1,0 +1,31 @@
+{
+  "key": "boost-1.0",
+  "name": "Boost Software License 1.0",
+  "short_name": "Boost 1.0",
+  "spdx_license_key": "BSL-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.boost.org/users/license.html",
+  "text_urls": [
+    "http://www.boost.org/LICENSE_1_0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c4583cb91296437f6cd52841556fce219b8bd51da6d24317c2b43560a9990aa2"
+  }
+}

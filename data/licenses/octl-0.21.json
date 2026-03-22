@@ -1,0 +1,33 @@
+{
+  "key": "octl-0.21",
+  "name": "Open Compensation Token License Version 0.21",
+  "short_name": "Open Compensation Token License v0.21",
+  "spdx_license_key": "LicenseRef-scancode-octl-0.21",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/open-compensation-token-license/license/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2824aae4e8925cec964b04e22d41bc45fc98e26f6a90e8670cf1b8d38acdf83b"
+  }
+}

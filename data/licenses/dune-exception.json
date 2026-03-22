@@ -1,0 +1,34 @@
+{
+  "key": "dune-exception",
+  "name": "DUNE exception to the GPL",
+  "short_name": "DUNE exception to the GPL",
+  "spdx_license_key": "LicenseRef-scancode-dune-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://dune-project.org/about/license/",
+  "text_urls": [
+    "https://github.com/dune-project/dune-common/blob/master/LICENSE.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1dd00a1660fe6784d6d6fa08f1c76d7944ba50e8618a01f8d5a4ec2f3c1721e5"
+  }
+}

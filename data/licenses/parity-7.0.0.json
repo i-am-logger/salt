@@ -1,0 +1,42 @@
+{
+  "key": "parity-7.0.0",
+  "name": "The Parity Public License 7.0.0",
+  "short_name": "The Parity Public License 7.0.0",
+  "spdx_license_key": "Parity-7.0.0",
+  "category": "Copyleft",
+  "homepage_url": "https://paritylicense.com/versions/7.0.0.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "654d41219674826804aff3ac0982ea4d3bcd0740c00cbe5a785150b90bbe8a21"
+  }
+}

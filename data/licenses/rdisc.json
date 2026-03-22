@@ -1,0 +1,30 @@
+{
+  "key": "rdisc",
+  "name": "Rdisc License",
+  "short_name": "Rdisc License",
+  "spdx_license_key": "Rdisc",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Rdisc_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4f1b0099aa7eaab044496918343421ef5a65e0e64d90b1a29c74272d0f882ca4"
+  }
+}

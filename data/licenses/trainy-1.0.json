@@ -1,0 +1,31 @@
+{
+  "key": "trainy-1.0",
+  "name": "Trainy Software License Version 1.0",
+  "short_name": "Trainy Software License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-trainy-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/asaiacai/zep/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f8a330dc89aa4c41636e979e849a0488b7414f82764a5a7c53ababdd62af9e6"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "jpython-1.1",
+  "name": "JPython License 1.1",
+  "short_name": "JPython 1.1",
+  "spdx_license_key": "LicenseRef-scancode-jpython-1.1",
+  "category": "Permissive",
+  "homepage_url": "http://www.jython.org/license.html",
+  "text_urls": [
+    "http://www.jython.org/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d4df58e7582a0da9bed89aee34675c2278ef2a9628a841deb2bb4d3e08a3cc38"
+  }
+}

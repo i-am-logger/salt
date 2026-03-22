@@ -1,0 +1,30 @@
+{
+  "key": "lil-1",
+  "name": "Lil License v1",
+  "short_name": "Lil License v1",
+  "spdx_license_key": "LicenseRef-scancode-lil-1",
+  "category": "Permissive",
+  "homepage_url": "http://lillicense.org/v1.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "49119381c089905cd46b2fb6f71925e7c3bf641fc20fbd189d86e80754eb0d72"
+  }
+}

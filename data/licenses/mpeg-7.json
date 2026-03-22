@@ -1,0 +1,35 @@
+{
+  "key": "mpeg-7",
+  "name": "MPEG-7 License",
+  "short_name": "MPEG-7 License",
+  "spdx_license_key": "LicenseRef-scancode-mpeg-7",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/cdmh/MPEG7FexLib/blob/master/Extraction/ColorLayoutExtraction.cpp",
+  "text_urls": [
+    "https://github.com/cdmh/MPEG7FexLib/blob/master/Extraction/EdgeHistExtraction.cpp"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a0b38bcd633121eaf942dc9129fba3f3ed1477b360b764687c93a69607909413"
+  }
+}

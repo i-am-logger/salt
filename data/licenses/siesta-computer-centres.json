@@ -1,0 +1,30 @@
+{
+  "key": "siesta-computer-centres",
+  "name": "Siesta Licence for Computer Centres",
+  "short_name": "Siesta Licence for Computer Centres",
+  "spdx_license_key": "LicenseRef-scancode-siesta-computer-centres",
+  "category": "Non-Commercial",
+  "homepage_url": "https://web.archive.org/web/20150920220207/http://departments.icmab.es/leem/siesta/CodeAccess/computer-center-licence.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "02da778276011dfa286b7c08bb05becaa0daa4a2f07343a661be511a0a253374"
+  }
+}

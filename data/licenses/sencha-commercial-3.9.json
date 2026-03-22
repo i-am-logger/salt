@@ -1,0 +1,26 @@
+{
+  "key": "sencha-commercial-3.9",
+  "name": "Sencha Software License Agreement v3.9",
+  "short_name": "Sencha Software License Agreement 3.9",
+  "spdx_license_key": "LicenseRef-scancode-sencha-commercial-3.9",
+  "category": "Commercial",
+  "homepage_url": "https://www.sencha.com/legal/sencha-software-license-agreement/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ceb9894d66fa464af6562b41380c0382f76144b7299b206a8dcd17cdd0603fc6"
+  }
+}

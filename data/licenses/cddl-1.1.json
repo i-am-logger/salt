@@ -1,0 +1,42 @@
+{
+  "key": "cddl-1.1",
+  "name": "Common Development and Distribution License 1.1",
+  "short_name": "CDDL 1.1",
+  "spdx_license_key": "CDDL-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://glassfish.java.net/public/CDDL+GPL_1_1.html",
+  "text_urls": [
+    "http://glassfish.java.net/public/CDDL+GPL_1_1.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3a558cce95f8eef64aff5249efc2ce28d3fca6e6a9aab8991eba4a37d51af9d7"
+  }
+}

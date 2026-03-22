@@ -1,0 +1,29 @@
+{
+  "key": "keypirinha",
+  "name": "Keypirinha License",
+  "short_name": "Keypirinha License",
+  "spdx_license_key": "LicenseRef-scancode-keypirinha",
+  "category": "Proprietary Free",
+  "homepage_url": "https://keypirinha.com/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5df36bacba2b41d8ad8bfe2a383ecf5996f59950f9ffe49435c431879161038d"
+  }
+}

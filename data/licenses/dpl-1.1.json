@@ -1,0 +1,32 @@
+{
+  "key": "dpl-1.1",
+  "name": "DSTC Public License (DPL) v1.1",
+  "short_name": "DPL-1.1",
+  "spdx_license_key": "LicenseRef-scancode-dpl-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://begrep.difi.no/SikkerDigitalPost/xsd/xs3p/LICENSE.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "32e24def25233d82f83ac2b654c25a862e55b6bb71448fec114c28fe9ccf8ab3"
+  }
+}

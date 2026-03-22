@@ -1,0 +1,30 @@
+{
+  "key": "ws-policy-specification",
+  "name": "WS-Policy Specification",
+  "short_name": "WS-Policy Specification",
+  "spdx_license_key": "LicenseRef-scancode-ws-policy-specification",
+  "category": "Permissive",
+  "homepage_url": "https://en.wikipedia.org/wiki/WS-Policy",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d347093155b273618568cc057ee75bca0019fdf3e97d09ce03b702516e414cf4"
+  }
+}

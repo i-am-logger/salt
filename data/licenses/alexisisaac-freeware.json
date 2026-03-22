@@ -1,0 +1,25 @@
+{
+  "key": "alexisisaac-freeware",
+  "name": "Alexisisaac Freeware License",
+  "short_name": "Alexisisaac Freeware License",
+  "spdx_license_key": "LicenseRef-scancode-alexisisaac-freeware",
+  "category": "Permissive",
+  "homepage_url": "https://sourceforge.net/projects/soleditor/?source=typ_redirect",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d25ae65bdd6b17bf55619ec95eccfe21cce472e070624073492736005c1a9307"
+  }
+}

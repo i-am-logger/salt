@@ -1,0 +1,31 @@
+{
+  "key": "w3c-documentation",
+  "name": "W3C Documentation License",
+  "short_name": "W3C Documentation License",
+  "spdx_license_key": "LicenseRef-scancode-w3c-documentation",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.w3.org/TR/REC-DOM-Level-1/copyright-notice.html",
+  "text_urls": [
+    "http://www.w3.org/TR/REC-DOM-Level-1/copyright-notice.html"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "27d0e69d5511d285a8aba18648c91abeff33f4ad0ad4ef9da2ee9541f749f58c"
+  }
+}

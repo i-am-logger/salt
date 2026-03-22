@@ -1,0 +1,29 @@
+{
+  "key": "ms-asp-net-software",
+  "name": "Microsoft ASP.NET Software License",
+  "short_name": "MS ASP.NET Software License",
+  "spdx_license_key": "LicenseRef-scancode-ms-asp-net-software",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/aspnet_and_web_tools_2012_2_rtw_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "34ebbceab45455d526fe501820e2a352ba71ff4a14ecea53f498c33ba09719f3"
+  }
+}

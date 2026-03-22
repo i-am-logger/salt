@@ -1,0 +1,29 @@
+{
+  "key": "bsd-original-uc-1990",
+  "name": "BSD-Original-UC-1990",
+  "short_name": "BSD-Original-UC-1990",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dcd6df39cff15e7ebecb263fc7074ac0909d7fe1e80e174be95336b2c51f1fb1"
+  }
+}

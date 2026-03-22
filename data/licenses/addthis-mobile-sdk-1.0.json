@@ -1,0 +1,25 @@
+{
+  "key": "addthis-mobile-sdk-1.0",
+  "name": "AddThis Mobile Application SDK License 1.0",
+  "short_name": "AddThis Mobile Application SDK License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-addthis-mobile-sdk-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.addthis.com/appsdk-license-agreement#.VvMVkRIrJZ1",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "71335aa2b1c404f99f6252b21bfe1af2afba875dd4d5377a27abb094ccd73383"
+  }
+}

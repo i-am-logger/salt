@@ -1,0 +1,25 @@
+{
+  "key": "semgrep-rules-1.0",
+  "name": "Semgrep Rules License v.1.0",
+  "short_name": "Semgrep Rules License v.1.0",
+  "spdx_license_key": "LicenseRef-scancode-semgrep-rules-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://semgrep.dev/legal/rules-license/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "873121163af37069bdce0f6359ce4c94e52551e7c7f3b17dbb1673a3fd2289fa"
+  }
+}

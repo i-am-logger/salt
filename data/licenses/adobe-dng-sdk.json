@@ -1,0 +1,27 @@
+{
+  "key": "adobe-dng-sdk",
+  "name": "Adobe DNG SDK License Agreement",
+  "short_name": "Adobe DNG SDK License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-adobe-dng-sdk",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.adobe.com/support/downloads/dng/dng_sdk.html",
+  "text_urls": [
+    "https://www.adobe.com/support/downloads/dng/dng_sdk_eula_mac.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5785390fc3d24937d6893391c2a9adecac726959c610c5610ff79f39ceb368d7"
+  }
+}

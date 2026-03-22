@@ -1,0 +1,36 @@
+{
+  "key": "ms-rl",
+  "name": "Microsoft Reciprocal License",
+  "short_name": "MS-RL",
+  "spdx_license_key": "MS-RL",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.microsoft.com/opensource/licenses.mspx#Ms-RL",
+  "text_urls": [
+    "http://www.microsoft.com/opensource/licenses.mspx#Ms-RL"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1f65ed354a22f1745bd4b7ea56bd65cc98e81db0d104cebe93a042f10d1a06e8"
+  }
+}

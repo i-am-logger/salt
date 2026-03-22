@@ -1,0 +1,30 @@
+{
+  "key": "patent-disclaimer",
+  "name": "Generic patent disclaimer",
+  "short_name": "Generic patent disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-patent-disclaimer",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "04dda472bd1e05480c3b2c369c260bba71c2cb43973f10d66888f72ecfae2892"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "cc-nc-sampling-plus-1.0",
+  "name": "NonCommercial Sampling Plus 1.0",
+  "short_name": "NonCommercial Sampling Plus 1.0",
+  "spdx_license_key": "LicenseRef-scancode-cc-nc-sampling-plus-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://creativecommons.org/licenses/nc-sampling+/1.0/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d353dfa54bffe86d3874b717a26e8e1765f883bb900116411bc9788fd49f49de"
+  }
+}

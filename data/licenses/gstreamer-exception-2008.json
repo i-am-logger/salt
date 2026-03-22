@@ -1,0 +1,29 @@
+{
+  "key": "gstreamer-exception-2008",
+  "name": "GStreamer Exception (2008)",
+  "short_name": "GStreamer Exception (2008)",
+  "spdx_license_key": "GStreamer-exception-2008",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9917569abb4477bc5e5be36ec1b040679ea540ff21343bb357717541eb936ee2"
+  }
+}

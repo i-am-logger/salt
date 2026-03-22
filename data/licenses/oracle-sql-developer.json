@@ -1,0 +1,25 @@
+{
+  "key": "oracle-sql-developer",
+  "name": "Oracle SQL Developer License Terms",
+  "short_name": "Oracle SQL Developer License Terms",
+  "spdx_license_key": "LicenseRef-scancode-oracle-sql-developer",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/licenses/sqldev-license-152021.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ee34cd67c8460f340446ccc73319710d493a7c6fde0670a2263bd8d831b5b12a"
+  }
+}

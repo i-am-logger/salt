@@ -1,0 +1,33 @@
+{
+  "key": "cc-by-nc-3.0-de",
+  "name": "Creative Commons Attribution Non Commercial 3.0 Germany",
+  "short_name": "CC-BY-NC-3.0-DE",
+  "spdx_license_key": "CC-BY-NC-3.0-DE",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "324532aa935367fe80494b011d08dcfa3b45e30c256b44cdaf51f9b3cdfec73b"
+  }
+}

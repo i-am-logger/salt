@@ -1,0 +1,29 @@
+{
+  "key": "paratype-free-font-1.3",
+  "name": "ParaType Free Font Licensing Agreement v1.3",
+  "short_name": "ParaType Free Font Licensing Agreement v1.3",
+  "spdx_license_key": "ParaType-Free-Font-1.3",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e1892dd634dc1327b4104ca80a885a820a068e1b588968b2c49cf16ed667a1f0"
+  }
+}

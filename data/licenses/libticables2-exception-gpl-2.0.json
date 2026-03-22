@@ -1,0 +1,38 @@
+{
+  "key": "libticables2-exception-gpl-2.0",
+  "name": "libticables2 exception to GPL 2.0",
+  "short_name": "libticables2 exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-libticables2-exception-gpl-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/debrouxl/tilibs/blob/master/libticables/trunk/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0498786da11f13a824461a5a3cc9f0600ef344de372e122fd403e48edf13e660"
+  }
+}

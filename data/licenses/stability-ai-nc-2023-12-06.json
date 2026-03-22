@@ -1,0 +1,34 @@
+{
+  "key": "stability-ai-nc-2023-12-06",
+  "name": "Stability AI Non-Commercial Research Community License Agreement 2023-12-06",
+  "short_name": "Stability AI Non-Commercial Research 2023-12-06",
+  "spdx_license_key": "LicenseRef-scancode-stability-ai-nc-2023-12-06",
+  "category": "Non-Commercial",
+  "homepage_url": "https://huggingface.co/stabilityai/stablelm-2-12b-chat/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0346857d27f8b5a9d7b1ef72686d734f962755452a3911160980c42246745596"
+  }
+}

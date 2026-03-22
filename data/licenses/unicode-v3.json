@@ -1,0 +1,30 @@
+{
+  "key": "unicode-v3",
+  "name": "Unicode License v3",
+  "short_name": "Unicode License v3",
+  "spdx_license_key": "Unicode-3.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.unicode.org/license.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "74c5c7f8af43eaef50c01161a92c6f4325ed82cf27b5e67b9b804ff3f9660c09"
+  }
+}

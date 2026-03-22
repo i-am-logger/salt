@@ -1,0 +1,37 @@
+{
+  "key": "lppl-1.3c",
+  "name": "LaTeX Project Public License v1.3c",
+  "short_name": "LPPL 1.3c",
+  "spdx_license_key": "LPPL-1.3c",
+  "category": "Copyleft",
+  "homepage_url": "http://www.latex-project.org/lppl/lppl-1-3c.txt",
+  "text_urls": [
+    "http://www.latex-project.org/lppl/lppl-1-3c.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f33db0e6d9787102e48f910e2c3f6d73f766035718662ef1f4737cf461dc0e7e"
+  }
+}

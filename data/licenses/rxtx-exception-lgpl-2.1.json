@@ -1,0 +1,35 @@
+{
+  "key": "rxtx-exception-lgpl-2.1",
+  "name": "RXTX exception to LGPL 2.1",
+  "short_name": "RXTX exception to LGPL 2.1",
+  "spdx_license_key": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://users.frii.com/jarvi/rxtx/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a3be5915aabfc190cc60d5509214fae1f1b40d29768b2c322013e3885d2467c0"
+  }
+}

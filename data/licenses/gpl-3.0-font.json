@@ -1,0 +1,36 @@
+{
+  "key": "gpl-3.0-font",
+  "name": "GPL 3.0 or later with font exception",
+  "short_name": "GPL 3.0 or later with font exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/software/freefont/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "45dc8cfa5a5164c16469e5ecca4459bbe0240c724077501353468b32232bb6a8"
+  }
+}

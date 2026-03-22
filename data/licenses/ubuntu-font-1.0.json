@@ -1,0 +1,35 @@
+{
+  "key": "ubuntu-font-1.0",
+  "name": "Ubuntu Font Licence v1.0",
+  "short_name": "Ubuntu Font Licence v1.0",
+  "spdx_license_key": "Ubuntu-font-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://font.ubuntu.com/licence/",
+  "text_urls": [
+    "https://assets.ubuntu.com/v1/81e5605d-ubuntu-font-licence-1.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "31f3f913e2d262e97a2f364de724b8a414935d7941186cdd1d9e2f2a6c950806"
+  }
+}

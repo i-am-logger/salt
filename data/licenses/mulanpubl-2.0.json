@@ -1,0 +1,40 @@
+{
+  "key": "mulanpubl-2.0",
+  "name": "Mulan Public License, Version 2 (Mulan PubL v2)",
+  "short_name": "MulanPubl-2.0",
+  "spdx_license_key": "LicenseRef-scancode-mulanpubl-2.0",
+  "category": "Copyleft",
+  "homepage_url": "http://license.coscl.org.cn/MulanPubL-2.0",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4cde7efc54682045e84c5f71dd383a785166a7764e1417742bd290640a152512"
+  }
+}

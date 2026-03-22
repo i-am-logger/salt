@@ -1,0 +1,29 @@
+{
+  "key": "dropbear",
+  "name": "Dropbear License",
+  "short_name": "Dropbear License",
+  "spdx_license_key": "LicenseRef-scancode-dropbear",
+  "category": "Permissive",
+  "homepage_url": "https://matt.ucc.asn.au/dropbear/dropbear.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "14eb9fe4ee35f07a80b38ad9f2702a3355b5da3d51bb7fb1e6ec2d7ef3bf6293"
+  }
+}

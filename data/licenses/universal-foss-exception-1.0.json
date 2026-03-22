@@ -1,0 +1,32 @@
+{
+  "key": "universal-foss-exception-1.0",
+  "name": "Universal FOSS Exception v1.0",
+  "short_name": "Universal FOSS Exception v1.0",
+  "spdx_license_key": "Universal-FOSS-exception-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://oss.oracle.com/licenses/universal-foss-exception/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6974f38b96d63a4d384bc2c97f59ae375cca86c2a602a0d86547cc0910aa1a1a"
+  }
+}

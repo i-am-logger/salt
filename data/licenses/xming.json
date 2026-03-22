@@ -1,0 +1,26 @@
+{
+  "key": "xming",
+  "name": "Xming License",
+  "short_name": "Xming License",
+  "spdx_license_key": "LicenseRef-scancode-xming",
+  "category": "Commercial",
+  "homepage_url": "http://www.straightrunning.com/XmingNotes/terms.php",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "22442e53e2310e133cfcb840bb6215d4fc099632438e63afe0b9840a632eb035"
+  }
+}

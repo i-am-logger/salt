@@ -1,0 +1,47 @@
+{
+  "key": "osl-2.1",
+  "name": "Open Software License 2.1",
+  "short_name": "OSL 2.1",
+  "spdx_license_key": "OSL-2.1",
+  "category": "Copyleft",
+  "homepage_url": "http://www.nexb.com/license/LICENSE-OSL-2.1.html",
+  "text_urls": [
+    "http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "010c26c2d006665cf4f3df6952a58073a99433f77c0cd70c311fc815327c8f8a"
+  }
+}

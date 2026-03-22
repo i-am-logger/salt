@@ -1,0 +1,29 @@
+{
+  "key": "ecma-standard-copyright-2024",
+  "name": "Ecma Standard Copyright Notice 2024",
+  "short_name": "Ecma Standard Copyright Notice 2024",
+  "spdx_license_key": "LicenseRef-scancode-ecma-standard-copyright-2024",
+  "category": "Proprietary Free",
+  "homepage_url": "https://ecma-international.org/policies/by-ipr/ecma-text-copyright-policy/",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "220b54e304be6d0c5ac9c17d93afc9b3227d7913a01bc236ae43d5f407b740b7"
+  }
+}

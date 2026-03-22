@@ -1,0 +1,34 @@
+{
+  "key": "mame",
+  "name": "MAME license",
+  "short_name": "MAME license",
+  "spdx_license_key": "LicenseRef-scancode-mame",
+  "category": "Non-Commercial",
+  "homepage_url": "https://web-beta.archive.org/web/20100311021704/http://mamedev.org/legal.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "82e66d7edd3eb6d1d6f43a83d2baa9ee0e28f5568a650a06bb8c83a18d8d6ba8"
+  }
+}

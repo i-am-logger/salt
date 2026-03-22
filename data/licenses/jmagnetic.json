@@ -1,0 +1,30 @@
+{
+  "key": "jmagnetic",
+  "name": "JMagnetic License",
+  "short_name": "JMagnetic License",
+  "spdx_license_key": "LicenseRef-scancode-jmagnetic",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c3cbe9a53cb481da240e08695c4b8aeff6cda58bc6f290eb8c8f9dde64801bb1"
+  }
+}

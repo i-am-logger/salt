@@ -1,0 +1,33 @@
+{
+  "key": "lgpl-3.0-linking-exception",
+  "name": "LGPL-3.0 Linking Exception",
+  "short_name": "LGPL-3.0 Linking Exception",
+  "spdx_license_key": "LGPL-3.0-linking-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://spdx.org/licenses/LGPL-3.0-linking-exception.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5dd074c4540658bcb91a1dbe3161e77acd9c15ef7b5d27e6ce0f88004fc9fb14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "berryai-2024",
+  "name": "BerriAI Enterprise license 2024",
+  "short_name": "BerriAI Enterprise license 2024",
+  "spdx_license_key": "LicenseRef-scancode-berryai-2024",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/BerriAI/litellm/blob/main/enterprise/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e949e3033d7d0b53d7b07fa6e7a056076aa09d54891a7ce3f0b7dc734d13dfe9"
+  }
+}

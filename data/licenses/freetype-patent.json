@@ -1,0 +1,24 @@
+{
+  "key": "freetype-patent",
+  "name": "FreeType Patent Grant",
+  "short_name": "FreeType Patent Grant",
+  "spdx_license_key": "LicenseRef-scancode-freetype-patent",
+  "category": "Patent License",
+  "homepage_url": "https://www.freetype.org/",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5774d852483ccfb02b5b4995e05a6d453fe0f7879a4fd83ed63ae408aa342fac"
+  }
+}

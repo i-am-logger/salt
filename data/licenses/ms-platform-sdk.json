@@ -1,0 +1,25 @@
+{
+  "key": "ms-platform-sdk",
+  "name": "Microsoft Platform SDK License",
+  "short_name": "MS Platform SDK License",
+  "spdx_license_key": "LicenseRef-scancode-ms-platform-sdk",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6e900baf4d1f8cc88a2bf65160f6947a62cfe1552d86afb2bac41c4fc4d158a6"
+  }
+}

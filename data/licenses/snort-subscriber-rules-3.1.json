@@ -1,0 +1,26 @@
+{
+  "key": "snort-subscriber-rules-3.1",
+  "name": "SNORT Subscriber Rules License Agreement v3.1",
+  "short_name": "SNORT Subscriber Rules v3.1",
+  "spdx_license_key": "LicenseRef-scancode-snort-subscriber-rules-3.1",
+  "category": "Commercial",
+  "homepage_url": "https://www.snort.org/snort_license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1539dbc1fd09c641cf807e65f53d7f6b78044dbfc3d81c3ae560178513f80319"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "fabien-tassin",
+  "name": "Fabien Tassin License",
+  "short_name": "Fabien Tassin License",
+  "spdx_license_key": "LicenseRef-scancode-fabien-tassin",
+  "category": "Permissive",
+  "homepage_url": "http://search.cpan.org/~ftassin/SNMP-MIB-Compiler-0.06/lib/SNMP/MIB/Compiler.pm#COPYRIGHT",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "45fa1cc00561670e6b51cad9aa0a740234055b8f2374a21538dd71e80b0a02e7"
+  }
+}

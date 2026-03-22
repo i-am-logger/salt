@@ -1,0 +1,30 @@
+{
+  "key": "playground-v2-community",
+  "name": "Playground v2 Community License",
+  "short_name": "Playground v2 Community License",
+  "spdx_license_key": "LicenseRef-scancode-playground-v2-community",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/playgroundai/playground-v2-1024px-aesthetic/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "88013839c41b614b23a2d490294e9b0d26ce3e6b5110c1c806263eb9ab46d8e5"
+  }
+}

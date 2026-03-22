@@ -1,0 +1,27 @@
+{
+  "key": "google-maps-tos-2018-07-09",
+  "name": "Google Maps Platform Terms of Service 2018-07-09",
+  "short_name": "Google Maps Platform ToS 2018-07-09",
+  "spdx_license_key": "LicenseRef-scancode-google-maps-tos-2018-07-09",
+  "category": "Proprietary Free",
+  "homepage_url": "https://cloud.google.com/maps-platform/terms",
+  "text_urls": [
+    "https://cloud.google.com/maps-platform/terms/index-20180709"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7122f0d5f0c00da4be2abf0c9b8eac257dd7c914a489a74f76690dd284c0393f"
+  }
+}

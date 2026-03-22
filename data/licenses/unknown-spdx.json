@@ -1,0 +1,17 @@
+{
+  "key": "unknown-spdx",
+  "name": "Unknown SPDX license detected but not recognized",
+  "short_name": "unknown SPDX",
+  "spdx_license_key": "LicenseRef-scancode-unknown-spdx",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "737155a93b4d0d2ff972542def3892ee13c3ceaf02a980d54c63f0052b10f8c7"
+  }
+}

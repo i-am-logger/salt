@@ -1,0 +1,22 @@
+{
+  "key": "doug-lea",
+  "name": "Doug Lea License",
+  "short_name": "Doug Lea License",
+  "spdx_license_key": "",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "059a734b208f0ea6ae316a8581f94d6a2a5a757f9956ae0e0acaeb943e302923"
+  }
+}

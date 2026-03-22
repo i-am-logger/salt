@@ -1,0 +1,29 @@
+{
+  "key": "ryszard-szopa",
+  "name": "Ryszard Szopa License",
+  "short_name": "Ryszard Szopa License",
+  "spdx_license_key": "LicenseRef-scancode-ryszard-szopa",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c1528b39fa23e6505bd093fbe8d1727647187589729bcce4f4ab9b7c8da0b76a"
+  }
+}

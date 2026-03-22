@@ -1,0 +1,38 @@
+{
+  "key": "font-exception-gpl",
+  "name": "Font exception to GPL",
+  "short_name": "Font exception to GPL",
+  "spdx_license_key": "Font-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/gpl-faq.html#FontException",
+  "text_urls": [
+    "http://www.gnu.org/licenses/gpl-faq.html#FontException"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "57bcf94c478b46c4e8a3ffe4dcb2e1a240b369ba9f71a76bec8607b4c4786c14"
+  }
+}

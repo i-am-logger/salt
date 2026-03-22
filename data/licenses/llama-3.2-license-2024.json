@@ -1,0 +1,34 @@
+{
+  "key": "llama-3.2-license-2024",
+  "name": "Llama 3.2 Community License Agreement 2024",
+  "short_name": "Llama 3.2 Community License Agreement 2024",
+  "spdx_license_key": "LicenseRef-scancode-llama-3.2-license-2024",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE",
+  "text_urls": [
+    "https://raw.githubusercontent.com/meta-llama/llama-models/refs/heads/main/models/llama3_2/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eff6177c3b3d88f8d0fb9a6e1ebe3f71d8f75ab1946dd88556e4b151a2c3b85b"
+  }
+}

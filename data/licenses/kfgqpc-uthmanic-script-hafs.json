@@ -1,0 +1,25 @@
+{
+  "key": "kfgqpc-uthmanic-script-hafs",
+  "name": "Uthmanic Script License",
+  "short_name": "Uthmanic Script License",
+  "spdx_license_key": "LicenseRef-scancode-kfgqpc-uthmanic-script-hafs",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dfcface659e90aed18bc06c42af635dd070a9a3c1afcb9f23c5b26304693d7fd"
+  }
+}

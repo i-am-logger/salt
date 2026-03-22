@@ -1,0 +1,29 @@
+{
+  "key": "nvidia-gov",
+  "name": "NVIDIA License with Government Qualifications",
+  "short_name": "NVIDIA License with Government Qualifications",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-gov",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a72ec76b252097e96229c7c333b1231fbed808ea753af23e57430fd8d1a5c101"
+  }
+}

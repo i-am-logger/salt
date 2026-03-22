@@ -1,0 +1,33 @@
+{
+  "key": "rsalv2",
+  "name": "Redis Source Available License 2.0 (RSALv2) Agreement",
+  "short_name": "RSALv2",
+  "spdx_license_key": "LicenseRef-scancode-rsalv2",
+  "category": "Non-Commercial",
+  "homepage_url": "https://redis.com/legal/rsalv2-agreement/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2cbd3872fd4956c321f198410f2a9ee7fd63bbddd353cdb96e80af814a7dc298"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ms-lpl",
+  "name": "Microsoft Limited Permissive License (MS-LPL)",
+  "short_name": "MS-LPL",
+  "spdx_license_key": "MS-LPL",
+  "category": "Permissive",
+  "homepage_url": "http://web.archive.org/web/20061122070300/http://www.microsoft.com/resources/sharedsource/licensingbasics/limitedpermissivelicense.mspx",
+  "text_urls": [
+    "http://web.archive.org/web/20061122070300/http://www.microsoft.com/resources/sharedsource/licensingbasics/limitedpermissivelicense.mspx"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0fa6e7328d4559612501ea84e3f545987be924c7df432187e7fdfc1dd90093d9"
+  }
+}

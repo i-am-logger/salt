@@ -1,0 +1,40 @@
+{
+  "key": "ngpl",
+  "name": "Nethack General Public License",
+  "short_name": "Nethack General Public License",
+  "spdx_license_key": "NGPL",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.nethack.org/common/license.html",
+  "text_urls": [
+    "http://www.nethack.org/common/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ba0035d963047c3940ef74ce94287caa1cd603cde1ac2fc7d615e15ee485910a"
+  }
+}

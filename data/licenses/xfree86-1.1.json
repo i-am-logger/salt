@@ -1,0 +1,31 @@
+{
+  "key": "xfree86-1.1",
+  "name": "XFree86 License 1.1",
+  "short_name": "XFree86 License 1.1",
+  "spdx_license_key": "XFree86-1.1",
+  "category": "Permissive",
+  "homepage_url": "http://www.xfree86.org/current/LICENSE4.html",
+  "text_urls": [
+    "http://www.xfree86.org/current/LICENSE4.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b3adbd3f5433b982584911cb0a469a92b2d64c3190f3795b59ee6b0bdb127a06"
+  }
+}

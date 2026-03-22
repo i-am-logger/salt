@@ -1,0 +1,29 @@
+{
+  "key": "x11-acer",
+  "name": "X11-Style (Acer)",
+  "short_name": "X11-Style (Acer)",
+  "spdx_license_key": "LicenseRef-scancode-x11-acer",
+  "category": "Permissive",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.Abilis",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a9e6133ebaf1b62563275037b5956fdc59f2c69b81242d53d986c043148172a8"
+  }
+}

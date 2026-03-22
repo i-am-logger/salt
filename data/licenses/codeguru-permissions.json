@@ -1,0 +1,31 @@
+{
+  "key": "codeguru-permissions",
+  "name": "CodeGuru Permissions",
+  "short_name": "CodeGuru Permissions",
+  "spdx_license_key": "LicenseRef-scancode-codeguru-permissions",
+  "category": "Permissive",
+  "homepage_url": "http://www.codeguru.com/submission-guidelines.php#permission",
+  "text_urls": [
+    "http://www.codeguru.com/submission-guidelines.php#permission"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "594dfec29987c7073e06b1ff0bdd3b1c41b115050bbb9d5b7f50aceecc94de25"
+  }
+}

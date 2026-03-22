@@ -1,0 +1,25 @@
+{
+  "key": "symlinks",
+  "name": "Symlinks License",
+  "short_name": "Symlinks License",
+  "spdx_license_key": "Symlinks",
+  "category": "Public Domain",
+  "homepage_url": "https://www.mail-archive.com/debian-bugs-rc@lists.debian.org/msg11494.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4eb9d5a136052c39191410e6ecf84ec1c308e7fdf7df222be70d35ba4d562f49"
+  }
+}

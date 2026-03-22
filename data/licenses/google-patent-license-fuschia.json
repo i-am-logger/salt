@@ -1,0 +1,24 @@
+{
+  "key": "google-patent-license-fuschia",
+  "name": "Google Patent License for Fuschia",
+  "short_name": "Google Patent License for Fuschia",
+  "spdx_license_key": "",
+  "category": "Patent License",
+  "homepage_url": "https://github.com/flutter/flutter/blob/master/PATENTS",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a06d8e51a1066d73f060b64cf99a9fd6ac06e8f14133ac092524a75e6c5155c6"
+  }
+}

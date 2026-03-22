@@ -1,0 +1,31 @@
+{
+  "key": "ntpl",
+  "name": "Network Time Protocol License",
+  "short_name": "NTP License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://www.eecis.udel.edu/~mills/ntp/html/copyright.html",
+  "text_urls": [
+    "http://www.opensource.org/licenses/ntp-license.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f95d2ede63139cf9145c97ebdb93236d3da1298875b2b6f5e54587a2b77a0fb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ncsa-httpd-1995",
+  "name": "NCSA HTTPd License 1995",
+  "short_name": "NCSA HTTPd License 1995",
+  "spdx_license_key": "LicenseRef-scancode-ncsa-httpd-1995",
+  "category": "Proprietary Free",
+  "homepage_url": "https://web.archive.org/web/19970303200757/http://hoohoo.ncsa.uiuc.edu/docs-1.5/COPYRIGHT.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e4d6c860598c4ab52cc5c91117fcec814177ed3e4a511031fdd1f29dd8f69f8f"
+  }
+}

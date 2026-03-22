@@ -1,0 +1,29 @@
+{
+  "key": "x11-opengl",
+  "name": "X11-Style (OpenGL)",
+  "short_name": "X11-Style (OpenGL)",
+  "spdx_license_key": "SGI-OpenGL",
+  "category": "Permissive",
+  "homepage_url": "https://gitlab.freedesktop.org/mesa/glw/-/blob/master/README?ref_type=heads",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3618ecb486f2e441805dc8df34500b867dc131e64caadbf018c488db4af4bcff"
+  }
+}

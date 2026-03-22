@@ -1,0 +1,30 @@
+{
+  "key": "apple-sscl",
+  "name": "Apple Sample Source Code License",
+  "short_name": "Apple Sample Source Code License",
+  "spdx_license_key": "LicenseRef-scancode-apple-sscl",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3a37460a89a9f26c2f6353285c8dbf56a8276eb392bc176947b791b472300223"
+  }
+}

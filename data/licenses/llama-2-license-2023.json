@@ -1,0 +1,32 @@
+{
+  "key": "llama-2-license-2023",
+  "name": "Llama 2 Community License Agreement 2023",
+  "short_name": "Llama 2 Community License Agreement 2023",
+  "spdx_license_key": "LicenseRef-scancode-llama-2-license-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fa1f5fdf564cf175e318d6d66f0e0f5287007e78c23d72d7c8be6b271698e64e"
+  }
+}

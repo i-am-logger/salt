@@ -1,0 +1,32 @@
+{
+  "key": "upx-exception-2.0-plus",
+  "name": "UPX exception to GPL 2.0 or later",
+  "short_name": "UPX exception to GPL 2.0 or later",
+  "spdx_license_key": "LicenseRef-scancode-upx-exception-2.0-plus",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/upx/upx/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "60dc97eb5cbe836c2c8ad42902bac7d3ab5fa625de51cd6604461907c024a7a6"
+  }
+}

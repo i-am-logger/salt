@@ -1,0 +1,31 @@
+{
+  "key": "3dslicer-1.0",
+  "name": "3D Slicer Contribution and Software License Agreement v1.0",
+  "short_name": "3D Slicer License 1.0",
+  "spdx_license_key": "3D-Slicer-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.slicer.org/wiki/License",
+  "text_urls": [
+    "https://github.com/Slicer/Slicer/blob/v4.6.2/COPYRIGHT.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "59fb043a164101403ec77b4b78391f9c2c2c55650cd5278d6c6c34cac96e175c"
+  }
+}

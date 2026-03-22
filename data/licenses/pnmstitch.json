@@ -1,0 +1,29 @@
+{
+  "key": "pnmstitch",
+  "name": "pnmstitch License",
+  "short_name": "pnmstitch License",
+  "spdx_license_key": "pnmstitch",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f0c297b4c0d29c079d41483de77376071747e5b7c1bfeb0a8681f4e63173ec00"
+  }
+}

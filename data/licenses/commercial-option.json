@@ -1,0 +1,26 @@
+{
+  "key": "commercial-option",
+  "name": "Commercial Option",
+  "short_name": "Commercial Option",
+  "spdx_license_key": "",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7106ce8bbfc176c06574371c47807b3c17235994f9b3888ce8801259a5aacc69"
+  }
+}

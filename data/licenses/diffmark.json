@@ -1,0 +1,25 @@
+{
+  "key": "diffmark",
+  "name": "diffmark License",
+  "short_name": "diffmark License",
+  "spdx_license_key": "diffmark",
+  "category": "Public Domain",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/diffmark",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d26c4fff8acc0b7cf4784d005ca7b5e6acee134af750b718bea4a534039d786d"
+  }
+}

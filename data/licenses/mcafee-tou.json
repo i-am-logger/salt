@@ -1,0 +1,25 @@
+{
+  "key": "mcafee-tou",
+  "name": "McAfee Software royalty-Free License",
+  "short_name": "McAfee Free License",
+  "spdx_license_key": "LicenseRef-scancode-mcafee-tou",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.mcafee.com/us/downloads/free-tools/termsofuse.aspx",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b05bed630366a72bb80d435409897c1eca4125253dbd03752f1d73ded6b01bc4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "key": "gpl-3.0-interface-exception",
+  "name": "GPL-3.0 Interface Exception",
+  "short_name": "GPL-3.0 Interface Exception",
+  "spdx_license_key": "GPL-3.0-interface-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.gnu.org/licenses/gpl-faq.en.html#LinkingOverControlledInterface",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0381d0ae8342c16772bfbee79922cd1a2f50c5beb41e8522c1fa33b8062e963f"
+  }
+}

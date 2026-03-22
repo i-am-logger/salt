@@ -1,0 +1,30 @@
+{
+  "key": "dgraph-cla",
+  "name": "Dgraph Community License Agreement",
+  "short_name": "Dgraph Community License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-dgraph-cla",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/dgraph-io/dgraph/blob/master/licenses/DCL.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "68ec030a1986ccd3b6472587802612d38b2fdf95a1c8c7bb276982122579c33b"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "owf-cla-1.0-copyright-patent",
+  "name": "OWF Contributor License Agreement 1.0 - Copyright and Patent",
+  "short_name": "OWF CLA 1.0 - Copyright and Patent",
+  "spdx_license_key": "LicenseRef-scancode-owf-cla-1.0-copyright-patent",
+  "category": "CLA",
+  "homepage_url": "https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owf-contributor-license-agreement-1-0-copyright-and-patent",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "83c75183b01d2df25d3ea50cfa1e5f75b5ffe5bf0a1949f836246a9ba94d53f3"
+  }
+}

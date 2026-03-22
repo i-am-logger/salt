@@ -1,0 +1,31 @@
+{
+  "key": "oasis-ipr-2013",
+  "name": "OASIS Intellectual Property Rights (IPR) Policy 2013",
+  "short_name": "OASIS IPR 2013",
+  "spdx_license_key": "LicenseRef-scancode-oasis-ipr-2013",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.oasis-open.org/policies-guidelines/ipr/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "55724694ba05f43f758e43c756c9b5731450958618fa28f5b81da1b6c991df1e"
+  }
+}

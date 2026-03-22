@@ -1,0 +1,26 @@
+{
+  "key": "metageek-inssider-eula",
+  "name": "inSSIDer End User License Agreement",
+  "short_name": "inSSIDer EULA",
+  "spdx_license_key": "LicenseRef-scancode-metageek-inssider-eula",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.metageek.com/legal/eula/inssider.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ae6a6a740bd6b420236c43f91a53fdb0d1a617d6bc5091c143eb71d01b6ba6bf"
+  }
+}

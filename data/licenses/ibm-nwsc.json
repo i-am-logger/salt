@@ -1,0 +1,29 @@
+{
+  "key": "ibm-nwsc",
+  "name": "IBM International License Agreement for Non-Warranted Sample Code",
+  "short_name": "IBM Non-Warranted Sample Code License",
+  "spdx_license_key": "LicenseRef-scancode-ibm-nwsc",
+  "category": "Permissive",
+  "homepage_url": "http://www.ibm.com/developerworks/data/zones/informix/library/techarticle/nair/0204nairlicense.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2fec23be6d3f5f9755656b780652c3182254767c1a41591d6cb669074413bb4"
+  }
+}

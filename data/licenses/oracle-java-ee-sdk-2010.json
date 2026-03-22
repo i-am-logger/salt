@@ -1,0 +1,25 @@
+{
+  "key": "oracle-java-ee-sdk-2010",
+  "name": "OTN Developer License for JAVA EE SDK",
+  "short_name": "OTN Developer License for JAVA EE SDK",
+  "spdx_license_key": "LicenseRef-scancode-oracle-java-ee-sdk-2010",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/java/javase/downloads/366879",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e04801feb5a4a06b7e8c839087274f45780203eb33c459968b950b662b77d6f4"
+  }
+}

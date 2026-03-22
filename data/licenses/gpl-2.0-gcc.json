@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-gcc",
+  "name": "GPL 2.0 or later with GCC Runtime Library exception",
+  "short_name": "GPL 2.0 or later with GCC LInking exception",
+  "spdx_license_key": "GPL-2.0-with-GCC-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9031c95e0d9a5b2aa5cfa31fed73dae13bd19113c5264ef623b15d09b506710e"
+  }
+}

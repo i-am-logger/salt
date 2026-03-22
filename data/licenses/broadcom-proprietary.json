@@ -1,0 +1,25 @@
+{
+  "key": "broadcom-proprietary",
+  "name": "Broadcom Proprietary License",
+  "short_name": "Broadcom Proprietary",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-proprietary",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9d8b905f9fa84dc9cb666e36f8ba74122db4cdf801fade10d1985ab2d7d56d6a"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "kicad-libraries-exception",
+  "name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+  "short_name": "KiCad Libraries Exception to CC-BY-SA-4.0",
+  "spdx_license_key": "KiCad-libraries-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e484d4f55cc6613800ecb34086b2b770e27b34cfe2a7f04243831ebbf0357e01"
+  }
+}

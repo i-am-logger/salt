@@ -1,0 +1,31 @@
+{
+  "key": "naumen",
+  "name": "NAUMEN Public License",
+  "short_name": "NAUMEN Public License",
+  "spdx_license_key": "Naumen",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.org/licenses/naumen.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/naumen.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5de85184a011a89b0f2cf1d026729d8a90e8e7a2d7c88ef55e0655896eb2576c"
+  }
+}

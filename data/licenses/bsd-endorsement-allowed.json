@@ -1,0 +1,31 @@
+{
+  "key": "bsd-endorsement-allowed",
+  "name": "BSD Endorsement Allowed",
+  "short_name": "BSD Endorsement Allowed",
+  "spdx_license_key": "LicenseRef-scancode-bsd-endorsement-allowed",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://sources.debian.org/data/main/q/qtwebengine-opensource-src/5.15.18%2Bdfsg-2/src/3rdparty/chromium/third_party/glfw/src/deps/vs2008/stdint.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bd049604ad30c9df8397b76d5c8db6e5077e69d313526e808cb77488d7a41269"
+  }
+}

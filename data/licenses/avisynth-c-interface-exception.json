@@ -1,0 +1,35 @@
+{
+  "key": "avisynth-c-interface-exception",
+  "name": "Avisynth C Interface Exception",
+  "short_name": "Avisynth C Interface Exception",
+  "spdx_license_key": "LicenseRef-scancode-avisynth-c-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.kevina.org/avisynth_c/readme.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0d370fd8a5bb959114b128825429cbd8fb35cc8a090c5188845722214cfbbf1d"
+  }
+}

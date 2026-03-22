@@ -1,0 +1,30 @@
+{
+  "key": "fido-metadata-ut-3.00",
+  "name": "FIDO Alliance Metadata Usage Terms 3.00",
+  "short_name": "FIDO Alliance Metadata UT-3.00",
+  "spdx_license_key": "LicenseRef-scancode-fido-metadata-ut-3.00",
+  "category": "Proprietary Free",
+  "homepage_url": "https://fidoalliance.org/metadata-usage-terms-for-relying-parties-or-service-providers-2/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d09949f60ce1de09d6986ee7217ebd9d901d17b84b34a6085eef76533d443f5a"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-silverlight-3",
+  "name": "Microsoft Silverlight 3 License",
+  "short_name": "MS Silverlight 3 License",
+  "spdx_license_key": "LicenseRef-scancode-ms-silverlight-3",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4044b31cb558a6a109255153e8345d4f664fb32b430e908466c1d8dfdbdfbadf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "adsl",
+  "name": "Amazon Digital Services License",
+  "short_name": "Amazon Digital Services License",
+  "spdx_license_key": "ADSL",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "756c1777e8b4a6bdecd0e236e275c6410fa75b256004028e9eafd1abeb955dd3"
+  }
+}

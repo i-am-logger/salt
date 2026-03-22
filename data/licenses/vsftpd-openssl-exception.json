@@ -1,0 +1,38 @@
+{
+  "key": "vsftpd-openssl-exception",
+  "name": "vsftpd OpenSSL exception",
+  "short_name": "vsftpd OpenSSL exception",
+  "spdx_license_key": "vsftpd-openssl-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/richardcochran/vsftpd/blob/master/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "df08e0abf5753a938ef39ed45d1e194965abef2b5836b0b5e69b56fd124947c5"
+  }
+}

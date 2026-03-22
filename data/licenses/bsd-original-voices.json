@@ -1,0 +1,29 @@
+{
+  "key": "bsd-original-voices",
+  "name": "BSD-4-Clause with Voices in Head",
+  "short_name": "BSD-4-Clause with Voices",
+  "spdx_license_key": "LicenseRef-scancode-bsd-original-voices",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/freebsd/freebsd-src/blob/098dbd7ff7f3da9dda03802cdb2d8755f816eada/sys/dev/an/if_an_isa.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ceb9f32302f4539191aebaa77b07ed10d1564458239305cbcca851e7451e021d"
+  }
+}

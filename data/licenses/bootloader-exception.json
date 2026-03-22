@@ -1,0 +1,35 @@
+{
+  "key": "bootloader-exception",
+  "name": "Bootloader Distribution Exception to GPL 2.0 or later",
+  "short_name": "Bootloader Distribution Exception to GPL 2.0",
+  "spdx_license_key": "Bootloader-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "423e433583e435c919126197f20ac0ed953d5ce2a881d8437b8bf08dfdfa2c4a"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "bigscience-open-rail-m2",
+  "name": "BigScience Open RAIL-M2 License",
+  "short_name": "BigScience Open RAIL-M2 License",
+  "spdx_license_key": "LicenseRef-scancode-bigscience-open-rail-m2",
+  "category": "Proprietary Free",
+  "homepage_url": "https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/LICENSE-MODEL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d20a25b9d62b1c996f6777b066e8d601db3b66a94d00943850bab05041612393"
+  }
+}

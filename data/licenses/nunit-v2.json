@@ -1,0 +1,34 @@
+{
+  "key": "nunit-v2",
+  "name": "NUnit v2 License",
+  "short_name": "NUnit v2 License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Nunit?rd=Licensing/Nunit",
+  "text_urls": [
+    "http://nunit.org/index.php?p=license&r=2.6"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6741f3eac3bf61497eac64c299b2861a2b2ae4ee807c92a60e7adc31cc792710"
+  }
+}

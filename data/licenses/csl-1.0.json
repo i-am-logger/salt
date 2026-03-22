@@ -1,0 +1,33 @@
+{
+  "key": "csl-1.0",
+  "name": "Community Specification License 1.0",
+  "short_name": "CSL-1.0",
+  "spdx_license_key": "Community-Spec-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/CommunitySpecification/1.0",
+  "text_urls": [
+    "https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "58a237e8fb30d2b395f21884674690c85818174a1212bba95f506c7c7e7c5044"
+  }
+}

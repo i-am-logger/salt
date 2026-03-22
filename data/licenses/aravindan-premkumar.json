@@ -1,0 +1,29 @@
+{
+  "key": "aravindan-premkumar",
+  "name": "Aravindan Premkumar Licenase",
+  "short_name": "Aravindan Premkumar Licenase",
+  "spdx_license_key": "LicenseRef-scancode-aravindan-premkumar",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b8d9e23891d34e4efef5e15cde8ebadcf921a39f48633229fe64f416d75ccd6d"
+  }
+}

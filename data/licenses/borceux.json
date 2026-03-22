@@ -1,0 +1,29 @@
+{
+  "key": "borceux",
+  "name": "Borceux License",
+  "short_name": "Borceux License",
+  "spdx_license_key": "Borceux",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Borceux",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dfbf20717765978d6304c35039b4b2355748a8dc8c8e737e8c19b5bdbb3bf3a9"
+  }
+}

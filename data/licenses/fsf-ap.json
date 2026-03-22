@@ -1,0 +1,29 @@
+{
+  "key": "fsf-ap",
+  "name": "FSF All Permissive License",
+  "short_name": "FSF All Permissive License",
+  "spdx_license_key": "FSFAP",
+  "category": "Permissive",
+  "homepage_url": "http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b17187d5b8b9b238b757de3f4813b39cff1298a0f267eb8dae21106c33dd4bcc"
+  }
+}

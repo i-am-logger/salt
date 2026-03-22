@@ -1,0 +1,32 @@
+{
+  "key": "eclipse-sua-2010",
+  "name": "Eclipse Foundation Software User Agreement 2010",
+  "short_name": "Eclipse Foundation Software User Agreement 2010",
+  "spdx_license_key": "LicenseRef-scancode-eclipse-sua-2010",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://web.archive.org/web/20100921113304/http://eclipse.org/legal/epl/notice.php",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a45e8197c1cd99f6136d0e7a8ee3806f4a9966a87afdb9e26d761b6cc462742f"
+  }
+}

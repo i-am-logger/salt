@@ -1,0 +1,29 @@
+{
+  "key": "dual-bsd-gpl",
+  "name": "Dual BSD-GPL",
+  "short_name": "Dual BSD-GPL",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce365ad7a99005b8cce9cbfd1c16f7dd46321c4b62c6e64857b79e48edcead53"
+  }
+}

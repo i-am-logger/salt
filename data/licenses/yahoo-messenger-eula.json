@@ -1,0 +1,30 @@
+{
+  "key": "yahoo-messenger-eula",
+  "name": "Yahoo Messenger EULA",
+  "short_name": "Yahoo Messenger EULA",
+  "spdx_license_key": "LicenseRef-scancode-yahoo-messenger-eula",
+  "category": "Non-Commercial",
+  "homepage_url": "https://info.yahoo.com/legal/us/yahoo/messenger/messengertos/messengertos-279.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4c409415eb9a42a0b734762843e0c79d06bd399784bb9cdafbc7921cc7089ebe"
+  }
+}

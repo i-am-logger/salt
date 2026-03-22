@@ -1,0 +1,27 @@
+{
+  "key": "rh-standard-eula-2019",
+  "name": "Red Hat Standard End User License Agreement",
+  "short_name": "Red Hat Standard EULA",
+  "spdx_license_key": "LicenseRef-scancode-rh-standard-eula-2019",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.redhat.com/en/about/eulas",
+  "text_urls": [
+    "https://www.redhat.com/licenses/Red_Hat_Standard_EULA_20191108.pdf"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f3cdae4dd960a6a86adf47b0f43c90a50542ccc4b22a453dd5d032b7a398cf4f"
+  }
+}

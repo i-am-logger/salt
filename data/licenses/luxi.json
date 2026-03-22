@@ -1,0 +1,30 @@
+{
+  "key": "luxi",
+  "name": "Bigelow & Holmes Luxi fonts license",
+  "short_name": "Bigelow & Holmes Luxi fonts license",
+  "spdx_license_key": "LicenseRef-scancode-luxi",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "30f5571a2ebc09cab41075136773deee50e35dbd43a01c902384cbdac3272e45"
+  }
+}

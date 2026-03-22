@@ -1,0 +1,25 @@
+{
+  "key": "ms-nuget",
+  "name": "Microsoft Nuget License",
+  "short_name": "MS Nuget",
+  "spdx_license_key": "LicenseRef-scancode-ms-nuget",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6324b87a8b63f54136a8226bb61d73e7fc062c0b9a55ef3c4cc8580b4e8acc1b"
+  }
+}

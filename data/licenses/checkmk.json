@@ -1,0 +1,29 @@
+{
+  "key": "checkmk",
+  "name": "Checkmk License",
+  "short_name": "Checkmk License",
+  "spdx_license_key": "checkmk",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "90b5eb37c11be7733ef169f3cc2c0faa5ba435088007b73f47ef7a17c73f3460"
+  }
+}

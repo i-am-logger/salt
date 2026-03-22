@@ -1,0 +1,29 @@
+{
+  "key": "bsla-no-advert",
+  "name": "Berkeley Software License Agreement with no advertizing",
+  "short_name": "BSLA no advertizing",
+  "spdx_license_key": "LicenseRef-scancode-bsla-no-advert",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8df8781707f12a9cab9912cdf3ea0de37f9348de267ae81c86215a423400d1c3"
+  }
+}

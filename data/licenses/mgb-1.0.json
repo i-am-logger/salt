@@ -1,0 +1,33 @@
+{
+  "key": "mgb-1.0",
+  "name": "MGB Open Source License 1.0",
+  "short_name": "MGB 1.0",
+  "spdx_license_key": "LicenseRef-scancode-mgb-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://lists.opensource.org/pipermail/license-review_lists.opensource.org/2025-February/005642.html",
+  "text_urls": [
+    "http://lists.opensource.org/pipermail/license-review_lists.opensource.org/attachments/20250204/763141a6/attachment-0001.docx"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "aadd02ec5eb9ca94ab330b4e27faf7aeafb8bed9c51f347e127128bb316be6e0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "libpbm",
+  "name": "PBM Library License",
+  "short_name": "PBM Library License",
+  "spdx_license_key": "xlock",
+  "category": "Permissive",
+  "homepage_url": "http://web.mit.edu/tex/fontutil/fontutils-0.6/pbm/libpbm1.c",
+  "text_urls": [
+    "http://web.mit.edu/tex/fontutil/fontutils-0.6/pbm/libpbm1.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c81cf491ea4c584db7c95c2739d06289520e89655d4facd17b44ce0d3ae0f764"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "key": "ibmpl-1.0",
+  "name": "IBM Public License",
+  "short_name": "IPL 1.0",
+  "spdx_license_key": "IPL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.opensource.org/licenses/ibmpl.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/ibmpl.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3a7dcfa2de6ccac42a3aac450f186c7e5cc6272b71a8370e49507f5251c40b77"
+  }
+}

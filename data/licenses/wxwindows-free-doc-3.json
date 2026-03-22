@@ -1,0 +1,32 @@
+{
+  "key": "wxwindows-free-doc-3",
+  "name": "wxWindows Free Documentation Licence, Version 3",
+  "short_name": "wxWindows Free Documentation v3",
+  "spdx_license_key": "LicenseRef-scancode-wxwindows-free-doc-3",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.wxwidgets.org/about/licence/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2bd3cc46f82479f2f5683223a4699405f18c9e5026afe64d41e96624aaa21ca6"
+  }
+}

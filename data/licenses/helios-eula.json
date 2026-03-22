@@ -1,0 +1,26 @@
+{
+  "key": "helios-eula",
+  "name": "Helios EULA",
+  "short_name": "Helios",
+  "spdx_license_key": "LicenseRef-scancode-helios-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.textpad.com/copyright.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4708ec7d20071350f3e1ecadd6e7e0534fc98178370e88bd00e669bd594a391b"
+  }
+}

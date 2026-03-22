@@ -1,0 +1,31 @@
+{
+  "key": "ms-specification",
+  "name": "Microsoft Specification License",
+  "short_name": "MS Specification License",
+  "spdx_license_key": "LicenseRef-scancode-ms-specification",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0bbc1ee1284a2611a94d99b82851c710a66e966d1cbbf0ce9c28329afa208179"
+  }
+}

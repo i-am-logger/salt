@@ -1,0 +1,33 @@
+{
+  "key": "cecill-b",
+  "name": "CeCILL-B Free Software License Agreement",
+  "short_name": "CeCILL-B License",
+  "spdx_license_key": "CECILL-B",
+  "category": "Permissive",
+  "homepage_url": "http://www.cecill.info/licences/Licence_CeCILL-B_V1-fr.html",
+  "text_urls": [
+    "http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html",
+    "http://www.cecill.info/licences/Licence_CeCILL-B_V1-fr.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "814bd90e7ec3c45db69a044ff465a68d2c85347fbf63bc3e1384ad307b0bef51"
+  }
+}

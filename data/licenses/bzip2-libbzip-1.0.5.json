@@ -1,0 +1,29 @@
+{
+  "key": "bzip2-libbzip-1.0.5",
+  "name": "bzip2 License",
+  "short_name": "bzip2 License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "http://bzip.org/1.0.5/bzip2-manual-1.0.5.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "08dbbd43d3e30a5475ae19a3fa3afe71c3834e69626c581aef7b5699e4d8c9e2"
+  }
+}

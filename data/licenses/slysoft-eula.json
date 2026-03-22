@@ -1,0 +1,30 @@
+{
+  "key": "slysoft-eula",
+  "name": "SlySoft EULA",
+  "short_name": "SlySoft EULA",
+  "spdx_license_key": "LicenseRef-scancode-slysoft-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.slysoft.com/en/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4a9c9f8fc0a9300c8c48e7f0425a360da1c95b7934e6af84317b8d500f44f1c8"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "eu-datagrid",
+  "name": "EU DataGrid Software License",
+  "short_name": "EU DataGrid Software License",
+  "spdx_license_key": "EUDatagrid",
+  "category": "Permissive",
+  "homepage_url": "http://eu-datagrid.web.cern.ch/eu-datagrid/license.html",
+  "text_urls": [
+    "http://eu-datagrid.web.cern.ch/eu-datagrid/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0327aa79ffdd30f6ade928f9bce3f81a6e0bb0af7737d14da71288daf6a1cf88"
+  }
+}

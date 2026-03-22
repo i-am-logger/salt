@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-nc-nd-2.0-at",
+  "name": "Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung 2.0",
+  "short_name": "CC-BY-NC-ND-2.0-AT",
+  "spdx_license_key": "LicenseRef-scancode-cc-by-nc-nd-2.0-at",
+  "category": "Non-Commercial",
+  "homepage_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode.at"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "418494d94375a469632f95a04f2a43e11fd2014094f0abd431a2a51a4973d8b1"
+  }
+}

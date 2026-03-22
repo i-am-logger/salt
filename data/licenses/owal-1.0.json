@@ -1,0 +1,25 @@
+{
+  "key": "owal-1.0",
+  "name": "Opera Web Applications License v1.0",
+  "short_name": "Opera Web Applications License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-owal-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2bfe1d00fb337ba62016d076cdd50718a51394649e3abf8887a3b95845ae33be"
+  }
+}

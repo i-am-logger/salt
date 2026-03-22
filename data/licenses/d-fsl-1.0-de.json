@@ -1,0 +1,41 @@
+{
+  "key": "d-fsl-1.0-de",
+  "name": "Deutsche Freie Software Lizenz",
+  "short_name": "Deutsche Freie Software Lizenz",
+  "spdx_license_key": "D-FSL-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/de/D-FSL-1_0_de.txt",
+  "text_urls": [
+    "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/de/D-FSL-1_0_de.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e230ab61a8777c1067e6cd4a553e97c1f31155eed4f0f34c0cc17203f77879de"
+  }
+}

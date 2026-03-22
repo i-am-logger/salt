@@ -1,0 +1,29 @@
+{
+  "key": "stu-nicholls",
+  "name": "Stu Nicholls License",
+  "short_name": "Stu Nicholls License",
+  "spdx_license_key": "LicenseRef-scancode-stu-nicholls",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "90a08648a3eb7870ca9c928ef84ae6aff8bea452e2f0c68d982f74ec803e1ead"
+  }
+}

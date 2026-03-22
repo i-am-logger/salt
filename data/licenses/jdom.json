@@ -1,0 +1,29 @@
+{
+  "key": "jdom",
+  "name": "JDOM License",
+  "short_name": "JDOM License",
+  "spdx_license_key": "LicenseRef-scancode-jdom",
+  "category": "Permissive",
+  "homepage_url": "http://www.jdom.org/docs/faq.html#a0030",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1b59e5d69b85665b288981467e26dc1de4076713b1e70a05ce701ba6c894ea2d"
+  }
+}

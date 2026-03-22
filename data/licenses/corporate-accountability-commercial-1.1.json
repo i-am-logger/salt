@@ -1,0 +1,25 @@
+{
+  "key": "corporate-accountability-commercial-1.1",
+  "name": "CC + Corporate Accountability Lab",
+  "short_name": "CC+CAL",
+  "spdx_license_key": "LicenseRef-scancode-accountability-commercial-1.1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://legaldesign.org/cccal-license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ef0ef363d8b4cdc330f352d6d4bfa4df3972446b56da0547372688784475a5cb"
+  }
+}

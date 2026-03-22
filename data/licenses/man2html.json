@@ -1,0 +1,29 @@
+{
+  "key": "man2html",
+  "name": "man2html License",
+  "short_name": "man2html License",
+  "spdx_license_key": "man2html",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0664683412dcabdc4db8ce90953f1d6083cb8d83ae2d924da9fe458e26f0d6b7"
+  }
+}

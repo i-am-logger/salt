@@ -1,0 +1,32 @@
+{
+  "key": "ms-azure-data-studio",
+  "name": "Microsoft Azure Data Studio License Terms",
+  "short_name": "MS Azure Data Studio License",
+  "spdx_license_key": "LicenseRef-scancode-ms-azure-data-studio",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/microsoft/azuredatastudio/blob/main/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "009b016d44be9a20fb1655f34efbe26fcb886ed8b119ec42b712b756997e9480"
+  }
+}

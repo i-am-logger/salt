@@ -1,0 +1,29 @@
+{
+  "key": "douglas-young",
+  "name": "Douglas Young License",
+  "short_name": "Douglas Young License",
+  "spdx_license_key": "LicenseRef-scancode-douglas-young",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "270c7a70e00a699a1b2a2c05405e97090dd2b06afabf20942aaa60cccf456d5b"
+  }
+}

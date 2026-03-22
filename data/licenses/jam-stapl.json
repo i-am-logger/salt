@@ -1,0 +1,29 @@
+{
+  "key": "jam-stapl",
+  "name": "Jam STAPL Software License",
+  "short_name": "Jam STAPL Software License",
+  "spdx_license_key": "LicenseRef-scancode-jam-stapl",
+  "category": "Free Restricted",
+  "homepage_url": "https://www.intel.com/content/www/us/en/programmable/support/support-resources/download/licensing/lic-jam.html",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b1259e7bbef6353e7cce16c80ae88484fc4b4f6d9ad2023c8249365def0a9da7"
+  }
+}

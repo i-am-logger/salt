@@ -1,0 +1,34 @@
+{
+  "key": "msppl",
+  "name": "Microsoft patterns & practices License",
+  "short_name": "MSPPL",
+  "spdx_license_key": "LicenseRef-scancode-msppl",
+  "category": "Proprietary Free",
+  "homepage_url": "http://msdn.microsoft.com/en-us/library/gg405489(v=pandp.40).aspx",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "87a6ad592d229e9c24e0530acb0f94d5579e0f24f20857a001912c0aafef8057"
+  }
+}

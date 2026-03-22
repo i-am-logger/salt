@@ -1,0 +1,29 @@
+{
+  "key": "d-zlib",
+  "name": "Digital Mars Zlib",
+  "short_name": "D Zlib",
+  "spdx_license_key": "LicenseRef-scancode-d-zlib",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "82e5bc151a1c5c126a9fd7a4998d2824b0f8a06305412b709d428835731e7d74"
+  }
+}

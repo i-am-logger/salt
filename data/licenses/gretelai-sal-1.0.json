@@ -1,0 +1,35 @@
+{
+  "key": "gretelai-sal-1.0",
+  "name": "Gretel.AI Source Available License Agreement v1.0",
+  "short_name": "Gretel.AI SAL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-gretelai-sal-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://gretel.ai/license/source-available-license",
+  "text_urls": [
+    "https://github.com/gretelai/gretel-synthetics/blob/master/LICENSE"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e7a9c37270e667836ce0eaf540ef5f421d6a0fb0fe345dbd358b496543d29cfb"
+  }
+}

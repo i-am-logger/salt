@@ -1,0 +1,26 @@
+{
+  "key": "odoo-eel-1.0",
+  "name": "Odoo Enterprise Edition License v1.0",
+  "short_name": "Odoo Enterprise Edition License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-odoo-eel-1.0",
+  "category": "Commercial",
+  "homepage_url": "https://www.odoo.com/documentation/18.0/legal/licenses.html#odoo-18-enterprise-edition",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0b969bcc0073f93e1613ca8e2ade09b5617884c1eeb14e87b86a992f5e6d1f20"
+  }
+}

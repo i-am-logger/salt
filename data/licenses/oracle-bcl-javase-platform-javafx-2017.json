@@ -1,0 +1,25 @@
+{
+  "key": "oracle-bcl-javase-platform-javafx-2017",
+  "name": "Oracle BCL for Java SE Platform Products and JavaFX 2017 Restricted",
+  "short_name": "Oracle BCL for Java SE and JavaFX 2017 Restricted",
+  "spdx_license_key": "LicenseRef-scancode-oracle-bcl-java-platform-2017",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/java/javase/terms/license/index.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2fb685780dc0ab8a9df1e1d837a5ef27839ac3c5c6f639c8565308e7a6943941"
+  }
+}

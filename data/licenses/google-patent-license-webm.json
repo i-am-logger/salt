@@ -1,0 +1,24 @@
+{
+  "key": "google-patent-license-webm",
+  "name": "Google Patent License for WebM",
+  "short_name": "Google Patent License for WebM",
+  "spdx_license_key": "LicenseRef-scancode-google-patent-license-webm",
+  "category": "Patent License",
+  "homepage_url": "https://www.webmproject.org/license/additional/",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d71f31f48755078bc59a006b625e8c3f0d71dc4ca622764d13c8f1b3b2db0369"
+  }
+}

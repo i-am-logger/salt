@@ -1,0 +1,30 @@
+{
+  "key": "shopify-2024",
+  "name": "Shopify License 2024",
+  "short_name": "Shopify License 2024",
+  "spdx_license_key": "LicenseRef-scancode-shopify-2024",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/Shopify/subscriptions-reference-app/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2d208fdf46fea4edac02d80bc2fb763db82b14b0051da5db36d76366cef90957"
+  }
+}

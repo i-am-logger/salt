@@ -1,0 +1,31 @@
+{
+  "key": "cc-by-3.0-at",
+  "name": "Creative Commons Attribution 3.0 Austria",
+  "short_name": "CC-BY-3.0-AT",
+  "spdx_license_key": "CC-BY-3.0-AT",
+  "category": "Permissive",
+  "homepage_url": "https://creativecommons.org/licenses/by/3.0/at/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by/3.0/at/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b79a4beafc60cb036cc5cee5ea05e207586e38e93d4a2001835efde9a7d4f4db"
+  }
+}

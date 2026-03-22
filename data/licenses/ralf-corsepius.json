@@ -1,0 +1,29 @@
+{
+  "key": "ralf-corsepius",
+  "name": "Ralf Corsepius License",
+  "short_name": "Ralf Corsepius License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b4dd8876feb4c6b78a02c517dc8bead70c7bae9d5900a317b94def58b6fe6352"
+  }
+}

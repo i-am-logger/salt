@@ -1,0 +1,32 @@
+{
+  "key": "rsync-linking-exception",
+  "name": "rsync Linking Exception",
+  "short_name": "rsync Linking Exception",
+  "spdx_license_key": "rsync-linking-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "202593b7bd68c9b52f771dbce0c166501b2052c0e80ca4154be48eeedac585e3"
+  }
+}

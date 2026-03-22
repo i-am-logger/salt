@@ -1,0 +1,31 @@
+{
+  "key": "intel-code-samples",
+  "name": "Intel Code Samples License",
+  "short_name": "Intel Code Samples License",
+  "spdx_license_key": "LicenseRef-scancode-intel-code-samples",
+  "category": "Proprietary Free",
+  "homepage_url": "http://web.archive.org/web/20061110164256/http://www.intel.com/cd/ids/developer/asmo-na/eng/19287.htm?desturl=276611.htm",
+  "text_urls": [
+    "http://web.archive.org/web/20061110164256/http://www.intel.com/cd/ids/developer/asmo-na/eng/19287.htm?desturl=276611.htm"
+  ],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "db2772d489cc7e7713af15b291fb282b520189b154dc4220eca1a5f1541a3bf9"
+  }
+}

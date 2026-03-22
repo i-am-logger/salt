@@ -1,0 +1,30 @@
+{
+  "key": "allen-institute-software-2018",
+  "name": "Allen Institute Software License 2018",
+  "short_name": "Allen Institute Software License 2018",
+  "spdx_license_key": "LicenseRef-scancode-allen-institute-software-2018",
+  "category": "Non-Commercial",
+  "homepage_url": "https://raw.githubusercontent.com/AllenInstitute/human_neuron_Ih/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8b4ded00f073b10c5e3fb7912b3554248510e0e7b7b87e9ea0a3903d02993230"
+  }
+}

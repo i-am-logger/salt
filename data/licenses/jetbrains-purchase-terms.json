@@ -1,0 +1,26 @@
+{
+  "key": "jetbrains-purchase-terms",
+  "name": "JetBrains Purchase Terms",
+  "short_name": "JetBrains Purchase Terms",
+  "spdx_license_key": "LicenseRef-scancode-jetbrains-purchase-terms",
+  "category": "Commercial",
+  "homepage_url": "https://www.jetbrains.com/store/terms/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ab1cf1c31c45b892117868e7c3e638dda303f247575f32cce09370a2b1b8f55"
+  }
+}

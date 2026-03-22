@@ -1,0 +1,26 @@
+{
+  "key": "appsflyer-framework",
+  "name": "AppsFlyer Framework License",
+  "short_name": "AppsFlyer Framework License",
+  "spdx_license_key": "LicenseRef-scancode-appsflyer-framework",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/AppsFlyerSDK/AppsFlyerFramework/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b630994ccbd1411bc8a085ebe2aa232f1581d2419b4c992f37cfe5d3c3a6c5f0"
+  }
+}

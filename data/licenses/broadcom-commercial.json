@@ -1,0 +1,26 @@
+{
+  "key": "broadcom-commercial",
+  "name": "Broadcom Commercial Notice",
+  "short_name": "Broadcom Commercial Notice",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-commercial",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0f6e1861d4116d436aba328ab33b112e2c789939109c7d32e6842bcea198cab0"
+  }
+}

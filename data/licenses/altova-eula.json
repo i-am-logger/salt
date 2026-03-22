@@ -1,0 +1,26 @@
+{
+  "key": "altova-eula",
+  "name": "Altova EULA",
+  "short_name": "Altova EULA",
+  "spdx_license_key": "LicenseRef-scancode-altova-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.altova.com/eula.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5187280ac5ccb4ba2e5b387c5f34a9bbc08d5a6c7eec32367a7d05adeb004aca"
+  }
+}

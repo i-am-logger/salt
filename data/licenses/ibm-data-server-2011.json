@@ -1,0 +1,29 @@
+{
+  "key": "ibm-data-server-2011",
+  "name": "IBM Data Server License 2011",
+  "short_name": "IBM Data Server License 2011",
+  "spdx_license_key": "LicenseRef-scancode-ibm-data-server-2011",
+  "category": "Commercial",
+  "homepage_url": "https://www.nuget.org/packages/IBM.Data.DB2.Core/3.1.0.500/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "98d98b29096683ab644f1274fd7b666ede8205b7f1bd2b28a382c41f996c2dbb"
+  }
+}

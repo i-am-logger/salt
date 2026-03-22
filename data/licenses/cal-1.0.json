@@ -1,0 +1,40 @@
+{
+  "key": "cal-1.0",
+  "name": "Cryptographic Autonomy License 1.0",
+  "short_name": "CAL-1.0",
+  "spdx_license_key": "CAL-1.0",
+  "category": "Copyleft",
+  "homepage_url": "https://opensource.org/licenses/CAL-1.0",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d9fdbee045bc05c1789809b4f5197e912e2192aa790110cad335e48692ad4637"
+  }
+}

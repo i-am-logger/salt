@@ -1,0 +1,31 @@
+{
+  "key": "energyplus",
+  "name": "EnergyPlus License",
+  "short_name": "EnergyPlus License",
+  "spdx_license_key": "LicenseRef-scancode-energyplus-2023",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/NREL/EnergyPlus/blob/develop/LICENSE.txt",
+  "text_urls": [
+    "https://raw.githubusercontent.com/NREL/EnergyPlus/develop/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7baff5eb9b4f19399949ad4889d85490f360d4f882505ccde3819a318cbc6f48"
+  }
+}

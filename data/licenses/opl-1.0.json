@@ -1,0 +1,37 @@
+{
+  "key": "opl-1.0",
+  "name": "OpenContent Public License v1.0",
+  "short_name": "OpenContent License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-opl-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://opencontent.org/opl.shtml",
+  "text_urls": [
+    "http://opencontent.org/opl.shtml"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6993598803bba4e3ebe7f074749fd83522b0549ad515df2b98c98f2237d9060e"
+  }
+}

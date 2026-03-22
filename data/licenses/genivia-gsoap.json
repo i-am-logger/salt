@@ -1,0 +1,28 @@
+{
+  "key": "genivia-gsoap",
+  "name": "Genivia gSOAP Commercial Licensing",
+  "short_name": "Genivia Proprietary",
+  "spdx_license_key": "LicenseRef-scancode-genivia-gsoap",
+  "category": "Commercial",
+  "homepage_url": "http://www.genivia.com/Products/gsoap/contract.html",
+  "text_urls": [
+    "http://www.genivia.com/Products/gsoap/contract.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bc257c70d3838ea52d6c393e2688ed00e193c2440d5551d32bc2abe09ecf68e6"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "cc-by-nd-3.0-de",
+  "name": "Creative Commons Attribution No Derivatives 3.0 Germany",
+  "short_name": "CC-BY-ND-3.0-DE",
+  "spdx_license_key": "CC-BY-ND-3.0-DE",
+  "category": "Source-available",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6913d21031f2de191ea2415aef534c53ebd435b792cd1a94048f00d881f2c00f"
+  }
+}

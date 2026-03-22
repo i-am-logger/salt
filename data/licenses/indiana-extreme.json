@@ -1,0 +1,31 @@
+{
+  "key": "indiana-extreme",
+  "name": "Indiana University Extreme! Lab Software License Version 1.1.1",
+  "short_name": "Indiana Extreme License 1.1.1",
+  "spdx_license_key": "LicenseRef-scancode-indiana-extreme",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "http://www.bearcave.com/software/java/xml/xmlpull_license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eef1f38beb31954b9ed229a7bdc060ba0c94705d511c5b3358975d4a3b61dd47"
+  }
+}

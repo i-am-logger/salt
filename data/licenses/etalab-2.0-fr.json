@@ -1,0 +1,31 @@
+{
+  "key": "etalab-2.0-fr",
+  "name": "Etalab Open License 2.0 French",
+  "short_name": "Etalab Open License 2.0 French",
+  "spdx_license_key": "",
+  "category": "Unstated License",
+  "homepage_url": "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE",
+  "text_urls": [
+    "https://github.com/etalab/licence-ouverte/blob/master/open-licence.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "971268572f0a70f7c30db6b03923807420c8c5eac5b4cc679c07a5faf9fd4b27"
+  }
+}

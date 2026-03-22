@@ -1,0 +1,29 @@
+{
+  "key": "eric-glass",
+  "name": "Eric Glass License",
+  "short_name": "Eric Glass License",
+  "spdx_license_key": "LicenseRef-scancode-eric-glass",
+  "category": "Permissive",
+  "homepage_url": "http://davenport.sourceforge.net/ntlm.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1440854bd1d3f5c45fb63689256692cea6d86ce60acb7c494148580939d65e53"
+  }
+}

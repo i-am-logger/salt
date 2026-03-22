@@ -1,0 +1,35 @@
+{
+  "key": "ms-cl",
+  "name": "Microsoft Shared Source Community License",
+  "short_name": "MS-CL",
+  "spdx_license_key": "LicenseRef-scancode-ms-cl",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://terminals.codeplex.com/license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9af88465437009a17212be561a0dafb44f39f3a09515bb2eea3c8bffb437680c"
+  }
+}

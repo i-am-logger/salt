@@ -1,0 +1,29 @@
+{
+  "key": "mit-license-1998",
+  "name": "MIT License 1998",
+  "short_name": "MIT License 1998",
+  "spdx_license_key": "LicenseRef-scancode-mit-license-1998",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3b38a25222386dae161eb002c0c2e21cd6a9ea6f55e97adec0b66433d3a39bff"
+  }
+}

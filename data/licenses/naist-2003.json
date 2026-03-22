@@ -1,0 +1,29 @@
+{
+  "key": "naist-2003",
+  "name": "Nara Institute License 2003",
+  "short_name": "Nara Institute License 2003",
+  "spdx_license_key": "NAIST-2003",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3770cbd4bddf8c1527f2d448bd508cf0ef63203f0099614329c1d237a0af6276"
+  }
+}

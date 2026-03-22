@@ -1,0 +1,30 @@
+{
+  "key": "sourcegraph-enterprise-2018",
+  "name": "Sourcegraph Enterprise License 2018",
+  "short_name": "Sourcegraph Enterprise License 2018",
+  "spdx_license_key": "LicenseRef-scancode-sourcegraph-enterprise-2018",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/sourcegraph/sourcegraph/blob/main/LICENSE.enterprise",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5dd66f40f9f20aa7b1aa78473d3a64a6ef6a364f66ddc596d8c4eaf9782771b5"
+  }
+}

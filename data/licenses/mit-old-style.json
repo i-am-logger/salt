@@ -1,0 +1,31 @@
+{
+  "key": "mit-old-style",
+  "name": "MIT Old Style",
+  "short_name": "MIT Old Style",
+  "spdx_license_key": "Advanced-Cryptics-Dictionary",
+  "category": "Permissive",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing:MIT#Old_Style",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing:MIT#Old_Style"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f2202c851666b3b75815c8d02ea1dd481b86fa9575bbcedf3abfff402ee60de6"
+  }
+}

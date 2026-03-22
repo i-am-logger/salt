@@ -1,0 +1,28 @@
+{
+  "key": "adobe-scl",
+  "name": "Adobe Systems Incorporated Source Code License Agreement",
+  "short_name": "Adobe Source Code License 2006",
+  "spdx_license_key": "Adobe-2006",
+  "category": "Permissive",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/AdobeLicense",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing/AdobeLicense"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6bffcf2e83b11be58e16dbf094679ba2bb6c73017df63b350b441f28993d5258"
+  }
+}

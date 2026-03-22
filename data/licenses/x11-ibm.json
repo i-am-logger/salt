@@ -1,0 +1,37 @@
+{
+  "key": "x11-ibm",
+  "name": "IBM Derivative Works License",
+  "short_name": "IBM Derivative Works License",
+  "spdx_license_key": "LicenseRef-scancode-x11-ibm",
+  "category": "Copyleft",
+  "homepage_url": "http://www.xfree86.org/current/LICENSE5.html",
+  "text_urls": [
+    "http://www.xfree86.org/current/LICENSE5.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5b89b8c42654f0c7c80ab78890ab6085bebb45bce4ae3147a328839be23fb820"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "ascender-web-fonts",
+  "name": "Ascender Web Fonts License",
+  "short_name": "Ascender Web Fonts License",
+  "spdx_license_key": "LicenseRef-scancode-ascender-web-fonts",
+  "category": "Commercial",
+  "homepage_url": "https://web.archive.org/web/20100617193721/http://www.fontslive.com/info/web-fonts-eula.aspx",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cc12084e1c4f6819ff7df628c7bab98ec05b87399da79bbe2da30ac844d23cef"
+  }
+}

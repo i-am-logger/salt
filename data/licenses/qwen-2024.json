@@ -1,0 +1,36 @@
+{
+  "key": "qwen-2024",
+  "name": "Qwen License Agreement 2024",
+  "short_name": "Qwen License Agreement 2024",
+  "spdx_license_key": "LicenseRef-scancode-qwen-2024",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/Qwen/Qwen2.5-72B/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "28163f8838b13ab94088c0dfc9cc110e94f0fcf3d5788193e077e193794872a6"
+  }
+}

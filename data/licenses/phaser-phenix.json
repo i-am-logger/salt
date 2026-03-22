@@ -1,0 +1,30 @@
+{
+  "key": "phaser-phenix",
+  "name": "Phaser Commercial EULA (Phenix)",
+  "short_name": "Phaser Commercial EULA (Phenix)",
+  "spdx_license_key": "LicenseRef-scancode-phaser-phenix",
+  "category": "Commercial",
+  "homepage_url": "https://www.phaser.cimr.cam.ac.uk/index.php/Phenix_Licence",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f8e4c993edf802a365fb93fdb72fae74c4a09c7c4f8c2593e5dccb12313ff2a4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "toppers-educational",
+  "name": "TOPPERS Educational contents license agreement",
+  "short_name": "TOPPERS Educational",
+  "spdx_license_key": "LicenseRef-scancode-toppers-educational",
+  "category": "Permissive",
+  "homepage_url": "https://www.toppers.jp/en/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b77fbe4cc54d693acf52404cda5042ec3891529c295090259e60e80f1a6eeda2"
+  }
+}

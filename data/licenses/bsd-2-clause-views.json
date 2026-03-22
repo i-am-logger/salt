@@ -1,0 +1,31 @@
+{
+  "key": "bsd-2-clause-views",
+  "name": "BSD 2-Clause with views sentence",
+  "short_name": "BSD-2-Clause-Views",
+  "spdx_license_key": "BSD-2-Clause-Views",
+  "category": "Permissive",
+  "homepage_url": "https://www.freebsd.org/copyright/freebsd-license.html",
+  "text_urls": [
+    "https://github.com/protegeproject/protege/blob/master/license.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ed6d249e14e0c3fcd0e9b23baf19f943b9efec044ffa5d68a85cbc8677a9716"
+  }
+}

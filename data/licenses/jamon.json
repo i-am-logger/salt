@@ -1,0 +1,28 @@
+{
+  "key": "jamon",
+  "name": "JAMon License",
+  "short_name": "JAMon License",
+  "spdx_license_key": "LicenseRef-scancode-jamon",
+  "category": "Free Restricted",
+  "homepage_url": "http://jamonapi.sourceforge.net/JAMonLicense.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "85a1c2630c1e4e2e114468b72e630b952aadfbd1e335181df57164d30c3475b5"
+  }
+}

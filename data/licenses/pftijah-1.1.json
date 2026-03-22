@@ -1,0 +1,35 @@
+{
+  "key": "pftijah-1.1",
+  "name": "PfTijah Public License v1.1",
+  "short_name": "PfTijah Public License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-pftijah-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://dbappl.cs.utwente.nl/Legal/PfTijah-1.1.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "68bfaa0ddf75e305804c9d6b29a3a589a90b25c8db48bad966d0603824c2e1c8"
+  }
+}

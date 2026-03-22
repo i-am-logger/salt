@@ -1,0 +1,17 @@
+{
+  "key": "no-license",
+  "name": "No License Stated",
+  "short_name": "No License Stated",
+  "spdx_license_key": "LicenseRef-scancode-no-license",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4c5441aba008a64f7e0be00996a760e2b301ee21ce51ddd02af6665d42d440a5"
+  }
+}

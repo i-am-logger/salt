@@ -1,0 +1,29 @@
+{
+  "key": "widget-workshop",
+  "name": "Widget Workshop License",
+  "short_name": "Widget Workshop License",
+  "spdx_license_key": "Widget-Workshop",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/novnc/noVNC/blob/master/core/crypto/des.js#L24",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b520916f58071934a764717b2ba9fe6e72069eac232e449f78b10fbe93e4c6b3"
+  }
+}

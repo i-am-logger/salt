@@ -1,0 +1,25 @@
+{
+  "key": "retype-3.7.0",
+  "name": "Retype Software License Agreement v3.7.0",
+  "short_name": "Retype Software License Agreement v3.7.0",
+  "spdx_license_key": "LicenseRef-scancode-retype-3.7.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/retypeapp/retype/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eff24918baa3079e3ba9220efb860c302da1f569102785f9721dd05af49838e2"
+  }
+}

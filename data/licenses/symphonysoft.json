@@ -1,0 +1,31 @@
+{
+  "key": "symphonysoft",
+  "name": "Symphonysoft License",
+  "short_name": "Symphonysoft",
+  "spdx_license_key": "LicenseRef-scancode-symphonysoft",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/codehaus/mule-git/blob/master/tags/mule-1.0/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d7baecde6564e4b5aad9a6d5555d0921843b6db10cb6c75f825b783f80b3e40e"
+  }
+}

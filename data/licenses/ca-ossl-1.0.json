@@ -1,0 +1,30 @@
+{
+  "key": "ca-ossl-1.0",
+  "name": "Computer Associates Open Source Software License 1.0",
+  "short_name": "CA Open Source Software License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-ca-ossl-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://jxplorer.org/licence.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "236bb4129b2ae6c7808a49befc260f2d79d1d80b5c130ae800427392ed44aaf7"
+  }
+}

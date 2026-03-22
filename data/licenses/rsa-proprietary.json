@@ -1,0 +1,28 @@
+{
+  "key": "rsa-proprietary",
+  "name": "RSA Proprietary Shrinkwrap License",
+  "short_name": "RSA Proprietary",
+  "spdx_license_key": "LicenseRef-scancode-rsa-proprietary",
+  "category": "Commercial",
+  "homepage_url": "https://www.emc.com/collateral/legal/shrinkwrap-license-combined.pdf",
+  "text_urls": [
+    "https://www.emc.com/collateral/legal/shrinkwrap-license-combined.pdf"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e9336d2d4f321bdf921c1726a5f45b3bd548292bd90e68b4f424172fe9bbd089"
+  }
+}

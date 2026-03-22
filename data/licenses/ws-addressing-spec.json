@@ -1,0 +1,30 @@
+{
+  "key": "ws-addressing-spec",
+  "name": "WS-Addressing Specification License",
+  "short_name": "WS-Addressing Specification License",
+  "spdx_license_key": "LicenseRef-scancode-ws-addressing-spec",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4b309e23e90d51620a657d428b2b0dc18abd41bd9de466cf644ec29d20345ac6"
+  }
+}

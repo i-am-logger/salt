@@ -1,0 +1,24 @@
+{
+  "key": "ms-opus-patent-2012",
+  "name": "Microsoft Opus Patent Terms 2012",
+  "short_name": "MS Opus Patent Terms 2012",
+  "spdx_license_key": "LicenseRef-scancode-ms-opus-patent-2012",
+  "category": "Patent License",
+  "homepage_url": "https://datatracker.ietf.org/ipr/1914/",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "64278596d6be1659f93cc3d22146a63034e6b23c0b570d5a4923aeee018b3268"
+  }
+}

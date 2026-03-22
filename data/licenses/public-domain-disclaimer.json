@@ -1,0 +1,26 @@
+{
+  "key": "public-domain-disclaimer",
+  "name": "Public Domain Disclaimer",
+  "short_name": "Public Domain Disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-public-domain-disclaimer",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d24d60b277b7d42e1210d9ddfbb00c5c37bc29da1f05fb67c076231306304294"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-sell-variant-mit-disclaimer-rev",
+  "name": "HPND sell variant with MIT disclaimer - reverse",
+  "short_name": "HPND sell variant with MIT disclaimer reverse",
+  "spdx_license_key": "HPND-sell-variant-MIT-disclaimer-rev",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f02dd29aef9555bbb93ed1a2c54b25ac6a371d065b602e97c763e98ea2fba5f"
+  }
+}

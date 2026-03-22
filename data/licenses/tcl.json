@@ -1,0 +1,31 @@
+{
+  "key": "tcl",
+  "name": "TCL/TK License",
+  "short_name": "TCL/TK License",
+  "spdx_license_key": "TCL",
+  "category": "Permissive",
+  "homepage_url": "http://www.tcl.tk/software/tcltk/license.html",
+  "text_urls": [
+    "http://www.tcl.tk/software/tcltk/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bd479b558f13a77d835a21f175a2a1d75a6501de99952696c9f140126684907f"
+  }
+}

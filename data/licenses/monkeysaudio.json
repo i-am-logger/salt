@@ -1,0 +1,29 @@
+{
+  "key": "monkeysaudio",
+  "name": "Monkeys Audio License Agreement",
+  "short_name": "Monkeys Audio License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-monkeysaudio",
+  "category": "Free Restricted",
+  "homepage_url": "https://www.monkeysaudio.com/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e78636c8894fb9103d21457ef7970a0fc3ff068d98ba436e0f4c46d6d475e50f"
+  }
+}

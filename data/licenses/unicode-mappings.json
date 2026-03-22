@@ -1,0 +1,29 @@
+{
+  "key": "unicode-mappings",
+  "name": "Unicode Mappings License",
+  "short_name": "Unicode Mappings License",
+  "spdx_license_key": "LicenseRef-scancode-unicode-mappings",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "18d3be5cc3c8ab4a57a50491d37cd758eb92109ceee9a8d678cdcdb052412a6b"
+  }
+}

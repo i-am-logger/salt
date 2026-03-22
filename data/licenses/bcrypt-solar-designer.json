@@ -1,0 +1,29 @@
+{
+  "key": "bcrypt-solar-designer",
+  "name": "bcrypt Solar Designer License",
+  "short_name": "bcrypt Solar Designer License",
+  "spdx_license_key": "bcrypt-Solar-Designer",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "309f5b44c8c35b7bbc00340af589ea430e576afa1d400a388cd08d880adeadd1"
+  }
+}

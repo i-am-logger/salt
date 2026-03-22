@@ -1,0 +1,35 @@
+{
+  "key": "ofl-1.1-rfn",
+  "name": "OFL 1.1 Reserved Font Name",
+  "short_name": "SIL Open Font License 1.1 with Reserved Font Name",
+  "spdx_license_key": "OFL-1.1-RFN",
+  "category": "Permissive",
+  "homepage_url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
+  "text_urls": [
+    "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
+    "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=OFL_plaintext&filename=OFL.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ff4e8a061373fb208143fc085361cec8831f6646ed67347e17739bc420065b67"
+  }
+}

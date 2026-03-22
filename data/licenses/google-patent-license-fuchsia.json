@@ -1,0 +1,24 @@
+{
+  "key": "google-patent-license-fuchsia",
+  "name": "Google Patent License for Fuchsia",
+  "short_name": "Google Patent License for Fuchsia",
+  "spdx_license_key": "LicenseRef-scancode-google-patent-license-fuchsia",
+  "category": "Patent License",
+  "homepage_url": "https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/PATENTS",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "37429c8b3362ee1eaa909eaa434602e12c1bb1823b91a2e8b513315df56ee253"
+  }
+}

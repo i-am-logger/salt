@@ -1,0 +1,22 @@
+{
+  "key": "here-disclaimer",
+  "name": "HERE Disclaimer",
+  "short_name": "HERE Disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-here-disclaimer",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fb21101015c4d126949713868685f1dcccc922c8b7bbb0ed6360ea19a41a1908"
+  }
+}

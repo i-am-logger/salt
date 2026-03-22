@@ -1,0 +1,17 @@
+{
+  "key": "generic-tos",
+  "name": "Generic Terms of Service",
+  "short_name": "Generic ToS",
+  "spdx_license_key": "LicenseRef-scancode-generic-tos",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8e4c95bf991eecc2277f78a313b63f5eb9c828f6c0b5e3876e1c56710335b87d"
+  }
+}

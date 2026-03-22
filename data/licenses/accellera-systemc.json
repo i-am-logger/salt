@@ -1,0 +1,31 @@
+{
+  "key": "accellera-systemc",
+  "name": "SystemC Open Source License Agreement",
+  "short_name": "SystemC Open Source License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-accellera-systemc",
+  "category": "Permissive",
+  "homepage_url": "https://www.accellera.org/images/about/policies/SystemC_Open_Source_License_v3.3.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "56b9155397dc7a49f7ed11b328eea47965141c368b98d46de8636556482dc0dd"
+  }
+}

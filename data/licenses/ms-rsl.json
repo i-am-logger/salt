@@ -1,0 +1,27 @@
+{
+  "key": "ms-rsl",
+  "name": "Microsoft Reference Source License",
+  "short_name": "MS Reference Source License",
+  "spdx_license_key": "LicenseRef-scancode-ms-rsl",
+  "category": "Proprietary Free",
+  "homepage_url": "http://referencesource.microsoft.com/license.html",
+  "text_urls": [
+    "http://www.microsoft.com/resources/sharedsource/referencesourcelicense.mspx"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f686bc65ee56aa4c79d0028194480799fe108e6347747e03919f332ff5578f9a"
+  }
+}

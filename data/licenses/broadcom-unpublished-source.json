@@ -1,0 +1,26 @@
+{
+  "key": "broadcom-unpublished-source",
+  "name": "Broadcom Unpublished Source License",
+  "short_name": "Broadcom Unpublished Source License",
+  "spdx_license_key": "",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c5c7c89d81f82918a2ce4d6dfa96d0cde2d0c1caed7aa85cb101383be98fe28c"
+  }
+}

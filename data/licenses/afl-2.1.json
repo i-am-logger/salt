@@ -1,0 +1,37 @@
+{
+  "key": "afl-2.1",
+  "name": "Academic Free License 2.1",
+  "short_name": "AFL 2.1",
+  "spdx_license_key": "AFL-2.1",
+  "category": "Permissive",
+  "homepage_url": "http://www.rosenlaw.com/afl21.htm",
+  "text_urls": [
+    "http://opensource.linux-mirror.org/licenses/afl-2.1.txt",
+    "http://web.archive.org/web/20060423052359/http://opensource.org/licenses/afl-2.1.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1c7426450591ca72b67f357e3723ae7fdeb93f475d8e1b7a9ea49664f4266ca0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "gcc-exception-3.1",
+  "name": "GCC Runtime Library Exception v3.1",
+  "short_name": "GCC Runtime Library Exception v3.1",
+  "spdx_license_key": "GCC-exception-3.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/gcc-exception-3.1.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/gcc-exception-3.1.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8549451a09833748a70153578bcbf3f1997f2aa144ec8be2b01f87a0c6c8b7ea"
+  }
+}

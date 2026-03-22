@@ -1,0 +1,29 @@
+{
+  "key": "ams-fonts",
+  "name": "AMSFonts license",
+  "short_name": "AMSFonts license",
+  "spdx_license_key": "LicenseRef-scancode-ams-fonts",
+  "category": "Permissive",
+  "homepage_url": "http://www.ams.org/publications/type1-fonts",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d4428be7f2bf2f1e55f75bf558184bfe2f09bb12f2ff53ad2020a46433597861"
+  }
+}

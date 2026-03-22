@@ -1,0 +1,29 @@
+{
+  "key": "fwlw",
+  "name": "fwlw License",
+  "short_name": "fwlw License",
+  "spdx_license_key": "fwlw",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "abec430aeb3dad38a481d3b5b7cf3ad55dc83026d395c0e1ffbddcb820408897"
+  }
+}

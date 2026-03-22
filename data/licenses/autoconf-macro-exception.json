@@ -1,0 +1,38 @@
+{
+  "key": "autoconf-macro-exception",
+  "name": "Autoconf macro exception",
+  "short_name": "Autoconf macro exception",
+  "spdx_license_key": "Autoconf-exception-macro",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.gnu.org/software/autoconf-archive/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9588c719963fa7da824d5d8aaf8285fe56138c144bcca45ac742575ba54de88a"
+  }
+}

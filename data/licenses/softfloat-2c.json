@@ -1,0 +1,31 @@
+{
+  "key": "softfloat-2c",
+  "name": "SoftFloat Legal Notice 2c",
+  "short_name": "SoftFloat Legal Notice 2c",
+  "spdx_license_key": "LicenseRef-scancode-softfloat-2c",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/stffrdhrn/berkeley-softfloat-2?search=1#readme",
+  "text_urls": [
+    "http://www.jhauser.us/arithmetic/SoftFloat-2c.zip"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "624ca26416a0c89fe70f82f115a638151cdc82a399918302d83dcdf5e3e9d0b6"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ngrep",
+  "name": "ngrep License",
+  "short_name": "ngrep License",
+  "spdx_license_key": "ngrep",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "381436a158a601d5a7f345247c3e49bbb29f16d054aa8fc98228140bce51081e"
+  }
+}

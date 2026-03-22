@@ -1,0 +1,30 @@
+{
+  "key": "clear-bsd-1-clause",
+  "name": "Clear BSD 1-Clause License",
+  "short_name": "Clear BSD 1-Clause License",
+  "spdx_license_key": "LicenseRef-scancode-clear-bsd-1-clause",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/spate/glimage/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8fb26d663a25ed050343481cff2e5af188196a58d980fe84251f33f81a6b5b1e"
+  }
+}

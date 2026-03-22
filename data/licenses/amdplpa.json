@@ -1,0 +1,29 @@
+{
+  "key": "amdplpa",
+  "name": "AMD PLPA License",
+  "short_name": "AMD PLPA License",
+  "spdx_license_key": "AMDPLPA",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0ca40859186a342b22f21976d2148f4946f0b417bb94463b32132d86c588a5b5"
+  }
+}

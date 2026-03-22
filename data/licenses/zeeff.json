@@ -1,0 +1,29 @@
+{
+  "key": "zeeff",
+  "name": "Zeeff License",
+  "short_name": "Zeeff License",
+  "spdx_license_key": "Zeeff",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6b79e4f4e11fa4b5262eaf8a22da35a440e6eebfa396f8fec1ad620fe9275fac"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "saf",
+  "name": "Service Availability Forum License",
+  "short_name": "Service Availability Forum License",
+  "spdx_license_key": "LicenseRef-scancode-saf",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "164f6aee9b2ac05e2419810156c910ae8b06b91ab87a8c57628a18462a55d464"
+  }
+}

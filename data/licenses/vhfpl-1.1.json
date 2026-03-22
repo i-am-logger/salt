@@ -1,0 +1,38 @@
+{
+  "key": "vhfpl-1.1",
+  "name": "vhf Public License V 1.1",
+  "short_name": "vhfPL 1.1",
+  "spdx_license_key": "LicenseRef-scancode-vhfpl-1.1",
+  "category": "Copyleft",
+  "homepage_url": "http://www.cenon.de",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b4480656b7bebaa9583a1cbd50bb45ac6b12489a2337d1192e1e3612e962656a"
+  }
+}

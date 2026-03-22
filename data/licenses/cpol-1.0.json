@@ -1,0 +1,33 @@
+{
+  "key": "cpol-1.0",
+  "name": "Code Project Open License (CPOL) 1.0",
+  "short_name": "CPOL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-cpol-1.0",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.codeproject.com/info/cpol10.aspx",
+  "text_urls": [
+    "http://www.codeproject.com/info/CPOL.zip",
+    "http://www.codeproject.com/info/cpol10.aspx",
+    "https://web.archive.org/web/20080107184757/https://www.codeproject.com/info/cpol10.aspx"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a82706aa3532a03f4978b685148d9073f8c80f05da4710cda38a1dbabdbde265"
+  }
+}

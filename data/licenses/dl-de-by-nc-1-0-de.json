@@ -1,0 +1,30 @@
+{
+  "key": "dl-de-by-nc-1-0-de",
+  "name": "Datenlizenz Deutschland - Namensnennung - nicht kommerziell - Version 1.0 - Deutsch",
+  "short_name": "dl-de/by-nc-1-0-de",
+  "spdx_license_key": "LicenseRef-scancode-dl-de-by-nc-1-0-de",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.govdata.de/dl-de/by-nc-1-0",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed49ef1737d961567b1d79354decfc39be482fd6dad2ee89d9514b246ab751e4"
+  }
+}

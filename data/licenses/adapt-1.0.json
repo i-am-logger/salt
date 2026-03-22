@@ -1,0 +1,43 @@
+{
+  "key": "adapt-1.0",
+  "name": "Adaptive Public License",
+  "short_name": "APL 1.0",
+  "spdx_license_key": "APL-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.opensource.org/licenses/apl1.0.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/apl1.0.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "26f9ec034366a0343e48e716825008a4c68b3828d84673a94872a1ed7780dc63"
+  }
+}

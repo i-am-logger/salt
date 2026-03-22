@@ -1,0 +1,29 @@
+{
+  "key": "o-uda-1.0",
+  "name": "Open Use of Data Agreement v1.0",
+  "short_name": "O-UDA-1.0",
+  "spdx_license_key": "O-UDA-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/v1.0/O-UDA-1.0.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e60936ac4752855bf3e1dbc89aba6bb37e369a7866209430e5d1b74de5e6deb2"
+  }
+}

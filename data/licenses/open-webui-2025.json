@@ -1,0 +1,29 @@
+{
+  "key": "open-webui-2025",
+  "name": "Open WebUI License 2025",
+  "short_name": "Open WebUI License 2025",
+  "spdx_license_key": "LicenseRef-scancode-open-webui-2025",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/open-webui/open-webui/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f3d2cd1e8611e51bf3a17e4e91c27b9751dc02d87021dd4093c16d4afab5ef3c"
+  }
+}

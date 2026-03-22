@@ -1,0 +1,32 @@
+{
+  "key": "zed",
+  "name": "Zed License",
+  "short_name": "Zed License",
+  "spdx_license_key": "Zed",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Zed",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6ed2281e0b5c55edc9bf30c7dbd2e58d3ff9d5e4ef3b4de430917a95097a0e2c"
+  }
+}

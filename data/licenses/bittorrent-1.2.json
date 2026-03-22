@@ -1,0 +1,39 @@
+{
+  "key": "bittorrent-1.2",
+  "name": "BitTorrent Open Source License 1.2",
+  "short_name": "BitTorrent 1.2",
+  "spdx_license_key": "LicenseRef-scancode-bittorrent-1.2",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.bittorrent.com/license/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4786b6c68c49465f06a1c1aa0c947af00bc490760c0da2ccb98f09dbaec44198"
+  }
+}

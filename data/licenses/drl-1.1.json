@@ -1,0 +1,29 @@
+{
+  "key": "drl-1.1",
+  "name": "Detection Rule License (DRL) 1.1",
+  "short_name": "DRL-1.1",
+  "spdx_license_key": "DRL-1.1",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/Neo23x0/signature-base/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d9abc08f082241cc86a6f9cfcf71b55c5ff6a960eb8e7138dfde797b8af5c42a"
+  }
+}

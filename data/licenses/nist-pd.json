@@ -1,0 +1,28 @@
+{
+  "key": "nist-pd",
+  "name": "NIST Public Domain Notice",
+  "short_name": "NIST Public Domain Notice",
+  "spdx_license_key": "NIST-PD",
+  "category": "Public Domain",
+  "homepage_url": "https://github.com/usnistgov/jsip/blob/master/README#L122",
+  "text_urls": [
+    "https://github.com/tcheneau/Routing/blob/f09f46fcfe636107f22f2c98348188a65a135d98/README.md#conditions-of-use",
+    "https://github.com/tcheneau/simpleRPL/blob/e645e69e38dd4e3ccfeceb2db8cba05b7c2e0cd3/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d802b7a7718a0300b2530f4efd489e74d46c5e6a47e865924a3857335b361c9d"
+  }
+}

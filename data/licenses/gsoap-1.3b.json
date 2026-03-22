@@ -1,0 +1,40 @@
+{
+  "key": "gsoap-1.3b",
+  "name": "gSOAP Public License v1.3b",
+  "short_name": "gSOAP Public License v1.3b",
+  "spdx_license_key": "gSOAP-1.3b",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.cs.fsu.edu/~engelen/license.html",
+  "text_urls": [
+    "http://www.cs.fsu.edu/~engelen/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8d99e064527385e1837b0b4da97ae9fba911e4374a37f551a2682928b0578220"
+  }
+}

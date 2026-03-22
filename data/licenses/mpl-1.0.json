@@ -1,0 +1,46 @@
+{
+  "key": "mpl-1.0",
+  "name": "Mozilla Public License 1.0",
+  "short_name": "MPL 1.0",
+  "spdx_license_key": "MPL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.mozilla.org/MPL/MPL-1.0.html",
+  "text_urls": [
+    "http://www.mozilla.com/MPL/1.0/index.html",
+    "http://www.mozilla.org/MPL/1.0/",
+    "http://www.mozilla.org/MPL/1.0/index.html",
+    "http://www.mozilla.org/MPL/1.0/index.txt",
+    "http://www.mozilla.org/MPL/MPL-1.0.html",
+    "http://www.mozilla.org/MPL/MPL-1.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2383dc858a3eaccd9ba43e82f400d51cc713815e04f7b4bd647f4c717b01d10c"
+  }
+}

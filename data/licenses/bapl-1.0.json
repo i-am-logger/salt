@@ -1,0 +1,36 @@
+{
+  "key": "bapl-1.0",
+  "name": "Booz Allen Public License v1.0",
+  "short_name": "Booz Allen Public License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-bapl-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/boozallen/Public-License/blob/master/LICENSE.md",
+  "text_urls": [
+    "https://raw.githubusercontent.com/boozallen/Public-License/master/LICENSE.md"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4cf4dfb4b9043ae1c5efe5d123f952b56b24065cb7131595d4bf372b9ab78581"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "ms-ilmerge",
+  "name": "MS ILMerge License",
+  "short_name": "MS ILMerge License",
+  "spdx_license_key": "LicenseRef-scancode-ms-ilmerge",
+  "category": "Proprietary Free",
+  "homepage_url": "http://research.microsoft.com/en-us/people/mbarnett/ilmerge-license.aspx",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "106146900a127ddba869ef6c0ea50a5b59b3b200c86cb2528d95959b264913b6"
+  }
+}

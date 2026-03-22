@@ -1,0 +1,32 @@
+{
+  "key": "prosperity-1.0.1",
+  "name": "The Prosperity Public License 1.0.1",
+  "short_name": "Prosperity Public License 1.0.1",
+  "spdx_license_key": "LicenseRef-scancode-prosperity-1.0.1",
+  "category": "Non-Commercial",
+  "homepage_url": "https://licensezero.com/licenses/prosperity",
+  "text_urls": [
+    "https://github.com/licensezero/prosperity-public-license/blob/master/LICENSE.mustache"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d5ed3ef2a465b7ffaa38e54113ea3c53233c78671b570d64c13cae255f13d0ee"
+  }
+}

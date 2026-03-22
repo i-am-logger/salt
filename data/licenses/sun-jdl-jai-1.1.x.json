@@ -1,0 +1,31 @@
+{
+  "key": "sun-jdl-jai-1.1.x",
+  "name": "Sun Java Advanced Imaging Distribution License v1.1.X",
+  "short_name": "Sun JDL-JAI 1.1.X",
+  "spdx_license_key": "LicenseRef-scancode-sun-jdl-jai-1.1.x",
+  "category": "Proprietary Free",
+  "homepage_url": "https://web.archive.org/web/20070728043550/https://jai.dev.java.net/jdl-jai.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "52e98d862b380a875a2d4060eac126f234162964f9af2c4493d0f6e1fd0e3a07"
+  }
+}

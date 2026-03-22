@@ -1,0 +1,38 @@
+{
+  "key": "i2p-gpl-java-exception",
+  "name": "i2p GPL plus Java Exception",
+  "short_name": "i2p GPL plus Java Exception",
+  "spdx_license_key": "i2p-gpl-java-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://geti2p.net/en/get-involved/develop/licenses#java_exception",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f25be89620e8f0c5b96e4eafa2a7cc86e74e09899fd03130e287646e40ae311a"
+  }
+}

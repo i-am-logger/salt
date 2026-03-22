@@ -1,0 +1,34 @@
+{
+  "key": "st-mcd-2.0",
+  "name": "STMicro Liberty License v2",
+  "short_name": "STMicro Liberty License v2",
+  "spdx_license_key": "LicenseRef-scancode-st-mcd-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.st.com/software_license_agreement_liberty_v2",
+  "text_urls": [
+    "https://www.st.com/content/ccc/resource/legal/legal_agreement/license_agreement/group0/59/57/63/12/cf/a6/47/65/SLA0044/files/SLA0044.txt/jcr:content/translations/en.SLA0044.txt",
+    "https://www.st.com/software_license_agreement_liberty_v2"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f60ed7f54f5dde67748efa1cf19264477ffeb9825f8b6ba4713a124f99d2e40"
+  }
+}

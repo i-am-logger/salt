@@ -1,0 +1,32 @@
+{
+  "key": "the-stack-tos-2023-07",
+  "name": "HuggingFace The Stack TOS 2023-07",
+  "short_name": "The Stack TOS 2023-07",
+  "spdx_license_key": "LicenseRef-scancode-the-stack-tos-2023-07",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://huggingface.co/datasets/bigcode/the-stack#terms-of-use-for-the-stack",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "61e393cfb9711d286e024a20e7baa4fb5b95606d8eabf022d5f4c470eac6e586"
+  }
+}

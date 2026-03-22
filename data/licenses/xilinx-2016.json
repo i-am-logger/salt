@@ -1,0 +1,29 @@
+{
+  "key": "xilinx-2016",
+  "name": "Xilinx License 2016",
+  "short_name": "Xilinx License 2016",
+  "spdx_license_key": "LicenseRef-scancode-xilinx-2016",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9ef00facf0dc3c3c059ba000fa42edd501d5fd8ffb621eb8aaf082dae621cf14"
+  }
+}

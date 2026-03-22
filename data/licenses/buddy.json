@@ -1,0 +1,29 @@
+{
+  "key": "buddy",
+  "name": "Buddy License",
+  "short_name": "Buddy License",
+  "spdx_license_key": "Buddy",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "43e8a651c75338957fab1451e1e49290af526eca4fadd70d33acab46a8f442bf"
+  }
+}

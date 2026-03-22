@@ -1,0 +1,31 @@
+{
+  "key": "sonar-sal-1.0",
+  "name": "Sonar Source-Available License v1.0",
+  "short_name": "Sonar Source-Available License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-sonar-sal-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://www.sonarsource.com/license/ssal/",
+  "text_urls": [
+    "https://github.com/SonarSource/sonar-go/blob/master/LICENSE"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed8b4ccf2f35ddbb8aea4002094b7599f811a936223b325fe7e0b3bdca00270e"
+  }
+}

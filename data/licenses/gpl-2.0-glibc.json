@@ -1,0 +1,40 @@
+{
+  "key": "gpl-2.0-glibc",
+  "name": "GPL 2.0 with GLibC exception",
+  "short_name": "GPL 2.0 with GLibC exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/gpl.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/gpl.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ded31c67b16b61e5354d51f4ea31990e8367fe0a9d5fca6e5a6cfaa2489c4c49"
+  }
+}

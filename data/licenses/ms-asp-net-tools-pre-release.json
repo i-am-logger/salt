@@ -1,0 +1,29 @@
+{
+  "key": "ms-asp-net-tools-pre-release",
+  "name": "Microsoft ASP.NET Tools Pre-Release License",
+  "short_name": "MS ASP.NET Tools Pre-Release License",
+  "spdx_license_key": "LicenseRef-scancode-ms-asp-net-tools-pre-release",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/aspnetcomponent_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "37c1084880f137cf4e605a6ddc59183ac5e1d180c477a68761cb4f81787f5fa3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "qt-commercial-agreement-4.4.1",
+  "name": "Qt License Agreement v4.4.1",
+  "short_name": "Qt License Agreement v4.4.1",
+  "spdx_license_key": "LicenseRef-scancode-qt-commercial-agreement-4.4.1",
+  "category": "Commercial",
+  "homepage_url": "https://www.qt.io/terms-conditions/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dfead49848968d72152961c54233fe0488e423df9b01c3ccc62065053c705e85"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "oasis-ws-security-spec",
+  "name": "Oasis WS Security Specification License",
+  "short_name": "Oasis WS Security Specification License",
+  "spdx_license_key": "LicenseRef-scancode-oasis-ws-security-spec",
+  "category": "Permissive",
+  "homepage_url": "http://www.oasis-open.org/org",
+  "text_urls": [
+    "http://www.oasis-open.org/org"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "594790f5facd3c5895cae2104d60a87f343905845dc799eae3afd9c52a9354cc"
+  }
+}

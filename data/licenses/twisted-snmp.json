@@ -1,0 +1,29 @@
+{
+  "key": "twisted-snmp",
+  "name": "TwistedSNMP License",
+  "short_name": "TwistedSNMP License",
+  "spdx_license_key": "LicenseRef-scancode-twisted-snmp",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9b27a1d3cdd1e6a523d7ff23d37f4533693d941f06951011b7789be017b1f9d1"
+  }
+}

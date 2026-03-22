@@ -1,0 +1,32 @@
+{
+  "key": "bzip2-libbzip-2010",
+  "name": "bzip2 License 2010",
+  "short_name": "bzip2 License 2010",
+  "spdx_license_key": "bzip2-1.0.6",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/asimonov-im/bzip2/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dae7e653f72aeafaf52575c48059821527f6de6b77080bd2de289848439f17f3"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "openwall-md5-permissive",
+  "name": "Openwall MD5 Permissive",
+  "short_name": "Openwall MD5 Permissive",
+  "spdx_license_key": "LicenseRef-scancode-openwall-md5-permissive",
+  "category": "Permissive",
+  "homepage_url": "https://openwall.info/wiki/people/solar/software/public-domain-source-code/md5",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "408c3d62a53f73a4c5d4fc8541aef43aee85d5723e9ca08fe59743ff49023a8d"
+  }
+}

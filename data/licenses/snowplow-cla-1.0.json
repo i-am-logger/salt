@@ -1,0 +1,31 @@
+{
+  "key": "snowplow-cla-1.0",
+  "name": "Snowplow Community License Agreement 1.0",
+  "short_name": "Snowplow Community License Agreement 1.0",
+  "spdx_license_key": "LicenseRef-scancode-snowplow-cla-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.snowplow.io/community-license-1.0/",
+  "text_urls": [
+    "https://github.com/snowplow/snowbridge/blob/7cda9fb263232b0e0736dedab2b85132ac682865/LICENCE.md"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "84b758c88006d52819e612373bc075e631b70495d81ef64c8283b2cf0f702e3b"
+  }
+}

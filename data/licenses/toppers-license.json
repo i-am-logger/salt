@@ -1,0 +1,32 @@
+{
+  "key": "toppers-license",
+  "name": "TOPPERS License Agreement",
+  "short_name": "TOPPERS License",
+  "spdx_license_key": "LicenseRef-scancode-toppers-license",
+  "category": "Permissive",
+  "homepage_url": "https://www.toppers.jp/en/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "29d41afd2516ef69295b554cf061d4d910a9725d1091c8da31b1aea174f7aa13"
+  }
+}

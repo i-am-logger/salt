@@ -1,0 +1,26 @@
+{
+  "key": "hp-proliant-essentials",
+  "name": "hp-proliant-essentials EULA",
+  "short_name": "hp-proliant-essentials",
+  "spdx_license_key": "LicenseRef-scancode-hp-proliant-essentials",
+  "category": "Commercial",
+  "homepage_url": "http://www.calculate-linux.org/packages/licenses/hp-proliant-essentials",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cdfcc03554d4ccc33f64edd7fc5e963d1edda11f29430dbc3f7006c8cff18b65"
+  }
+}

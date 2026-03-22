@@ -1,0 +1,32 @@
+{
+  "key": "cygwin-exception-lgpl-3.0-plus",
+  "name": "Cygwin exception to LGPL 3.0 or later",
+  "short_name": "Cygwin exception to LGPL 3.0 or later",
+  "spdx_license_key": "LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://cygwin.com/licensing.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "78f969ac0ab289378a6e590dbb0f91b326c89990caead3042df922f3825c0c3a"
+  }
+}

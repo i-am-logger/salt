@@ -1,0 +1,40 @@
+{
+  "key": "sane-exception-2.0-plus",
+  "name": "SANE exception to GPL 2.0 or later",
+  "short_name": "SANE exception to GPL 2.0 or later",
+  "spdx_license_key": "SANE-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/alexpevzner/sane-airscan/blob/master/LICENSE",
+  "text_urls": [
+    "https://alioth.debian.org/frs/download.php/file/4224/sane-backends-1.0.27.tar.gz"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f10f6b9e06a82cb562a9e60a145a338ff00ffb7268429bda9717cdf497b83d9a"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "angi-1.0",
+  "name": "Acki Nacki Gossip Igniter License 1.0",
+  "short_name": "ANGI 1.0",
+  "spdx_license_key": "LicenseRef-scancode-angi-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/ackinacki/acki-nacki-igniter/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3e2f69778412fe9e929134027cd02bd3376e9795aa89ac32c0e84d3f6cec518a"
+  }
+}

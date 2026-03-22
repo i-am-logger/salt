@@ -1,0 +1,40 @@
+{
+  "key": "snia",
+  "name": "SNIA Public License 1.1",
+  "short_name": "SNIA Public License 1.1",
+  "spdx_license_key": "SNIA",
+  "category": "Copyleft",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/SNIA_Public_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3083496eab35b974f76f1ee28f91b47a5cb43d658b4fb63e8dbff90a09f7d1b1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "bigcode-open-rail-m-v1",
+  "name": "BigCode Open RAIL-M v1 License Agreement",
+  "short_name": "BigCode Open RAIL-M v1 License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-bigcode-open-rail-m-v1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "17847eea434e2779dbe9efd973386e08b40caae118dfe502240e30b8244660c8"
+  }
+}

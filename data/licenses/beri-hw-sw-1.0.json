@@ -1,0 +1,29 @@
+{
+  "key": "beri-hw-sw-1.0",
+  "name": "BERI Hardware-Software License v1.0",
+  "short_name": "BERI Hardware-Software License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-beri-hw-sw-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.beri-open-systems.org/legal/beri-hardware-software-license.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "aa7bd43def6db3cb247edeec1e3f209dd3ebc7576c5e1270ed9810d8b1baacfb"
+  }
+}

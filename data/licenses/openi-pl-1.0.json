@@ -1,0 +1,37 @@
+{
+  "key": "openi-pl-1.0",
+  "name": "OpenI Public License 1.0",
+  "short_name": "OpenI Public License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-openi-pl-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://openi.sourceforge.net/docs/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fcf9ec0b96feaa82f384291708702d148e9914f2b07346f7202c231384cc447c"
+  }
+}

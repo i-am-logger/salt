@@ -1,0 +1,32 @@
+{
+  "key": "microchip-enc28j60-2009",
+  "name": "Microchip ENC28J60 License 2009",
+  "short_name": "Microchip ENC28J60 License 2009",
+  "spdx_license_key": "LicenseRef-scancode-microchip-enc28j60-2009",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/mentatpsi/Microchip/blob/master/Microchip/TCPIP%20Stack/ENC28J60.c#L23",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0695008bb15bfa249c19a4d1a5253c27ac0b26ef3e4fb552e2a6aa8a305df851"
+  }
+}

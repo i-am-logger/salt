@@ -1,0 +1,29 @@
+{
+  "key": "ko-man-page",
+  "name": "Korean Manpage Project License",
+  "short_name": "Korean Manpage Project License",
+  "spdx_license_key": "LicenseRef-scancode-ko-man-page",
+  "category": "Permissive",
+  "homepage_url": "https://git.centos.org/rpms/man-pages-ko/blob/c7/f/SOURCES/Man_Page_Copyright",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "892454c0251ed2a8d81c57a93c498f181660deb255e5db3a02508299ac24e117"
+  }
+}

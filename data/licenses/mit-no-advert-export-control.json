@@ -1,0 +1,29 @@
+{
+  "key": "mit-no-advert-export-control",
+  "name": "MIT no advertising with Export Control",
+  "short_name": "MIT no advertising with Export Control",
+  "spdx_license_key": "HPND-export2-US",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Xerox?rd=Licensing/Xerox",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "deae720ea84db17ddbc7cc3e410b09c6fd2e20cb04def99f2d5647ddee4dbe0c"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "retentioneering-2023",
+  "name": "Maxim Godzi Retentioneering Tools Software Non-Exclusive License 2023",
+  "short_name": "Retentioneering License 2023",
+  "spdx_license_key": "LicenseRef-scancode-retentioneering-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/retentioneering/retentioneering-tools/blob/master/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ba7a5f81488fe74715b9b05ca905f2ae3b45e26ec9f37197b87f12e4e298263f"
+  }
+}

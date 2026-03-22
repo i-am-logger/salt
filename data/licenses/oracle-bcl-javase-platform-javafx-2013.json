@@ -1,0 +1,30 @@
+{
+  "key": "oracle-bcl-javase-platform-javafx-2013",
+  "name": "Oracle BCL for Java SE Platform Products and JavaFX 2013 Restricted",
+  "short_name": "Oracle BCL for Java SE and JavaFX 2013 Restricted",
+  "spdx_license_key": "LicenseRef-scancode-oracle-bcl-java-platform-2013",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.oracle.com/technetwork/java/javase/terms/license/index.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a64ad5bd8aa9694e30fccdc9a9d318734816ea753711cb2b22f932f72bb1c6c8"
+  }
+}

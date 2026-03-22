@@ -1,0 +1,40 @@
+{
+  "key": "qpl-1.0",
+  "name": "Q Public License Version 1.0",
+  "short_name": "QPL 1.0",
+  "spdx_license_key": "QPL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://doc.trolltech.com/4.0/qpl.html",
+  "text_urls": [
+    "http://doc.trolltech.com/4.0/qpl.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a17409a710faef7d0d3dcebfa47eac4072e847ac18f46f0cd1cd27d11cd515cf"
+  }
+}

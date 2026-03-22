@@ -1,0 +1,26 @@
+{
+  "key": "ag-grid-enterprise",
+  "name": "AG Grid Enterprise License",
+  "short_name": "AG Grid Enterprise License",
+  "spdx_license_key": "LicenseRef-scancode-ag-grid-enterprise",
+  "category": "Commercial",
+  "homepage_url": "https://www.ag-grid.com/eula/AG-Grid-Enterprise-License-Latest.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "18cb1659d096d96375b120d77e07b81cb456c9f0d0b019eb3dfb1d7e2818d8d8"
+  }
+}

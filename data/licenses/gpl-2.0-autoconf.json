@@ -1,0 +1,40 @@
+{
+  "key": "gpl-2.0-autoconf",
+  "name": "GPL 2.0 with Autoconf exception",
+  "short_name": "GPL 2.0 with Autoconf exception",
+  "spdx_license_key": "GPL-2.0-with-autoconf-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [
+    "http://ac-archive.sourceforge.net/doc/copyright.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5d781c573aaa5a27fe335b9172a61bfd0d4d1cf9f6494b5b9c2e2a96573667b7"
+  }
+}

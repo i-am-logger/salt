@@ -1,0 +1,29 @@
+{
+  "key": "nist-nvd-api-tou",
+  "name": "NIST NVD API Terms of Use",
+  "short_name": "NIST NVD API TOU",
+  "spdx_license_key": "LicenseRef-scancode-nist-nvd-api-tou",
+  "category": "Permissive",
+  "homepage_url": "https://nvd.nist.gov/developers/request-an-api-key",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b8d1369703c7f30d7576262b39ecfe9879954bee030e6fe3912c1efb44e8cc26"
+  }
+}

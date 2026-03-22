@@ -1,0 +1,27 @@
+{
+  "key": "directus-bsl-1.1",
+  "name": "Directus BSL 1.1",
+  "short_name": "Directus BSL 1.1",
+  "spdx_license_key": "LicenseRef-scancode-directus-bsl-1.1",
+  "category": "Source-available",
+  "homepage_url": "https://directus.io/bsl",
+  "text_urls": [
+    "https://github.com/directus/directus/blob/main/license"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "29fa285a9d9cd57b08cca4649c8755e6ff9e2a07685a726dec2c8f2ad03e2d00"
+  }
+}

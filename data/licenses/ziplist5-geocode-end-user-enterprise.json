@@ -1,0 +1,26 @@
+{
+  "key": "ziplist5-geocode-end-user-enterprise",
+  "name": "ZIPList5 Geocode End-User Enterprise License Agreement",
+  "short_name": "ZIPList5 Geocode End-User Enterprise License",
+  "spdx_license_key": "LicenseRef-scancode-ziplist5-geocode-enterprise",
+  "category": "Commercial",
+  "homepage_url": "https://web.archive.org/web/20160908185536/http://zipinfo.com/products/z5LL/z5llle.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e7e17ab4b97d31f0299af82ebede9309e9ae108717b0d9a650c2eb2204ee6cd7"
+  }
+}

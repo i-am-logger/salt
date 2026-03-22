@@ -1,0 +1,34 @@
+{
+  "key": "imlib2",
+  "name": "Imlib2 License",
+  "short_name": "Imlib2 License",
+  "spdx_license_key": "Imlib2",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING",
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#enna"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f64146e92d569857df590c12a68832b7d3cfef034f47d2ace85458c8d2cbe867"
+  }
+}

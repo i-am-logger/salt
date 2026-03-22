@@ -1,0 +1,33 @@
+{
+  "key": "fair-source-0.9",
+  "name": "Fair Source License v0.9",
+  "short_name": "Fair Source v0.9",
+  "spdx_license_key": "LicenseRef-scancode-fair-source-0.9",
+  "category": "Source-available",
+  "homepage_url": "https://fair.io/",
+  "text_urls": [
+    "https://fair.io/#license",
+    "https://github.com/fairsource/fairsource/blob/master/fair-source-license-v0.9.txt"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f8b46cf22b9b02e9b27ea01751e32a300ae7941da26dbde28738e805760e0fbe"
+  }
+}

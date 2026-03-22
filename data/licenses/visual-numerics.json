@@ -1,0 +1,29 @@
+{
+  "key": "visual-numerics",
+  "name": "Visual Numerics License",
+  "short_name": "Visual Numerics License",
+  "spdx_license_key": "LicenseRef-scancode-visual-numerics",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9062e27a7f27305ac2a2281fc062b04fe57cf84b725f26f0542ebecbded7f5fb"
+  }
+}

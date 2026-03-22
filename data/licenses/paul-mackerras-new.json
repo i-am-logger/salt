@@ -1,0 +1,29 @@
+{
+  "key": "paul-mackerras-new",
+  "name": "Paul Mackerras New License",
+  "short_name": "Paul Mackerras New License",
+  "spdx_license_key": "Mackerras-3-Clause",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "01756c2d6051502ed07d492df951ce2aba06dd806678b954980d6babfe8b2d51"
+  }
+}

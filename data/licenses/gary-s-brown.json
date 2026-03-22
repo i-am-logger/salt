@@ -1,0 +1,29 @@
+{
+  "key": "gary-s-brown",
+  "name": "Gary S. Brown License",
+  "short_name": "Gary S. Brown License",
+  "spdx_license_key": "LicenseRef-scancode-gary-s-brown",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c5b40150149d916c45f54d3966492095b46700b87538e23c745aacb9f05a804c"
+  }
+}

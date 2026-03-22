@@ -1,0 +1,25 @@
+{
+  "key": "esri",
+  "name": "Esri License",
+  "short_name": "Esri License",
+  "spdx_license_key": "LicenseRef-scancode-esri",
+  "category": "Commercial",
+  "homepage_url": "http://www.esri.com/legal/pdfs/mla_e204_e300/english",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1ad6e92bc98e58c10deff0f00f1695dd1647e7903b600beef0817fd9b796586e"
+  }
+}

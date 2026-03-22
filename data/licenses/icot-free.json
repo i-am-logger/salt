@@ -1,0 +1,29 @@
+{
+  "key": "icot-free",
+  "name": "ICOT Free Software",
+  "short_name": "ICOT Free Software",
+  "spdx_license_key": "LicenseRef-scancode-icot-free",
+  "category": "Permissive",
+  "homepage_url": "https://www.ueda.info.waseda.ac.jp/~ajiro/ftp/use-of-software-E",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4211c0e4604d19c67cf6d262fb0f7b5035ac101908a976d26a800bd851c1397b"
+  }
+}

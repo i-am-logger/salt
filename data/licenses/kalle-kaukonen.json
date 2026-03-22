@@ -1,0 +1,29 @@
+{
+  "key": "kalle-kaukonen",
+  "name": "Kalle Kaukonen License",
+  "short_name": "Kalle Kaukonen License",
+  "spdx_license_key": "LicenseRef-scancode-kalle-kaukonen",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ada56c65d148950487528d7b7e0eb67607855d1a4fb1586e97b267391948c4dd"
+  }
+}

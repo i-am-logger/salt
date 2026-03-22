@@ -1,0 +1,29 @@
+{
+  "key": "codesourcery-2004",
+  "name": "CodeSourcery 2004",
+  "short_name": "CodeSourcery 2004",
+  "spdx_license_key": "HPND-merchantability-variant",
+  "category": "Permissive",
+  "homepage_url": "https://git.linaro.org/toolchain/newlib.git/tree/newlib/libc/misc/init.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5c74587319f4de1f9a2b23dfa6a0876b23ce93cf3e69e9c2d232c081a74de606"
+  }
+}

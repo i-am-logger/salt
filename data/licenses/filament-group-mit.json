@@ -1,0 +1,31 @@
+{
+  "key": "filament-group-mit",
+  "name": "Filament Group MIT License",
+  "short_name": "Filament Group MIT License",
+  "spdx_license_key": "LicenseRef-scancode-filament-group-mit",
+  "category": "Permissive",
+  "homepage_url": "http://filamentgroup.com/examples/mit-license.txt",
+  "text_urls": [
+    "http://filamentgroup.com/examples/mit-license.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "194fb1c092038417e61d3223528967f0b14f99addd48957899a6202e695702c3"
+  }
+}

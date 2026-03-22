@@ -1,0 +1,34 @@
+{
+  "key": "enhydra-1.1",
+  "name": "Enhydra Public License 1.1",
+  "short_name": "Enhydra 1.1",
+  "spdx_license_key": "LicenseRef-scancode-enhydra-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://ksoap.objectweb.org/software/license/index.html",
+  "text_urls": [
+    "http://ksoap.objectweb.org/software/license/index.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8dfdd3ef0d0466823f9241183f145959605d8376c053861481b3097dbc0efa0a"
+  }
+}

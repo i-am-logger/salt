@@ -1,0 +1,45 @@
+{
+  "key": "osl-1.1",
+  "name": "Open Software License 1.1",
+  "short_name": "OSL 1.1",
+  "spdx_license_key": "OSL-1.1",
+  "category": "Copyleft",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:OSL1.1?rd=Licensing/OSL1.1",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "017be03a5ad79ca9261c628d137545d6954acd242ebd1bb7637794ab2b3d6844"
+  }
+}

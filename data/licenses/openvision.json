@@ -1,0 +1,29 @@
+{
+  "key": "openvision",
+  "name": "OpenVision License",
+  "short_name": "OpenVision License",
+  "spdx_license_key": "OpenVision",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "684a7f913da88c592a84dd79121a31600516ab97e245931c0d3f3955da54c64d"
+  }
+}

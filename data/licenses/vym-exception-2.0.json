@@ -1,0 +1,40 @@
+{
+  "key": "vym-exception-2.0",
+  "name": "VYM Exception to GPL 2.0",
+  "short_name": "VYM Exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-vym-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/insilmaril/vym/blob/develop/LICENSE.txt",
+  "text_urls": [
+    "https://raw.githubusercontent.com/insilmaril/vym/refs/heads/develop/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f4906a234726b5cc9cb573c4f4dd57336698bc66e41fd9d6b6ace9ea2fd1e895"
+  }
+}

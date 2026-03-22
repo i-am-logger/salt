@@ -1,0 +1,32 @@
+{
+  "key": "wadalab",
+  "name": "Wadalab Font License",
+  "short_name": "Wadalab Font License",
+  "spdx_license_key": "LicenseRef-scancode-wadalab",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Wadalab?rd=Licensing/Wadalab",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "89b7a59f110321b9a64e2b6577f42b93957d0360197ca22a9132f659a3a83367"
+  }
+}

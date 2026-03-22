@@ -1,0 +1,29 @@
+{
+  "key": "jgraph",
+  "name": "JGraph License",
+  "short_name": "JGraph License",
+  "spdx_license_key": "LicenseRef-scancode-jgraph",
+  "category": "Permissive",
+  "homepage_url": "http://www.jgraph.com/jgraphdownload.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "67ae4a6b638954613c08c346a18acf78ad0f358703e23f29315b3f029e02f6b9"
+  }
+}

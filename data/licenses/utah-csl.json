@@ -1,0 +1,34 @@
+{
+  "key": "utah-csl",
+  "name": "University of Utah Computer Systems Laboratory License",
+  "short_name": "Utah CSL License",
+  "spdx_license_key": "LicenseRef-scancode-utah-csl",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=COPYING.LIBGLOSS;h=ee3ef9f496f78d6fb832a1ccb84aa3a0b7048812;hb=HEAD#l106"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6c4ff264cb82334c06b5259b7026fd9a912051b9961cbdb86365260cc9edb198"
+  }
+}

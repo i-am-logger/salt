@@ -1,0 +1,25 @@
+{
+  "key": "mediatek-firmware",
+  "name": "MediaTek Firmware License",
+  "short_name": "MediaTek Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-mediatek-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.mediatek",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "95cc4b58967a65245e0b1750781cfa16db85c1e9205bd5472d60e62ea1bb9aea"
+  }
+}

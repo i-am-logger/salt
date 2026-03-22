@@ -1,0 +1,29 @@
+{
+  "key": "michael-barr",
+  "name": "Michael Barr License",
+  "short_name": "Michael Barr License",
+  "spdx_license_key": "LicenseRef-scancode-michael-barr",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ece2b7c8fd3fd90f113be6e920836b1ef5c13068a6bfe5c701db487acd5507b5"
+  }
+}

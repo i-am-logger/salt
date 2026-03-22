@@ -1,0 +1,29 @@
+{
+  "key": "java-app-stub",
+  "name": "Java Application Stub Binary Module License",
+  "short_name": "Java App Stub License",
+  "spdx_license_key": "LicenseRef-scancode-java-app-stub",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6da151e38f09753cb16db28e9032862bca2e52772f2f01486c8b54a2cf4cb9e1"
+  }
+}

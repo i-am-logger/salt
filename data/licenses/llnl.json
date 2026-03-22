@@ -1,0 +1,29 @@
+{
+  "key": "llnl",
+  "name": "LLNL",
+  "short_name": "LLNL",
+  "spdx_license_key": "LicenseRef-scancode-llnl",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3d938a9e65293910fbc9747a49ef5e61e0a41dbbf835640e6c83aa7c10681798"
+  }
+}

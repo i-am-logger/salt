@@ -1,0 +1,29 @@
+{
+  "key": "arm-llvm-sga",
+  "name": "ARM LLVM Software Grant License Agreement",
+  "short_name": "ARM LLVM Grant",
+  "spdx_license_key": "LicenseRef-scancode-arm-llvm-sga",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6c2da370e01529b68ed9a2be2133f9a34d453d01796c40450fa120def8a77386"
+  }
+}

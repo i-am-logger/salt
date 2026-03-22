@@ -1,0 +1,35 @@
+{
+  "key": "sqlitestudio-openssl-exception",
+  "name": "sqlitestudio OpenSSL exception",
+  "short_name": "sqlitestudio OpenSSL exception",
+  "spdx_license_key": "sqlitestudio-OpenSSL-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d4fd2fb214da09e6fe98dee2b3b4dbaf01910b6be5b56fcb977e0aaa19f7ddce"
+  }
+}

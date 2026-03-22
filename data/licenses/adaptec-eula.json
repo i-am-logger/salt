@@ -1,0 +1,25 @@
+{
+  "key": "adaptec-eula",
+  "name": "Adaptec EULA",
+  "short_name": "Adaptec EULA",
+  "spdx_license_key": "LicenseRef-scancode-adaptec-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.adaptec.com/en-us/support/_eula/license.php",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a290f5de3f7c636d1cfa38b4c378899d5c31028f6a656505f09b2779811a9adc"
+  }
+}

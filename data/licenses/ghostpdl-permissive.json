@@ -1,0 +1,29 @@
+{
+  "key": "ghostpdl-permissive",
+  "name": "Ghostpdl Permissive",
+  "short_name": "Ghostpdl Permissive",
+  "spdx_license_key": "LicenseRef-scancode-ghostpdl-permissive",
+  "category": "Permissive",
+  "homepage_url": "http://git.ghostscript.com/?p=ghostpdl.git;a=blob;f=devices/gdev4693.c;h=7e7307776d6bc0e18b89fc0e8f972513bb257f46;hb=HEAD",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9dc338a796da8d8232e362f76d49e540c690ed8e5cb9553a196028d6a7d7ea76"
+  }
+}

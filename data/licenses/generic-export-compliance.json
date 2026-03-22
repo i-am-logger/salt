@@ -1,0 +1,17 @@
+{
+  "key": "generic-export-compliance",
+  "name": "Generic Export Compliance Notice",
+  "short_name": "Generic Export Compliance Notice",
+  "spdx_license_key": "LicenseRef-scancode-generic-export-compliance",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eade057863358619b37e58f7f7cd5eeba1db477cb23131100f0a565755e32c6d"
+  }
+}

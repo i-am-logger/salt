@@ -1,0 +1,42 @@
+{
+  "key": "tpl-2.0",
+  "name": "Terracotta Public License 2.0",
+  "short_name": "TPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-tpl-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://raw.githubusercontent.com/Terracotta-OSS/terracotta-core/master/LICENSE",
+  "text_urls": [
+    "https://github.com/Terracotta-OSS/terracotta-core/blob/master/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9593d23db4235a12b5cdd84c67c95abf07a0267c7deff1f50024cf81c8d5ed4a"
+  }
+}

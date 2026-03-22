@@ -1,0 +1,40 @@
+{
+  "key": "pretalx-exception-3.0",
+  "name": "pretalx exception to AGPL-3.0",
+  "short_name": "pretalx exception to AGPL-3.0",
+  "spdx_license_key": "LicenseRef-scancode-pretalx-exception-3.0",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/pretalx/pretalx/blob/main/LICENSES/LicenseRef-Pretalx-AGPL-3.0-Terms.txt",
+  "text_urls": [
+    "https://raw.githubusercontent.com/pretalx/pretalx/refs/heads/main/LICENSES/LicenseRef-Pretalx-AGPL-3.0-Terms.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a6d1b4fc1e4eefadd4ea1f4463f51e07c5d64aa1acb8db5a491b164f466085eb"
+  }
+}

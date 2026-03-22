@@ -1,0 +1,31 @@
+{
+  "key": "paul-hsieh-derivative",
+  "name": "Paul Hsieh Derivative License",
+  "short_name": "Paul Hsieh Derivative License",
+  "spdx_license_key": "LicenseRef-scancode-paul-hsieh-derivative",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.azillionmonkeys.com/qed/weblicense.html",
+  "text_urls": [
+    "http://www.azillionmonkeys.com/qed/weblicense.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c93caa947e73e16f23b97367a54bf38836f39f470d67b199b3d7cde1a53981cb"
+  }
+}

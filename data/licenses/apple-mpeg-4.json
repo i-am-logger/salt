@@ -1,0 +1,29 @@
+{
+  "key": "apple-mpeg-4",
+  "name": "Apple MPEG-4 License",
+  "short_name": "Apple MPEG-4 License",
+  "spdx_license_key": "LicenseRef-scancode-apple-mpeg-4",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4c9d107d0625a3cc49ba892e2779a141a32c72432998976e2e2f6f84a9ddf89f"
+  }
+}

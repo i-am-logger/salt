@@ -1,0 +1,27 @@
+{
+  "key": "unlicense",
+  "name": "Unlicense",
+  "short_name": "Unlicense",
+  "spdx_license_key": "Unlicense",
+  "category": "Public Domain",
+  "homepage_url": "http://unlicense.org/",
+  "text_urls": [
+    "https://unlicense.org/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e69ea7a8c80b7bfdcb87646fe865d2a2e1c9af3a8209c46ea56bbdb00df6f5b9"
+  }
+}

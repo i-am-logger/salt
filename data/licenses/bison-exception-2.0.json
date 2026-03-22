@@ -1,0 +1,38 @@
+{
+  "key": "bison-exception-2.0",
+  "name": "Bison exception to GPL 2.0 or later",
+  "short_name": "Bison exception to GPL 2.0 or later",
+  "spdx_license_key": "Bison-exception-1.24",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "581d0a94bd5135cd9354d68b89169074df2064497469b1ae5958c78a85a008df"
+  }
+}

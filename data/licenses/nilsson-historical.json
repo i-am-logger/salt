@@ -1,0 +1,29 @@
+{
+  "key": "nilsson-historical",
+  "name": "Nilsson Historical License",
+  "short_name": "Nilsson Historical License",
+  "spdx_license_key": "LicenseRef-scancode-nilsson-historical",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "688d969c3a8af6eb9b044f9de37728d2bcfaaf5131e4ace917baf691305dee60"
+  }
+}

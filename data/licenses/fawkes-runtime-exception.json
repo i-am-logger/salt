@@ -1,0 +1,39 @@
+{
+  "key": "fawkes-runtime-exception",
+  "name": "Fawkes Runtime Exception to GPL 2.0 or later",
+  "short_name": "Fawkes Runtime Exception to GPL 2.0 or later",
+  "spdx_license_key": "Fawkes-Runtime-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.fawkesrobotics.org/about/license/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "33ff0f65d640f9879e269732106db29b5fa96d0db4579cde72d50dead7fd936e"
+  }
+}

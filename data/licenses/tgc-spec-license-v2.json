@@ -1,0 +1,31 @@
+{
+  "key": "tgc-spec-license-v2",
+  "name": "Trusted Computing Group Spec License v2",
+  "short_name": "TCG Spec License v2",
+  "spdx_license_key": "LicenseRef-scancode-tcg-spec-license-v2",
+  "category": "Permissive",
+  "homepage_url": "https://trustedcomputinggroup.org/resources/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "431b2028b169ebc243e649744695fa396ab55e1779c2341b6f295866aafa7854"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "exaone-ai-model-1.1-nc",
+  "name": "EXAONE AI Model License Agreement 1.1 - NC",
+  "short_name": "EXAONE AI Model 1.1 - NC",
+  "spdx_license_key": "LicenseRef-scancode-exaone-ai-model-1.1-nc",
+  "category": "Non-Commercial",
+  "homepage_url": "https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "54e6cc79f9e36b9c1991fa5dfaf8b7d060183b171aeda2faa0401d0fbff5a613"
+  }
+}

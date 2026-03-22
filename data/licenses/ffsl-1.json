@@ -1,0 +1,38 @@
+{
+  "key": "ffsl-1",
+  "name": "Floodgap Free Software License v1",
+  "short_name": "FFSL v1",
+  "spdx_license_key": "LicenseRef-scancode-ffsl-1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.floodgap.com/software/ffsl/",
+  "text_urls": [
+    "http://www.floodgap.com/software/ffsl/license.txt"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2bd8a00aef92e72b4b6f88b9fcf604298cf38275899cc4e5bae4537750f6ddac"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "generic-xts",
+  "name": "Generic XTS License",
+  "short_name": "Generic XTS License",
+  "spdx_license_key": "generic-xts",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fdad798497f17007e8790c0b1cf880293d0db2ebac55964461c5661397a75b0b"
+  }
+}

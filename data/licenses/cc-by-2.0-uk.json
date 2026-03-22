@@ -1,0 +1,31 @@
+{
+  "key": "cc-by-2.0-uk",
+  "name": "Creative Commons Attribution License 2.0 UK",
+  "short_name": "CC-BY-2.0-UK",
+  "spdx_license_key": "LicenseRef-scancode-cc-by-2.0-uk",
+  "category": "Permissive",
+  "homepage_url": "http://creativecommons.org/licenses/by/2.0/uk/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by/2.0/uk/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5966d38ff1ed4c551c89526bbe76a14d3b3265da7087b6ba64da1430cfbf9741"
+  }
+}

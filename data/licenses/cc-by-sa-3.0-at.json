@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-sa-3.0-at",
+  "name": "Creative Commons Attribution Share Alike License 3.0 Austria",
+  "short_name": "CC-BY-SA-3.0-AT",
+  "spdx_license_key": "CC-BY-SA-3.0-AT",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://creativecommons.org/licenses/by-sa/3.0/at/legalcode",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b5a59bf23b38356ce62480e9b55e49b7e810e0988b9ab271d6deff95772a1699"
+  }
+}

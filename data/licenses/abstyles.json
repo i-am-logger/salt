@@ -1,0 +1,31 @@
+{
+  "key": "abstyles",
+  "name": "Abstyles License",
+  "short_name": "Abstyles License",
+  "spdx_license_key": "Abstyles",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Abstyles",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b157d67557a796c5975ddbfbca08571028414412b51c571b2c41758884d77b7a"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "emx-library",
+  "name": "EMX Library License",
+  "short_name": "EMX Library License",
+  "spdx_license_key": "LicenseRef-scancode-emx-library",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5fc655e699a577b74f75765e196701d245a41df2a987e4613d1a043ae28e03f2"
+  }
+}

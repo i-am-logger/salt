@@ -1,0 +1,38 @@
+{
+  "key": "blender-2010",
+  "name": "Blender License 2010",
+  "short_name": "Blender License 2010",
+  "spdx_license_key": "LicenseRef-scancode-blender-2010",
+  "category": "Copyleft",
+  "homepage_url": "https://projects.blender.org/blender/blender/src/branch/main/release/text/copyright.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ca89e9950fb180d65b0c61d0c79be54521c79611784073ae85fdb15456150673"
+  }
+}

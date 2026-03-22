@@ -1,0 +1,25 @@
+{
+  "key": "vs10x-code-map",
+  "name": "VS10x Code Map",
+  "short_name": "VS10x Code Map",
+  "spdx_license_key": "LicenseRef-scancode-vs10x-code-map",
+  "category": "Proprietary Free",
+  "homepage_url": "http://visualstudiogallery.msdn.microsoft.com/site/1c54d1bd-d898-4705-903f-fa4a319b50f2/eula?licenseType=None",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fa0441589ac215711fe3f63b4ee26c872edcb7ef0d30f883db219890b0ea5e38"
+  }
+}

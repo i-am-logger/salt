@@ -1,0 +1,32 @@
+{
+  "key": "canonical-ha-cla-any-i-v1.2",
+  "name": "Canonical Individual Contributor License Agreement v1.2",
+  "short_name": "Canonical-HA-CLA-ANY-I_v1.2",
+  "spdx_license_key": "LicenseRef-scancode-canonical-ha-cla-any-i-v1.2",
+  "category": "CLA",
+  "homepage_url": "https://ubuntu.com/legal/contributors",
+  "text_urls": [
+    "https://assets.ubuntu.com/v1/ff2478d1-Canonical-HA-CLA-ANY-I_v1.2.pdf?_ga=2.101040577.1182458054.1702670858-529171056.1702670858"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cb91ebbd99c650e41361d0ca82251c381cb182c4120996d7397768e2ee2a9235"
+  }
+}

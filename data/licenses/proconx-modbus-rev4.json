@@ -1,0 +1,25 @@
+{
+  "key": "proconx-modbus-rev4",
+  "name": "proconX Modbus Driver License rev4",
+  "short_name": "proconX Modbus Driver License rev4",
+  "spdx_license_key": "LicenseRef-scancode-proconx-modbus-rev4",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.modbusdriver.com/info/LICENSE-FREE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c27108079f660a32d2f8d68dea09d0acf7f2bee51d7b756f74ac3e1ebdd78475"
+  }
+}

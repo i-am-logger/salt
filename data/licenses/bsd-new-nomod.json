@@ -1,0 +1,30 @@
+{
+  "key": "bsd-new-nomod",
+  "name": "BSD-3-Clause without notice modification",
+  "short_name": "BSD-3-Clause without notice modification",
+  "spdx_license_key": "LicenseRef-scancode-bsd-new-nomod",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b9414441a65f4742f92ede87af2d3e814f26fa5f080cfcd2e346d9ac323d6eec"
+  }
+}

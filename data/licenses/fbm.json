@@ -1,0 +1,29 @@
+{
+  "key": "fbm",
+  "name": "Fuzzy Bitmap License",
+  "short_name": "Fuzzy Bitmap License",
+  "spdx_license_key": "FBM",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6c7f1e58041531597d105af9b86477dabde525ae084b056b348a3fc02a566eeb"
+  }
+}

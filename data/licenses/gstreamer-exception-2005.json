@@ -1,0 +1,29 @@
+{
+  "key": "gstreamer-exception-2005",
+  "name": "GStreamer Exception (2005)",
+  "short_name": "GStreamer Exception (2005)",
+  "spdx_license_key": "GStreamer-exception-2005",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4f918416ab58bbfedfc4b1046ad0a108beeb19cca32c1082cf643e5da3996cb7"
+  }
+}

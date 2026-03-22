@@ -1,0 +1,32 @@
+{
+  "key": "gcc-exception-2.0-note",
+  "name": "GCC Runtime Library exception 2.0 - note variant",
+  "short_name": "GCC Runtime Library exception 2.0 - note variant",
+  "spdx_license_key": "GCC-exception-2.0-note",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "22328f5271b5a4c71839d53db7bdf5c08fecab395d3336f2d629de9ed866e9ce"
+  }
+}

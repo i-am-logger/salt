@@ -1,0 +1,30 @@
+{
+  "key": "w3c-software-20021231",
+  "name": "W3C Software Notice and License (2002-12-31)",
+  "short_name": "W3C-SOFTWARE-20021231",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://www.w3.org/Consortium/Legal/2002/copyright-software-20021231",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a37287763eaf954da82befbe9d0388ede00f27de55aadecf8ae443095469d814"
+  }
+}

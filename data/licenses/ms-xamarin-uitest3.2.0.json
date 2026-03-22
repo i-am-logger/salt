@@ -1,0 +1,29 @@
+{
+  "key": "ms-xamarin-uitest3.2.0",
+  "name": "Microsoft Xamarin.UITest 3.2.0",
+  "short_name": "MS Xamarin.UITest 3.2.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-xamarin-uitest3.2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Xamarin.UITest/3.2.0/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "64c890cfde06939b53b15054b77d0f46f7f43adf82fa8c5b2aefc95544f5fc68"
+  }
+}

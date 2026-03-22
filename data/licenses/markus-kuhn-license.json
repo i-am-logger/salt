@@ -1,0 +1,26 @@
+{
+  "key": "markus-kuhn-license",
+  "name": "Markus Kuhn License",
+  "short_name": "Markus Kuhn License",
+  "spdx_license_key": "HPND-Markus-Kuhn",
+  "category": "Permissive",
+  "homepage_url": "https://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c",
+  "text_urls": [
+    "https://www.cl.cam.ac.uk/~mgk25/ucs/langinfo.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "60a42ac43557d7c2cd84017e887b662404f095429ccab8b24fa9be0e63725eef"
+  }
+}

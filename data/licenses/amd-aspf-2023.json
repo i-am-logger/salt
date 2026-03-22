@@ -1,0 +1,29 @@
+{
+  "key": "amd-aspf-2023",
+  "name": "AMD Secure Encrypted Virtualization (SEV) Firmware License",
+  "short_name": "AMD-ASPF-2023",
+  "spdx_license_key": "LicenseRef-scancode-amd-aspf-2023",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/amd/AMD-ASPFW/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0545318d61915ea145571182d9bfe04ca30c3a42f081001c24990b0fb3947a4"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "rrdtool-floss-exception-2.0",
+  "name": "RRDtool FLOSS Exception to GPL 2.0",
+  "short_name": "RRDtool FLOSS Exception to GPL 2.0",
+  "spdx_license_key": "RRDtool-FLOSS-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://raw.github.com/oetiker/rrdtool-1.x/master/COPYRIGHT",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "94ee747cc41d0d1c3d0542206146d36b623206db48dbaa362498fd7de710088e"
+  }
+}

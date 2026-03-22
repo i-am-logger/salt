@@ -1,0 +1,30 @@
+{
+  "key": "fancyzoom",
+  "name": "FancyZoom License",
+  "short_name": "FancyZoom License",
+  "spdx_license_key": "LicenseRef-scancode-fancyzoom",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3d21988df78a96e027ce1da119c8b3f1be495bacb11f03830be19ba32b99e466"
+  }
+}

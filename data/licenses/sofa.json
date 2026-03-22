@@ -1,0 +1,33 @@
+{
+  "key": "sofa",
+  "name": "SOFA Software License",
+  "short_name": "SOFA Software License",
+  "spdx_license_key": "SOFA",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8cb33b5eae6e5a64ec6a98268f675dfcc57cb99961fef69cb3924f6a73000624"
+  }
+}

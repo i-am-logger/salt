@@ -1,0 +1,31 @@
+{
+  "key": "rh-eula-apache2",
+  "name": "Red Hat Apache-Based End User License Agreement",
+  "short_name": "Red Hat Apache-Based EULA",
+  "spdx_license_key": "LicenseRef-scancode-rh-eula-apache2",
+  "category": "Permissive",
+  "homepage_url": "https://www.redhat.com/en/about/eulas",
+  "text_urls": [
+    "https://www.redhat.com/licenses/Red_Hat_Apache-Based_EULA_20191118.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "858a28ae5b60b4e82e80e366c2938543e4ce2f6c4907afb3092e8225fc9341d4"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "drakvuf-exception-2.0",
+  "name": "DRAKVUF Exception to GPL 2.0",
+  "short_name": "DRAKVUF Exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-drakvuf-exception-2.0",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/tklengyel/drakvuf/blob/main/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "869a722b1fd7338b8565a9e0af3ef6100da26fcc80d4b96b9a43a0ce1815cee9"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "key": "stable-diffusion-2022-08-22",
+  "name": "CreativeML Open RAIL-M 2022-08-22",
+  "short_name": "CreativeML Open RAIL-M 2022-08-22",
+  "spdx_license_key": "LicenseRef-scancode-stable-diffusion-2022-08-22",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/CompVis/stable-diffusion/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4ca837008179097e9d2291ea91e3936bd716aae1484185d16c0023dab2d60639"
+  }
+}

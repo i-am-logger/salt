@@ -1,0 +1,29 @@
+{
+  "key": "loop",
+  "name": "Common Lisp LOOP License",
+  "short_name": "Common Lisp LOOP License",
+  "spdx_license_key": "LOOP",
+  "category": "Permissive",
+  "homepage_url": "https://gitlab.com/embeddable-common-lisp/ecl/-/blob/develop/src/lsp/loop.lsp",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fc95f71cda7a0de774e39b1c525bed99f935efcce328ea71a3e6f6f99e8aa2d6"
+  }
+}

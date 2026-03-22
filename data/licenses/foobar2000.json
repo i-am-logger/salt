@@ -1,0 +1,29 @@
+{
+  "key": "foobar2000",
+  "name": "foobar2000 License",
+  "short_name": "foobar2000 License",
+  "spdx_license_key": "LicenseRef-scancode-foobar2000",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.foobar2000.org/license",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3f2b39013cf16f97221b885806d8e2ae2e27a87f17a8ff877dd4137dfbe27365"
+  }
+}

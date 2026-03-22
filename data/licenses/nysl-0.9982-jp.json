@@ -1,0 +1,31 @@
+{
+  "key": "nysl-0.9982-jp",
+  "name": "NYSL 0.9982 Japanese",
+  "short_name": "NYSL 0.9982 JP",
+  "spdx_license_key": "LicenseRef-scancode-nysl-0.9982-jp",
+  "category": "Permissive",
+  "homepage_url": "http://www.kmonos.net/nysl/index.en.html",
+  "text_urls": [
+    "https://raw.githubusercontent.com/uasi/license-templates/0f48d7532fb4cc9c26fc6093db680e0601bf5738/LICENSE.NYSL.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0620957497e3985747c622147ee4d5353a384d61f5c5a94fbe2e57c66c1c82f"
+  }
+}

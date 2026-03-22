@@ -1,0 +1,29 @@
+{
+  "key": "ms-refl",
+  "name": "Microsoft Reference License",
+  "short_name": "MS Reference License",
+  "spdx_license_key": "",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/resources/sharedsource/licensingbasics/referencelicense.mspx",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "69bca38889ea49d05c81d4c65c8c96b68af3e23432bb9885a6224276d99d8636"
+  }
+}

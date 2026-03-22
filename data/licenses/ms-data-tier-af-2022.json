@@ -1,0 +1,29 @@
+{
+  "key": "ms-data-tier-af-2022",
+  "name": "Microsoft Data-Tier Application Framework License Terms",
+  "short_name": "MS Data-Tier Application Framework License",
+  "spdx_license_key": "LicenseRef-scancode-ms-data-tier-af-2022",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.microsoft.com/en-us/Legal/sql/data-tier-application-framework-license-terms",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "860c40f6552683b69391603f3f39e0549d6ab1a2e60d1a47a3692445d46892c3"
+  }
+}

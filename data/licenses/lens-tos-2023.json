@@ -1,0 +1,25 @@
+{
+  "key": "lens-tos-2023",
+  "name": "Lens Terms of Service Agreement 2023",
+  "short_name": "Lens TOS 2023",
+  "spdx_license_key": "LicenseRef-scancode-lens-tos-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://k8slens.dev/legal/tos",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d4ccdc30f2daada55b4521b5754068c7d8df465d3949012113f37733b225bdcb"
+  }
+}

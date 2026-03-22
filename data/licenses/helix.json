@@ -1,0 +1,32 @@
+{
+  "key": "helix",
+  "name": "Helix DNA Technology Binary Research Use License",
+  "short_name": "Helix DNA License",
+  "spdx_license_key": "LicenseRef-scancode-helix",
+  "category": "Non-Commercial",
+  "homepage_url": "https://helixcommunity.org/beula/",
+  "text_urls": [
+    "https://helixcommunity.org/beula/"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e57be502e2fe2302645c687309a876a46c0467261b559326a18cb9dd0979f9f3"
+  }
+}

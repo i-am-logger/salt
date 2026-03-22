@@ -1,0 +1,29 @@
+{
+  "key": "ms-dxsdk-d3dx-9.29.952.3",
+  "name": "Microsoft DXSDK.D3DX 9.29.952.3",
+  "short_name": "MS DXSDK.D3DX 9.29.952.3",
+  "spdx_license_key": "LicenseRef-scancode-ms-dxsdk-d3dx-9.29.952.3",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Microsoft.DXSDK.D3DX/9.29.952.3/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e43a82560d6e61e096fd1a86bcbe605be26becea3aec9e3c109d692a90ac1a48"
+  }
+}

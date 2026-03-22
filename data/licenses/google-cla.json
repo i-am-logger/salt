@@ -1,0 +1,17 @@
+{
+  "key": "google-cla",
+  "name": "Google Individual Contributor License Agreement",
+  "short_name": "Google CLA",
+  "spdx_license_key": "LicenseRef-scancode-google-cla",
+  "category": "CLA",
+  "homepage_url": "https://cla.developers.google.com/about/google-individual",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "284b3514c926a3a1f84c33da3549f48b92ad8f70e73e19142eaf83a67743061f"
+  }
+}

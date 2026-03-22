@@ -1,0 +1,29 @@
+{
+  "key": "geant4-sl-1.0",
+  "name": "Geant4 Software License v1.0",
+  "short_name": "Geant4 Software License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-geant4-sl-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://geant4.web.cern.ch/download/license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c13e3647252d3ad509bccd780559e32cb69b1187f96e3e75f3353a895b3a0e6a"
+  }
+}

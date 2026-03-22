@@ -1,0 +1,24 @@
+{
+  "key": "google-patent-license-golang",
+  "name": "Google Patent License for Go",
+  "short_name": "Google Patent License for Go",
+  "spdx_license_key": "LicenseRef-scancode-google-patent-license-golang",
+  "category": "Patent License",
+  "homepage_url": "https://golang.org/PATENTS",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e3ccdf9cb9c7476b91f571fe4bd1f198d1c53dd0f64d253bdb61d247cfa06396"
+  }
+}

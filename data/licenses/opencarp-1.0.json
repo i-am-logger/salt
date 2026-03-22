@@ -1,0 +1,36 @@
+{
+  "key": "opencarp-1.0",
+  "name": "openCARP v1.0",
+  "short_name": "openCARP v1.0",
+  "spdx_license_key": "LicenseRef-scancode-opencarp-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://opencarp.org/download/license#academic-public-license-opencarp-v1-0",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ebed1b0295753a86b3e54d85dc825cfc107eb14c7a4534bcfc1b2cf8fb9b4f7a"
+  }
+}

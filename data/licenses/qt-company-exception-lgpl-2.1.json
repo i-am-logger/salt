@@ -1,0 +1,32 @@
+{
+  "key": "qt-company-exception-lgpl-2.1",
+  "name": "Qt Company Exception to LGPL 2.1",
+  "short_name": "Qt Company Exception to LGPL 2.1",
+  "spdx_license_key": "Digia-Qt-LGPL-exception-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1eaaedc2e363a84cf456e9a602ce6c32765bc8a9d6c306e4873ed194199c3b35"
+  }
+}

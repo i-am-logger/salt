@@ -1,0 +1,25 @@
+{
+  "key": "oracle-bcl-jsse-1.0.3",
+  "name": "Oracle BCL for JSSE 1.0.3 for CDC 1.0.2",
+  "short_name": "Oracle BCL for JSSE 1.0.3 for CDC 1.0.2",
+  "spdx_license_key": "LicenseRef-scancode-oracle-bcl-jsse-1.0.3",
+  "category": "Proprietary Free",
+  "homepage_url": "http://download.oracle.com/otn-pub/java/licenses/OTN_JSSE_Legacy_Binary-Code-License_9Mar2012.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "edbf73d0aed09958d4e648ad0c8bbadb2e7dcb867616ce77b8fff437d85eba33"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "apple-mfi-license",
+  "name": "Apple MFi License",
+  "short_name": "Apple MFi License",
+  "spdx_license_key": "LicenseRef-scancode-apple-mfi-license",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9fb8161179c74fa08f493b463be8ebef849981a366704076805844a601c9d10c"
+  }
+}

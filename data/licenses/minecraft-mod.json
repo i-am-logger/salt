@@ -1,0 +1,25 @@
+{
+  "key": "minecraft-mod",
+  "name": "Minecraft Mod License",
+  "short_name": "Minecraft Mod License",
+  "spdx_license_key": "MMPL-1.0.1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://bdew.net/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e3c620ddb3fbbb25fc921430837fb609e2fefda42b31d1ce211a8d6f12d07075"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "opengroup-pl",
+  "name": "Open Group Public License",
+  "short_name": "Open Group Public License",
+  "spdx_license_key": "LicenseRef-scancode-opengroup-pl",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.opengroup.org/openmotif/license/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8204670661c5fbd45639fc3dd4f4af818f7d3bea40f89ad2795f134a0ea57f68"
+  }
+}

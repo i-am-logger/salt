@@ -1,0 +1,32 @@
+{
+  "key": "fastbuild-2012-2020",
+  "name": "FASTBuild License 2012-2020",
+  "short_name": "FASTBuild License 2012-2020",
+  "spdx_license_key": "LicenseRef-scancode-fastbuild-2012-2020",
+  "category": "Permissive",
+  "homepage_url": "https://www.fastbuild.org/docs/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fd1f3c941fd45b1d69a513aebd08bf6b69a25208ebcc424e29da22db2e76d3a2"
+  }
+}

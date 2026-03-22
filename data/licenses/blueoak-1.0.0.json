@@ -1,0 +1,30 @@
+{
+  "key": "blueoak-1.0.0",
+  "name": "Blue Oak Model License 1.0.0",
+  "short_name": "Blue Oak Model License 1.0.0",
+  "spdx_license_key": "BlueOak-1.0.0",
+  "category": "Permissive",
+  "homepage_url": "https://blueoakcouncil.org/license/1.0.0",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6fd9a044b87620ab18b09ad27a8dee329a62f7f63f19c60f0456e6bbf3d37db8"
+  }
+}

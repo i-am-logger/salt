@@ -1,0 +1,27 @@
+{
+  "key": "oracle-bcl-javase-javafx-2012",
+  "name": "Oracle BCL for Java SE Platform Products and JavaFX 2012",
+  "short_name": "Oracle BCL for JavaSE and JavaFX 2012",
+  "spdx_license_key": "LicenseRef-scancode-oracle-bcl-javase-javafx-2012",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/java/javase/terms/license/index.html",
+  "text_urls": [
+    "http://www.oracle.com/technetwork/java/javase/terms/license/index.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "aa06ab7c85aa49d3ec4aa0dc1acc7cbbdb660b18ee800d55b90471c5b72039ef"
+  }
+}

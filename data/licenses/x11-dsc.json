@@ -1,0 +1,29 @@
+{
+  "key": "x11-dsc",
+  "name": "X11-Style (DSC Technologies)",
+  "short_name": "X11-Style (DSC Technologies)",
+  "spdx_license_key": "LicenseRef-scancode-x11-dsc",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4d4e1aa513bd6a35a0a5ec47a900b9f0cfbb62a06184447257bc043483699fd4"
+  }
+}

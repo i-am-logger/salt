@@ -1,0 +1,42 @@
+{
+  "key": "ucl-1.0",
+  "name": "Upstream Compatibility License v1.0",
+  "short_name": "UCL-1.0",
+  "spdx_license_key": "UCL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://opensource.org/licenses/UCL-1.0",
+  "text_urls": [
+    "https://opensource.org/licenses/UCL-1.0"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d2beae1d983e59b1b6fecb845c52580cf5b08e24d006b2fd44a4ca71cd16f2c2"
+  }
+}

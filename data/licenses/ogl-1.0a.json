@@ -1,0 +1,29 @@
+{
+  "key": "ogl-1.0a",
+  "name": "Open Game License v1.0a",
+  "short_name": "OGL 1.0a",
+  "spdx_license_key": "LicenseRef-scancode-ogl-1.0a",
+  "category": "Permissive",
+  "homepage_url": "https://raw.githubusercontent.com/anthonyronda/LicenseRef-OGL-1.0a/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ff4afb7eda7be71e1146f886e0af9eacc3c4bf58b1f82229f8073b8f6305de38"
+  }
+}

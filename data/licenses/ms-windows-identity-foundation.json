@@ -1,0 +1,31 @@
+{
+  "key": "ms-windows-identity-foundation",
+  "name": "Microsoft Windows Identity Foundation License",
+  "short_name": "MS Windows Identity Foundation License",
+  "spdx_license_key": "LicenseRef-scancode-ms-windows-identity-foundation",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "http://download.microsoft.com/download/7/0/1/70118832-3749-4C75-B860-456FC0712870/wif-nuget-eula-rtm.rtf"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9cf23b4a665bd0f04ab2a8dbb3a8389fabb3c2903c955bb1859bea1be602513d"
+  }
+}

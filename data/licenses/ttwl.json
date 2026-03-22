@@ -1,0 +1,29 @@
+{
+  "key": "ttwl",
+  "name": "Text-Tabs+Wrap License",
+  "short_name": "Text-Tabs+Wrap License",
+  "spdx_license_key": "TTWL",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/TTWL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "95d3cb5a35f8baf13b017f3a623fa86721d47c927fa4efefefef47bab8787c76"
+  }
+}

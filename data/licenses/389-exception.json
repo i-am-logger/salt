@@ -1,0 +1,34 @@
+{
+  "key": "389-exception",
+  "name": "389 Directory Server Exception to GPL 2.0",
+  "short_name": "389 Directory Server Exception to GPL 2.0",
+  "spdx_license_key": "389-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://spdx.org/licenses/389-exception.html",
+  "text_urls": [
+    "http://www.directory.fedora.redhat.com/wiki/GPL_Exception_License_Text"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "303b8f6cd620291a9e3c52a76496ae01c0ee7a7480d7c3c5bead8b712957e869"
+  }
+}

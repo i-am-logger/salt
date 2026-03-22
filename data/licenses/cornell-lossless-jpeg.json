@@ -1,0 +1,29 @@
+{
+  "key": "cornell-lossless-jpeg",
+  "name": "Cornell Lossless JPEG License",
+  "short_name": "Cornell Lossless JPEG License",
+  "spdx_license_key": "Cornell-Lossless-JPEG",
+  "category": "Permissive",
+  "homepage_url": "https://www.mssl.ucl.ac.uk/~mcrw/src/20050920/proto.h",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6faf6f7dcff8a32943afd4358ee2486814b3f36742fe84d756bc2b1eec65ae22"
+  }
+}

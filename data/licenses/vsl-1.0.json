@@ -1,0 +1,31 @@
+{
+  "key": "vsl-1.0",
+  "name": "Vovida Software License v. 1.0",
+  "short_name": "Vovida Software License 1.0",
+  "spdx_license_key": "VSL-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.vovida.org/About/license.html",
+  "text_urls": [
+    "http://www.vovida.org/About/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "67c94ad0a31eadff1220a8c5c24041557a1cd26c0e41e384747bacd6daa79166"
+  }
+}

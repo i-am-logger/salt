@@ -1,0 +1,32 @@
+{
+  "key": "intel",
+  "name": "Intel Limited Patent License",
+  "short_name": "Intel Limited Patent License",
+  "spdx_license_key": "LicenseRef-scancode-intel",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.IntcSST2",
+  "text_urls": [
+    "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.adsp_sst"
+  ],
+  "grants": [
+    "distribution",
+    "private-use",
+    "patent-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f8a864ec06212fddc82bf91d408da9703d123f49a6ee0908f00bd330687b5d35"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "key": "ldpgpl-1",
+  "name": "Linux Documentation Project General Public License v1, September 1998",
+  "short_name": "LDPGPL-1",
+  "spdx_license_key": "LicenseRef-scancode-ldpgpl-1",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [
+    "https://old.calculate-linux.org/packages/licenses/LDP-1"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "712513481fa837f75dd8615f7eb4bd682407bcd0d7cf6b503f68ecf2ddfbf018"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "bsd-ack",
+  "name": "BSD Acknowledgment License",
+  "short_name": "BSD Acknowledgment License",
+  "spdx_license_key": "BSD-3-Clause-Attribution",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f7360764c268617b9124e1c0713827168b6c81841d80a0e594c2a2a3ac7c4b29"
+  }
+}

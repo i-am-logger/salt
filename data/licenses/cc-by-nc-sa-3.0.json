@@ -1,0 +1,38 @@
+{
+  "key": "cc-by-nc-sa-3.0",
+  "name": "Creative Commons Attribution Non-Commercial Share Alike License 3.0",
+  "short_name": "CC-BY-NC-SA-3.0",
+  "spdx_license_key": "CC-BY-NC-SA-3.0",
+  "category": "Non-Commercial",
+  "homepage_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "20d6d904cf7e838d539ae80bcb87a093f4f06043a1ce4b03d1b5be9bf11c302f"
+  }
+}

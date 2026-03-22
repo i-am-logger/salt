@@ -1,0 +1,29 @@
+{
+  "key": "bsd-new-far-manager",
+  "name": "BSD-3-Clause with Far Manager exception",
+  "short_name": "BSD-3-Clause with Far Manager exception",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "791027cfe5e22ba772b4f2abd82d7cf944743101d69359870a4a3d36106d8c00"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "stlport-4.5",
+  "name": "STLport License v4.5",
+  "short_name": "STLport License 4.5",
+  "spdx_license_key": "Boehm-GC-without-fee",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3436d330d08276cf2d6692ea1207f7865c6484c9434378b8130b047c70f6039e"
+  }
+}

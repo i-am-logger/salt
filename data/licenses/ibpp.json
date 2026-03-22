@@ -1,0 +1,29 @@
+{
+  "key": "ibpp",
+  "name": "IBPP License",
+  "short_name": "IBPP License",
+  "spdx_license_key": "LicenseRef-scancode-ibpp",
+  "category": "Permissive",
+  "homepage_url": "https://raw.githubusercontent.com/mariuz/flamerobin/0.9.0/src/ibpp/license.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dbd9b80737982ff3a4d024e262ccaf98a85450337e6931518d2dfa289af0f7d8"
+  }
+}

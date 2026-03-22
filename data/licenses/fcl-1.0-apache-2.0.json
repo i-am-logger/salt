@@ -1,0 +1,32 @@
+{
+  "key": "fcl-1.0-apache-2.0",
+  "name": "Fair Core License, Version 1.0, Apache 2.0 Future License",
+  "short_name": "FCL-1.0-Apache-2.0",
+  "spdx_license_key": "LicenseRef-scancode-fcl-1.0-apache-2.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/keygen-sh/fcl.dev/blob/master/FCL-1.0-Apache-2.0.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "54d3c5982a461b0bc188ebb5e46ec16b8269d67f13d924fdfeb0395b15a119f6"
+  }
+}

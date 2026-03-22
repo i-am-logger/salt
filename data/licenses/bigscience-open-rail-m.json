@@ -1,0 +1,35 @@
+{
+  "key": "bigscience-open-rail-m",
+  "name": "BigScience Open RAIL-M License",
+  "short_name": "BigScience Open RAIL-M License",
+  "spdx_license_key": "LicenseRef-scancode-bigscience-open-rail-m",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license",
+  "text_urls": [
+    "https://drive.google.com/file/d/16NqKiAkzyZ55NClubCIFup8pT2jnyVIo/view"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1f245da1a2358b18ab468e798a4767236b88b043b5fb8a555fc89087496112ba"
+  }
+}

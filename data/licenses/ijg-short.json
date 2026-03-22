@@ -1,0 +1,29 @@
+{
+  "key": "ijg-short",
+  "name": "Independent JPEG Group License - short",
+  "short_name": "Independent JPEG Group License - short",
+  "spdx_license_key": "IJG-short",
+  "category": "Permissive",
+  "homepage_url": "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/ljpg/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2e385ff5cf4182b301de87e0c5e8b44b3664da83536be602105744df410bd84a"
+  }
+}

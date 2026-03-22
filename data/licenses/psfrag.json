@@ -1,0 +1,29 @@
+{
+  "key": "psfrag",
+  "name": "psfrag License",
+  "short_name": "psfrag License",
+  "spdx_license_key": "psfrag",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/psfrag",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "778d0b60b26987b462dbe60fc1bec6cefde690d6f489d7c1751900116db529e8"
+  }
+}

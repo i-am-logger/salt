@@ -1,0 +1,37 @@
+{
+  "key": "afl-3.0",
+  "name": "Academic Free License 3.0",
+  "short_name": "AFL 3.0",
+  "spdx_license_key": "AFL-3.0",
+  "category": "Permissive",
+  "homepage_url": "http://opensource.org/licenses/afl-3.0.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/afl-3.0.php",
+    "http://www.rosenlaw.com/AFL3.0.htm"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a39c70cd8ab36a792d6d4e4f0d937610b1807f102f4133e0c68ce531d5490c63"
+  }
+}

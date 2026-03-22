@@ -1,0 +1,26 @@
+{
+  "key": "winzip-self-extractor",
+  "name": "WinZip Self-Extractor License",
+  "short_name": "WinZip Self-Extractor License",
+  "spdx_license_key": "LicenseRef-scancode-winzip-self-extractor",
+  "category": "Commercial",
+  "homepage_url": "http://kb.winzip.com/kb/entry/31/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "621e804c54e7032c911c49a97de62d67f572c449dbc729667f24e653d9c20c2f"
+  }
+}

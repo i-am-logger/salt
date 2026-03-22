@@ -1,0 +1,29 @@
+{
+  "key": "red-hat-bsd-simplified",
+  "name": "Red Hat BSD-Simplified",
+  "short_name": "Red Hat BSD-Simplified",
+  "spdx_license_key": "LicenseRef-scancode-red-hat-bsd-simplified",
+  "category": "Permissive",
+  "homepage_url": "https://www.rpmfind.net/linux/RPM/centos/6.7/i386/Packages/fipscheck-1.2.0-7.el6.i686.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "525e4fd39b7acfa39a51bb4c6aa871f9084de696516d70e377172069478dff77"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-asp-net-mvc4-extensions",
+  "name": "Microsoft ASP.NET MVC 4 Extensions License",
+  "short_name": "MS ASP.NET MVC 4 Extensions",
+  "spdx_license_key": "LicenseRef-scancode-ms-asp-net-mvc4-extensions",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.microsoft.com/web/webpi/eula/mvc4extensions_prerelease_eula.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "47f572300312da9bff1c6634360f761d588c3d35e19cdf7f780c3f3efee65e76"
+  }
+}

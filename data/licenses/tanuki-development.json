@@ -1,0 +1,26 @@
+{
+  "key": "tanuki-development",
+  "name": "Tanuki Development Software License Agreement 1.3",
+  "short_name": "Tanuki Development License 1.3",
+  "spdx_license_key": "LicenseRef-scancode-tanuki-development",
+  "category": "Commercial",
+  "homepage_url": "https://wrapper.tanukisoftware.com/doc/english/licenseDevelopment.html#text",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "09a440faf701d2e6bf3b2a56c5471c704bb125752201847325626cb7084651d7"
+  }
+}

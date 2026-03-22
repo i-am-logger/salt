@@ -1,0 +1,29 @@
+{
+  "key": "ogc-document-2020",
+  "name": "OGC Document Notice 2020",
+  "short_name": "OGC Document Notice 2020",
+  "spdx_license_key": "LicenseRef-scancode-ogc-document-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.ogc.org/ogc/Document",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dfe02208acfcf925e77e3d56dfbd70876393f070c2d54012b5aafeab6ca145dd"
+  }
+}

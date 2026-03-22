@@ -1,0 +1,31 @@
+{
+  "key": "fsl-1.0-mit",
+  "name": "Functional Source License, Version 1.0, MIT Change License",
+  "short_name": "FSL-1.0-MIT",
+  "spdx_license_key": "LicenseRef-scancode-fsl-1.0-mit",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/getsentry/fsl.software/blob/main/FSL-1.0-MIT.template.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3922f894d0315747cacdfa90bd68dfc757aad44ee06adb4c4bf597a67548560c"
+  }
+}

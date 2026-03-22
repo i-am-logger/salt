@@ -1,0 +1,29 @@
+{
+  "key": "bsd-atmel",
+  "name": "BSD Atmel License",
+  "short_name": "BSD Atmel License",
+  "spdx_license_key": "LicenseRef-scancode-bsd-atmel",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/atmelcorp/atmel-software-package/blob/d11d2a558fb5bd017aa15a9a78fb237ab972f29c/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b12f4c320a3a383999594fe8b35a7b66ed9028383c818bb01473e54940541668"
+  }
+}

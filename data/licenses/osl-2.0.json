@@ -1,0 +1,47 @@
+{
+  "key": "osl-2.0",
+  "name": "Open Software License 2.0",
+  "short_name": "OSL 2.0",
+  "spdx_license_key": "OSL-2.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.nexb.com/license/LICENSE-OSL-2.0.html",
+  "text_urls": [
+    "http://www.nexb.com/license/LICENSE-OSL-2.0.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2e5be1daaf55770ac551620232f20d1ae415a72ca40a9327e6efd6e17bf41a2"
+  }
+}

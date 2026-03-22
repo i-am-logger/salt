@@ -1,0 +1,29 @@
+{
+  "key": "chris-stoy",
+  "name": "Chris Stoy Attribution License",
+  "short_name": "Chris Stoy Attribution License",
+  "spdx_license_key": "LicenseRef-scancode-chris-stoy",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5641ba2924b56898a6831aba750843e7cd8c9f470fbccd26baf1f9ec1f6dbac8"
+  }
+}

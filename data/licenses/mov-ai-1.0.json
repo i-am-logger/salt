@@ -1,0 +1,27 @@
+{
+  "key": "mov-ai-1.0",
+  "name": "Mov.AI License version 1.0",
+  "short_name": "Mov.AI License version 1.0",
+  "spdx_license_key": "LicenseRef-scancode-mov-ai-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://www.mov.ai/flow-license",
+  "text_urls": [
+    "https://github.com/MOV-AI/movai-core-shared/blob/main/LICENSE"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f89fcd2abe0c91d2e79a6a2728d3edf6219a14c5b6096819161e41a7c45c92a8"
+  }
+}

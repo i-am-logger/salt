@@ -1,0 +1,25 @@
+{
+  "key": "adobe-air-sdk-2014",
+  "name": "Adobe Air SDK EULA - 2014",
+  "short_name": "Adobe Air SDK EULA - 2014",
+  "spdx_license_key": "LicenseRef-scancode-adobe-air-sdk-2014",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.adobe.com/products/air/sdk-eula.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "30eaa0dec68d2c29a8028912be9c2cc74c5cb5d4f850a49fc16501f178f0f0d7"
+  }
+}

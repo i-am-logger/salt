@@ -1,0 +1,27 @@
+{
+  "key": "clips-2017",
+  "name": "CLIPS License 2017",
+  "short_name": "CLIPS License 2017",
+  "spdx_license_key": "Clips",
+  "category": "Permissive",
+  "homepage_url": "https://www.clipsrules.net/",
+  "text_urls": [
+    "https://kumisystems.dl.sourceforge.net/project/clipsrules/CLIPS/6.40/clips_core_source_640.tar.gz"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1271426aadc288e28335aa4bc95893342ce4524ab843c6f77f013229ba2bc967"
+  }
+}

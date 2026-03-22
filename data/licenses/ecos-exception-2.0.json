@@ -1,0 +1,35 @@
+{
+  "key": "ecos-exception-2.0",
+  "name": "eCos Exception to GPL 2.0 or later",
+  "short_name": "eCos Exception to GPL 2.0 or later",
+  "spdx_license_key": "eCos-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://ecos.sourceware.org/ecos-license/",
+  "text_urls": [
+    "http://www.fsf.org/licensing/licenses/ecos-license.html",
+    "http://www.gnu.org/licenses/ecos-license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b6908727f4a356b31276f47ff84d8950e45d761ed174d366a36ea14a909736c8"
+  }
+}

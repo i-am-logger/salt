@@ -1,0 +1,29 @@
+{
+  "key": "x11-keith-packard",
+  "name": "X11-Style (Keith Packard)",
+  "short_name": "X11-Style (Keith Packard)",
+  "spdx_license_key": "HPND-sell-variant",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b2b68dab84751431ca1901612181dee0a818daf5bc85d65b059de6f0fbb16b2d"
+  }
+}

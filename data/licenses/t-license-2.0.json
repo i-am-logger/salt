@@ -1,0 +1,25 @@
+{
+  "key": "t-license-2.0",
+  "name": "T-License 2.0",
+  "short_name": "T-License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-t-license-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.tron.org/download/index.php?route=information/information&information_id=40",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "638f0f3a1486a00eca23cd97ee907419e6961e5cf26e1e793db432178c2735d0"
+  }
+}

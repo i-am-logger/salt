@@ -1,0 +1,35 @@
+{
+  "key": "libpri-openh323-exception",
+  "name": "libpri OpenH323 exception",
+  "short_name": "libpri OpenH323 exception",
+  "spdx_license_key": "libpri-OpenH323-exception",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4705bc811960b8753bfa312479741ce8f82512ed657c941114cce58a868eb69a"
+  }
+}

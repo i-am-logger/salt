@@ -1,0 +1,35 @@
+{
+  "key": "unlimited-linking-exception-gpl",
+  "name": "Unlimited linking exception to GPL",
+  "short_name": "Unlimited linking exception to GPL",
+  "spdx_license_key": "LicenseRef-scancode-unlimited-link-exception-gpl",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d3ff493ce197a353ba3fc8738e0563d097c2caa6180f1d8447b835df492fc268"
+  }
+}

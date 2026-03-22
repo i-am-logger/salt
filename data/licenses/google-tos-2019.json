@@ -1,0 +1,25 @@
+{
+  "key": "google-tos-2019",
+  "name": "Google Terms of Service 2019",
+  "short_name": "Google TOS 2019",
+  "spdx_license_key": "LicenseRef-scancode-google-tos-2019",
+  "category": "Proprietary Free",
+  "homepage_url": "https://policies.google.com/terms/archive?hl=en",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eebd01fa6050dd831175b090cbb0bcf055cda9b619a78ad9674e38d8a860ad23"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "william-alexander",
+  "name": "William Alexander License",
+  "short_name": "William Alexander License",
+  "spdx_license_key": "LicenseRef-scancode-william-alexander",
+  "category": "Permissive",
+  "homepage_url": "http://www.java-samples.com/",
+  "text_urls": [
+    "http://www.java-samples.com/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4ebf21b7092a240c072c691431bd6d3d4b5ace9da4e0dc3299801da702ec1b1d"
+  }
+}

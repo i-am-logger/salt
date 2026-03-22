@@ -1,0 +1,29 @@
+{
+  "key": "protobuf",
+  "name": "Protobuf License",
+  "short_name": "Protobuf License",
+  "spdx_license_key": "LicenseRef-scancode-protobuf",
+  "category": "Permissive",
+  "homepage_url": "http://protobuf.googlecode.com/svn/trunk/COPYING.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d3ee293ef4be94fac480eba72ae017861555bb540e222bd1c6812eac27da6380"
+  }
+}

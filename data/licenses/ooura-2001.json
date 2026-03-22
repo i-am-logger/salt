@@ -1,0 +1,35 @@
+{
+  "key": "ooura-2001",
+  "name": "OOURA License 2001",
+  "short_name": "OOURA License 2001",
+  "spdx_license_key": "LicenseRef-scancode-ooura-2001",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.kurims.kyoto-u.ac.jp/~ooura/fft.html",
+  "text_urls": [
+    "https://www.kurims.kyoto-u.ac.jp/~ooura/pi_fftc6_src.tgz",
+    "https://github.com/tensorflow/tensorflow/blob/master/third_party/fft2d/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ac2ba78fa10e46bbdc77e5b910766ac854aae4521348db700cd32d6bdbe476a5"
+  }
+}

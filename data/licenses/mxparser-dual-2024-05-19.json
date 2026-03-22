@@ -1,0 +1,30 @@
+{
+  "key": "mxparser-dual-2024-05-19",
+  "name": "MathParser.org-mXparser Dual License Agreement 2024-05-19",
+  "short_name": "mXParser Dual License 2024-05-19",
+  "spdx_license_key": "LicenseRef-scancode-mxparser-dual-2024-05-19",
+  "category": "Non-Commercial",
+  "homepage_url": "https://mathparser.org/mxparser-license/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4299d3f88b722ddede3fab17af81b73908162da179ec0ad009d393ce7c2a4351"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "key": "crapl-0.1",
+  "name": "CRAPL v0 BETA 1",
+  "short_name": "CRAPL v0 BETA 1",
+  "spdx_license_key": "LicenseRef-scancode-crapl-0.1",
+  "category": "Proprietary Free",
+  "homepage_url": "http://matt.might.net/articles/crapl/",
+  "text_urls": [
+    "http://matt.might.net/articles/crapl/CRAPL-LICENSE.txt"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "32c2fa24f00f11d8424da65f903b8f777699da99105878da0ead043a45d40b46"
+  }
+}

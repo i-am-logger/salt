@@ -1,0 +1,30 @@
+{
+  "key": "w3c-software-19980720",
+  "name": "W3C Software Notice and License (1998-07-20)",
+  "short_name": "W3C-SOFTWARE-19980720",
+  "spdx_license_key": "W3C-19980720",
+  "category": "Permissive",
+  "homepage_url": "http://www.w3.org/Consortium/Legal/copyright-software-19980720.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ab56234918e32a777cb8199bff67c99d8c277a60f0f1e64e76c66fb96d45a98e"
+  }
+}

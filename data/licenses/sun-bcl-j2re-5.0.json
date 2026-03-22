@@ -1,0 +1,27 @@
+{
+  "key": "sun-bcl-j2re-5.0",
+  "name": "Sun BCL J2RE 5.0",
+  "short_name": "Sun BCL J2RE 5.0",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-j2re-5.0",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "http://java.sun.com/j2se/1.5.0/jre-1_5_0_06-license.txt"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ede101f68e56a243444ec94067616cb9b7bec55ca4f377ef12b2203bf605060"
+  }
+}

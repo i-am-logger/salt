@@ -1,0 +1,40 @@
+{
+  "key": "ldpl-2.0",
+  "name": "Linux Documentation Project License (LDPL) v2.0",
+  "short_name": "LDPL-2.0",
+  "spdx_license_key": "LicenseRef-scancode-ldpl-2.0",
+  "category": "Copyleft",
+  "homepage_url": "http://tldp.org/COPYRIGHT.html",
+  "text_urls": [
+    "http://linuxmafia.com/faq/Licensing_and_Law/ldp-license-2.0.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d6a5ef98841c128835d22a4b1fc69ba0e53bf03070e44a0374e83b052b97a5e9"
+  }
+}

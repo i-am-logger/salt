@@ -1,0 +1,38 @@
+{
+  "key": "eclipse-sua-2017",
+  "name": "Eclipse Foundation Software User Agreement 2017",
+  "short_name": "Eclipse Foundation Software User Agreement 2017",
+  "spdx_license_key": "LicenseRef-scancode-eclipse-sua-2017",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.eclipse.org/legal/epl/notice.php",
+  "text_urls": [
+    "https://web.archive.org/web/20200212074736/https://www.eclipse.org/legal/epl/notice.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8c5e857cb23f91dbcc93f6a360836b4ba19ff3f08af4818aeef2b9b1c10e80b3"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "netcomponents",
+  "name": "NetComponents License",
+  "short_name": "NetComponents License",
+  "spdx_license_key": "LicenseRef-scancode-netcomponents",
+  "category": "Permissive",
+  "homepage_url": "http://gruntspud.sourceforge.net/NETCOMPONENTS_LICENSE.html",
+  "text_urls": [
+    "http://gruntspud.sourceforge.net/NETCOMPONENTS_LICENSE.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9664cc5be050f2c629de81224ca3890f27c9922f8435f2421c122422d96b55c6"
+  }
+}

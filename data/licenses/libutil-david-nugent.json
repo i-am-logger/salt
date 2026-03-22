@@ -1,0 +1,29 @@
+{
+  "key": "libutil-david-nugent",
+  "name": "libutil David Nugent License",
+  "short_name": "libutil David Nugent License",
+  "spdx_license_key": "libutil-David-Nugent",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c34270051f81eddb38b0f3bdec00a3bd3ce7f894c167c9ac444145c17923fef2"
+  }
+}

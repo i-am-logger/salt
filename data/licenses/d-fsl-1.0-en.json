@@ -1,0 +1,41 @@
+{
+  "key": "d-fsl-1.0-en",
+  "name": "German Free Software License",
+  "short_name": "German Free Software License",
+  "spdx_license_key": "LicenseRef-scancode-d-fsl-1.0-en",
+  "category": "Copyleft",
+  "homepage_url": "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/en/D-FSL-1_0_en.txt",
+  "text_urls": [
+    "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/en/D-FSL-1_0_en.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "344592343349a468c6057521ae1503ff89e10325375b49c153b02aa46e8f6be1"
+  }
+}

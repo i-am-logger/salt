@@ -1,0 +1,29 @@
+{
+  "key": "activestate-community-2012",
+  "name": "ActiveState Community License 2012",
+  "short_name": "ActiveState Community License 2012",
+  "spdx_license_key": "LicenseRef-scancode-activestate-community-2012",
+  "category": "Proprietary Free",
+  "homepage_url": "https://web.archive.org/web/20130420143215/http://www.activestate.com/activeperl/license-agreement",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4cad3450ef007f975487983be824cd168676e7eb6c5d74d2711c35de7ed71401"
+  }
+}

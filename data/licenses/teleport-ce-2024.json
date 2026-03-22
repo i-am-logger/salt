@@ -1,0 +1,35 @@
+{
+  "key": "teleport-ce-2024",
+  "name": "Teleport Community Edition License 2024",
+  "short_name": "Teleport Community Edition License 2024",
+  "spdx_license_key": "LicenseRef-scancode-teleport-ce-2024",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/gravitational/teleport/blob/master/build.assets/LICENSE-community",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications",
+    "patent-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "158d0675de58d44208ddd3c9fd708afad3c2fb67e813f0fbcff43381b5bdb5ec"
+  }
+}

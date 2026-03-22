@@ -1,0 +1,29 @@
+{
+  "key": "bsd-3-clause-sun",
+  "name": "BSD 3-Clause Sun",
+  "short_name": "BSD 3-Clause Sun",
+  "spdx_license_key": "BSD-3-Clause-Sun",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/xmlark/msv/blob/b9316e2f2270bc1606952ea4939ec87fbba157f3/xsdlib/src/main/java/com/sun/msv/datatype/regexp/InternalImpl.java",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ad884731859d8980705eeb57ea14a36f6e08a84718d2db766cef33036fedab7"
+  }
+}

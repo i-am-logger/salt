@@ -1,0 +1,25 @@
+{
+  "key": "nero-eula",
+  "name": "Nero EULA",
+  "short_name": "Nero EULA",
+  "spdx_license_key": "LicenseRef-scancode-nero-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.nero.com/enu/corp-legal/end-user-agreement.php",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0476a17a9114af621249996fdbef747067eac3e732ec74568a82434ec641f516"
+  }
+}

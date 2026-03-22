@@ -1,0 +1,25 @@
+{
+  "key": "atlassian-marketplace-tou",
+  "name": "Atlassian Marketplace Terms of Use",
+  "short_name": "Atlassian Marketplace Terms of Use",
+  "spdx_license_key": "LicenseRef-scancode-atlassian-marketplace-tou",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.atlassian.com/licensing/marketplace/termsofuse",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "60cbd3559811804396deaee45543c6c6524c132e474d5df6cbf0b7e6be567ecd"
+  }
+}

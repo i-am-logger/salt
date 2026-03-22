@@ -1,0 +1,32 @@
+{
+  "key": "proguard-exception-2.0",
+  "name": "ProGuard exception to GPL 2.0",
+  "short_name": "ProGuard exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-proguard-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://proguard.sourceforge.net/index.html#license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "231130cddfd7bb6ad87e046199b784e79a2b6287bec1dc5429a13a6db2f0049a"
+  }
+}

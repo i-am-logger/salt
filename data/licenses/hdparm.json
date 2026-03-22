@@ -1,0 +1,29 @@
+{
+  "key": "hdparm",
+  "name": "HDPARM License",
+  "short_name": "HDPARM License",
+  "spdx_license_key": "hdparm",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "58986a088ccf278924e0a0b575c7eacf7ebc57e42b59a1b172ca215c3768e275"
+  }
+}

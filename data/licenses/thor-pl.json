@@ -1,0 +1,40 @@
+{
+  "key": "thor-pl",
+  "name": "Thor Public License",
+  "short_name": "Thor Public License",
+  "spdx_license_key": "TPL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:ThorPublicLicense?rd=Licensing/ThorPublicLicense",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7c8ec84da94c4b2c8830ee79a8dcf24a77debd70f41660fb06a6db8d5f6a2b0d"
+  }
+}

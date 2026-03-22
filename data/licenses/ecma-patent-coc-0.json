@@ -1,0 +1,26 @@
+{
+  "key": "ecma-patent-coc-0",
+  "name": "Ecma Historical Code of Conduct in Patent Matters",
+  "short_name": "Ecma Historical Code of Conduct in Patent Matters",
+  "spdx_license_key": "LicenseRef-scancode-ecma-patent-coc-0",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.ecma-international.org/memento/historical%20codeofconduct.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "23cb21e6f7bac2c2a47d4692588451db42960a9b540ae3fcafd772bba9c30ce8"
+  }
+}

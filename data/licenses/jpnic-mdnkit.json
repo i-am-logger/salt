@@ -1,0 +1,31 @@
+{
+  "key": "jpnic-mdnkit",
+  "name": "JPNIC mdnkit License",
+  "short_name": "JPNIC mdnkit License",
+  "spdx_license_key": "LicenseRef-scancode-jpnic-mdnkit",
+  "category": "Permissive",
+  "homepage_url": "https://www.nic.ad.jp/ja/idn/idnkit/download/",
+  "text_urls": [
+    "https://www.nic.ad.jp/ja/idn/mdnkit/download/documents/idnkit-1.0pr1-doc/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "675ed977b858535ece760333bc0236ba8ea4c647718f0c40e7c2d4868ff844bf"
+  }
+}

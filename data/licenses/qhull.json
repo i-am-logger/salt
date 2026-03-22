@@ -1,0 +1,32 @@
+{
+  "key": "qhull",
+  "name": "Qhull License",
+  "short_name": "Qhull License",
+  "spdx_license_key": "Qhull",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Qhull?rd=Licensing/Qhull",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4947d4a4022fdae6e90f967a4bfcaf56a4b98faca4a908dd644165ba659f7057"
+  }
+}

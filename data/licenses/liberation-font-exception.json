@@ -1,0 +1,38 @@
+{
+  "key": "liberation-font-exception",
+  "name": "Liberation Font Exception to GPL 2.0",
+  "short_name": "Liberation Font Exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-liberation-font-exception",
+  "category": "Copyleft",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:LiberationFontLicense",
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing:LiberationFontLicense",
+    "https://pagure.io/liberation-fonts/raw/cf3040c146097d6b7361e2823d5c6b5c309a456a/f/master/License.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "62d48ce949d774b84a1bea9ad30fa1f5f742dfeb4cdf4c5d83a3775bb5d6c07f"
+  }
+}

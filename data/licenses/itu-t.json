@@ -1,0 +1,29 @@
+{
+  "key": "itu-t",
+  "name": "ITU-T License",
+  "short_name": "ITU-T License",
+  "spdx_license_key": "LicenseRef-scancode-itu-t",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4c3c49d50d2b44ed233ef11cb739b6f2c50d2d6146960666179f6fa00bc122e4"
+  }
+}

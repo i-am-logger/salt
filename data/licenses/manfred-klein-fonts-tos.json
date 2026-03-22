@@ -1,0 +1,30 @@
+{
+  "key": "manfred-klein-fonts-tos",
+  "name": "Manfred Klein Fonts TOS",
+  "short_name": "Manfred Klein Fonts TOS",
+  "spdx_license_key": "LicenseRef-scancode-manfred-klein-fonts-tos",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f795479ed65da66a008584bc71ebe1811ad24aaf92c69fadda86ca2ee24527f3"
+  }
+}

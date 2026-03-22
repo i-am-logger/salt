@@ -1,0 +1,26 @@
+{
+  "key": "qualcomm-iso",
+  "name": "Qualcomm ISO/IEC MPEG-B DASH License",
+  "short_name": "Qualcomm ISO/IEC MPEG-B DASH License",
+  "spdx_license_key": "LicenseRef-scancode-qualcomm-iso",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "00a1b3f6e14d7e19be53b134f4d4154af9c6c80d1ac2c2dd7dc4e92f26d86c39"
+  }
+}

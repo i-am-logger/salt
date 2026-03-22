@@ -1,0 +1,29 @@
+{
+  "key": "openssl",
+  "name": "OpenSSL License",
+  "short_name": "OpenSSL License",
+  "spdx_license_key": "OpenSSL-standalone",
+  "category": "Permissive",
+  "homepage_url": "http://openssl.org/source/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9e0571f2cc09b1b61b41b308514d0c1f5ba6bf69ff673bd3841de710b064339f"
+  }
+}

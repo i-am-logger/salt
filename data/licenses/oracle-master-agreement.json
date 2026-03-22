@@ -1,0 +1,26 @@
+{
+  "key": "oracle-master-agreement",
+  "name": "Oracle Master Agreement (OMA)",
+  "short_name": "Oracle Master Agreement (OMA)",
+  "spdx_license_key": "LicenseRef-scancode-oracle-master-agreement",
+  "category": "Commercial",
+  "homepage_url": "http://www.oracle.com/us/corporate/contracts/oma/index.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3939580abaaa2218fa61cc59a38a237668999cc25c3d0e75a6089738dafce560"
+  }
+}

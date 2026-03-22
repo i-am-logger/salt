@@ -1,0 +1,33 @@
+{
+  "key": "bigscience-rail-1.0",
+  "name": "BigScience RAIL License v1.0",
+  "short_name": "BigScience RAIL License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-bigscience-rail-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/spaces/bigscience/license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "39831eac7cb8c88e80cb3402af5b5975c314b4098206f4eb96db6d5faa89f85f"
+  }
+}

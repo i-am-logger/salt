@@ -1,0 +1,36 @@
+{
+  "key": "ms-api-code-pack-net",
+  "name": "Microsoft Windows API Code Pack for Microsoft .NET Framework",
+  "short_name": "MS Windows API Code Pack for .NET",
+  "spdx_license_key": "LicenseRef-scancode-ms-api-code-pack-net",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/contre/Windows-API-Code-Pack-1.1/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2c46c97b80b7e99fba018e936adb1bf92306bb19cfd561e6222df80a4ace9f86"
+  }
+}

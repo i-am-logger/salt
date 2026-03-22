@@ -1,0 +1,30 @@
+{
+  "key": "lha",
+  "name": "LHA",
+  "short_name": "lha",
+  "spdx_license_key": "LicenseRef-scancode-lha",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.copyleftlicense.com/licenses/lha-license-version-10/view.php",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a07763b43bd30960f7778799d558d981cf90e2e9811926c09e1b297aa2eb2eab"
+  }
+}

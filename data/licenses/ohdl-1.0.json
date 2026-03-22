@@ -1,0 +1,35 @@
+{
+  "key": "ohdl-1.0",
+  "name": "Open Hardware Description License Version 1.0",
+  "short_name": "OHDL-1.0",
+  "spdx_license_key": "LicenseRef-scancode-ohdl-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://juliusbaxter.net/ohdl/ohdl.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e3d9557709d3764ab3af937cd11fc6165673f0195f0ed5daa7031ea48c50082e"
+  }
+}

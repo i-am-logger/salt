@@ -1,0 +1,26 @@
+{
+  "key": "ziplist5-geocode-duplication-addendum",
+  "name": "ZIPList5 Geocode Duplication License Addendum",
+  "short_name": "ZIPList5 Geocode Duplication Addendum",
+  "spdx_license_key": "LicenseRef-scancode-ziplist5-geocode-dup-addendum",
+  "category": "Commercial",
+  "homepage_url": "https://web.archive.org/web/20160908211546/http://zipinfo.com/products/z5LL/z5llld.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9b2d8f575c3c10acea192999fa8b6ae494680da6a7fa550a152ad5020a903608"
+  }
+}

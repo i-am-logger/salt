@@ -1,0 +1,30 @@
+{
+  "key": "ocamlpro-nc-v1",
+  "name": "OCamlPro Non-Commercial Purpose License v1",
+  "short_name": "OCamlPro Non-Commercial Purpose License v1",
+  "spdx_license_key": "LicenseRef-scancode-ocamlpro-nc-v1",
+  "category": "Non-Commercial",
+  "homepage_url": "https://alt-ergo.ocamlpro.com/http/alt-ergo-2.2.0/OCamlPro-Non-Commercial-License.pdf",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0a13e4b693b8981b4e3c342a8ab9c889031ccb6079ea7c84cdeb352857d9624"
+  }
+}

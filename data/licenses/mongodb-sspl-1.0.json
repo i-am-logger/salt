@@ -1,0 +1,45 @@
+{
+  "key": "mongodb-sspl-1.0",
+  "name": "Server Side Public License (SSPL) 1.0",
+  "short_name": "SSPL 1.0",
+  "spdx_license_key": "SSPL-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://www.mongodb.com/licensing/server-side-public-license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ba1c7eeaf2ced4708fe1bcaac458adc9fc7872adae708ffde669d7d353ddb131"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "things-i-made-public-license",
+  "name": "Things I Made (TIM) Public License",
+  "short_name": "Things I Made (TIM) Public License",
+  "spdx_license_key": "LicenseRef-scancode-things-i-made-public-license",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/marcus-crane/pkgparse-node/blob/46446413cbdd1b7f67fad0e12188930920222b4a/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c9f0c8fddc7bb8d28192ae6a2f6e761257c901050cb21c2a51c152f3ec869837"
+  }
+}

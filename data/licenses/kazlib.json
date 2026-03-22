@@ -1,0 +1,32 @@
+{
+  "key": "kazlib",
+  "name": "Kazlib License",
+  "short_name": "Kazlib",
+  "spdx_license_key": "Kazlib",
+  "category": "Permissive",
+  "homepage_url": "http://git.savannah.gnu.org/cgit/kazlib.git/tree/except.c?id=0062df360c2d17d57f6af19b0e444c51feb99036",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "963ba9861b5a5aec38ae60f682f99bfc17d81ec3241473bd659198d05ebf808b"
+  }
+}

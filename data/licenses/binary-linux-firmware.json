@@ -1,0 +1,29 @@
+{
+  "key": "binary-linux-firmware",
+  "name": "Binary-Only Linux Firmware License",
+  "short_name": "Binary-Only Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-binary-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ea4b9223947adbd53ed65c976a4dfa3d12248d833d3ad7cea0456996e8f4ee9"
+  }
+}

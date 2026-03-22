@@ -1,0 +1,32 @@
+{
+  "key": "utopia",
+  "name": "License to TeX Users Group for the Utopia Typeface",
+  "short_name": "Utopia Typeface License",
+  "spdx_license_key": "LicenseRef-scancode-utopia",
+  "category": "Permissive",
+  "homepage_url": "http://tug.org/fonts/utopia",
+  "text_urls": [
+    "https://tug.org/fonts/utopia/LICENSE-utopia.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1931d00d095d5067ea232fdc33b58af695e8a964f638da158631a2a658ef045b"
+  }
+}

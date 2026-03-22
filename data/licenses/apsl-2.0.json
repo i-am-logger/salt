@@ -1,0 +1,43 @@
+{
+  "key": "apsl-2.0",
+  "name": "Apple Public Source License 2.0",
+  "short_name": "APSL 2.0",
+  "spdx_license_key": "APSL-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.opensource.apple.com/license/apsl/",
+  "text_urls": [
+    "http://www.opensource.apple.com/license/apsl/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "999887774b2f9a4dd246816fd071715a54ed44a77c8b8d483156e9f6fa710cdd"
+  }
+}

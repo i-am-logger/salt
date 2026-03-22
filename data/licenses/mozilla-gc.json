@@ -1,0 +1,31 @@
+{
+  "key": "mozilla-gc",
+  "name": "Mozilla GC License",
+  "short_name": "Mozilla GC License",
+  "spdx_license_key": "Boehm-GC",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "http://www.hboehm.info/gc/license.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bb18f6b772954ee4fe76ff5e4d5add5f1e4c9301e156f050f9ea14056f9d8381"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "bsd-3-clause-no-trademark",
+  "name": "BSD 3-Clause no trademark",
+  "short_name": "BSD 3-Clause no trademark",
+  "spdx_license_key": "LicenseRef-scancode-bsd-3-clause-no-trademark",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bd767417d2cd5f2e7682a9b8e932f7d916fd1592dcfc83cfe87cf1964c8ead9a"
+  }
+}

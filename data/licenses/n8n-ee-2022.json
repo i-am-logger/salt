@@ -1,0 +1,26 @@
+{
+  "key": "n8n-ee-2022",
+  "name": "n8n Enterprise License 2022",
+  "short_name": "n8n Enterprise License 2022",
+  "spdx_license_key": "LicenseRef-scancode-n8n-ee-2022",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/n8n-io/n8n/blob/master/LICENSE_EE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0cd96a29a206440ff0dafcfc25df74b8bf9c02adbccc620d7a1ae08aabd80f40"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "esa-pl-weak-copyleft-2.4",
+  "name": "European Space Agency Public License – v2.4 – Weak Copyleft (Type 2)",
+  "short_name": "ESA-PL – v2.4 – Weak Copyleft (Type 2)",
+  "spdx_license_key": "ESA-PL-weak-copyleft-2.4",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "08df69e534ff874c28cd0fd7939520e8916e0d3aea2eeda8e922408e2c6fe051"
+  }
+}

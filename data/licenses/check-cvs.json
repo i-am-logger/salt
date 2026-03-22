@@ -1,0 +1,29 @@
+{
+  "key": "check-cvs",
+  "name": "check-cvs License",
+  "short_name": "check-cvs License",
+  "spdx_license_key": "check-cvs",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eb8ce2713b5433c69b3bd1d1ac3f569db2f750d92b938f93fbf9f6a34631d2e3"
+  }
+}

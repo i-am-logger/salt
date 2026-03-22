@@ -1,0 +1,41 @@
+{
+  "key": "gpl-2.0",
+  "name": "GNU General Public License 2.0",
+  "short_name": "GPL 2.0",
+  "spdx_license_key": "GPL-2.0-only",
+  "category": "Copyleft",
+  "homepage_url": "http://www.gnu.org/licenses/gpl-2.0.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/gpl-2.0.txt",
+    "http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "028a9a6da2048b8a1a39b9759df7eb5850249ec1f2195b559d950f4bc948102a"
+  }
+}

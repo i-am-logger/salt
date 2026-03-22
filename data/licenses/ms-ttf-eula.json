@@ -1,0 +1,26 @@
+{
+  "key": "ms-ttf-eula",
+  "name": "Microsoft TrueType Fonts EULA",
+  "short_name": "MS TrueType Fonts EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-ttf-eula",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2a269d89c4b24db8ddc890666a4da3bd307bdbcf04e0534e2e550d3a48b39d1b"
+  }
+}

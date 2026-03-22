@@ -1,0 +1,38 @@
+{
+  "key": "gsoap-1.3a",
+  "name": "gSOAP Public License v1.3a",
+  "short_name": "gSOAP Public License v1.3a",
+  "spdx_license_key": "LicenseRef-scancode-gsoap-1.3a",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f97e1d9021fb44352ff4f9b3bc76dbfa910c906ae4e645aeedf0170e0712ec01"
+  }
+}

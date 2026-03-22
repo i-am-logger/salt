@@ -1,0 +1,29 @@
+{
+  "key": "caldera",
+  "name": "Caldera License",
+  "short_name": "Caldera License",
+  "spdx_license_key": "Caldera",
+  "category": "Free Restricted",
+  "homepage_url": "https://git.simple-cc.org/scc/file/doc/caldera.txt.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c05da1efb8287f4c8e286fb356314158246433e44b0350095c7d73dcc92cd9f1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "quirksmode",
+  "name": "Quirksmode Copyright Notice",
+  "short_name": "Quirksmode Copyright Notice",
+  "spdx_license_key": "LicenseRef-scancode-quirksmode",
+  "category": "Permissive",
+  "homepage_url": "http://www.quirksmode.org/about/copyright.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f1bd6195f97f24f043ab79a058096c60cb791007ab0f7e01832f4ef3bf4293f0"
+  }
+}

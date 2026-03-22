@@ -1,0 +1,41 @@
+{
+  "key": "ghostscript-1988",
+  "name": "Ghostscript General Public License 1988",
+  "short_name": "Ghostscript General Public License 1988",
+  "spdx_license_key": "LicenseRef-scancode-ghostscript-1988",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [
+    "http://sourceforge.net/p/libpng/code/ci/0d5805822f8817a17937462a2fd0606ffdad378e/tree/ansi2knr.c",
+    "http://www.mit.edu/afs.new/athena/contrib/xemacs/OldFiles/src/aux/libpng-1.0.3/ansi2knr.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4184f82612e278188b2d819707a59602b99b843e429d20ab48f6176f8fb4c43d"
+  }
+}

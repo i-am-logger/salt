@@ -1,0 +1,17 @@
+{
+  "key": "google-corporate-cla",
+  "name": "Google Software Grant and Corporate Contributor License Agreement",
+  "short_name": "Google Corporate CLA",
+  "spdx_license_key": "LicenseRef-scancode-google-corporate-cla",
+  "category": "CLA",
+  "homepage_url": "https://cla.developers.google.com/about/google-corporate",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "33cbbf76a7435bdbec509680bd3cb6953382a2bd4d060107106d3dbe6e360fd0"
+  }
+}

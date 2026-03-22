@@ -1,0 +1,29 @@
+{
+  "key": "motorola",
+  "name": "Motorola Microprocessor & Memory Technology Group License",
+  "short_name": "Motorola Microprocessor License",
+  "spdx_license_key": "LicenseRef-scancode-motorola",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2093de8b8b40bd6072e5c6965d64ca0cb695b3a75e5bb553a76639eb61650b4"
+  }
+}

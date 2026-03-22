@@ -1,0 +1,37 @@
+{
+  "key": "deepseek-la-1.0",
+  "name": "DeepSeek License Agreement v1.0",
+  "short_name": "DeepSeek License Agreement v1.0",
+  "spdx_license_key": "LicenseRef-scancode-deepseek-la-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-MODEL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ff626540b99c927fd6bd34ee051ea90e1fd0be484ff0c1f1f3638d4bfbc12f17"
+  }
+}

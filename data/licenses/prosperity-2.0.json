@@ -1,0 +1,27 @@
+{
+  "key": "prosperity-2.0",
+  "name": "The Prosperity Public License 2.0",
+  "short_name": "Prosperity Public License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-prosperity-2.0",
+  "category": "Source-available",
+  "homepage_url": "https://licensezero.com/licenses/prosperity",
+  "text_urls": [
+    "https://github.com/licensezero/prosperity-public-license/blob/v2.0.0/LICENSE.mustache"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "62439e4fb4162c00bb4207ddc88295ecdd7eaf7f1e08f03f2eb9bade737e8018"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "key": "jj2000",
+  "name": "JJ2000 License",
+  "short_name": "JJ2000 License",
+  "spdx_license_key": "LicenseRef-scancode-jj2000",
+  "category": "Free Restricted",
+  "homepage_url": "https://raw.githubusercontent.com/stain/jai-imageio-jpeg2000/master/LICENSE-JJ2000.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f42f280324dccc114846e7e1ecaa9acf3e34e0f3c980f8fb08ac05dbf1a0cb60"
+  }
+}

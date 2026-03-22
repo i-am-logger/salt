@@ -1,0 +1,26 @@
+{
+  "key": "broadcom-standard-terms",
+  "name": "Broadcom Standard Terms",
+  "short_name": "Broadcom Standard Terms",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-standard-terms",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3a516e16e2eff96babbcf2bd65dbf6fa4f22b67ff494b7c0c96cc6581ea3fcc2"
+  }
+}

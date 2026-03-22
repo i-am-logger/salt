@@ -1,0 +1,31 @@
+{
+  "key": "arm-cortex-mx",
+  "name": "ARM Cortex-Mx Proprietary",
+  "short_name": "ARM Cortex-Mx Proprietary",
+  "spdx_license_key": "LicenseRef-scancode-arm-cortex-mx",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/bitcraze/crazyflie-bootloader/blob/master/stlib/CMSIS/Core/CM3/core_cm3.c"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6011b12d4bd13a258d75c9503a0c159daf30f97176a0f84fe7d7e901f4675462"
+  }
+}

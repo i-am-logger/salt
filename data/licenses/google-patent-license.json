@@ -1,0 +1,22 @@
+{
+  "key": "google-patent-license",
+  "name": "Google Patent License",
+  "short_name": "Google Patent License",
+  "spdx_license_key": "LicenseRef-scancode-google-patent-license",
+  "category": "Patent License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1a5b88667aa1008264be90d7eb85792030b83edcee38e1c63ec8609dfa0a339a"
+  }
+}

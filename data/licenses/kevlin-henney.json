@@ -1,0 +1,29 @@
+{
+  "key": "kevlin-henney",
+  "name": "Kevlin Henney License",
+  "short_name": "Kevlin Henney License",
+  "spdx_license_key": "HPND-Kevlin-Henney",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c3fa64eb9ee69255a51fdb46e6c703675f612144a04be246cbf21fbba4d39013"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "attribution",
+  "name": "Attribution Assurance License",
+  "short_name": "AAL",
+  "spdx_license_key": "AAL",
+  "category": "Permissive",
+  "homepage_url": "http://opensource.org/licenses/attribution.php",
+  "text_urls": [
+    "http://opensource.org/licenses/attribution.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "53ade8ac187fa8618f54e0730983685b1c8b938831d18a8202f2d70dd846aba9"
+  }
+}

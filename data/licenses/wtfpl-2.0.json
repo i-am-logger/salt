@@ -1,0 +1,27 @@
+{
+  "key": "wtfpl-2.0",
+  "name": "WTFPL 2.0",
+  "short_name": "WTFPL 2.0",
+  "spdx_license_key": "WTFPL",
+  "category": "Public Domain",
+  "homepage_url": "http://sam.zoy.org/wtfpl/",
+  "text_urls": [
+    "http://sam.zoy.org/wtfpl/COPYING"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "956d4ed95eb0b56fc368748472a41a7ae43faf5ab5a470dcb7c40db6ba7b74f0"
+  }
+}

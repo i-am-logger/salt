@@ -1,0 +1,24 @@
+{
+  "key": "owfa-1.0-2023-05",
+  "name": "OWFa 1.0 - Patent and Copyright Grants - 2023-05",
+  "short_name": "OWFa 1.0 - Patent and Copyright Grants - 2023-05",
+  "spdx_license_key": "LicenseRef-scancode-owfa-1.0-2023-05",
+  "category": "Patent License",
+  "homepage_url": "https://www.opencompute.org/documents/owfa10-final-specification-agreement-fsa-as-of-may-2023",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "56e60140b0b42317c30e24aafcc81d2bf30e2acc4733cd6de1d8180e1ef6b53c"
+  }
+}

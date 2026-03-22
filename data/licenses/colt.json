@@ -1,0 +1,31 @@
+{
+  "key": "colt",
+  "name": "Colt License Agreement",
+  "short_name": "Colt License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-colt",
+  "category": "Free Restricted",
+  "homepage_url": "http://acs.lbl.gov/software/colt/license.html",
+  "text_urls": [
+    "http://acs.lbl.gov/software/colt/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eb1012ec3018b82f945559ede74ac1acfd8d75cfdf2dce3f1a1e56ed7b7d5bde"
+  }
+}

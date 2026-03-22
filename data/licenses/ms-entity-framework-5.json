@@ -1,0 +1,31 @@
+{
+  "key": "ms-entity-framework-5",
+  "name": "MS Entity Framework 5 License",
+  "short_name": "MS Entity Framework 5 License",
+  "spdx_license_key": "LicenseRef-scancode-ms-entity-framework-5",
+  "category": "Proprietary Free",
+  "homepage_url": "http://msdn.microsoft.com/en-US/data/jj250905",
+  "text_urls": [
+    "http://msdn.microsoft.com/en-US/data/jj250905"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "865c3b1423b4e9073aa65895cbc61d629f25656a92ccdf86d69992102c0a48e4"
+  }
+}

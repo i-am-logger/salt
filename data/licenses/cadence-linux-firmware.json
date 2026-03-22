@@ -1,0 +1,29 @@
+{
+  "key": "cadence-linux-firmware",
+  "name": "Cadence Linux Firmware License",
+  "short_name": "Cadence Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-cadence-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.cadence",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bf54abe22e124443bb586ba40c8cb89cb6b10e9b12d0db48aebdbb202ccf58f0"
+  }
+}

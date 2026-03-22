@@ -1,0 +1,31 @@
+{
+  "key": "zpl-1.0",
+  "name": "Zope Public License 1.0",
+  "short_name": "ZPL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-zpl-1.0",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "http://old.zope.org/Members/ensane/PTK2CMF/copy_folders.py.1"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce8cbb893b1980bc3a050c44dc70446502f6b6c8ad14d5e8f24f9ae8ee7c0de7"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "apache-1.1",
+  "name": "Apache License 1.1",
+  "short_name": "Apache 1.1",
+  "spdx_license_key": "Apache-1.1",
+  "category": "Permissive",
+  "homepage_url": "http://www.apache.org/licenses/",
+  "text_urls": [
+    "http://apache.org/licenses/LICENSE-1.1"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b6661196adfffc040eb6b82e35ee6d6858f2c0a2bf541192086194101eea944f"
+  }
+}

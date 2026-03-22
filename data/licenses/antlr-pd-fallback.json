@@ -1,0 +1,24 @@
+{
+  "key": "antlr-pd-fallback",
+  "name": "ANTLR Software Rights Notice with license fallback",
+  "short_name": "ANTLR-PD with fallback",
+  "spdx_license_key": "ANTLR-PD-fallback",
+  "category": "Public Domain",
+  "homepage_url": "http://www.antlr2.org/",
+  "text_urls": [
+    "http://www.antlr2.org/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5991bab1b2e90f933b56e6f91f8ab6c1056d4855dd4544427c06c1084da8a20f"
+  }
+}

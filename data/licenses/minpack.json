@@ -1,0 +1,31 @@
+{
+  "key": "minpack",
+  "name": "Minpack Copyright Notice",
+  "short_name": "Minpack Copyright Notice",
+  "spdx_license_key": "Minpack",
+  "category": "Permissive",
+  "homepage_url": "http://www.netlib.org/minpack/disclaimer",
+  "text_urls": [
+    "http://www.netlib.org/minpack/disclaimer"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "26976a147b92f94625e35fac57da12839a01d83fcbd4a410bdaaa81dae6d005b"
+  }
+}

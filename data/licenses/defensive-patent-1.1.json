@@ -1,0 +1,32 @@
+{
+  "key": "defensive-patent-1.1",
+  "name": "Defensive Patent License v1.1",
+  "short_name": "Defensive Patent License v1.1",
+  "spdx_license_key": "LicenseRef-scancode-defensive-patent-1.1",
+  "category": "Copyleft",
+  "homepage_url": "https://www.defensivepatentlicense.org/",
+  "text_urls": [
+    "https://www.defensivepatentlicense.org/license"
+  ],
+  "grants": [
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "55abc89f27dae309c65ca10e8b6874e314dd76a46ba2e0a2786ffd3fa142cbb1"
+  }
+}

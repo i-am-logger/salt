@@ -1,0 +1,41 @@
+{
+  "key": "cc-gpl-2.0-pt",
+  "name": "Creative Commons Licença Pública Geral do GNU (GPL) [General Public License]",
+  "short_name": "CC-GPL-2.0-PT",
+  "spdx_license_key": "LicenseRef-scancode-cc-gpl-2.0-pt",
+  "category": "Copyleft",
+  "homepage_url": "https://creativecommons.org/licenses/GPL/2.0/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/GPL/2.0/legalcode.pt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0628c9cb88bbbe4dd8cb81b55a2e59956f6849abcd94e08cda330d2f831fc16"
+  }
+}

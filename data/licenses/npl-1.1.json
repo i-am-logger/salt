@@ -1,0 +1,42 @@
+{
+  "key": "npl-1.1",
+  "name": "Netscape Public License 1.1",
+  "short_name": "NPL 1.1",
+  "spdx_license_key": "NPL-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.mozilla.org/MPL/NPL-1.1.html",
+  "text_urls": [
+    "http://www.mozilla.org/MPL/NPL-1.1.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "93a2a7db6e541df15c4aa2e7ba9f16428fb9a02eb6ae8859d32705543d5b545d"
+  }
+}

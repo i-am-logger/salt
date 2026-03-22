@@ -1,0 +1,42 @@
+{
+  "key": "cern-ohl-s-2.0",
+  "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+  "short_name": "CERN-OHL-S-2.0",
+  "spdx_license_key": "CERN-OHL-S-2.0",
+  "category": "Copyleft",
+  "homepage_url": "https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2",
+  "text_urls": [
+    "https://ohwr.org/cern_ohl_s_v2.txt",
+    "https://ohwr.org/project/cernohl/wikis/uploads/002d0b7d5066e6b3829168730237bddb/cern_ohl_s_v2.txt",
+    "https://ohwr.org/project/cernohl/wikis/uploads/ee7922912e58f8676e1d7ff841b391cb/cern_ohl_s_v2.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5ceade48276569efc7566bbd27beded8684a2986d080cf20277fa1e0224bc295"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "esa-pl-permissive-2.4",
+  "name": "European Space Agency Public License – v2.4 – Permissive (Type 3)",
+  "short_name": "ESA-PL – v2.4 – Permissive (Type 3)",
+  "spdx_license_key": "ESA-PL-permissive-2.4",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0c0b395879de3d26623c9a3c5311c4f2174e4bf55dd74805803e14db6b534dd"
+  }
+}

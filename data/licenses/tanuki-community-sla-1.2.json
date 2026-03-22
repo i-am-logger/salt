@@ -1,0 +1,38 @@
+{
+  "key": "tanuki-community-sla-1.2",
+  "name": "Tanuki Community Software License Agreement 1.2",
+  "short_name": "Tanuki Community SLA 1.2",
+  "spdx_license_key": "LicenseRef-scancode-tanuki-community-sla-1.2",
+  "category": "Copyleft",
+  "homepage_url": "http://wrapper.tanukisoftware.com/doc/english/licenseCommunity.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "59f0fb298a1ee248634a8b0687aad0e7993c8a8efe1072ca6730d8451b3bc362"
+  }
+}

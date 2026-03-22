@@ -1,0 +1,33 @@
+{
+  "key": "matplotlib-1.3.0",
+  "name": "matplotlib 1.3.0",
+  "short_name": "matplotlib 1.3.0",
+  "spdx_license_key": "LicenseRef-scancode-matplotlib-1.3.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c30290cbeabfa9d33882b3fc5281e6168e4e7202e8c439cae321f72804fb98d5"
+  }
+}

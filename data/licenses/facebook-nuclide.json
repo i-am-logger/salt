@@ -1,0 +1,30 @@
+{
+  "key": "facebook-nuclide",
+  "name": "Facebook License Agreement for Nuclide Software",
+  "short_name": "Facebook Nuclide Software License",
+  "spdx_license_key": "LicenseRef-scancode-facebook-nuclide",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/facebook/nuclide/blob/master/LICENSE",
+  "text_urls": [
+    "https://github.com/facebook/nuclide/blob/e961c4d3461c3abc35a6f8ccaf3f6e959b622f1e/LICENSE"
+  ],
+  "grants": [
+    "private-use",
+    "modifications",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "62146e1c1417542d979d628c08d9d2d86124d4c3bdd613d144fb99cba72e91c2"
+  }
+}

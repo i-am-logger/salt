@@ -1,0 +1,29 @@
+{
+  "key": "bsd-innosys",
+  "name": "BSD-InnoSys",
+  "short_name": "BSD-InnoSys",
+  "spdx_license_key": "LicenseRef-scancode-bsd-innosys",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e573b5d3aca570831b493e54acf02f48766b82db9a4c01583631ffa487671eef"
+  }
+}

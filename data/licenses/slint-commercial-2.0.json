@@ -1,0 +1,29 @@
+{
+  "key": "slint-commercial-2.0",
+  "name": "Slint Software License Agreement Version 2.0",
+  "short_name": "Slint Commercial License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-slint-commercial-2.0",
+  "category": "Commercial",
+  "homepage_url": "https://raw.githubusercontent.com/slint-ui/slint/master/LICENSES/LicenseRef-Slint-commercial.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b7e47ce602ef7813295152978aae9b588d848ece7ff6d34325f93120989d8ce9"
+  }
+}

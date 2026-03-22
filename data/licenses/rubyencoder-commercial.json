@@ -1,0 +1,26 @@
+{
+  "key": "rubyencoder-commercial",
+  "name": "RubyEncoder Commercial Licence",
+  "short_name": "RubyEncoder Commercial Licence",
+  "spdx_license_key": "LicenseRef-scancode-rubyencoder-commercial",
+  "category": "Commercial",
+  "homepage_url": "https://www.rubyencoder.com/terms.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "06d137575b33cab44c282454c89d201eac777837eb2fab4832a9d32269de722e"
+  }
+}

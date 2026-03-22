@@ -1,0 +1,22 @@
+{
+  "key": "wthpl-1.0",
+  "name": "DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE 1.0",
+  "short_name": "WTHPL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-wthpl-1.0",
+  "category": "Public Domain",
+  "homepage_url": "https://github.com/UltCombo/WTHPL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a30c34c7ecab22789164d16594e323704499c6403a1428d4e9c6dee43525bcc3"
+  }
+}

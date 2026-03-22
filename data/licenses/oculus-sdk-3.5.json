@@ -1,0 +1,25 @@
+{
+  "key": "oculus-sdk-3.5",
+  "name": "Oculus Software Development Kit License Agreement v3.5",
+  "short_name": "Oculus SDK License Agreement v3.5",
+  "spdx_license_key": "LicenseRef-scancode-oculus-sdk-3.5",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.oculus.com/licenses/sdk-3.5/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea89973eb77c526d9bcd404f2a9b106fca3dcb6eee973b94e63ee31e32e18470"
+  }
+}

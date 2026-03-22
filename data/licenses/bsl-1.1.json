@@ -1,0 +1,26 @@
+{
+  "key": "bsl-1.1",
+  "name": "Business Source License 1.1",
+  "short_name": "Business Source License 1.1",
+  "spdx_license_key": "BUSL-1.1",
+  "category": "Source-available",
+  "homepage_url": "https://mariadb.com/bsl11/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "51509e0c4140e9f43d76bd145f6ae6d05004a374b871c6eedf9f8fe6b3ed8fdb"
+  }
+}

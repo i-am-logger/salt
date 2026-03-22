@@ -1,0 +1,26 @@
+{
+  "key": "activestate-community",
+  "name": "ActiveState Community License",
+  "short_name": "ActiveState Community License",
+  "spdx_license_key": "LicenseRef-scancode-activestate-community",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d400514efd11afb2a4264e684a17563283a51168bc23531164e97ea94cd1cce8"
+  }
+}

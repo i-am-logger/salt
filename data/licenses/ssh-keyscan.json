@@ -1,0 +1,29 @@
+{
+  "key": "ssh-keyscan",
+  "name": "ssh-keyscan License",
+  "short_name": "ssh-keyscan License",
+  "spdx_license_key": "ssh-keyscan",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1816481f9ba07a38f443e439a0861c1503c2ccaeb3049ba4af61c273e6e455b6"
+  }
+}

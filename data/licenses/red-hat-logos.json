@@ -1,0 +1,30 @@
+{
+  "key": "red-hat-logos",
+  "name": "Red Hat Logos License",
+  "short_name": "Red Hat Logos License",
+  "spdx_license_key": "LicenseRef-scancode-red-hat-logos",
+  "category": "Proprietary Free",
+  "homepage_url": "http://webcache.googleusercontent.com/search?q=cache:http://www.sslug.dk/~chlor/rpm3html/pack/redhat-logos.html",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e915156cf38f99b1ee9fc2c9e7491db146ae939759b973e44f8fd42b06468881"
+  }
+}

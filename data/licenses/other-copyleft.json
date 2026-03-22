@@ -1,0 +1,38 @@
+{
+  "key": "other-copyleft",
+  "name": "Other Copyleft Licenses",
+  "short_name": "Other Copyleft Licenses",
+  "spdx_license_key": "LicenseRef-scancode-other-copyleft",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bd07f88c9ec8f5338524f822df88fdfffb9ba0e623aa3c7188f4aa0756ad9b2e"
+  }
+}

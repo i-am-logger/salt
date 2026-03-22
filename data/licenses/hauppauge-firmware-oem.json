@@ -1,0 +1,25 @@
+{
+  "key": "hauppauge-firmware-oem",
+  "name": "Hauppauge Firmware OEM License",
+  "short_name": "Hauppauge Firmware OEM License",
+  "spdx_license_key": "LicenseRef-scancode-hauppauge-firmware-oem",
+  "category": "Proprietary Free",
+  "homepage_url": "https://lists.debian.org/debian-devel/2007/02/msg00498.html",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ba3c27f85e415a6db640f038ecd621121c25b6e93adda8840cb9530d8bd6cb6f"
+  }
+}

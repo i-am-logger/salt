@@ -1,0 +1,37 @@
+{
+  "key": "zimbra-1.4",
+  "name": "Zimbra Public License v1.4",
+  "short_name": "Zimbra PL 1.4",
+  "spdx_license_key": "Zimbra-1.4",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.zimbra.com/legal/zimbra-public-license-1-4",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e96e774757e90dc973e178bfed30086a993cc573c61d703ed0edf359d0d83958"
+  }
+}

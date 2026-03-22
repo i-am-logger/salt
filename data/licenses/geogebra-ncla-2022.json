@@ -1,0 +1,30 @@
+{
+  "key": "geogebra-ncla-2022",
+  "name": "GeoGebra Non-Commercial License Agreement 2022",
+  "short_name": "GeoGebra Non-Commercial License 2022",
+  "spdx_license_key": "LicenseRef-scancode-geogebra-ncla-2022",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.geogebra.org/license#NonCommercialLicenseAgreement",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "26c2a4d33a9f9fde44583e00e68b5b588dc25aaa76f4831886252bc1d1a0a680"
+  }
+}

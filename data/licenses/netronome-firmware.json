@@ -1,0 +1,26 @@
+{
+  "key": "netronome-firmware",
+  "name": "Netronome Firmware License",
+  "short_name": "Netronome Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-netronome-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.Netronome",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "61998e4e9841d15a951f93b252ca5e6ce9e0e98e3647107e66f36d22f60e9ff7"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sun-entitlement-03-15",
+  "name": "Sun Entitlement 3 plus 15",
+  "short_name": "Sun Entitlement 3 plus 15",
+  "spdx_license_key": "LicenseRef-scancode-sun-entitlement-03-15",
+  "category": "Proprietary Free",
+  "homepage_url": "http://download.java.net/media/jai-imageio/builds/release/1.1/LICENSE-jai_imageio.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6ea09e6c9e5b0e3819d58877e047459778bd169f169c9e2974425aad1cdf34f0"
+  }
+}

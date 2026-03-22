@@ -1,0 +1,29 @@
+{
+  "key": "script-asylum",
+  "name": "Script Asylum License",
+  "short_name": "Script Asylum License",
+  "spdx_license_key": "LicenseRef-scancode-script-asylum",
+  "category": "Permissive",
+  "homepage_url": "http://web.archive.org/web/20030720033728/http://www.scriptasylum.com/faqpage.html#p7",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "74043927f52b16909ea40c537e3e8d5effe455b0ff35f7486c8e0b50b6d0c970"
+  }
+}

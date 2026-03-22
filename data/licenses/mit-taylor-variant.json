@@ -1,0 +1,29 @@
+{
+  "key": "mit-taylor-variant",
+  "name": "MIT Taylor Variant",
+  "short_name": "MIT Taylor Variant",
+  "spdx_license_key": "pkgconf",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c5b1bde9ebc2c62744d15656a5497da69a00c5d0967bf52bfcc563c7630b3d2e"
+  }
+}

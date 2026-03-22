@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-plus-ada",
+  "name": "GPL 2.0 or later with Ada exception",
+  "short_name": "GPL 2.0 or later with Ada exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0ed0079e8f6f43533e8047b63592544df721ae1f3565f361b7aab7bafd529169"
+  }
+}

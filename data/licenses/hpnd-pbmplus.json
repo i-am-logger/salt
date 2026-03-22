@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-pbmplus",
+  "name": "Historical Permission Notice and Disclaimer Pbmplus variant",
+  "short_name": "Historical Pbmplus variant",
+  "spdx_license_key": "HPND-Pbmplus",
+  "category": "Permissive",
+  "homepage_url": "http://web.mit.edu/tex/fontutil/fontutils-0.6/pbm/libpbm1.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "864d4de8663c87ed5dde397e0b1fd04b66e1baea4de1b4183a5a29d64d641bd4"
+  }
+}

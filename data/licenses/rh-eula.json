@@ -1,0 +1,40 @@
+{
+  "key": "rh-eula",
+  "name": "Red Hat EULA for Enterprise Linux and Applications",
+  "short_name": "Red Hat EULA",
+  "spdx_license_key": "LicenseRef-scancode-rh-eula",
+  "category": "Copyleft",
+  "homepage_url": "https://www.redhat.com/en/about/eulas",
+  "text_urls": [
+    "http://www.redhat.com/f/pdf/licenses/GLOBAL_EULA_RHEL_English_20101110.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ab3499c276aeea5d0b3061139fc9f88bcff1063ba06f13b99bc187e8bb26e459"
+  }
+}

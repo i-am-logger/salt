@@ -1,0 +1,36 @@
+{
+  "key": "cern-ohl-p-2.0",
+  "name": "CERN Open Hardware Licence Version 2 - Permissive",
+  "short_name": "CERN-OHL-P-2.0",
+  "spdx_license_key": "CERN-OHL-P-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2",
+  "text_urls": [
+    "https://ohwr.org/cern_ohl_p_v2.txt",
+    "https://ohwr.org/project/cernohl/wikis/uploads/055bd8b281d0805a3a38188838b370e1/cern_ohl_p_v2.pdf",
+    "https://ohwr.org/project/cernohl/wikis/uploads/5a639eaec042c5584104afdbc9350245/cern_ohl_p_v2.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2f67440159b0867b803330f7fd680326d2d1a24150bb0ac0524a9a584c221b7"
+  }
+}

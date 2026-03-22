@@ -1,0 +1,30 @@
+{
+  "key": "couchbase-enterprise",
+  "name": "Couchbase Enterprise Edition License",
+  "short_name": "Couchbase Enterprise Edition License",
+  "spdx_license_key": "LicenseRef-scancode-couchbase-enterprise",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.couchbase.com/download",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8e03492ff74b2a1c6093476d28cce73f3c6f71c758a3bfb31f9dfa6dd5ee1c1d"
+  }
+}

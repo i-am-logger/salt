@@ -1,0 +1,29 @@
+{
+  "key": "takuya-ooura",
+  "name": "Takuya OOURA License",
+  "short_name": "Takuya OOURA License",
+  "spdx_license_key": "LicenseRef-scancode-takuya-ooura",
+  "category": "Permissive",
+  "homepage_url": "http://www.kurims.kyoto-u.ac.jp/~ooura/fft.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ff32111d5a1900d0ced1ad003b3505921fa2c8762a890dad0c4b2c5a86a52307"
+  }
+}

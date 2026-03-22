@@ -1,0 +1,42 @@
+{
+  "key": "tpl-1.0",
+  "name": "Terracotta Public License 1.0",
+  "short_name": "TPL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-tpl-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://terracotta.org/legal/terracotta-public-license",
+  "text_urls": [
+    "http://terracotta.org/legal/terracotta-public-license"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "32dc9b0ac7ed107a578fa474554145573f3c7a8b25046b4de9282454190d7c25"
+  }
+}

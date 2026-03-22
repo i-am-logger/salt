@@ -1,0 +1,29 @@
+{
+  "key": "dvipdfm",
+  "name": "dvipdfm License",
+  "short_name": "dvipdfm License",
+  "spdx_license_key": "dvipdfm",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/dvipdfm",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "88575bff8e797ef40201d3756d25ee5cf16865883e72211a9612949159969e4a"
+  }
+}

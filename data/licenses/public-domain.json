@@ -1,0 +1,26 @@
+{
+  "key": "public-domain",
+  "name": "Public Domain",
+  "short_name": "Public Domain",
+  "spdx_license_key": "LicenseRef-scancode-public-domain",
+  "category": "Public Domain",
+  "homepage_url": "http://www.linfo.org/publicdomain.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9e1f449eeb4ac19ed3435649db676fd49df641a50842635d6e7c3fed9629f1d0"
+  }
+}

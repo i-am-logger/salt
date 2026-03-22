@@ -1,0 +1,41 @@
+{
+  "key": "cc-lgpl-2.1-pt",
+  "name": "Creative Commons Licença Pública Geral Menor do GNU",
+  "short_name": "CC-LGPL-2.1-PT",
+  "spdx_license_key": "LicenseRef-scancode-cc-lgpl-2.1-pt",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://creativecommons.org/licenses/LGPL/2.1/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/LGPL/2.1/legalcode.pt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "88436453e3f19532c95a90a40510abff66c560f1c9bdc64efb63228de2f9a63d"
+  }
+}

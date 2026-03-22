@@ -1,0 +1,29 @@
+{
+  "key": "ms-reactive-extensions-eula",
+  "name": "Microsoft Reactive Extensions EULA",
+  "short_name": "MS Reactive Extensions EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-reactive-extensions-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://msdn.microsoft.com/en-us/hh295787",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8508a2df5bd742489473929b73ec408ec490115049a33b23179d0001fb2c0196"
+  }
+}

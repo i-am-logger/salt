@@ -1,0 +1,31 @@
+{
+  "key": "w3c-test-suite",
+  "name": "W3C Test Suite Licence",
+  "short_name": "W3C Test Suite",
+  "spdx_license_key": "LicenseRef-scancode-w3c-test-suite",
+  "category": "Free Restricted",
+  "homepage_url": "https://www.w3.org/Consortium/Legal/2008/04-testsuite-license.html",
+  "text_urls": [
+    "https://raw.githubusercontent.com/gonum/gonum/master/THIRD_PARTY_LICENSES/W3C-TestSuite-LICENSE"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ca92cc4e54eaa4fdbdcec3bd889d791d8e0a2e6743b167a2f64512af6a7ea790"
+  }
+}

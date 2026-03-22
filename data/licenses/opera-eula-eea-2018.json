@@ -1,0 +1,25 @@
+{
+  "key": "opera-eula-eea-2018",
+  "name": "Opera EULA for European Economic Area 2018",
+  "short_name": "Opera EULA EEA 2018",
+  "spdx_license_key": "LicenseRef-scancode-opera-eula-eea-2018",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.opera.com/eula/computers/eea",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c587feaf6bc2679ab58a64effb59eaadfe4ad5466bcd44ae45da18d8d08fd3c8"
+  }
+}

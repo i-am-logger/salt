@@ -1,0 +1,25 @@
+{
+  "key": "sandeep",
+  "name": "Sandeep License",
+  "short_name": "Sandeep License",
+  "spdx_license_key": "LicenseRef-scancode-sandeep",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.sivamdesign.com/scripts/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "277add22320addee92c7410c8cd15f861033bf84b163c2ae335e8d0496cab52a"
+  }
+}

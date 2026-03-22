@@ -1,0 +1,32 @@
+{
+  "key": "cmu-nara-nagoya",
+  "name": "CMU Nara Nagoya License",
+  "short_name": "CMU Nara Nagoya License",
+  "spdx_license_key": "LicenseRef-scancode-cmu-nara-nagoya",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/festvox/flite/blob/master/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "49e960c3edb5e1516635b2b8f67270812d7ec989ca69698ad59b8b28274b1640"
+  }
+}

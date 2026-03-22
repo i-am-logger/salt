@@ -1,0 +1,25 @@
+{
+  "key": "acroname-bdk",
+  "name": "Acroname Brainstem Development Kit license",
+  "short_name": "Acroname BDK",
+  "spdx_license_key": "LicenseRef-scancode-acroname-bdk",
+  "category": "Proprietary Free",
+  "homepage_url": "https://acroname.com/software-license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5ac15643706c48fb038e23b9d0a877d8d54f692a7554d0e6ed1eab98fd9b51f8"
+  }
+}

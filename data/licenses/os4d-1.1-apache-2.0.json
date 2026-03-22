@@ -1,0 +1,32 @@
+{
+  "key": "os4d-1.1-apache-2.0",
+  "name": "Bitcaster Source License, Version 1.1, Apache 2.0 Future License",
+  "short_name": "OS4D-1.1-Apache-2.0",
+  "spdx_license_key": "LicenseRef-scancode-os4d-1.1-apache-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/bitcaster-io/bitcaster/blob/develop/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use",
+    "patent-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1043eb6b27b2a482465ae4ecdcf2344f8384b18145762368639fe172a22e346d"
+  }
+}

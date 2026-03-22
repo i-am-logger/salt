@@ -1,0 +1,29 @@
+{
+  "key": "psf-2.0",
+  "name": "PSF-2.0",
+  "short_name": "PSF-2.0",
+  "spdx_license_key": "PSF-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://opensource.org/licenses/Python-2.0",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "88f9e5a017cbf04859d363c2db244b1622fd734f55197907e212a14da28c30e8"
+  }
+}

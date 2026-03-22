@@ -1,0 +1,33 @@
+{
+  "key": "cc-by-nc-sa-2.0-de",
+  "name": "Creative Commons Attribution Non Commercial Share Alike 2.0 Germany",
+  "short_name": "CC-BY-NC-SA-2.0-DE",
+  "spdx_license_key": "CC-BY-NC-SA-2.0-DE",
+  "category": "Non-Commercial",
+  "homepage_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/legalcode",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6f10f9c850d7e8537c448219a611170bbf6d8cd32ae5fa30c50f34a1be3dc9f2"
+  }
+}

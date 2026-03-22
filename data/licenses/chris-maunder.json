@@ -1,0 +1,29 @@
+{
+  "key": "chris-maunder",
+  "name": "Chris Maunder License",
+  "short_name": "Chris Maunder License",
+  "spdx_license_key": "LicenseRef-scancode-chris-maunder",
+  "category": "Permissive",
+  "homepage_url": "http://www.codeproject.com/Members/Chris-Maunder",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b637481dbc6451405d7b4517cda8206c12ebcb1266a919b2da380f02ac180876"
+  }
+}

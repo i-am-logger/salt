@@ -1,0 +1,34 @@
+{
+  "key": "moderne-sala-2024",
+  "name": "Moderne Source Available License Agreement 2024",
+  "short_name": "Moderne Source Available License 2024",
+  "spdx_license_key": "LicenseRef-scancode-moderne-sala-2024",
+  "category": "Source-available",
+  "homepage_url": "https://docs.moderne.io/licensing/moderne-source-available-license/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2ff2fd7a85c1c4996c24520a965a001154770eaae3c73905b8a3a45ee8fbbba"
+  }
+}

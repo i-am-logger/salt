@@ -1,0 +1,30 @@
+{
+  "key": "ms-visual-2015-sdk",
+  "name": "Microsoft Visual Studio 2015 Software Development Kit License",
+  "short_name": "MS Visual Studio 2015 SDK",
+  "spdx_license_key": "LicenseRef-scancode-ms-visual-2015-sdk",
+  "category": "Proprietary Free",
+  "homepage_url": "https://visualstudio.microsoft.com/license-terms/mt171586/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d5c10cd2eb698d048fa432a75fce9b4451112665f59a68740b813a268b035938"
+  }
+}

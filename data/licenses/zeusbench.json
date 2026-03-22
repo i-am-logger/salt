@@ -1,0 +1,29 @@
+{
+  "key": "zeusbench",
+  "name": "ZeusBench notice",
+  "short_name": "ZeusBench notice",
+  "spdx_license_key": "LicenseRef-scancode-zeusbench",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e8f29d16465720d231d807e66bc8093c24c0acc2c78f44eb7058727f4c23081b"
+  }
+}

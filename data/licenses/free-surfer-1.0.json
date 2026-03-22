@@ -1,0 +1,30 @@
+{
+  "key": "free-surfer-1.0",
+  "name": "FreeSurfer Software License Agreement 1.0",
+  "short_name": "FreeSurfer Software License Agreement 1.0",
+  "spdx_license_key": "LicenseRef-scancode-free-surfer-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferSoftwareLicense",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a1b9b34906c2b5ec11797c4813d4e54244788efa1f4ed03d2e2fe4d75bfb5629"
+  }
+}

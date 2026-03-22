@@ -1,0 +1,24 @@
+{
+  "key": "dwtfnmfpl-3.0",
+  "name": "DWTFNMFPL-3.0",
+  "short_name": "DWTFNMFPL-3.0",
+  "spdx_license_key": "LicenseRef-scancode-dwtfnmfpl-3.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/dittodhole/WTFNMFPLv3",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6127e6fe12ad64cce657660a242eda8390c0621e41eed168427cbc64616f16b4"
+  }
+}

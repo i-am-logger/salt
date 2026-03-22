@@ -1,0 +1,32 @@
+{
+  "key": "mir-os",
+  "name": "MirOS License",
+  "short_name": "MirOS License",
+  "spdx_license_key": "MirOS",
+  "category": "Permissive",
+  "homepage_url": "https://www.mirbsd.org/MirOS-Licence",
+  "text_urls": [
+    "http://opensource.org/licenses/miros.html",
+    "https://www.mirbsd.org/about.htm#licence"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8193072335d5c273ae75a5c9f186e8e62b1affb40824bf8030cb3967eef8c44d"
+  }
+}

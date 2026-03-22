@@ -1,0 +1,37 @@
+{
+  "key": "acdl-1.0",
+  "name": "Apple Common Documentation License v1.0",
+  "short_name": "ACDL 1.0",
+  "spdx_license_key": "CDL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/Common_Documentation_License",
+  "text_urls": [
+    "http://www.opensource.apple.com/cdl/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1e7f1637d4bb0884d72968ec9ce77ab8694c63e3a1b71a84f5fa6cb0604a8f57"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "mstar-2012",
+  "name": "MStar Proprietary License 2012",
+  "short_name": "MStar Proprietary License 2012",
+  "spdx_license_key": "LicenseRef-scancode-mstar-2012",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/GracieZhou/test/blob/master/CODE/android/vendor/mstar/supernova/projects/msrv/system_database/inc/MSrv_System_Database.h",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c98a7b8a0c773ee16a8ace921f5b29c7a340275ebc0085531d1218794ae068b1"
+  }
+}

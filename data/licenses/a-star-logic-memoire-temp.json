@@ -1,0 +1,26 @@
+{
+  "key": "a-star-logic-memoire-temp",
+  "name": "A-Star-Logic Memoire temporary License",
+  "short_name": "A-Star-Logic Memoire temporary License",
+  "spdx_license_key": "LicenseRef-scancode-a-star-logic-memoire-temp",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/A-star-logic/memoire/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4cee4ac963fa2a51cebd8e7c50c4d1cb6aa81a4fcd663fc5a47378793246a42e"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "realm-platform-extension-2017",
+  "name": "Realm Platform Extensions License 2017",
+  "short_name": "Realm Platform Extensions License 2017",
+  "spdx_license_key": "LicenseRef-scancode-realm-platform-extension-2017",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/realm/realm-studio/blob/channel/major-10/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e551db2b5d09dea1fa8a1f8f9c439aa73af89c038ab3658359cfaec8e892fd03"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "timestamp-picker",
+  "name": "Timestamp Picker License",
+  "short_name": "Timestamp Picker License",
+  "spdx_license_key": "LicenseRef-scancode-timestamp-picker",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d44b6310146104c461f83299c91586461b0c7c0e45ca66736c5a504cefaee953"
+  }
+}

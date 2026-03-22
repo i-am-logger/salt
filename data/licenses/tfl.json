@@ -1,0 +1,26 @@
+{
+  "key": "tfl",
+  "name": "Truly Free License",
+  "short_name": "TFL",
+  "spdx_license_key": "LicenseRef-scancode-tfl",
+  "category": "Public Domain",
+  "homepage_url": "https://www.purposeful.co.uk/tfl/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f7544c1b12be9929a06236885f6f57e8d9c4d927bb7bf35571657029cb4cbc3d"
+  }
+}

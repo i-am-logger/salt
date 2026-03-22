@@ -1,0 +1,41 @@
+{
+  "key": "openssl-exception-gpl-2.0",
+  "name": "OpenSSL exception to GPL 2.0",
+  "short_name": "OpenSSL exception to GPL 2.0",
+  "spdx_license_key": "x11vnc-openssl-exception",
+  "category": "Copyleft",
+  "homepage_url": "http://www.openssl.org/source/license.html",
+  "text_urls": [
+    "http://www.openssl.org/source/license.html",
+    "http://www.gnu.org/licenses/gpl-2.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a42fc31adacf73e73548f7f5797c2ebad823bddced35bc6f4ebcc1c41663fdfc"
+  }
+}

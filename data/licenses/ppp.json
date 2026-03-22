@@ -1,0 +1,29 @@
+{
+  "key": "ppp",
+  "name": "ppp License",
+  "short_name": "ppp License",
+  "spdx_license_key": "LicenseRef-scancode-ppp",
+  "category": "Permissive",
+  "homepage_url": "http://www.scs.stanford.edu/histar/src/pkg/lwip/netif/ppp/pppdebug.h",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ee90b513d8c30df0f57a5d48737787b77ae1b87d2ee2960571e3d55e6f65feba"
+  }
+}

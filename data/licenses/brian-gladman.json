@@ -1,0 +1,31 @@
+{
+  "key": "brian-gladman",
+  "name": "Brian Gladman License",
+  "short_name": "Brian Gladman License",
+  "spdx_license_key": "Brian-Gladman-2-Clause",
+  "category": "Permissive",
+  "homepage_url": "http://www.gladman.me.uk/AES",
+  "text_urls": [
+    "http://gladman.plushost.co.uk/oldsite/AES/aes-src-12-09-11.zip"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "79b2497fc7b8abaaea4022c0bb290f2648790375c8d6960a37bb0deac3768160"
+  }
+}

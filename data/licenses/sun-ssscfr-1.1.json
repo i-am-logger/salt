@@ -1,0 +1,36 @@
+{
+  "key": "sun-ssscfr-1.1",
+  "name": "Sun Solaris Source Code (Foundation Release) License 1.1",
+  "short_name": "Sun Solaris Source Code License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-sun-ssscfr-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.mibsoftware.com/librock/librock/license/ssscfr.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b784836239d28e0be3a62e4f440f995cfe49e7a15eca4fa7ec9b9e2420ebef53"
+  }
+}

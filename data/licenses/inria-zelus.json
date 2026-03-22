@@ -1,0 +1,35 @@
+{
+  "key": "inria-zelus",
+  "name": "INRIA Non-Commercial License Agreement for the Zélus compiler",
+  "short_name": "INRIA NCLA Zelus",
+  "spdx_license_key": "LicenseRef-scancode-inria-zelus",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/INRIA/zelus/blob/main/LICENSE",
+  "text_urls": [
+    "https://raw.githubusercontent.com/INRIA/zelus/829f2b97cba93b0543a9ca0272269e6b8fdad356/LICENSE"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9fceb0b24d59af5c6522f7734ecfa51cb09c56d86dc0d17b23a402db64743a52"
+  }
+}

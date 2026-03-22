@@ -1,0 +1,25 @@
+{
+  "key": "sun-bcl-j2re-1.4.x",
+  "name": "Sun BCL J2RE 1.4.X",
+  "short_name": "Sun BCL J2RE 1.4.X",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-j2re-1.4.x",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e7567120ea4d3993939472882c3b60993e82174da065aaa33f46c86497cffc54"
+  }
+}

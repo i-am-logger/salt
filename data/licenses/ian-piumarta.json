@@ -1,0 +1,29 @@
+{
+  "key": "ian-piumarta",
+  "name": "Ian Piumarta License",
+  "short_name": "Ian Piumarta License",
+  "spdx_license_key": "LicenseRef-scancode-ian-piumarta",
+  "category": "Permissive",
+  "homepage_url": "http://piumarta.com/software/peg/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b207ce3c596057cfe20e053858bafa37c6e649033e793dc4231b40bb47871c69"
+  }
+}

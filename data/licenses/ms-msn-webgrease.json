@@ -1,0 +1,29 @@
+{
+  "key": "ms-msn-webgrease",
+  "name": "Microsoft MSN WebGrease License",
+  "short_name": "MS MSN WebGrease License",
+  "spdx_license_key": "LicenseRef-scancode-ms-msn-webgrease",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/msn_webgrease_eula.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a9551f8cc19c928ccf938130e165eaaac34a622f206bd16330c70bc3288397a8"
+  }
+}

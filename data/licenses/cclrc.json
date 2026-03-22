@@ -1,0 +1,30 @@
+{
+  "key": "cclrc",
+  "name": "CCLRC License",
+  "short_name": "CCLRC License",
+  "spdx_license_key": "LicenseRef-scancode-cclrc",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/PCMDI/cmor/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6cfd31c7b41414378bca8d651452dc0f573364531d9deb0cb6f33a2b2050dd33"
+  }
+}

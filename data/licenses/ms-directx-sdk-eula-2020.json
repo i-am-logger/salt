@@ -1,0 +1,30 @@
+{
+  "key": "ms-directx-sdk-eula-2020",
+  "name": "Microsoft DirectX SDK EULA 2020",
+  "short_name": "MS DirectX SDK EULA 2020",
+  "spdx_license_key": "LicenseRef-scancode-ms-directx-sdk-eula-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/apitrace/dxsdk/blob/master/Documentation/License%20Agreements/DirectX%20SDK%20EULA.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "296e4c42f148d94007143bde395f90d0bb6cd142270945b3a44a83179438bdb6"
+  }
+}

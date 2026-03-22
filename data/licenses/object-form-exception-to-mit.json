@@ -1,0 +1,29 @@
+{
+  "key": "object-form-exception-to-mit",
+  "name": "Object Form Exception to MIT",
+  "short_name": "Object Form Exception to MIT",
+  "spdx_license_key": "fmt-exception",
+  "category": "Permissive",
+  "homepage_url": "https://android.googlesource.com/platform/external/fmtlib/+/refs/heads/master/LICENSE.rst",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "94dd3b35674ed7408be4893baf52fa0ef00bc4fefa289869e7b0ef5132ba92cf"
+  }
+}

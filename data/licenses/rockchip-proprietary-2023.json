@@ -1,0 +1,28 @@
+{
+  "key": "rockchip-proprietary-2023",
+  "name": "Rockchip Proprietary 2023",
+  "short_name": "Rockchip Proprietary 2023",
+  "spdx_license_key": "LicenseRef-scancode-rockchip-proprietary-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/rockchip-linux/rkbin/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6b1466c618f68e9da8c23bc54d5c7553c546a87781411f93104e89c57bcd411d"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "viewflow-agpl-3.0-exception",
+  "name": "Viewflow Library Exception to AGPL 3.0",
+  "short_name": "Viewflow Library Exception to AGPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/viewflow/viewflow/blob/master/LICENSE_EXCEPTION",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "388e89a3a4705a8ed5528fe3c84c71f0b3fdb92c69b711e24080bcd7df99e8e2"
+  }
+}

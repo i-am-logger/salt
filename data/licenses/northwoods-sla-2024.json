@@ -1,0 +1,26 @@
+{
+  "key": "northwoods-sla-2024",
+  "name": "Northwoods Software SLA 2024",
+  "short_name": "Northwoods Software SLA 2024",
+  "spdx_license_key": "LicenseRef-scancode-northwoods-sla-2024",
+  "category": "Commercial",
+  "homepage_url": "https://gojs.net/latest/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2ad76dd4ef5059572b9dfe8a2540f6432e261fff7979aed8e286db9be1e6f1b"
+  }
+}

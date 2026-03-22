@@ -1,0 +1,29 @@
+{
+  "key": "brocade-firmware",
+  "name": "Brocade Firmware License",
+  "short_name": "Brocade Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-brocade-firmware",
+  "category": "Permissive",
+  "homepage_url": "http://download.vikis.lt/doc//bfa-firmware-3.2.23.0/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1264815b01cfe92097b3784aef894c3dcfd3f69acede64a3ee4af38bd8fa1920"
+  }
+}

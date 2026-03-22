@@ -1,0 +1,29 @@
+{
+  "key": "gareth-mccaughan",
+  "name": "Gareth McCaughan License",
+  "short_name": "Gareth McCaughan License",
+  "spdx_license_key": "LicenseRef-scancode-gareth-mccaughan",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/tonyg/pi-nothing/blob/master/disarm/disarm-0.11.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "16cc25d79f05d5bc82b58daca7b77e89aef580c742b268cb8d9252c677c16111"
+  }
+}

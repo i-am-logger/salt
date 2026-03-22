@@ -1,0 +1,27 @@
+{
+  "key": "jrunner",
+  "name": "JRunner Software License",
+  "short_name": "JRunner License",
+  "spdx_license_key": "LicenseRef-scancode-jrunner",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.altera.com/download/licensing/lic-jrunner.html",
+  "text_urls": [
+    "https://www.altera.com/download/licensing/lic-jrunner.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ecba64d01ffe4315e8b5ecc6b0add1ffdc1f8d96b03b24ec336ba3d6813173ed"
+  }
+}

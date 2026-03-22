@@ -1,0 +1,28 @@
+{
+  "key": "bsd-3-clause-no-military",
+  "name": "BSD-3-Clause-No-Military",
+  "short_name": "BSD-3-Clause-No-Military",
+  "spdx_license_key": "BSD-3-Clause-No-Military-License",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3dfe9d3aed941f35df4df839d358422bfcd20fc5c0ac48b76533475f83bf4842"
+  }
+}

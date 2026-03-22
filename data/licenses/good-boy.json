@@ -1,0 +1,31 @@
+{
+  "key": "good-boy",
+  "name": "Good Boy License",
+  "short_name": "Good Boy License",
+  "spdx_license_key": "LicenseRef-scancode-good-boy",
+  "category": "Permissive",
+  "homepage_url": "https://icons8.com/good-boy-license",
+  "text_urls": [
+    "https://github.com/icons8/flat-color-icons/blob/master/LICENSE.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "93b4aa2bcb04c77527752bf1da96b4d2da0439f93e2977925e5ccb362a9fe9cd"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ntp-0",
+  "name": "NTP No Attribution",
+  "short_name": "NTP-0",
+  "spdx_license_key": "NTP-0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d2236f35121991229f6dff32e0e6ac97a03565a2cd17abd15e1a5057c25b62b1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "iptc-2006",
+  "name": "License Agreement for International Press Telecommunications Council 2006",
+  "short_name": "IPTC License Agreement 2006",
+  "spdx_license_key": "LicenseRef-scancode-iptc-2006",
+  "category": "Proprietary Free",
+  "homepage_url": "https://iptc.org/download/public/IPTC-SpecAndMaterialLicense.html",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "194295b7699ac4aa7daa4faca333edd8bc3b742a2c4389256df0f7f8fbe0d655"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "key": "bsd-no-disclaimer-unmodified",
+  "name": "BSD-2-Clause without Warranty Disclaimer with Unmodified requirement",
+  "short_name": "BSD-2-Clause no disclaimer Unmod",
+  "spdx_license_key": "LicenseRef-scancode-bsd-no-disclaimer-unmodified",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "262c4c4932dca912f9e773fd421a302dcce47b478877b03c124dabc51505f5d5"
+  }
+}

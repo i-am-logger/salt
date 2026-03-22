@@ -1,0 +1,25 @@
+{
+  "key": "phil-bunce",
+  "name": "Phil Bunce License",
+  "short_name": "Phil Bunce License",
+  "spdx_license_key": "LicenseRef-scancode-phil-bunce",
+  "category": "Public Domain",
+  "homepage_url": "http://www.philbunce.com/pmon/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2800831b12ee0d82ced2a847702510f8349425f5837dd0998c8ff003910a30f"
+  }
+}

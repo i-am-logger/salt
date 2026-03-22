@@ -1,0 +1,35 @@
+{
+  "key": "simple-library-usage-exception",
+  "name": "Simple Library Usage Exception",
+  "short_name": "Simple Library Usage Exception",
+  "spdx_license_key": "Simple-Library-Usage-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "62ccfa6183f1784102c9e78e28c7f9c48382f985fc85ae5fbf7c8f7f288ac2df"
+  }
+}

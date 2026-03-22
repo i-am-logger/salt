@@ -1,0 +1,32 @@
+{
+  "key": "knuth-ctan",
+  "name": "Knuth CTAN License",
+  "short_name": "Knuth CTAN License",
+  "spdx_license_key": "Knuth-CTAN",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "566b5b3d867083c4ec2d8a70eec9b3ae610cdb5bbcd7a09a552605e1cf2054f7"
+  }
+}

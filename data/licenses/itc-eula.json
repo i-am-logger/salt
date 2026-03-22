@@ -1,0 +1,26 @@
+{
+  "key": "itc-eula",
+  "name": "ITC End User License Agreement",
+  "short_name": "ITC EULA",
+  "spdx_license_key": "LicenseRef-scancode-itc-eula",
+  "category": "Commercial",
+  "homepage_url": "https://web.archive.org/web/19980626184147/http://www.itcfonts.com/itc/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed9c74a4f9706af26eec9125f71d99e3c6daa39e5f65e143f1d8302510acf02d"
+  }
+}

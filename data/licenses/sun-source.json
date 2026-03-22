@@ -1,0 +1,29 @@
+{
+  "key": "sun-source",
+  "name": "Sun source code License",
+  "short_name": "Sun source code License",
+  "spdx_license_key": "LicenseRef-scancode-sun-source",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "da4da5229eb737526a9966097e5db94cf78aff32bac867daf2ebbc1e6042c178"
+  }
+}

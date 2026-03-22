@@ -1,0 +1,32 @@
+{
+  "key": "ms-azure-rtos-2023-05",
+  "name": "Microsoft Azure RTOS 2023-05",
+  "short_name": "MS Azure RTOS 2023-05",
+  "spdx_license_key": "LicenseRef-scancode-ms-azure-rtos-2023-05",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/eclipse-threadx/threadx/blob/6d9f25fac9d091a097c70f9cbff0e50252fde52a/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0d385e5e616db9f62f2d9ed5f831f0653f6c1bd2a932db16abb8cfe6fe257ff9"
+  }
+}

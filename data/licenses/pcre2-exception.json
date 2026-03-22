@@ -1,0 +1,17 @@
+{
+  "key": "pcre2-exception",
+  "name": "PCRE2 exception",
+  "short_name": "PCRE2 exception",
+  "spdx_license_key": "PCRE2-exception",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "71234da5a05da9ce947100939a428bd32d087e60dc4fbef80d2102abc412ac08"
+  }
+}

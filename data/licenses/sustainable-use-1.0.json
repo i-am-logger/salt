@@ -1,0 +1,36 @@
+{
+  "key": "sustainable-use-1.0",
+  "name": "Sustainable Use License 1.0",
+  "short_name": "Sustainable Use 1.0",
+  "spdx_license_key": "SUL-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/n8n-io/n8n/blob/master/LICENSE.md",
+  "text_urls": [
+    "https://github.com/n8n-io/n8n/blob/master/LICENSE.md#sustainable-use-license"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "056d06baa68529bd6724250aa62c6afa01d1534f68ffac4e4e062994e4adbfc2"
+  }
+}

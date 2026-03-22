@@ -1,0 +1,35 @@
+{
+  "key": "openjdk-classpath-exception-2.0",
+  "name": "OpenJDK Classpath exception to GPL 2.0",
+  "short_name": "OpenJDK Classpath exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-openjdk-classpath-exception2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bfc1bf0fbfe11b621dfa68dfe3d20a0b59a310d2a38cd2ed93a655622831c90d"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "amd-linux-firmware-export",
+  "name": "AMD Linux Firmware Export License",
+  "short_name": "AMD Linux Firmware Export License",
+  "spdx_license_key": "LicenseRef-scancode-amd-linux-firmware-export",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.amd-ucode",
+  "text_urls": [
+    "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.amd-sev"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9a83ccf9e0cecc8267e9d9dcb4213eae4869378c4fb3bd0b32ca7418a5022ede"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "occt-exception-1.0",
+  "name": "Open CASCADE Exception to LGPL 2.1",
+  "short_name": "Open CASCADE Exception to LGPL 2.1",
+  "spdx_license_key": "OCCT-exception-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.opencascade.com/content/licensing",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "69bf0ff9f16257f4905f3e501bcf79c89393be07f1b1e814e77fcad520ba9eae"
+  }
+}

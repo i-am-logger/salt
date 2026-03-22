@@ -1,0 +1,32 @@
+{
+  "key": "dhb-limited-bsd-2015",
+  "name": "David H. Bailey Limited BSD License 2015",
+  "short_name": "DHB Limited BSD License 2015",
+  "spdx_license_key": "LicenseRef-scancode-dhb-limited-bsd-2015",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.davidhbailey.com/dhbsoftware/",
+  "text_urls": [
+    "https://www.davidhbailey.com/dhbsoftware/DHB-License.docx"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7ac51bbbc92f0f7e44d268861a4e5c46559b3a32b496e56e343131ac55955e61"
+  }
+}

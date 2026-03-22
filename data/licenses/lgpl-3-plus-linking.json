@@ -1,0 +1,36 @@
+{
+  "key": "lgpl-3-plus-linking",
+  "name": "LGPL 3.0 or later with Linking exception",
+  "short_name": "LGPL 3.0 or later with Linking exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/go-yaml/yaml/blob/v2/LICENSE",
+  "text_urls": [
+    "https://github.com/go-yaml/yaml/blob/v2/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7b0599d4bff1e627d751dae2a51c29cbb5c6998930a638947a655e6585d26bb2"
+  }
+}

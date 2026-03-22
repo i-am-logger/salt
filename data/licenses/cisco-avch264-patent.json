@@ -1,0 +1,29 @@
+{
+  "key": "cisco-avch264-patent",
+  "name": "AVC/H.264 Patent Portfolio License",
+  "short_name": "AVC/H.264 Patent Portfolio License",
+  "spdx_license_key": "LicenseRef-scancode-cisco-avch264-patent",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.openh264.org/BINARY_LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use",
+    "patent-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8a3593cd8984dddf9e96d5ebc7615ad1c1d93defdd9f6c9c65e3d8121b606178"
+  }
+}

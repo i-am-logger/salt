@@ -1,0 +1,30 @@
+{
+  "key": "gemma-pup-2024-02-21",
+  "name": "Gemma Prohibited Use Policy 2024-02-21",
+  "short_name": "Gemma Prohibited Use Policy 2024-02-21",
+  "spdx_license_key": "LicenseRef-scancode-gemma-pup-2024-02-21",
+  "category": "Proprietary Free",
+  "homepage_url": "https://ai.google.dev/gemma/prohibited_use_policy",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d2bd37a3fb36349267202dc9b4a97a120ea4a579c34814bb842f479bc494ac9d"
+  }
+}

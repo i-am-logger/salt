@@ -1,0 +1,29 @@
+{
+  "key": "ms-vs-addons-ext-17.2.0",
+  "name": "Microsoft Visual Studio Add-Ons and Extensions 17.2.0",
+  "short_name": "MS VS Add-Ons and Extensions 17.2.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-vs-addons-ext-17.2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Microsoft.VisualStudio.Debugger.Contracts/17.2.0/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a7297b9ef16cc9109dd8691c6355942804e653e27b06151b245f44d0f825e15e"
+  }
+}

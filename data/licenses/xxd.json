@@ -1,0 +1,29 @@
+{
+  "key": "xxd",
+  "name": "xxd License",
+  "short_name": "xxd License",
+  "spdx_license_key": "LicenseRef-scancode-xxd",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/unixdj/xxd/blob/master/README",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bf2db1e1e1a40272d2c09ae918944f754f382b46f02862c22e871b5413d96db8"
+  }
+}

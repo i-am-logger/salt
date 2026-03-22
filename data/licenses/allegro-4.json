@@ -1,0 +1,25 @@
+{
+  "key": "allegro-4",
+  "name": "Allegro 4 License",
+  "short_name": "Allegro 4 License",
+  "spdx_license_key": "Giftware",
+  "category": "Permissive",
+  "homepage_url": "http://alleg.sourceforge.net//license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f3832a5c0aaac3902ddc9804eb7870788cd9baaf055e4b7b69e34bb9dfa15149"
+  }
+}

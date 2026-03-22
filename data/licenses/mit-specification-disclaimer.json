@@ -1,0 +1,29 @@
+{
+  "key": "mit-specification-disclaimer",
+  "name": "MIT with Specification Disclaimer",
+  "short_name": "MIT with Specification Disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-mit-specification-disclaimer",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c19b7b6cc99eb96850bc64722b9ed754f6e9ccdc7d086539a203c907db2df1c1"
+  }
+}

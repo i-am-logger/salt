@@ -1,0 +1,31 @@
+{
+  "key": "owl-0.9.4",
+  "name": "Open Works License v0.9.4",
+  "short_name": "OWL-0.9.4",
+  "spdx_license_key": "LicenseRef-scancode-owl-0.9.4",
+  "category": "Permissive",
+  "homepage_url": "https://owl.apotheon.org/",
+  "text_urls": [
+    "http://owl.apotheon.org/plaintext"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e7450fc750da9d17827c8d924fcd3e2238e34f78acd626cc8b3269b940fbc030"
+  }
+}

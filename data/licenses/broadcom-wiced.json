@@ -1,0 +1,25 @@
+{
+  "key": "broadcom-wiced",
+  "name": "Broadcom WICED Development Kit License Agreement",
+  "short_name": "Broadcom WICED SDK License",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-wiced",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "126f4f8fe35cceb054b32633dd829d79433717227f18448295d7e694c30d5c98"
+  }
+}

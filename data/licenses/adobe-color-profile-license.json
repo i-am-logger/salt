@@ -1,0 +1,25 @@
+{
+  "key": "adobe-color-profile-license",
+  "name": "Adobe Color Profile License agreement",
+  "short_name": "Adobe Color Profile License agreement",
+  "spdx_license_key": "LicenseRef-scancode-adobe-color-profile-license",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.adobe.com/support/downloads/iccprofiles/icc_eula_win_end.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "516f1d8868c2ab6cd184be035710193c5b5905f5b656e6adeb167bc7a9c59166"
+  }
+}

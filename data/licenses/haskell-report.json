@@ -1,0 +1,29 @@
+{
+  "key": "haskell-report",
+  "name": "Haskell Language Report License",
+  "short_name": "Haskell Report License",
+  "spdx_license_key": "HaskellReport",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6b4ea3bdc111a12a99ebb896172221fc096da6540cdc7a8639c4ac455404d9d3"
+  }
+}

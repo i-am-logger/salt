@@ -1,0 +1,31 @@
+{
+  "key": "polyform-shield-1.0.0",
+  "name": "Polyform Shield License 1.0.0",
+  "short_name": "Polyform Shield License 1.0.0",
+  "spdx_license_key": "LicenseRef-scancode-polyform-shield-1.0.0",
+  "category": "Source-available",
+  "homepage_url": "https://polyformproject.org/licenses/shield/1.0.0/",
+  "text_urls": [
+    "https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "32cad8a127066ff6ba909e2202dba039b33fd77b7c8273205db2a7e5d0cdb455"
+  }
+}

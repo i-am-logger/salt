@@ -1,0 +1,26 @@
+{
+  "key": "fsfullrsd",
+  "name": "FSF Unlimited License (with License Retention and Short Disclaimer)",
+  "short_name": "FSF Unlimited License with RSD",
+  "spdx_license_key": "FSFULLRSD",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "82517f65a0a51100da1eb0ad3718fcafd7c948e051ebd7b75def4120136c5b06"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "pml-2020",
+  "name": "Amazon Program Materials License Agreement 2020",
+  "short_name": "Amazon PML 2020",
+  "spdx_license_key": "LicenseRef-scancode-pml-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.amazon.com/support/legal/pml",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "41d6c7f329f6ecd550c57d3aba4af1005c2855f0c4ad446fbebf7a937ed248b6"
+  }
+}

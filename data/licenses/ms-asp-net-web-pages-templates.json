@@ -1,0 +1,29 @@
+{
+  "key": "ms-asp-net-web-pages-templates",
+  "name": "Microsoft ASP.NET Web Pages Templates License",
+  "short_name": "MS ASP.NET Web Pages Templates License",
+  "spdx_license_key": "LicenseRef-scancode-ms-asp-net-web-pages-templates",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/webpages_2_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bb8b100984b54f12b74fb92cba77c2098782df725a62ed1780eaa9af83c86cd6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "key": "cc0-1.0",
+  "name": "Creative Commons CC0 1.0 Universal",
+  "short_name": "CC0-1.0",
+  "spdx_license_key": "CC0-1.0",
+  "category": "Public Domain",
+  "homepage_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "text_urls": [
+    "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9c658a9fea89b3cb76aa7e8d37f009e819403ec94984dd15a33fbf8cf5a1a0e8"
+  }
+}

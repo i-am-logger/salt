@@ -1,0 +1,34 @@
+{
+  "key": "falcon-2-11b-1.0",
+  "name": "Falcon 2 11B TII License Version 1.0",
+  "short_name": "Falcon 2 11B TII License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-falcon-2-11b-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://falconllm-staging.tii.ae/falcon-2-terms-and-conditions.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fd8af9a7e3ce5a1ac95eabfa3d70f99b05831e6c20ca3be104e318c5b31590cf"
+  }
+}

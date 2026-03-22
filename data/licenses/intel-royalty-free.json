@@ -1,0 +1,29 @@
+{
+  "key": "intel-royalty-free",
+  "name": "Intel Royalty Free License",
+  "short_name": "Intel Royalty Free License",
+  "spdx_license_key": "LicenseRef-scancode-intel-royalty-free",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b31a6a22bfc17655790990c4a7f46c923ff3445c08bc6cd7af6520e443b8d8a3"
+  }
+}

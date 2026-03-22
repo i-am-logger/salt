@@ -1,0 +1,30 @@
+{
+  "key": "mit-addition",
+  "name": "MIT Addition License",
+  "short_name": "MIT Addition License",
+  "spdx_license_key": "MIT-Wu",
+  "category": "Permissive",
+  "homepage_url": "http://www-cs-students.stanford.edu/~tjw/jsbn/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "da35339bec711e531df03e53022d140b31d2ffd54c4ed2fd820e995f65a6c545"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "generic-cla",
+  "name": "Prior Generic Contributor License Agreement",
+  "short_name": "Generic CLA",
+  "spdx_license_key": "LicenseRef-scancode-generic-cla",
+  "category": "CLA",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6171db9b459833e228314e7559388b985ecb231172ecea7d3cdc758d37269f7b"
+  }
+}

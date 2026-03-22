@@ -1,0 +1,29 @@
+{
+  "key": "ms-sql-server-data-tools",
+  "name": "Microsoft SQL Server Data Tools License",
+  "short_name": "MS SQL Server Data Tools License",
+  "spdx_license_key": "LicenseRef-scancode-ms-sql-server-data-tools",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-license-terms",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fac65903af0395f362c640e4b1f7b8a04febf941214cb61eb19534c1a946003f"
+  }
+}

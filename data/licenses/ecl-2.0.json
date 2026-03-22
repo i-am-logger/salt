@@ -1,0 +1,36 @@
+{
+  "key": "ecl-2.0",
+  "name": "Educational Community License 2.0",
+  "short_name": "ECL 2.0",
+  "spdx_license_key": "ECL-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.org/licenses/ecl2.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/ecl2.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7b2d3fb3ae00c1afdc3486b004d373e177ed5f5fb333f29568163bb567257ce2"
+  }
+}

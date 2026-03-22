@@ -1,0 +1,29 @@
+{
+  "key": "bsd-3-clause-jtag",
+  "name": "BSD 3-Clause jtag",
+  "short_name": "BSD 3-Clause jtag",
+  "spdx_license_key": "LicenseRef-scancode-bsd-3-clause-jtag",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5feaba125ca4d5d5e74baadc8623c449c17aecef87f5cd768fe003b3aa4c42b1"
+  }
+}

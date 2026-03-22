@@ -1,0 +1,29 @@
+{
+  "key": "yensdesign",
+  "name": "Yensdesign License",
+  "short_name": "Yensdesign License",
+  "spdx_license_key": "LicenseRef-scancode-yensdesign",
+  "category": "Permissive",
+  "homepage_url": "http://www.yensdesign.com/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4eeef13d5a1dc08cae99670824ad94c2013674b5c6b18830300a0864f42d91f9"
+  }
+}

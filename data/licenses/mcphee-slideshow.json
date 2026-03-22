@@ -1,0 +1,29 @@
+{
+  "key": "mcphee-slideshow",
+  "name": "McPhee Slideshow License",
+  "short_name": "McPhee Slideshow License",
+  "spdx_license_key": "McPhee-slideshow",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "17cef530f0e5a9e29bccea1fb9793ef9b0092ab52904db1a30a28e8be3d59e1c"
+  }
+}

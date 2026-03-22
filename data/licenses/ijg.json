@@ -1,0 +1,35 @@
+{
+  "key": "ijg",
+  "name": "Independent JPEG Group License",
+  "short_name": "JPEG License",
+  "spdx_license_key": "IJG",
+  "category": "Permissive",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/IJG",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing/IJG"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "25dffb500f7aa0a48251a989b194594f6b2f6388b4f8204ae473206d955657cc"
+  }
+}

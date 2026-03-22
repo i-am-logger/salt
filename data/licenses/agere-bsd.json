@@ -1,0 +1,29 @@
+{
+  "key": "agere-bsd",
+  "name": "Agere Systems BSD Software license",
+  "short_name": "Agere BSD",
+  "spdx_license_key": "LicenseRef-scancode-agere-bsd",
+  "category": "Permissive",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.agere",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6dcbb5a78a965ea24c4aa06d54437dcfbf4f3d863a47890479129fef40469d6e"
+  }
+}

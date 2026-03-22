@@ -1,0 +1,30 @@
+{
+  "key": "melange",
+  "name": "Melange Chat Server/Client Public License",
+  "short_name": "Melange Public License",
+  "spdx_license_key": "LicenseRef-scancode-melange",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5822ad0510f1501d2deaed30b003b034ae8273e5189dbdc22ab387da4ffe63f9"
+  }
+}

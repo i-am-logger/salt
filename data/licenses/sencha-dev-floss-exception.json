@@ -1,0 +1,38 @@
+{
+  "key": "sencha-dev-floss-exception",
+  "name": "Sencha Open Source License Exception for Development",
+  "short_name": "Sencha GPL 3.0 Exception for Development",
+  "spdx_license_key": "LicenseRef-scancode-sencha-dev-floss-exception",
+  "category": "Copyleft",
+  "homepage_url": "http://www.sencha.com/products/ux-exception.php",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fb616456b9c8a7a9e7a0fd3a4de0c64ec52fe209e21e1190a1ae4a10aac78b9e"
+  }
+}

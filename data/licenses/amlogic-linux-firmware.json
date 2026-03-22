@@ -1,0 +1,29 @@
+{
+  "key": "amlogic-linux-firmware",
+  "name": "Amlogic Linux Firmware License",
+  "short_name": "Amlogic Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-amlogic-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.amlogic_vdec",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f6b8dfaff3c52f316ff05f7683d8a655793d74e55baa6ba2de7a14dc349b5546"
+  }
+}

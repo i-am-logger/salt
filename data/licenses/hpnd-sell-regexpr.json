@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-sell-regexpr",
+  "name": "Historical Permission Notice and Disclaimer sell regexpr variant",
+  "short_name": "Historical sell regexpr variant",
+  "spdx_license_key": "HPND-sell-regexpr",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c29620155fb8868a0277bf11c6c3b5119df5274ee2c0c7d74f692276ed4ce1ab"
+  }
+}

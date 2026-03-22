@@ -1,0 +1,32 @@
+{
+  "key": "qwt-1.0",
+  "name": "Qwt License 1.0 Deprecated",
+  "short_name": "Qwt License 1.0 Deprecated",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://qwt.sourceforge.net/qwtlicense.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "73e4e2527fbbbc3391b264d07a97b2d41399f9778a2739c67d84c2fa939ab3e4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "marvell-firmware-2019",
+  "name": "Marvell Firmware License 2019",
+  "short_name": "Marvell Firmware License 2019",
+  "spdx_license_key": "LicenseRef-scancode-marvell-firmware-2019",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.Marvell",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2600d33cf2eea6a5cfed09c273c5b894988740a06bd41df5bd2e22196f3fa2fb"
+  }
+}

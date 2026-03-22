@@ -1,0 +1,30 @@
+{
+  "key": "atmel-microcontroller",
+  "name": "Atmel Microcontroller License",
+  "short_name": "Atmel Microcontroller License",
+  "spdx_license_key": "LicenseRef-scancode-atmel-microcontroller",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/Joan93/MasterThesis/blob/275ee8c6fcd5b0883540f629e2755ab524904a73/openwsn/openwsn-fw/bsp/boards/samr21_xpro/drivers/src/cm0plus_interrupt.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "372498da4f2988082511c65dbb1ecd4e95a1811abfb8934dedd3d8edb75a0ed9"
+  }
+}

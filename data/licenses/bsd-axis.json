@@ -1,0 +1,29 @@
+{
+  "key": "bsd-axis",
+  "name": "BSD-Axis",
+  "short_name": "BSD-Axis",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "13baf87a2f89e7caa62ae51450d2f0cab710614039bd7dab6f97f3bd775b81e0"
+  }
+}

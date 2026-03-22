@@ -1,0 +1,42 @@
+{
+  "key": "interbase-1.0",
+  "name": "Interbase Public License 1.0",
+  "short_name": "Interbase Public License 1.0",
+  "spdx_license_key": "Interbase-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://info.borland.com/devsupport/interbase/opensource/IPL.html",
+  "text_urls": [
+    "https://web.archive.org/web/20060319014854/http://info.borland.com/devsupport/interbase/opensource/IPL.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce62b1ed6c2bacf74a077477659b9439eaea46b22e5eb8ec52b0da7f556c49ae"
+  }
+}

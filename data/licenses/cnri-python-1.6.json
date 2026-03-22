@@ -1,0 +1,31 @@
+{
+  "key": "cnri-python-1.6",
+  "name": "CNRI Open Source License Agreement for Python 1.6",
+  "short_name": "CNRI Python 1.6",
+  "spdx_license_key": "CNRI-Python",
+  "category": "Permissive",
+  "homepage_url": "http://www.handle.net/python_licenses/python1.6_9-5-00.html",
+  "text_urls": [
+    "http://www.handle.net/python_licenses/python1.6_9-5-00.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "38b1e30c95c123b886f63401e66ff5ed937cf3d126de3239a5a22ae0c3cf2943"
+  }
+}

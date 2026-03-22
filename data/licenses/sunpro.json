@@ -1,0 +1,29 @@
+{
+  "key": "sunpro",
+  "name": "SunPro Attribution License",
+  "short_name": "SunPro Attribution License",
+  "spdx_license_key": "SunPro",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "674bf84f85c8d674d07a13b2f457c596b7faa831caa94b76c7dbcc48269d0b86"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "qca-technology",
+  "name": "Qualcomm Atheros Technology License",
+  "short_name": "QCA Technology License",
+  "spdx_license_key": "LicenseRef-scancode-qca-technology",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.atheros_firmware",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution",
+    "patent-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5dd48dca71e0445240c859e92101c851e7d0cee84a8ed8873acc10a2004516ab"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "diffgram-dlv2",
+  "name": "Diffgram License v2 (DLv2)",
+  "short_name": "Diffgram DLv2",
+  "spdx_license_key": "LicenseRef-scancode-diffgram-dlv2",
+  "category": "Proprietary Free",
+  "homepage_url": "https://diffgram.readme.io/docs/diffgram-license-v2-dlv2",
+  "text_urls": [
+    "https://github.com/diffgram/diffgram/blob/56f04d87affe6ef10e1d94abd3bbbe42647128ea/LICENSE.md",
+    "https://raw.githubusercontent.com/diffgram/diffgram/56f04d87affe6ef10e1d94abd3bbbe42647128ea/LICENSE.md"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "42f49b0102af4296f390cee552cd5faa80e531cc87eecea8e863455c0efd8a8f"
+  }
+}

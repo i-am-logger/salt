@@ -1,0 +1,29 @@
+{
+  "key": "dynamic-drive-tou",
+  "name": "Dynamic Drive Terms of Use",
+  "short_name": "Dynamic Drive TOU",
+  "spdx_license_key": "LicenseRef-scancode-dynamic-drive-tou",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bdaff5afdab91d6da8a9233799013f0d706500e126be6990b7ce3fc178d240d2"
+  }
+}

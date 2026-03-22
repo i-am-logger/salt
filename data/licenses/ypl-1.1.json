@@ -1,0 +1,42 @@
+{
+  "key": "ypl-1.1",
+  "name": "Yahoo! Public License v1.1",
+  "short_name": "YPL 1.1",
+  "spdx_license_key": "YPL-1.1",
+  "category": "Copyleft",
+  "homepage_url": "http://www.zimbra.com/license/yahoo_public_license_1.1.html",
+  "text_urls": [
+    "http://www.zimbra.com/license/yahoo_public_license_1.1.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fe91663e6b6f06f3f501f83b5bf4af6608c5d5aeefcebd0d3a250d7226a22bba"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "key": "lgpl-2.0",
+  "name": "GNU Library General Public License 2.0",
+  "short_name": "LGPL 2.0",
+  "spdx_license_key": "LGPL-2.0-only",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/lgpl-2.0.html",
+    "http://www.gnu.org/licenses/lgpl-2.0.txt",
+    "http://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt",
+    "http://www.gnu.org/licenses/old-licenses/library.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eddbf6bb5913196f89049c55ffda93ec4116d3353b675e8c23058da23f269260"
+  }
+}

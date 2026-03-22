@@ -1,0 +1,26 @@
+{
+  "key": "autoit-eula",
+  "name": "Autoit EULA",
+  "short_name": "Autoit EULA",
+  "spdx_license_key": "LicenseRef-scancode-autoit-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.autoitscript.com/autoit3/docs/license.htm",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "160269ef447421e60a870b5a1438c4f9bcf688e72331e8a1098d28fa89d3e9cf"
+  }
+}

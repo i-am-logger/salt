@@ -1,0 +1,25 @@
+{
+  "key": "square-cla",
+  "name": "Square Inc. Individual Contributor License Agreement",
+  "short_name": "Square CLA",
+  "spdx_license_key": "LicenseRef-scancode-square-cla",
+  "category": "CLA",
+  "homepage_url": "https://docs.google.com/forms/d/e/1FAIpQLSeRVQ35-gq2vdSxD1kdh7CJwRdjmUA0EZ9gRXaWYoUeKPZEQQ/viewform?formkey=dDViT2xzUHAwRkI3X3k5Z0lQM091OGc6MQ&ndplr=1",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5ceeec37edad772e2adf9832f890bee0cda6e8b45a935a5951e3e5f762f8a5ba"
+  }
+}

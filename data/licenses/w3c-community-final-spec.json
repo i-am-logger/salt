@@ -1,0 +1,30 @@
+{
+  "key": "w3c-community-final-spec",
+  "name": "W3C Community Final Specification Agreement",
+  "short_name": "W3C Community Final Specification Agreement",
+  "spdx_license_key": "LicenseRef-scancode-w3c-community-final-spec",
+  "category": "Permissive",
+  "homepage_url": "https://www.w3.org/community/about/process/final/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "84eee35ed332f51e2066ab4fba0b5de77ca9816e1353fb7cc94b8c8a2df36b09"
+  }
+}

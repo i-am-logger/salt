@@ -1,0 +1,29 @@
+{
+  "key": "ricebsd",
+  "name": "Rice BSD Software License",
+  "short_name": "RiceBSD",
+  "spdx_license_key": "LicenseRef-scancode-ricebsd",
+  "category": "Permissive",
+  "homepage_url": "https://web.archive.org/web/20060907200326/http://www.caam.rice.edu/software/ARPACK/RiceBSD.doc",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d579f52d08a69d65a99fef97ec4c31fee9baf49c611bf0c68c537466b3f8a73d"
+  }
+}

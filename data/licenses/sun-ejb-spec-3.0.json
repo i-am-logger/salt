@@ -1,0 +1,25 @@
+{
+  "key": "sun-ejb-spec-3.0",
+  "name": "Sun EJB Specification 3.0",
+  "short_name": "Sun EJB Specification 3.0",
+  "spdx_license_key": "LicenseRef-scancode-sun-ejb-spec-3.0",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9d98131f36f1a0f3e6aa09c9f54055520ca29ccd29d2e2d431cbb1edc2af1fda"
+  }
+}

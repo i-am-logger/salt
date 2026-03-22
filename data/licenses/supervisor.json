@@ -1,0 +1,32 @@
+{
+  "key": "supervisor",
+  "name": "Supervisor License",
+  "short_name": "Supervisor License",
+  "spdx_license_key": "LicenseRef-scancode-supervisor",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/Supervisor/supervisor/blob/master/LICENSES.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3f72182578424cce0a85ff01da84f4570b7f5ce8bbb3f615c64c17badff07e7a"
+  }
+}

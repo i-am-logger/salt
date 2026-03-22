@@ -1,0 +1,33 @@
+{
+  "key": "openssl-exception-lgpl-3.0-plus",
+  "name": "OpenSSL exception to LGPL 3.0 or later",
+  "short_name": "OpenSSL exception to LGPL 3.0 or later",
+  "spdx_license_key": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://initd.org/psycopg/license/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "444bfeaaa7fa6c90275259e446590e649d3364aa9ba40aba8af3817b86023eda"
+  }
+}

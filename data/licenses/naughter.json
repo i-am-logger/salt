@@ -1,0 +1,28 @@
+{
+  "key": "naughter",
+  "name": "Naughter Software License",
+  "short_name": "Naughter Software License",
+  "spdx_license_key": "LicenseRef-scancode-naughter",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ac2d0db9eee45b1ed5c8d145fc4e1b03eb6297b99bddc24b362e306fcae845bb"
+  }
+}

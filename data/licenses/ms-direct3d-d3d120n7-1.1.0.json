@@ -1,0 +1,29 @@
+{
+  "key": "ms-direct3d-d3d120n7-1.1.0",
+  "name": "Microsoft Direct3D D3D12On7 1.1.0",
+  "short_name": "MS Direct3D D3D12On7 1.1.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-direct3d-d3d120n7-1.1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Microsoft.Direct3D.D3D12On7/1.1.0/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a4471209774b57867c751f1b35cdecd03e0a1c471e8c4210722c2de036b9cc3c"
+  }
+}

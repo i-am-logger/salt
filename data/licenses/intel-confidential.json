@@ -1,0 +1,26 @@
+{
+  "key": "intel-confidential",
+  "name": "Intel Confidential",
+  "short_name": "Intel Confidential",
+  "spdx_license_key": "LicenseRef-scancode-intel-confidential",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a1bcbcbbacc449ce6757fa6c4274ad40990ba44493e94bfee56c3a5234addec8"
+  }
+}

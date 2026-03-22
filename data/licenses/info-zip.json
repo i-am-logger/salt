@@ -1,0 +1,34 @@
+{
+  "key": "info-zip",
+  "name": "Info-Zip License",
+  "short_name": "Info-Zip License",
+  "spdx_license_key": "Info-ZIP",
+  "category": "Permissive",
+  "homepage_url": "http://www.info-zip.org/doc/",
+  "text_urls": [
+    "http://www.info-zip.org/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "73a3d879c5d0e0d5f8e8cbbfc5af29aa2248dff557ef8bc88fde4b577b937d1e"
+  }
+}

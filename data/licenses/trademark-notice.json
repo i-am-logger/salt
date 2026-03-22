@@ -1,0 +1,17 @@
+{
+  "key": "trademark-notice",
+  "name": "Generic Trademark Notice",
+  "short_name": "Trademark Notice",
+  "spdx_license_key": "",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "01828a5f993e3bb1aff288871ded1a7b575659c1b267bf2d49ce37ff2c9fdc6a"
+  }
+}

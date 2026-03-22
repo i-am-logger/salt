@@ -1,0 +1,30 @@
+{
+  "key": "flowcrypt-1.2",
+  "name": "FlowCrypt License 1.2",
+  "short_name": "FlowCrypt License 1.2",
+  "spdx_license_key": "LicenseRef-scancode-flowcrypt-1.2",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/FlowCrypt/flowcrypt-ios/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "31946a7a2afbbb3c8b2c3e5854dc49acc8d29ff2244650dea6be93bec244c548"
+  }
+}

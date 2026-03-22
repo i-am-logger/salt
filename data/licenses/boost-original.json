@@ -1,0 +1,32 @@
+{
+  "key": "boost-original",
+  "name": "Boost Original",
+  "short_name": "Boost Original",
+  "spdx_license_key": "LicenseRef-scancode-boost-original",
+  "category": "Permissive",
+  "homepage_url": "http://boost.org",
+  "text_urls": [
+    "https://github.com/boostorg/rational/blob/0fe0beca5397c812c4f85a7de0d0769de59e12e0/include/boost/rational.hpp",
+    "https://github.com/boostorg/rational/blob/develop/include/boost/rational.hpp"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e74679730c75e40d7ee44bbe2040d775290c91c345934f8cc726c8e8fdded396"
+  }
+}

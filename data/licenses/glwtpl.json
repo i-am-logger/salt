@@ -1,0 +1,25 @@
+{
+  "key": "glwtpl",
+  "name": "Good Luck With That Public License",
+  "short_name": "GLWTPL",
+  "spdx_license_key": "GLWTPL",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/me-shaon/GLWTPL/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cb44a49db29b5bd2a7bd231491dddd3c99f943a84be39236cdbe3ad32f2e2e02"
+  }
+}

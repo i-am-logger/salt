@@ -1,0 +1,32 @@
+{
+  "key": "qt-kde-linking-exception",
+  "name": "Qt Linking Exception to GPL 2.0 or later",
+  "short_name": "Qt Linking Exception to GPL 2.0 or later",
+  "spdx_license_key": "LicenseRef-scancode-qt-kde-linking-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e081e43ea385a94f1860d3fc981a78836f1b2c27e7415eef12d47d25a12fbc90"
+  }
+}

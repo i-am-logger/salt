@@ -1,0 +1,30 @@
+{
+  "key": "divx-open-1.0",
+  "name": "DivX Open License v1.0",
+  "short_name": "DivX Open License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-divx-open-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2425591299e5b724832695cf14d56d853dd8609df61f903f5dd79660be03f72c"
+  }
+}

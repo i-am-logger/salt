@@ -1,0 +1,43 @@
+{
+  "key": "cddl-1.0",
+  "name": "Common Development and Distribution License 1.0",
+  "short_name": "CDDL 1.0",
+  "spdx_license_key": "CDDL-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.sun.com/cddl/",
+  "text_urls": [
+    "http://www.opensolaris.org/os/licensing/cddllicense.txt",
+    "http://www.sun.com/cddl/cddl.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ec919e173bb5cfb21611a8388b2cb50ab016548e36ecc4ad8ae169c71acfde9"
+  }
+}

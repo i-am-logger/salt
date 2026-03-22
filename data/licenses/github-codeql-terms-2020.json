@@ -1,0 +1,28 @@
+{
+  "key": "github-codeql-terms-2020",
+  "name": "GitHub CodeQL Terms and Conditions 2020",
+  "short_name": "GitHub CodeQL Terms 2020",
+  "spdx_license_key": "LicenseRef-scancode-github-codeql-terms-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/github/codeql-cli-binaries/blob/main/LICENSE.md",
+  "text_urls": [
+    "https://raw.githubusercontent.com/github/codeql-cli-binaries/main/LICENSE.md"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c4d1a522767739aab56121246eaf7991405bf4dd785990bfe2abcc1a08ba4b44"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "ms-patent-promise-mono",
+  "name": "Microsoft Patent Promise for Mono",
+  "short_name": "Microsoft Patent Promise for Mono",
+  "spdx_license_key": "LicenseRef-scancode-ms-patent-promise-mono",
+  "category": "Patent License",
+  "homepage_url": "https://www.mono-project.com/docs/faq/licensing/",
+  "text_urls": [
+    "https://github.com/mono/mono/blob/main/PATENTS.TXT"
+  ],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3c28136c6b576346860703ea41c1d94a6cd8a8ede757362de10a2fec1091cafd"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-smc",
+  "name": "Historical Permission Notice and Disclaimer - SMC variant",
+  "short_name": "HPND - SMC variant",
+  "spdx_license_key": "HPND-SMC",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d0b0e6e362771f63c8806d3f0ae68f1f8f3bb5bc15459c8f296643746216590e"
+  }
+}

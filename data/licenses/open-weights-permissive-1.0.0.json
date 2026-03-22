@@ -1,0 +1,30 @@
+{
+  "key": "open-weights-permissive-1.0.0",
+  "name": "Open Weights Permissive License Version 1.0.0",
+  "short_name": "Open Weights Permissive License v1.0.0",
+  "spdx_license_key": "LicenseRef-scancode-open-weights-permissive-1.0.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/Open-Weights/Definition/blob/main/Open%20Weights%20License.MD",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1afb0cc044433eb7d5ec55321276e7230ff5c89cf7c3b4fa3e2bc3db6f4f3963"
+  }
+}

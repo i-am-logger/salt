@@ -1,0 +1,26 @@
+{
+  "key": "shavlik-eula",
+  "name": "Shavlik Technologies EULA",
+  "short_name": "Shavlik Technologies EULA",
+  "spdx_license_key": "LicenseRef-scancode-shavlik-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.shavlik.com/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1d98340e15a4deea2924c10a70ad90f1345928b0f729e6f171711ac9baed4822"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-jdbc-driver-60-sql-server",
+  "name": "Microsoft JDBC Driver 6.0 for SQL Server",
+  "short_name": "MS JDBC Driver 6.0 for SQL Server",
+  "spdx_license_key": "LicenseRef-scancode-ms-jdbc-driver-60-sql-server",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=11774",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b047123a40e35df935866c407ea1a9b779e5afbe40b827ecb20d68ccc594b0c3"
+  }
+}

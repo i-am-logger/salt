@@ -1,0 +1,26 @@
+{
+  "key": "affine-ee-2023",
+  "name": "AFFiNE Enterprise Edition (EE) license 2023",
+  "short_name": "AFFiNE Enterprise Edition (EE) license 2023",
+  "spdx_license_key": "LicenseRef-scancode-affine-ee-2023",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/toeverything/AFFiNE/blob/canary/packages/backend/server/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "77d48b3ff78ad96748b63b7f2697bd8e421eaf689038e4b354999c3d852612ee"
+  }
+}

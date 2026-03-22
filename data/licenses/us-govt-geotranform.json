@@ -1,0 +1,37 @@
+{
+  "key": "us-govt-geotranform",
+  "name": "US Government GeoTransform",
+  "short_name": "US Government GeoTransform",
+  "spdx_license_key": "LicenseRef-scancode-us-govt-geotranform",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://web.archive.org/web/20200127152653/http://www.ai.sri.com/geotransform/license.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "13d550f314d7094b8ccf38b2eeae01b281727d128250a8cf749edd3a39513ffc"
+  }
+}

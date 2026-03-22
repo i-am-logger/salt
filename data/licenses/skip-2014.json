@@ -1,0 +1,37 @@
+{
+  "key": "skip-2014",
+  "name": "SKIP License 2014",
+  "short_name": "SKIP License 2014",
+  "spdx_license_key": "LicenseRef-scancode-skip-2014",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.kanji.org/dictionaries/skip_permission.htm",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "07988d71aeb9464016fa0adbffa62d7f5e695a3e35b87a5d2cc5f7fad7c3313e"
+  }
+}

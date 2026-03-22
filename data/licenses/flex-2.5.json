@@ -1,0 +1,31 @@
+{
+  "key": "flex-2.5",
+  "name": "Flex License v2.5",
+  "short_name": "Flex 2.5",
+  "spdx_license_key": "BSD-3-Clause-flex",
+  "category": "Permissive",
+  "homepage_url": "http://www.cs.princeton.edu/~appel/modern/c/software/flex/flex.html",
+  "text_urls": [
+    "http://www.cs.cmu.edu/afs/cs/project/ai-repository-9/ai/areas/nlp/parsing/flex/copying.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1c7095970c1676308ffdc8317b0fca9a7131374d8c6428957a495f8b2f54ce5f"
+  }
+}

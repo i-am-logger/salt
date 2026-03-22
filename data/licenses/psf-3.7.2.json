@@ -1,0 +1,29 @@
+{
+  "key": "psf-3.7.2",
+  "name": "PSF License Agreement for Python 3.7.2",
+  "short_name": "PSF Python License 3.7.2",
+  "spdx_license_key": "LicenseRef-scancode-psf-3.7.2",
+  "category": "Permissive",
+  "homepage_url": "https://docs.python.org/3/license.html#psf-license-agreement-for-python-release",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "160c9dccffb044fbe45da73bc696cc1e1f592c34811fd29421771441b228a05e"
+  }
+}

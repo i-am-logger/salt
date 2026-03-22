@@ -1,0 +1,26 @@
+{
+  "key": "intel-material",
+  "name": "Intel Material License",
+  "short_name": "Intel Material License",
+  "spdx_license_key": "LicenseRef-scancode-intel-material",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "917395f296fe526bcd8399cc3894d6eb20f60b7a85dac19b5225853e58fa440e"
+  }
+}

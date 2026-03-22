@@ -1,0 +1,32 @@
+{
+  "key": "liferay-ee",
+  "name": "Liferay Portal Enterprise Edition License",
+  "short_name": "Liferay Portal EE License",
+  "spdx_license_key": "LicenseRef-scancode-liferay-ee",
+  "category": "Commercial",
+  "homepage_url": "https://www.liferay.com/downloads/ee-license",
+  "text_urls": [
+    "https://web.liferay.com/legal/doc/esa/2001901_NA"
+  ],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1b00a01ce424e367a24703445928fc28c7635927cd94ac31b92dc7b76ec1a61e"
+  }
+}

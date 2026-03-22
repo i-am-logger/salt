@@ -1,0 +1,30 @@
+{
+  "key": "mike95",
+  "name": "Mike95 License",
+  "short_name": "Mike95 License",
+  "spdx_license_key": "LicenseRef-scancode-mike95",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.mike95.com/c_plusplus/classes/JString/JString_h.aspx",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "456e77b8173d056ac9372c37a3a79c532277181e2264c184307bde852d116f52"
+  }
+}

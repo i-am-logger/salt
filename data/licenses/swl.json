@@ -1,0 +1,31 @@
+{
+  "key": "swl",
+  "name": "Scheme Widget Library (SWL) Software License Agreement",
+  "short_name": "Scheme Widget Library (SWL) Software License",
+  "spdx_license_key": "SWL",
+  "category": "Permissive",
+  "homepage_url": "http://www.scheme.com/download/swl-lic.html",
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing/SWL"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6efcaeea83a2b382f8859f0df97187978dda48a0e8932c30554474f238a6fce1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "otn-dev-dist-2014",
+  "name": "Oracle Technology Network Free Developer License 2014",
+  "short_name": "OTN License 2014",
+  "spdx_license_key": "LicenseRef-scancode-otn-dev-dist-2014",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/licenses/wls-dev-license-1703567.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dfd2f4f8099deef976469c7047aeaad4fa9a661a15736e08b5d772dec66b0daf"
+  }
+}

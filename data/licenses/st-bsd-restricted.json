@@ -1,0 +1,30 @@
+{
+  "key": "st-bsd-restricted",
+  "name": "STMicro BSD Restricted",
+  "short_name": "STMicro BSD Restricted",
+  "spdx_license_key": "LicenseRef-scancode-st-bsd-restricted",
+  "category": "Free Restricted",
+  "homepage_url": "https://www.st.com/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0eec5c775e508920c16b9d6616bc68e7d5a9f704a47abf8593fb2997b012c405"
+  }
+}

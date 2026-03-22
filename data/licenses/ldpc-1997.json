@@ -1,0 +1,40 @@
+{
+  "key": "ldpc-1997",
+  "name": "Linux Documentation Project Copying License 1997-01-06",
+  "short_name": "LDPC-1997",
+  "spdx_license_key": "LicenseRef-scancode-ldpc-1997",
+  "category": "Copyleft",
+  "homepage_url": "https://web.archive.org/web/19990202103614/http://metalab.unc.edu/LDP/COPYRIGHT.html",
+  "text_urls": [
+    "http://linuxmafia.com/faq/Licensing_and_Law/ldpc-license-1997-01-06.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "de820054f7b335c0092e7d5a121cf754ddba89dd3bff93a51dbfcc7dc8c293f6"
+  }
+}

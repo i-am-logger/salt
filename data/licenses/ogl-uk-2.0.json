@@ -1,0 +1,29 @@
+{
+  "key": "ogl-uk-2.0",
+  "name": "U.K. Open Government License for Public Sector Information v2.0",
+  "short_name": "OGL-UK-2.0",
+  "spdx_license_key": "OGL-UK-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f31a24240aaabdc771891ed5a49225ea08c3ba44e624692b3a116b60b01e7629"
+  }
+}

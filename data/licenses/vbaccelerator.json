@@ -1,0 +1,26 @@
+{
+  "key": "vbaccelerator",
+  "name": "vbAccelerator Distribution Notice",
+  "short_name": "vbAccelerator Distribution Notice",
+  "spdx_license_key": "LicenseRef-scancode-vbaccelerator",
+  "category": "Free Restricted",
+  "homepage_url": "http://vbaccelerator.com/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d7aed787fbc6072dd7c830a08e5d37aafdfe7e08063f3404e1710d9086d4d235"
+  }
+}

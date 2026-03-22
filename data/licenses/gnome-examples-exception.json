@@ -1,0 +1,29 @@
+{
+  "key": "gnome-examples-exception",
+  "name": "GNOME examples exception",
+  "short_name": "GNOME examples exception",
+  "spdx_license_key": "GNOME-examples-exception",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9fa8787ad49b320e84fa2aedd5707696d458d9817bd5842b19ddbc6de375591d"
+  }
+}

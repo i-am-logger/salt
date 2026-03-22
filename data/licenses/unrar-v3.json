@@ -1,0 +1,31 @@
+{
+  "key": "unrar-v3",
+  "name": "UnRar License v3",
+  "short_name": "UnRar License v3",
+  "spdx_license_key": "LicenseRef-scancode-unrar-v3",
+  "category": "Source-available",
+  "homepage_url": "https://git.congatec.com/yocto/meta-openembedded/-/raw/7e26a1eda9cb5056f2d676651715762188f747dd/meta-oe/licenses/unRAR",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications",
+    "distribution"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dbe0df178e200c6f6773dd1ef1d30380d36681566dd9d391fe130dd56ddcd056"
+  }
+}

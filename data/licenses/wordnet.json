@@ -1,0 +1,31 @@
+{
+  "key": "wordnet",
+  "name": "Wordnet License",
+  "short_name": "Wordnet License",
+  "spdx_license_key": "WordNet",
+  "category": "Permissive",
+  "homepage_url": "http://wordnetcode.princeton.edu",
+  "text_urls": [
+    "http://wordnetcode.princeton.edu/3.0/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "aa1a0268fb3a931f9b50f73c43b5b538627348e6103852dab064d17a2f0d6003"
+  }
+}

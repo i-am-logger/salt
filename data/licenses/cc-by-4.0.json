@@ -1,0 +1,36 @@
+{
+  "key": "cc-by-4.0",
+  "name": "Creative Commons Attribution 4.0 International Public License",
+  "short_name": "CC-BY-4.0",
+  "spdx_license_key": "CC-BY-4.0",
+  "category": "Permissive",
+  "homepage_url": "http://creativecommons.org/licenses/by/4.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by/4.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5bfb03d9298a4e669b0ebb455d69e9af10f6e1f4c4ad5ab7047b2247247c9768"
+  }
+}

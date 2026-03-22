@@ -1,0 +1,30 @@
+{
+  "key": "lyubinskiy-popup-window",
+  "name": "Lyubinskiy popup-window License",
+  "short_name": "Lyubinskiy popup-window License",
+  "spdx_license_key": "LicenseRef-scancode-lyubinskiy-popup-window",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.php-development.ru/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2627f36d24bc5fb2ecf21c31e9baae4b46377be8876b1ab32b8d1a1cf10c80ba"
+  }
+}

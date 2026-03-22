@@ -1,0 +1,33 @@
+{
+  "key": "apache-exception-llvm",
+  "name": "Apache Exception LLVM",
+  "short_name": "Apache-Exception-llvm",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://lists.spdx.org",
+  "text_urls": [
+    "https://lists.spdx.org/pipermail/spdx-legal/2017-December/002421.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e298fa5faf5006300dbab1e07be0729e80652855dcdb5774aaf1238418355a36"
+  }
+}

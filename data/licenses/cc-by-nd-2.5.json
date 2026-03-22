@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-nd-2.5",
+  "name": "Creative Commons Attribution No Derivatives License 2.5",
+  "short_name": "CC-BY-ND-2.5",
+  "spdx_license_key": "CC-BY-ND-2.5",
+  "category": "Source-available",
+  "homepage_url": "http://creativecommons.org/licenses/by-nd/2.5/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by-nd/2.5/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "67c161a8db468fcb008d2f87b29af38180405904741d836443d42c9d90c47721"
+  }
+}

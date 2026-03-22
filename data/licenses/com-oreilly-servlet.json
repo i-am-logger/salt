@@ -1,0 +1,26 @@
+{
+  "key": "com-oreilly-servlet",
+  "name": "com.oreilly.servlet License",
+  "short_name": "com.oreilly.servlet License",
+  "spdx_license_key": "LicenseRef-scancode-com-oreilly-servlet",
+  "category": "Commercial",
+  "homepage_url": "http://www.servlets.com/cos/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e1cf1b8c1b43bbd1f340b6ac241656b6b13fcb0daa28ec98f1005cbcf55650ae"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "key": "initial-developer-public",
+  "name": "Initial Developer Public License",
+  "short_name": "Initial Developer Public License",
+  "spdx_license_key": "LicenseRef-scancode-initial-developer-public",
+  "category": "Copyleft",
+  "homepage_url": "http://www.firebirdsql.org/en/initial-developer-s-public-license-version-1-0/",
+  "text_urls": [
+    "http://www.firebirdsql.org/en/initial-developer-s-public-license-version-1-0/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b51d7623c53d2dab20af7d6899a7ec2048ebe8a661d704de851cf00184ffeb5e"
+  }
+}

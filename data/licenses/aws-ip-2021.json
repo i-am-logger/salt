@@ -1,0 +1,31 @@
+{
+  "key": "aws-ip-2021",
+  "name": "AWS Intellectual Property License 2021",
+  "short_name": "AWS IP License 2021",
+  "spdx_license_key": "LicenseRef-scancode-aws-ip-2021",
+  "category": "Proprietary Free",
+  "homepage_url": "https://aws.amazon.com/legal/aws-ip-license-terms/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "21ad72777dc0d03ba6fe0aa5ecc27d66af08721a3ea4b9f832f8368ec6e85c1d"
+  }
+}

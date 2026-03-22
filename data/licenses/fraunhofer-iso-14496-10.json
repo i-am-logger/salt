@@ -1,0 +1,29 @@
+{
+  "key": "fraunhofer-iso-14496-10",
+  "name": "Fraunhofer ISO 14496-10 License",
+  "short_name": "Fraunhofer ISO 14496-10 License",
+  "spdx_license_key": "LicenseRef-scancode-fraunhofer-iso-14496-10",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fef5727457f6b3652571ad247fac99fd9d32db546593c4e8edb138bf72242b7e"
+  }
+}

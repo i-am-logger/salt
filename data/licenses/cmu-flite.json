@@ -1,0 +1,32 @@
+{
+  "key": "cmu-flite",
+  "name": "Carnegie Mellon University Flite License",
+  "short_name": "CMU Flite License",
+  "spdx_license_key": "LicenseRef-scancode-cmu-flite",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/festvox/flite/blob/master/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "036e458f3fc21ea257bff702714badd64a46949a69f4574ecfdc714bd56474fb"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "offis",
+  "name": "OFFIS License",
+  "short_name": "OFFIS License",
+  "spdx_license_key": "OFFIS",
+  "category": "Permissive",
+  "homepage_url": "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/dicom/README",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c4596857d338996b5ca3d3b3a146ff4ca5456ebedb2cd75faaa69e333f6909d7"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "broadcom-raspberry-pi",
+  "name": "Broadcom Raspberry Pi Firmware License",
+  "short_name": "Broadcom Raspberry Pi Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-raspberry-pi",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/raspberrypi/firmware/blob/master/boot/LICENCE.broadcom",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c54ac5ac5655b559a8eca2a9832ebc461ba9143a599aff7d4caf0309481cb0d8"
+  }
+}

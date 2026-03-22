@@ -1,0 +1,30 @@
+{
+  "key": "ipca",
+  "name": "IPFire Project Contributor Agreement",
+  "short_name": "IPCA",
+  "spdx_license_key": "LicenseRef-scancode-ipca",
+  "category": "CLA",
+  "homepage_url": "https://wiki.ipfire.org/legal/ipca",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "417f21463e0314d9c0aa8ce55940a8893a3e9a5ebb7229219c8a0ec0bbde0d46"
+  }
+}

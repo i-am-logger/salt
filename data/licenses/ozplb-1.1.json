@@ -1,0 +1,31 @@
+{
+  "key": "ozplb-1.1",
+  "name": "Australian Public Licence B Version 1.1",
+  "short_name": "OZPLB 1.1",
+  "spdx_license_key": "LicenseRef-scancode-ozplb-1.1",
+  "category": "Permissive",
+  "homepage_url": "http://p2p.cs.mu.oz.au/software/mpi-open/src/LICENSE",
+  "text_urls": [
+    "http://p2p.cs.mu.oz.au/software/mpi-open/src/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b5285902cd84a11d55cc96dfbb51228df60840ae3314d8c8eb83f9118742437c"
+  }
+}

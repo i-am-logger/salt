@@ -1,0 +1,30 @@
+{
+  "key": "tsl-2020",
+  "name": "Timescale License Agreement 2020",
+  "short_name": "TSL Agreement 2020",
+  "spdx_license_key": "LicenseRef-scancode-tsl-2020",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/timescale/timescaledb/blob/master/tsl/LICENSE-TIMESCALE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f41f55f8028eb16ad86664603cde0c7f42d2bbdd18e2eb9c83d0211cfec959da"
+  }
+}

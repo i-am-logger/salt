@@ -1,0 +1,31 @@
+{
+  "key": "etalab-2.0-en",
+  "name": "Etalab Open License 2.0 English",
+  "short_name": "Etalab Open License 2.0 English",
+  "spdx_license_key": "LicenseRef-scancode-etalab-2.0-en",
+  "category": "Permissive",
+  "homepage_url": "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE",
+  "text_urls": [
+    "https://github.com/etalab/licence-ouverte/blob/master/open-licence.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "48afbceba0ae7577cfa19dc5bc9578611fdc0864387e3497e31800c7d455a5a2"
+  }
+}

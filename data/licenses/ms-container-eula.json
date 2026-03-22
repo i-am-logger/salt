@@ -1,0 +1,25 @@
+{
+  "key": "ms-container-eula",
+  "name": "Microsoft Container EULA",
+  "short_name": "Microsoft Container EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-container-eula",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "743406af69328198fb13c8b3dd64b5582ca3390ac03e9c2875feede2da7c5c81"
+  }
+}

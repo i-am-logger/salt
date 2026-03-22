@@ -1,0 +1,25 @@
+{
+  "key": "sun-bcl-11-07",
+  "name": "Sun BCL 11 plus 7",
+  "short_name": "Sun BCL 11 plus 7",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-11-07",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1c9230cb55847b275783b935c6e35b1e42bba48c5715a133a04e7a7687d6328c"
+  }
+}

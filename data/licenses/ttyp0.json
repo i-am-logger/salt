@@ -1,0 +1,29 @@
+{
+  "key": "ttyp0",
+  "name": "TTYP0 License",
+  "short_name": "TTYP0 License",
+  "spdx_license_key": "TTYP0",
+  "category": "Permissive",
+  "homepage_url": "https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3017070a25dd31784902343dc3de8bb327bd8628eeee8a49e25f267aff6ff10c"
+  }
+}

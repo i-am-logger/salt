@@ -1,0 +1,29 @@
+{
+  "key": "historical-ntp",
+  "name": "Historical Notice - NTP",
+  "short_name": "Historical Notice - NTP",
+  "spdx_license_key": "LicenseRef-scancode-historical-ntp",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5e8087e5f0097587980e41552e75fa75a31acd4eef7fa201e924d92b7a7cd0fe"
+  }
+}

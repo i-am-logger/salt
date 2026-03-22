@@ -1,0 +1,25 @@
+{
+  "key": "opera-widget-1.0",
+  "name": "Opera Widget License v1.0",
+  "short_name": "Opera Widget License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-opera-widget-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "http://dev.opera.com/articles/view/opera-widgets-sdk/",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fb75474a6a2e0dec8075c76eec9a2e77e0afe71428dd8f26de19c6a5a5c6590f"
+  }
+}

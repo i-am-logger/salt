@@ -1,0 +1,31 @@
+{
+  "key": "nysl-0.9982",
+  "name": "NYSL 0.9982",
+  "short_name": "NYSL 0.9982",
+  "spdx_license_key": "LicenseRef-scancode-nysl-0.9982",
+  "category": "Permissive",
+  "homepage_url": "http://www.kmonos.net/nysl/index.en.html",
+  "text_urls": [
+    "https://raw.githubusercontent.com/uasi/license-templates/0f48d7532fb4cc9c26fc6093db680e0601bf5738/LICENSE.NYSL.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e0cebe28f0dcdb61a05989d4ba6d720c5255548d31bed609ad5ee7d29a5dde5a"
+  }
+}

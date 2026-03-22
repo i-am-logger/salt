@@ -1,0 +1,42 @@
+{
+  "key": "nokos-1.0a",
+  "name": "Nokia Open Source License 1.0a",
+  "short_name": "NOKOS License 1.0a",
+  "spdx_license_key": "Nokia",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.opensource.org/licenses/nokia.html",
+  "text_urls": [
+    "http://www.opensource.org/licenses/nokia.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0a95e6628382503b04e423683f8160be7beac2037bd8820ea2acd53daf968c69"
+  }
+}

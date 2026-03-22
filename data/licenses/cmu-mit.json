@@ -1,0 +1,29 @@
+{
+  "key": "cmu-mit",
+  "name": "Carnegie Mellon UC Regents MIT-style License",
+  "short_name": "CMU MIT-style",
+  "spdx_license_key": "LicenseRef-scancode-cmu-mit",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "763a33f0d79e6d0a942acb6170401f94269bba124f9a3fd89cade784eecad295"
+  }
+}

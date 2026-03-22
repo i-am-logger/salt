@@ -1,0 +1,29 @@
+{
+  "key": "bytemark",
+  "name": "BYTEmark License",
+  "short_name": "BYTEmark License",
+  "spdx_license_key": "LicenseRef-scancode-bytemark",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5c70f04ad9093b01805a5acd1fe16430a7f62ae2a8938905b26f9490e0ad1552"
+  }
+}

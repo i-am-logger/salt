@@ -1,0 +1,25 @@
+{
+  "key": "nxp-microcontroller-proprietary",
+  "name": "NXP Microcontroller Proprietary",
+  "short_name": "NXP Microcontroller Proprietary",
+  "spdx_license_key": "LicenseRef-scancode-nxp-microctl-proprietary",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "da076442965bdf6d72a1ad0ea2d53fdf201669a67214f79595f643341f3f0482"
+  }
+}

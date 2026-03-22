@@ -1,0 +1,25 @@
+{
+  "key": "atmosphere-0.4",
+  "name": "Atmosphere Software License Version 0.4",
+  "short_name": "atmosphere",
+  "spdx_license_key": "LicenseRef-scancode-atmosphere-0.4",
+  "category": "Source-available",
+  "homepage_url": "https://www.open-austin.org/atmosphere-license/",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "29eda33373ee44b678a9b32b65921bc76004ed8e100c8ff6d89efbf86f99d43a"
+  }
+}

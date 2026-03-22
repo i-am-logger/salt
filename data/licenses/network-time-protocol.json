@@ -1,0 +1,31 @@
+{
+  "key": "network-time-protocol",
+  "name": "Duplicate Network Time Protocol License",
+  "short_name": "Duplicate Network Time Protocol License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "http://www.eecis.udel.edu/~mills/ntp/html/copyright.html",
+  "text_urls": [
+    "http://www.eecis.udel.edu/~mills/ntp/html/copyright.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e7d84637ef81d34a4a5805cf664679053bcf2ceaf84c73d02ea13c6ab55d5d75"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "sun-bcl-javahelp",
+  "name": "Sun BCL JavaHelp",
+  "short_name": "Sun BCL JavaHelp",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-javahelp",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0b54810bdc01f6681bb24be9e560903af35c9e863a17cbcab28646f9454de0c3"
+  }
+}

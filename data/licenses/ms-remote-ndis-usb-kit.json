@@ -1,0 +1,25 @@
+{
+  "key": "ms-remote-ndis-usb-kit",
+  "name": "Microsoft Remote NDIS USB Kit EULA",
+  "short_name": "MS Remote NDIS USB Kit EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-remote-ndis-usb-kit",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "748349a0e61be6efb41acff732daa01ad168e29637a92b8a00eee8f0e16c721f"
+  }
+}

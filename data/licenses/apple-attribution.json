@@ -1,0 +1,29 @@
+{
+  "key": "apple-attribution",
+  "name": "Apple Attribution License",
+  "short_name": "Apple Attribution License",
+  "spdx_license_key": "LicenseRef-scancode-apple-attribution",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8651652c2212c60b8ec30ee73f432f7332c990f35556ac603f2e2c8fde393707"
+  }
+}

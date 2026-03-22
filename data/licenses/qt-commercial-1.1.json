@@ -1,0 +1,25 @@
+{
+  "key": "qt-commercial-1.1",
+  "name": "Qt for Application Development License Agreement v1.1",
+  "short_name": "Qt Commercial License v1.1",
+  "spdx_license_key": "LicenseRef-scancode-qt-commercial-1.1",
+  "category": "Commercial",
+  "homepage_url": "http://www.qt.io/terms-conditions/#application_development",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a8015b8b55dd577ca384f027f1986140e30e890d0fd95bd37b8bee684de61c36"
+  }
+}

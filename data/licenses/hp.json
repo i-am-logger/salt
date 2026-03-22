@@ -1,0 +1,31 @@
+{
+  "key": "hp",
+  "name": "HP Non-Commercial License",
+  "short_name": "HP Non-Commercial License",
+  "spdx_license_key": "LicenseRef-scancode-hp",
+  "category": "Non-Commercial",
+  "homepage_url": "http://h30097.www3.hp.com/hp_sw_license.html",
+  "text_urls": [
+    "http://h30097.www3.hp.com/hp_sw_license.html"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d869047c3dd25656846c5f9c9733a79e70c0a39eab963e638ef658b83a5db62a"
+  }
+}

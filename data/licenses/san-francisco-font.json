@@ -1,0 +1,30 @@
+{
+  "key": "san-francisco-font",
+  "name": "Apple San Francisco Font License",
+  "short_name": "San Francisco Font License",
+  "spdx_license_key": "LicenseRef-scancode-san-francisco-font",
+  "category": "Proprietary Free",
+  "homepage_url": "https://sf.abarba.me/LICENSE.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "538760b57f9339045cc548b865ed178f6c300bc0d993c29f9420a29ed8e828ae"
+  }
+}

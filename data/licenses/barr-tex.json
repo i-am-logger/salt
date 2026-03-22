@@ -1,0 +1,29 @@
+{
+  "key": "barr-tex",
+  "name": "Barr TeX License",
+  "short_name": "Barr TeX License",
+  "spdx_license_key": "Barr",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Barr",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6428354e600d7bfc028adeb607d22964dd15b8616b6fa57e7796d3e4fe491e85"
+  }
+}

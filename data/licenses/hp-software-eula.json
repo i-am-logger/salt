@@ -1,0 +1,27 @@
+{
+  "key": "hp-software-eula",
+  "name": "HP Software EULA",
+  "short_name": "HP Software EULA",
+  "spdx_license_key": "LicenseRef-scancode-hp-software-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "http://h20000.www2.hp.com/bizsupport/TechSupport/softwareLicense.jsp?lang=en&cc=us&prodSeriesId=3219717&prodTypeId=0",
+  "text_urls": [
+    "http://h20000.www2.hp.com/bizsupport/TechSupport/softwareLicense.jsp?lang=en&cc=us&prodSeriesId=3219717&prodTypeId=0"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cf98ddf1ae9efaa4e1f5a875b9114ee4631caa3744771eabfacfc2232c97fe2f"
+  }
+}

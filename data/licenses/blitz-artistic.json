@@ -1,0 +1,31 @@
+{
+  "key": "blitz-artistic",
+  "name": "Blitz++ Artistic License",
+  "short_name": "Blitz++ Artistic",
+  "spdx_license_key": "LicenseRef-scancode-blitz-artistic",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/blitzpp/blitz/blob/master/COPYRIGHT",
+  "text_urls": [
+    "https://raw.githubusercontent.com/blitzpp/blitz/e3c973d68e5ee17aec779bf9711b38fd4afc355f/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f2ad285fc6ddd25e51e52ad64b2055d04529eaeb862d1aea2d8e47be89616849"
+  }
+}

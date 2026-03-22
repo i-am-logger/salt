@@ -1,0 +1,25 @@
+{
+  "key": "leap-motion-sdk-2019",
+  "name": "Leap Motion SDK Agreement 2019",
+  "short_name": "Leap Motion SDK Agreement 2019",
+  "spdx_license_key": "LicenseRef-scancode-leap-motion-sdk-2019",
+  "category": "Proprietary Free",
+  "homepage_url": "https://central.leapmotion.com/agreements/SdkAgreement",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "00dbe3c7cfb0923417a8ae54903926b6a07cdb0c52bd3c496b3a8acf592fce96"
+  }
+}

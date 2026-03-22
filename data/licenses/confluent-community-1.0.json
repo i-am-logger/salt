@@ -1,0 +1,30 @@
+{
+  "key": "confluent-community-1.0",
+  "name": "Confluent Community License 1.0",
+  "short_name": "Confluent Community License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-confluent-community-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://www.confluent.io/confluent-community-license",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2c1e6504796aff05e8c46732ee932c7bd92ca641edd281d3f2283e9ae2b9658"
+  }
+}

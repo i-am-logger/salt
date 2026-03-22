@@ -1,0 +1,30 @@
+{
+  "key": "click-license",
+  "name": "Click License",
+  "short_name": "Click License",
+  "spdx_license_key": "MIT-Click",
+  "category": "Permissive",
+  "homepage_url": "https://changelogs.ubuntu.com/changelogs/pool/main/t/t1utils/t1utils_1.39-2/copyright",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea46cd3aaa4d54eb5499bdbabd9404091e9e81a997da3821fc2eadafa12f2024"
+  }
+}

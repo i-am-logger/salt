@@ -1,0 +1,32 @@
+{
+  "key": "hyperclova-x-seed-2025",
+  "name": "HyperCLOVA X SEED Model License Agreement 2025",
+  "short_name": "HyperCLOVA X SEED Model 2025",
+  "spdx_license_key": "LicenseRef-scancode-hyperclova-x-seed-2025",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f401c7fd356e326fa38e0256363b8e57538ef011435b27cbd0d2a1d7c98d2ba1"
+  }
+}

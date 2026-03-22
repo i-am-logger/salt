@@ -1,0 +1,35 @@
+{
+  "key": "libtool-exception-2.0",
+  "name": "GNU Libtool exception to GPL 2.0",
+  "short_name": "GNU Libtool exception to GPL 2.0",
+  "spdx_license_key": "Libtool-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://git.savannah.gnu.org/cgit/libtool.git/tree/m4/libtool.m4",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "78d668a0bd343874bd99a5b524be293de7fdea8f54427c8cb76e0e68c12e7a8f"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "freetts",
+  "name": "FreeTTS License",
+  "short_name": "FreeTTS License",
+  "spdx_license_key": "MIT-Festival",
+  "category": "Permissive",
+  "homepage_url": "http://freetts.sourceforge.net/license.terms",
+  "text_urls": [
+    "http://freetts.sourceforge.net/license.terms"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6147a99da308759dd5f9b605b9e0a85afb35a66b24aa98c15d3246367c665a26"
+  }
+}

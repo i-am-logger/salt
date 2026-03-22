@@ -1,0 +1,35 @@
+{
+  "key": "lgpl-2.1-digia-qt",
+  "name": "LGPL 2.1 with Digia Qt Exception",
+  "short_name": "LGPL 2.1 with Digia Qt Exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://doc.qt.io/qt-5/lgpl.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "019569e423d26770c844deed9f68a913d6fb9da9c2629540179f609540c8e412"
+  }
+}

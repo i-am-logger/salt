@@ -1,0 +1,29 @@
+{
+  "key": "furuseth",
+  "name": "Furuseth License",
+  "short_name": "Furuseth License",
+  "spdx_license_key": "Furuseth",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "37560f60c455bd499cf604cedeb2b74fcbf5cea31455166edd2606bc6813fbab"
+  }
+}

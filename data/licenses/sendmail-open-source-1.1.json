@@ -1,0 +1,29 @@
+{
+  "key": "sendmail-open-source-1.1",
+  "name": "Sendmail Open Source License v1.1",
+  "short_name": "Sendmail Open Source License v1.1",
+  "spdx_license_key": "Sendmail-Open-Source-1.1",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9a1e17bfc97aaf09864809a432b208a20f1988e52b68c936232ea1a29eb4adc3"
+  }
+}

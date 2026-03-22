@@ -1,0 +1,35 @@
+{
+  "key": "lgpl-2.0-fltk",
+  "name": "LGPL 2.0 with FLTK exception",
+  "short_name": "LGPL 2.0 with FLTK exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.fltk.org/COPYING.php",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f6f46d7692a9d9a6e141cd338b4d1fda8fccc4bf8168f209a6713e658b99065b"
+  }
+}

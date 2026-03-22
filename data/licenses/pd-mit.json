@@ -1,0 +1,31 @@
+{
+  "key": "pd-mit",
+  "name": "Modified MIT License for Public Domain software",
+  "short_name": "Modified MIT License for Public Domain software",
+  "spdx_license_key": "LicenseRef-scancode-pd-mit",
+  "category": "Permissive",
+  "homepage_url": "http://cubicspot.blogspot.com/2014/03/writing-software-without-copyright.html",
+  "text_urls": [
+    "http://cubicspot.blogspot.com/2014/03/writing-software-without-copyright.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d3e865119b42d8bec232b7dfde120d83e9858c5a2efc58ef3df2ef5c7f4db3f4"
+  }
+}

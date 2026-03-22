@@ -1,0 +1,30 @@
+{
+  "key": "ms-visual-cpp-2015-runtime",
+  "name": "Microsoft Visual C++ 2015-2022 Runtime",
+  "short_name": "MS Visual C++ 2015-2022 Runtime",
+  "spdx_license_key": "LicenseRef-scancode-ms-visual-cpp-2015-runtime",
+  "category": "Proprietary Free",
+  "homepage_url": "https://visualstudio.microsoft.com/license-terms/vs2022-cruntime/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cbf0f5e8a3953a6df79068b7afce10385d74edcfc43969cb1a617c6144c35dae"
+  }
+}

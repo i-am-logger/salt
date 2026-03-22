@@ -1,0 +1,32 @@
+{
+  "key": "sgi-freeb-2.0",
+  "name": "SGI Free Software License B v2.0",
+  "short_name": "SGI Free Software License B 2.0",
+  "spdx_license_key": "SGI-B-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf",
+  "text_urls": [
+    "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "babb02ba4c558365a8847f0fc96796f3d6b4acbdfc6f4454719d7067181f91eb"
+  }
+}

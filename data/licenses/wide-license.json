@@ -1,0 +1,29 @@
+{
+  "key": "wide-license",
+  "name": "WIDE License",
+  "short_name": "WIDE License",
+  "spdx_license_key": "LicenseRef-scancode-wide-license",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2f94a8aa2e79bf1254ea0de92404a4947cb031a7dc96b60cd92875124e8ab75"
+  }
+}

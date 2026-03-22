@@ -1,0 +1,29 @@
+{
+  "key": "cavium-malloc",
+  "name": "Cavium malloc License",
+  "short_name": "Cavium malloc License",
+  "spdx_license_key": "LicenseRef-scancode-cavium-malloc",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "76a2b667bf759ac6700332903046bc25590e0dee632cea60f1602efa83555d19"
+  }
+}

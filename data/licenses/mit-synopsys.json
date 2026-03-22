@@ -1,0 +1,29 @@
+{
+  "key": "mit-synopsys",
+  "name": "MIT Synopsys License",
+  "short_name": "MIT Synopsys License",
+  "spdx_license_key": "LicenseRef-scancode-mit-synopsys",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cb67508a8be174d8fdfc252fa9877a2a730a7898181d1aae66255479ef21b574"
+  }
+}

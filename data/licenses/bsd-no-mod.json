@@ -1,0 +1,32 @@
+{
+  "key": "bsd-no-mod",
+  "name": "Madwifi License Agreement",
+  "short_name": "Madwifi License",
+  "spdx_license_key": "LicenseRef-scancode-bsd-no-mod",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.madwifi.org/",
+  "text_urls": [
+    "http://wiki.freespire.org/index.php/Madwifi_License_Agreement"
+  ],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "49298899393f201fdd400b51e93ede7e647ffd2c68d5ab6f7e121b89ae461efe"
+  }
+}

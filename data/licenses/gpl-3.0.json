@@ -1,0 +1,42 @@
+{
+  "key": "gpl-3.0",
+  "name": "GNU General Public License 3.0",
+  "short_name": "GPL 3.0",
+  "spdx_license_key": "GPL-3.0-only",
+  "category": "Copyleft",
+  "homepage_url": "http://www.gnu.org/licenses/gpl-3.0.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
+    "http://www.gnu.org/licenses/gpl-3.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cf365afd2b1fe07f9aa5915a0bc8936bf1da6689dae1e71edb2ee9af1fe3c603"
+  }
+}

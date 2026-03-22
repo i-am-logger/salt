@@ -1,0 +1,25 @@
+{
+  "key": "quicktime",
+  "name": "Apple Quicktime License",
+  "short_name": "Apple Quicktime License",
+  "spdx_license_key": "LicenseRef-scancode-quicktime",
+  "category": "Proprietary Free",
+  "homepage_url": "http://store.apple.com/Catalog/US/Images/quicktime.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9df4b43b4fac6d96fd120024482bb057ca76aec1914fec3a118a8998f5c5c9f1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "larabie",
+  "name": "Larabie Fonts EULA",
+  "short_name": "Larabie Fonts EULA",
+  "spdx_license_key": "LicenseRef-scancode-larabie",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "be6accca745ac577292328d6894272b34af3a502275dd5aed3a5dba49d1c9c0c"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "adobe-flex-sdk",
+  "name": "Adobe Flex SDK SLA",
+  "short_name": "Adobe Flex SDK SLA",
+  "spdx_license_key": "LicenseRef-scancode-adobe-flex-sdk",
+  "category": "Proprietary Free",
+  "homepage_url": "https://raw.githubusercontent.com/nginadfoundation/flexsdk/master/license-adobesdk.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c17b0ed83c4276cfe2f52d68167f9b50ae695ce7af1d06e315d192ea818d8965"
+  }
+}

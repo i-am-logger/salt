@@ -1,0 +1,31 @@
+{
+  "key": "logica-1.0",
+  "name": "Logica Open Source License v1.0",
+  "short_name": "Logica OSL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-logica-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://opensmpp.logica.com/CommonPart/Download/Download.htm",
+  "text_urls": [
+    "http://opensmpp.logica.com/CommonPart/Download/Download.htm"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "326725a4afc943bab2b0aa3471329db283945b3099fca50653996a9770e137f7"
+  }
+}

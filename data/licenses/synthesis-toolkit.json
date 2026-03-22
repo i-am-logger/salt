@@ -1,0 +1,29 @@
+{
+  "key": "synthesis-toolkit",
+  "name": "Synthesis Toolkit License",
+  "short_name": "Synthesis Toolkit License",
+  "spdx_license_key": "MIT-STK",
+  "category": "Permissive",
+  "homepage_url": "https://ccrma.stanford.edu/software/stk/faq.html#license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ee103660634548f47b0bd8674c46eb94994ab8028a03cf7edb8c5669df6efd1"
+  }
+}

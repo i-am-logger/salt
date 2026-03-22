@@ -1,0 +1,30 @@
+{
+  "key": "chartdirector-6.0",
+  "name": "ChartDirector 6.0 License Agreement",
+  "short_name": "ChartDirector 6.0 License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-chartdirector-6.0",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.advsofteng.com/doc/cdcomdoc/license.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "43c2c492c0f5cec1ac3d9cba38267b24eb3a81676afe5349afc65302e93e4085"
+  }
+}

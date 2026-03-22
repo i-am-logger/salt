@@ -1,0 +1,26 @@
+{
+  "key": "agentxpp",
+  "name": "AgentX++ License Agreement",
+  "short_name": "AgentX++ License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-agentxpp",
+  "category": "Commercial",
+  "homepage_url": "https://agentpp.com/licenses/LICENSE_AgentX++.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8051f684b3fccaa4d4093fe8393a53e5960f82ca5e896545510bdb87a9f7b8a2"
+  }
+}

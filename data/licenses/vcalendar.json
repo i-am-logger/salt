@@ -1,0 +1,29 @@
+{
+  "key": "vcalendar",
+  "name": "VCalendar License",
+  "short_name": "VCalendar License",
+  "spdx_license_key": "LicenseRef-scancode-vcalendar",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/libical/libical/blob/master/src/libicalvcal/vcaltmp.h",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "913e3906d916dead0599986dc4d26262587d15fdea4c3e485b53a44fa0682083"
+  }
+}

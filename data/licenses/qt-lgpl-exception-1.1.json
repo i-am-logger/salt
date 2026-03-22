@@ -1,0 +1,32 @@
+{
+  "key": "qt-lgpl-exception-1.1",
+  "name": "Qt LGPL exception 1.1",
+  "short_name": "Qt LGPL exception 1.1",
+  "spdx_license_key": "Qt-LGPL-exception-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://code.qt.io/cgit/qt/qtbase.git/tree/LGPL_EXCEPTION.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "998498ca664b0196197de9982e05c1bdebffd4549358c6679559b22995526339"
+  }
+}

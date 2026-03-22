@@ -1,0 +1,25 @@
+{
+  "key": "actuate-birt-ihub-ftype-sla",
+  "name": "Actuate Corporation BIRT iHub F-Type Software License Agreement",
+  "short_name": "BIRT iHub F-Type Software License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-actuate-birt-ihub-ftype-sla",
+  "category": "Proprietary Free",
+  "homepage_url": "http://spp.actuate.com/DM/DownloadOpenFile.aspx?docId=4637",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "19c32c211dc3a00aa1eb031e1afad7c58810a6e57f73369939176e47b351a09f"
+  }
+}

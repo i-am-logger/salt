@@ -1,0 +1,29 @@
+{
+  "key": "cnri-jython",
+  "name": "CNRI Jython License",
+  "short_name": "CNRI Jython License",
+  "spdx_license_key": "CNRI-Jython",
+  "category": "Permissive",
+  "homepage_url": "http://www.jython.org/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6a7b27f7380e3feeaeb9544049c1759577bece156bf8f518b1e2b7c17232fa5b"
+  }
+}

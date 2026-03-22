@@ -1,0 +1,26 @@
+{
+  "key": "sax-pd-2.0",
+  "name": "Sax Public Domain Notice 2.0",
+  "short_name": "Sax Public Domain Notice 2.0",
+  "spdx_license_key": "SAX-PD-2.0",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bd81be7a089ca4dce013e811b53f08b5d67406c4add912171f3eaa57ea750d98"
+  }
+}

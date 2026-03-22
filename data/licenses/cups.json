@@ -1,0 +1,41 @@
+{
+  "key": "cups",
+  "name": "CUPS License",
+  "short_name": "CUPS License",
+  "spdx_license_key": "LicenseRef-scancode-cups",
+  "category": "Copyleft",
+  "homepage_url": "http://www.cups.org/",
+  "text_urls": [
+    "http://www.cups.org/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1cf4f8d618dc48ce2556dc60984271039fdc98abb521eea90f9e7f89bae83350"
+  }
+}

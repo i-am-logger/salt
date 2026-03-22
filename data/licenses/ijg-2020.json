@@ -1,0 +1,33 @@
+{
+  "key": "ijg-2020",
+  "name": "Independent JPEG Group License 2020",
+  "short_name": "JPEG License 2020",
+  "spdx_license_key": "LicenseRef-scancode-ijg-2020",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/README.ijg",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1952f0d700543ff5cd1b24c771fe9efaac0b2b39de01fe92d6b734c3fe0b6940"
+  }
+}

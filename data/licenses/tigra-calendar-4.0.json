@@ -1,0 +1,29 @@
+{
+  "key": "tigra-calendar-4.0",
+  "name": "Tigra Calendar v4.0 License",
+  "short_name": "Tigra Calendar 4.0 License",
+  "spdx_license_key": "LicenseRef-scancode-tigra-calendar-4.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.javascript-calendar.com/docs/#license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ed614d73204c90f52a1daa2ad781882903888b332796539dd37d4d9786ec829"
+  }
+}

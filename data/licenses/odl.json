@@ -1,0 +1,31 @@
+{
+  "key": "odl",
+  "name": "Open Directory License",
+  "short_name": "Open Directory License",
+  "spdx_license_key": "LicenseRef-scancode-odl",
+  "category": "Permissive",
+  "homepage_url": "http://www.dmoz.org/license.html",
+  "text_urls": [
+    "http://www.dmoz.org/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "28d3671faf4475eb2357531aa2d4313c135bd51509753bf32fd21bd8d71c9a06"
+  }
+}

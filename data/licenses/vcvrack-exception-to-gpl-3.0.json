@@ -1,0 +1,30 @@
+{
+  "key": "vcvrack-exception-to-gpl-3.0",
+  "name": "VCV Rack Non-Commercial Plugin License Exception to GPL 3.0",
+  "short_name": "VCV Rack NC Exception to GPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/VCVRack/Rack/blob/v2/LICENSE.md#vcv-rack-non-commercial-plugin-license-exception",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "467e8155c910afb79ef37c3d926c04853348f976e1d04d9622e0edcbd8ff3324"
+  }
+}

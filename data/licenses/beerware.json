@@ -1,0 +1,25 @@
+{
+  "key": "beerware",
+  "name": "Beer-Ware License",
+  "short_name": "Beer-Ware License",
+  "spdx_license_key": "Beerware",
+  "category": "Permissive",
+  "homepage_url": "http://people.freebsd.org/~phk/",
+  "text_urls": [
+    "http://people.freebsd.org/~phk/",
+    "https://fedoraproject.org/wiki/Licensing/Beerware"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5db99f94f341ca94395c52f10339d9d61d85fb17c67568918250f722d8f1fc6e"
+  }
+}

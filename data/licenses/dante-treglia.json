@@ -1,0 +1,29 @@
+{
+  "key": "dante-treglia",
+  "name": "Dante Treglia License",
+  "short_name": "Dante Treglia License",
+  "spdx_license_key": "Game-Programming-Gems",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "da8af30e13f937e63a1b7bfec14470e297bad6ee28c73ed8c7fc47cfc6ab7d57"
+  }
+}

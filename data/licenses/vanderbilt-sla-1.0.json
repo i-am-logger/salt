@@ -1,0 +1,33 @@
+{
+  "key": "vanderbilt-sla-1.0",
+  "name": "Vanderbilt Contribution and Software License Agreement v1.0",
+  "short_name": "Vanderbilt SLA v1.0",
+  "spdx_license_key": "LicenseRef-scancode-vanderbilt-sla-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/MASILab/SLANTbrainSeg/blob/master/license.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d75ec0c6f4556a8b4ddcc5e0a82c8e1e9e6fe1552d9ad80cfc794c7f022fcfd8"
+  }
+}

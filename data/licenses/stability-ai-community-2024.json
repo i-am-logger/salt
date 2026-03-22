@@ -1,0 +1,34 @@
+{
+  "key": "stability-ai-community-2024",
+  "name": "Stability AI Community License Agreement 2024",
+  "short_name": "Stability AI Community License Agreement 2024",
+  "spdx_license_key": "LicenseRef-scancode-stability-ai-community-2024",
+  "category": "Non-Commercial",
+  "homepage_url": "https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c95ec580e48f94cd9c0299f0e03018633c3064a7042c19e12587c95c74947c9a"
+  }
+}

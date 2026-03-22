@@ -1,0 +1,25 @@
+{
+  "key": "jpl-image",
+  "name": "JPL Image Use Policy",
+  "short_name": "JPL Image Use Policy",
+  "spdx_license_key": "JPL-image",
+  "category": "Source-available",
+  "homepage_url": "https://www.jpl.nasa.gov/jpl-image-use-policy",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0779bc395c10488ed0fd0b09f31d4515a67570f732ff971b0f2d2491305d0a73"
+  }
+}

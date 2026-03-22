@@ -1,0 +1,35 @@
+{
+  "key": "cooperative-non-violent-7.0",
+  "name": "Cooperative Non-Violent Public License v7",
+  "short_name": "CNVPL 7.0",
+  "spdx_license_key": "LicenseRef-scancode-cooperative-non-violent-7.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://thufie.lain.haus/NPL.html",
+  "text_urls": [
+    "https://git.pixie.town/thufie/thufie-site/raw/branch/main/files/CNPLv7.md"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6ab48be81a7d22b2a29b46561a4cba7c03def1ee4237bf3bd2de663682f0a085"
+  }
+}

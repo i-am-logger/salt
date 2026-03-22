@@ -1,0 +1,44 @@
+{
+  "key": "photoprism-exception-3.0",
+  "name": "PhotoPrism Exception to AGPL-3.0",
+  "short_name": "PhotoPrism Exception to AGPL-3.0",
+  "spdx_license_key": "LicenseRef-scancode-photoprism-exception-3.0",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/photoprism/photoprism/blob/cc0661eff67d9efd340bd479bc5c93628699988a/LICENSE#L623-L644",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8fd73da91ea3e32372936efb2611a61d39cb1563dcef91fa5f54cd01739369ef"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "cryptopp",
+  "name": "Crypto++ License",
+  "short_name": "Crypto++ License",
+  "spdx_license_key": "LicenseRef-scancode-cryptopp",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0585dfb80df4fb75cdcd54eba1d3af2ca3eee5ef17e0259172ed35fb01625232"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "zveno-research",
+  "name": "Zveno Research License",
+  "short_name": "Zveno Research License",
+  "spdx_license_key": "LicenseRef-scancode-zveno-research",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f9bfb7da0f3899c95172ea884ececb423d51cdf241485de5941870e8e4d2728b"
+  }
+}

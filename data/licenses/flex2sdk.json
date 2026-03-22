@@ -1,0 +1,31 @@
+{
+  "key": "flex2sdk",
+  "name": "Adobe Flex 2.0.1 SDK EULA",
+  "short_name": "Adobe Flex 2.0.1 SDK EULA",
+  "spdx_license_key": "LicenseRef-scancode-flex2sdk",
+  "category": "Proprietary Free",
+  "homepage_url": "http://labs.adobe.com/technologies/eula/flex2sdk.html",
+  "text_urls": [
+    "http://labs.adobe.com/technologies/eula/flex2sdk.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f437ae6e72591ef71ca8bd84becc7728b95568b5ebe7b17caa88999d43d7fc9e"
+  }
+}

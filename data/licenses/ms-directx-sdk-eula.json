@@ -1,0 +1,31 @@
+{
+  "key": "ms-directx-sdk-eula",
+  "name": "Microsoft DirectX SDK EULA",
+  "short_name": "MS DirectX SDK EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-directx-sdk-eula",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "ftp://ftp.physik.hu-berlin.de/pub/useful/dx7asdk/DXF/license/directx%20sdk%20eula.txt"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e382120eecc7ac4214e1d482ab31bf0bb55eef03ef5e018a08d6c5353489575e"
+  }
+}

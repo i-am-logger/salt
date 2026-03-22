@@ -1,0 +1,28 @@
+{
+  "key": "newran",
+  "name": "Newran License",
+  "short_name": "Newran License",
+  "spdx_license_key": "LicenseRef-scancode-newran",
+  "category": "Permissive",
+  "homepage_url": "http://www.robertnz.net/nr02doc.htm",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1c0bf221601c225f793b93dc8689b6b5f7b69209c1864f18004e1fc9855d962c"
+  }
+}

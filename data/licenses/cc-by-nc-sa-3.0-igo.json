@@ -1,0 +1,38 @@
+{
+  "key": "cc-by-nc-sa-3.0-igo",
+  "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 IGO",
+  "short_name": "CC-BY-NC-SA-3.0-IGO",
+  "spdx_license_key": "CC-BY-NC-SA-3.0-IGO",
+  "category": "Non-Commercial",
+  "homepage_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b2557ca6109029c2fa4c07e18c66422b5030133f8e82673eef16ebcdaec2e765"
+  }
+}

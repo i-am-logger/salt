@@ -1,0 +1,39 @@
+{
+  "key": "cc-by-sa-4.0",
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+  "short_name": "CC-BY-SA-4.0",
+  "spdx_license_key": "CC-BY-SA-4.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://creativecommons.org/licenses/by-sa/4.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "98a0ee6009b93259f848f4f5e615e539c61781b2917a3ba9ca6837b910945233"
+  }
+}

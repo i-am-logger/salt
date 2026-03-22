@@ -1,0 +1,31 @@
+{
+  "key": "make-human-exception",
+  "name": "MakeHuman License",
+  "short_name": "MakeHuman License",
+  "spdx_license_key": "LicenseRef-scancode-make-human-exception",
+  "category": "Permissive",
+  "homepage_url": "http://www.makehuman.org/index.php",
+  "text_urls": [
+    "http://www.makehuman.org/license.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8b128d0a1650b0c87bfa79cbde88d41bed1423c5f181624319cdca0debe443e6"
+  }
+}

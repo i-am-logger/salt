@@ -1,0 +1,29 @@
+{
+  "key": "intel-mcu-2018",
+  "name": "Intel MCU path license 2018",
+  "short_name": "Intel MCU path license 2018",
+  "spdx_license_key": "LicenseRef-scancode-intel-mcu-2018",
+  "category": "Proprietary Free",
+  "homepage_url": "https://01.org/mcu-path-license-2018",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "73392f325f5d63999835470f2f1f0ea02f83d7dcb2b5ad39a4b0aaaab8f885a3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "dos32a-extender",
+  "name": "DOS32 Advanced DOS Extender Software License",
+  "short_name": "DOS32A Extender License",
+  "spdx_license_key": "LicenseRef-scancode-dos32a-extender",
+  "category": "Permissive",
+  "homepage_url": "https://dos32a.narechk.net/content/license.html",
+  "text_urls": [
+    "https://github.com/open-watcom/open-watcom-v2/blob/master/bld/redist/dos32a/license.d32"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d90b0af645ab7b4a8558c7cb8cd381fd9800b11c3cd66a1dd5ec2e77dc0197b6"
+  }
+}

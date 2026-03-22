@@ -1,0 +1,25 @@
+{
+  "key": "ms-net-framework-4-supplemental-terms",
+  "name": "Microsoft Software Supplemental License - .NET Framework 4",
+  "short_name": "MS Supplemental License - .NET Framework 4",
+  "spdx_license_key": "LicenseRef-scancode-ms-net-framework-4-supp-terms",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "070d53d1772c571b3ceded847019607ac1367aae3bb5f6173e470f18c79e1821"
+  }
+}

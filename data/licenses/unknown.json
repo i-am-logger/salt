@@ -1,0 +1,17 @@
+{
+  "key": "unknown",
+  "name": "Unknown license detected but not recognized",
+  "short_name": "unknown",
+  "spdx_license_key": "LicenseRef-scancode-unknown",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5c0cbca657cbdc29eabf127b5e730e669ef4527d0ec72474cef57371fc42c26b"
+  }
+}

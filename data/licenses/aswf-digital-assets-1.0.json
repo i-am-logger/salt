@@ -1,0 +1,31 @@
+{
+  "key": "aswf-digital-assets-1.0",
+  "name": "ASWF Digital Assets License v1.0",
+  "short_name": "ASWF Digital Assets License v1.0",
+  "spdx_license_key": "ASWF-Digital-Assets-1.0",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/AcademySoftwareFoundation/foundation/blob/main/digital_assets/aswf_digital_assets_license_v1.0.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5ec21e1ab24271233d7ae728c4a93cb917b5be6a10250f6abbb9c79a84f92691"
+  }
+}

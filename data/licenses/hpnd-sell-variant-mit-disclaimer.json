@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-sell-variant-mit-disclaimer",
+  "name": "HPND sell variant with MIT disclaimer",
+  "short_name": "HPND sell variant with MIT disclaimer",
+  "spdx_license_key": "HPND-sell-variant-MIT-disclaimer",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/sigmavirus24/x11-ssh-askpass/blob/master/README",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ad6d1b844cf484c98135b508b810a07919fc47e577c7c00e3566c237c2b0713e"
+  }
+}

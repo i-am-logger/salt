@@ -1,0 +1,29 @@
+{
+  "key": "unicode-ucd",
+  "name": "Unicode Character Database (UCD) Terms of Use",
+  "short_name": "Unicode UCD TOU",
+  "spdx_license_key": "LicenseRef-scancode-unicode-ucd",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:UCD",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e872456ce2c895560c1f37a87f9803629bb355f9310e923bcdae283ef130ef8e"
+  }
+}

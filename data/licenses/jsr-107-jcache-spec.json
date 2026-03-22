@@ -1,0 +1,29 @@
+{
+  "key": "jsr-107-jcache-spec",
+  "name": "JSR-107 JCache Specification License",
+  "short_name": "JSR-107 JCache Specification License",
+  "spdx_license_key": "LicenseRef-scancode-jsr-107-jcache-spec",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/jsr107/jsr107spec/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e3cc7fb81ba276a1985cea57af874f3a5fed8aa4490f70b288934ba91d328591"
+  }
+}

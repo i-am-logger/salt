@@ -1,0 +1,29 @@
+{
+  "key": "bsd-new-tcpdump",
+  "name": "BSD-3-Clause tcpdump variant",
+  "short_name": "BSD-3-Clause tcpdump variant",
+  "spdx_license_key": "LicenseRef-scancode-bsd-new-tcpdump",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "781c040af76a5834259668ac504c2acb20653f692767d08ffe6f1540f99f0819"
+  }
+}

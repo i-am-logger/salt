@@ -1,0 +1,27 @@
+{
+  "key": "snowplow-lula-1.0",
+  "name": "Snowplow Limited Use License Agreement 1.0",
+  "short_name": "Snowplow Limited Use License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-snowplow-lula-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.snowplow.io/limited-use-license-1.0/",
+  "text_urls": [
+    "https://github.com/snowplow/snowbridge/blob/b72cd4a85e027bba39c8e924a5e9a94c6ff79836/LICENSE.md"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c02226ba8ab3b941bfc14057df1fb7383cb8615af27cc4f82efdeec3b45022c0"
+  }
+}

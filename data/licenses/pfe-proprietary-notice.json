@@ -1,0 +1,26 @@
+{
+  "key": "pfe-proprietary-notice",
+  "name": "PFE Proprietary Notice",
+  "short_name": "PFE Proprietary Notice",
+  "spdx_license_key": "LicenseRef-scancode-pfe-proprietary-notice",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.lancaster.ac.uk/staff/steveb/cpaap/pfe/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "92f8806b734b29774617c8bbbee60cafddd06daaca0030523476d8428ee36215"
+  }
+}

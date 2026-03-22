@@ -1,0 +1,25 @@
+{
+  "key": "bola11",
+  "name": "BOLA - Buena Onda License Agreement (v1.1)",
+  "short_name": "Buena Onda License Agreement (v1.1)",
+  "spdx_license_key": "BOLA-1.1",
+  "category": "Permissive",
+  "homepage_url": "https://blitiri.com.ar/p/bola/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2bc6e58084e4beaca6c42ae52414911a77b54c67e3ce0fce1003115e88399b2"
+  }
+}

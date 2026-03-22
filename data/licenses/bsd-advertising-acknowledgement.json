@@ -1,0 +1,29 @@
+{
+  "key": "bsd-advertising-acknowledgement",
+  "name": "BSD Advertising Acknowledgement License",
+  "short_name": "BSD Advertising Acknowledgement License",
+  "spdx_license_key": "BSD-Advertising-Acknowledgement",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/python-excel/xlrd/blob/master/LICENSE#L33",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "069b68e559575ab9e48d8edb7dcad56ffaa418c460238f214d06e6fc36f9c17c"
+  }
+}

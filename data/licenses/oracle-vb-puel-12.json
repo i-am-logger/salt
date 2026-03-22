@@ -1,0 +1,25 @@
+{
+  "key": "oracle-vb-puel-12",
+  "name": "Oracle VirtualBox Extension Pack Personal Use and Educational License (PUEL) v12",
+  "short_name": "Oracle VB Extension Pack PUEL v12",
+  "spdx_license_key": "LicenseRef-scancode-oracle-vb-puel-12",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.virtualbox.org/wiki/VirtualBox_PUEL",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9771e019dfae98fb41b451e5f9fabb70d10724a99e0318ae398888248bcbb78c"
+  }
+}

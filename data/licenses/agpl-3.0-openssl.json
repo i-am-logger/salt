@@ -1,0 +1,43 @@
+{
+  "key": "agpl-3.0-openssl",
+  "name": "AGPL 3.0 with OpenSSL exception",
+  "short_name": "AGPL 3.0 with OpenSSL exception",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "45ef09d46923b2d7746a0acac693e2037e9a4bdb8bb13cd8a1ec69f6d6ca2e40"
+  }
+}

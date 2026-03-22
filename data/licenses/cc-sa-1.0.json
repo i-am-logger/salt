@@ -1,0 +1,34 @@
+{
+  "key": "cc-sa-1.0",
+  "name": "Creative Commons ShareAlike License 1.0",
+  "short_name": "CC-SA-1.0",
+  "spdx_license_key": "CC-SA-1.0",
+  "category": "Copyleft",
+  "homepage_url": "https://web.archive.org/web/20140216055401/http://creativecommons.org/licenses/sa/1.0/legalcode",
+  "text_urls": [
+    "http://creativecommons.org/licenses/sa/1.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "80be04b2fa06f38957ebe2bbe37ff0e5275dbe2b8057562f88c95a16b2c0eebf"
+  }
+}

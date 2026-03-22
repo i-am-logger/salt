@@ -1,0 +1,39 @@
+{
+  "key": "lucent-pl-1.02",
+  "name": "Lucent Public License 1.02",
+  "short_name": "Lucent Public License 1.02",
+  "spdx_license_key": "LPL-1.02",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://plan9.bell-labs.com/plan9/license.html",
+  "text_urls": [
+    "http://plan9.bell-labs.com/plan9/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "54136c371a99e6023b4eda28cbe11c93b01a9fe885eb424e0beb3639bcde8ad1"
+  }
+}

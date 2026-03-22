@@ -1,0 +1,29 @@
+{
+  "key": "tu-berlin-2.0",
+  "name": "Technische Universitaet Berlin License 2.0",
+  "short_name": "TU Berlin License 2.0",
+  "spdx_license_key": "TU-Berlin-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/CorsixTH/deps/blob/fd339a9f526d1d9c9f01ccf39e438a015da50035/licences/libgsm.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "14132121777b088fb6e97a9f6511473d6240e543ff7afd9ed731a94a54393178"
+  }
+}

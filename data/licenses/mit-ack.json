@@ -1,0 +1,29 @@
+{
+  "key": "mit-ack",
+  "name": "MIT Acknowledgment License",
+  "short_name": "MIT Acknowledgment License",
+  "spdx_license_key": "MIT-feh",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#feh",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "066076b888def79fb7cadf53ec6549eced4b4606656859fa5855c19333524069"
+  }
+}

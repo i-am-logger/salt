@@ -1,0 +1,25 @@
+{
+  "key": "codexia",
+  "name": "Codexia License",
+  "short_name": "Codexia License",
+  "spdx_license_key": "LicenseRef-scancode-codexia",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "937a2f421ed611a78c425345fe51034e751a6f9f5a15e7bbb07dd25a46e20d3b"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "key": "motosoto-0.9.1",
+  "name": "Motosoto Open Source License v0.9.1",
+  "short_name": "Motosoto 0.9.1",
+  "spdx_license_key": "Motosoto",
+  "category": "Copyleft",
+  "homepage_url": "http://opensource.org/licenses/motosoto.php",
+  "text_urls": [
+    "http://opensource.org/licenses/motosoto.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "11d29e8a6b17120c743af8a3447a58b7353b3e4d9937022cafb84188343670c4"
+  }
+}

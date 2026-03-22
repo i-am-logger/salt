@@ -1,0 +1,40 @@
+{
+  "key": "bash-exception-gpl",
+  "name": "Bash exception to GPL",
+  "short_name": "Bash exception to GPL",
+  "spdx_license_key": "LicenseRef-scancode-bash-exception-gpl-2.0",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [
+    "https://git.savannah.gnu.org/cgit/bash.git/plain/COPYING?h=bash-3.0-rc1&id=dd9e6dfa23d0dae4888f11fb8c6a27bc36d1b283"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2fc19292373882b01e8ce89560069041fffd6fe259f726ff94cc8e75c6e8680"
+  }
+}

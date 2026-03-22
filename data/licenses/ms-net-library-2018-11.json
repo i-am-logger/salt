@@ -1,0 +1,29 @@
+{
+  "key": "ms-net-library-2018-11",
+  "name": "Microsoft .NET Library License 2018-11",
+  "short_name": "MS .NET Library License 2018-11",
+  "spdx_license_key": "LicenseRef-scancode-ms-net-library-2018-11",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bec0b890cdead6ff27774dc1b6ee0d75b08925796a587f575e623ff867bfcd74"
+  }
+}

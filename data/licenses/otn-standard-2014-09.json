@@ -1,0 +1,25 @@
+{
+  "key": "otn-standard-2014-09",
+  "name": "Oracle Technology Network License Agreement 2014-09",
+  "short_name": "OTN License 2014-09",
+  "spdx_license_key": "LicenseRef-scancode-otn-standard-2014-09",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.oracle.com/technetwork/licenses/standard-license-152015.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "139ec9118b12512b10d97d6d69170797155fe7c56cc411dacbf6ab2dfee25024"
+  }
+}

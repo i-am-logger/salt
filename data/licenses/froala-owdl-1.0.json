@@ -1,0 +1,32 @@
+{
+  "key": "froala-owdl-1.0",
+  "name": "Froala Open Web Design License",
+  "short_name": "Froala Open Web Design License",
+  "spdx_license_key": "LicenseRef-scancode-froala-owdl-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/froala/design-blocks/blob/dev/LICENSE",
+  "text_urls": [
+    "https://github.com/froala/design-blocks/blob/dev/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d393f9811767867fa4b613daff828bbff7caeb548a61813d37c1edd22d17cb83"
+  }
+}

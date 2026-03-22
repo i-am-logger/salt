@@ -1,0 +1,32 @@
+{
+  "key": "jprs-oscl-1.1",
+  "name": "JPRS Open Source Code License v1.1",
+  "short_name": "JPRS OSCL 1.1",
+  "spdx_license_key": "LicenseRef-scancode-jprs-oscl-1.1",
+  "category": "Free Restricted",
+  "homepage_url": "https://jprs.co.jp/idn/idnkit2-OSCL.txt",
+  "text_urls": [
+    "https://jprs.co.jp/idn/idnkit2-OSCL.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce406836018e4e1c7b5d6d55afc8ea0e60b230614a31bb7e674a2e3233b025b8"
+  }
+}

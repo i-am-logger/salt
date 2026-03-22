@@ -1,0 +1,38 @@
+{
+  "key": "trolltech-gpl-exception-1.2",
+  "name": "Trolltech GPL Exception version v1.2",
+  "short_name": "Trolltech GPL Exception 1.2",
+  "spdx_license_key": "LicenseRef-scancode-trolltech-gpl-exception-1.2",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "76e4945d6fdc37a1647e18b18222645e9a5abe084fbb68bfd30d7bf602ba8756"
+  }
+}

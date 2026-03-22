@@ -1,0 +1,27 @@
+{
+  "key": "ms-developer-services-agreement",
+  "name": "Microsoft Developer Services Agreement",
+  "short_name": "MS Developer Services Agreement",
+  "spdx_license_key": "LicenseRef-scancode-ms-dev-services-agreement",
+  "category": "Proprietary Free",
+  "homepage_url": "http://msdn.microsoft.com/en-us/cc300389.aspx",
+  "text_urls": [
+    "http://msdn.microsoft.com/en-us/cc300389.aspx"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "78af8c30fbc240044fce8cb45100117719b661de98625b1ea7d4fa78ee408cd8"
+  }
+}

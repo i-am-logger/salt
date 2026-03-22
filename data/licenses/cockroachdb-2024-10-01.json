@@ -1,0 +1,33 @@
+{
+  "key": "cockroachdb-2024-10-01",
+  "name": "CockroachDB Software License 2024-10-01",
+  "short_name": "CockroachDB Software License 2024-10-01",
+  "spdx_license_key": "LicenseRef-scancode-cockroachdb-2024-10-01",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/cockroachdb/cockroach/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "02c69b842ea7ed61e9b721262fe673f7c51730cd0f8131e82691b5808c1e58e9"
+  }
+}

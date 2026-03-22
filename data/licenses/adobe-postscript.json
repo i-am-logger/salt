@@ -1,0 +1,25 @@
+{
+  "key": "adobe-postscript",
+  "name": "Adobe PostScript License",
+  "short_name": "Adobe PostScript License",
+  "spdx_license_key": "LicenseRef-scancode-adobe-postscript",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7575ed4fc9ffe32ff54e0260bbc21ccff63bcaca3bb748373d2d05d0404a276b"
+  }
+}

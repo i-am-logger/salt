@@ -1,0 +1,33 @@
+{
+  "key": "amazon-sl",
+  "name": "Amazon Software License",
+  "short_name": "Amazon Software License",
+  "spdx_license_key": "LicenseRef-scancode-amazon-sl",
+  "category": "Proprietary Free",
+  "homepage_url": "http://aws.amazon.com/asl/",
+  "text_urls": [
+    "http://aws.amazon.com/asl/",
+    "https://github.com/aws/aws-sdk-android/blob/master/LICENSE.AMAZON.txt"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "849989c4a6feb5c799bfdbfac84ded7fce7bd9cf99f6aaa74060f7b8290405bb"
+  }
+}

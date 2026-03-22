@@ -1,0 +1,31 @@
+{
+  "key": "sun-rpc",
+  "name": "Sun RPC License",
+  "short_name": "Sun RPC License",
+  "spdx_license_key": "LicenseRef-scancode-sun-rpc",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.apple.com/license/sunrpc/",
+  "text_urls": [
+    "http://www.opensource.apple.com/license/sunrpc/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ad2ce77ba51a472f6baa243dbeefec9cd1792ec95ff14d2564f51259b40baf7b"
+  }
+}

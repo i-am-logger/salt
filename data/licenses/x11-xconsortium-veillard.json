@@ -1,0 +1,29 @@
+{
+  "key": "x11-xconsortium-veillard",
+  "name": "X11-Style (X Consortium Veillard)",
+  "short_name": "X11-Style (X Consortium Veillard)",
+  "spdx_license_key": "LicenseRef-scancode-x11-xconsortium-veillard",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6993093692beb7b0165a0168f717299f149bc289d01377a070f509d74c3124e5"
+  }
+}

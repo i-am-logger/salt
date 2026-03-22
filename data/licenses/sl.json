@@ -1,0 +1,29 @@
+{
+  "key": "sl",
+  "name": "SL License",
+  "short_name": "SL License",
+  "spdx_license_key": "SL",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2e34810e821585ccfbc2f2164ccd161dfcef851f12b55ccdac88113161d22309"
+  }
+}

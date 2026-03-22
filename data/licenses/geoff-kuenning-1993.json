@@ -1,0 +1,32 @@
+{
+  "key": "geoff-kuenning-1993",
+  "name": "Geoff Kuenning License 1993",
+  "short_name": "Geoff Kuenning License 1993",
+  "spdx_license_key": "LicenseRef-scancode-geoff-kuenning-1993",
+  "category": "Permissive",
+  "homepage_url": "https://www.hitachi.co.jp/Prod/comp/soft1/jp1/trial/trialv12/sla/license/373.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c7b1451b86c7069bb613b3ce0381207a986b3d3d65b830962d48d98b20190b82"
+  }
+}

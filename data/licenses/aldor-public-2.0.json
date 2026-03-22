@@ -1,0 +1,33 @@
+{
+  "key": "aldor-public-2.0",
+  "name": "Aldor Public License 2.0",
+  "short_name": "Aldor Public License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-aldor-public-2.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.aldor.org/AldorPublicLicense2_0.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "38f9007451eef9feb83241cc841a66ecf21f7ab94d6b583084555b0c33b85344"
+  }
+}

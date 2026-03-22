@@ -1,0 +1,29 @@
+{
+  "key": "aladdin-md5",
+  "name": "Aladdin MD5 License",
+  "short_name": "Aladdin MD5 License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7c0a56d97b96b7462c2fff8aae94d55e5fc5a650f7395fc4edeeb85d00b52daf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "katharos-0.2.0",
+  "name": "Katharos License v0.2.0",
+  "short_name": "Katharos License v0.2.0",
+  "spdx_license_key": "LicenseRef-scancode-katharos-0.2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/katharostech/katharos-license/blob/master/LICENSE_v0.2.0.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5b68ef5ad35efc68a0aefb47482bea43cb20cf2313ec5476e484163f9d5c0abe"
+  }
+}

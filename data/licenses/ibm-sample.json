@@ -1,0 +1,31 @@
+{
+  "key": "ibm-sample",
+  "name": "IBM Sample Program License",
+  "short_name": "IBM Sample License",
+  "spdx_license_key": "LicenseRef-scancode-ibm-sample",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "http://www.java-forums.org/swt/9604-swt-2d-unicode-example.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c12e2d1906bc5100bd7d2aa75c6a1cbc09ee17d3c184466fab510368698a1fa8"
+  }
+}

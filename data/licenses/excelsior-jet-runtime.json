@@ -1,0 +1,26 @@
+{
+  "key": "excelsior-jet-runtime",
+  "name": "Excelsior JET Runtime License",
+  "short_name": "Excelsior JET Runtime License",
+  "spdx_license_key": "LicenseRef-scancode-excelsior-jet-runtime",
+  "category": "Commercial",
+  "homepage_url": "http://www.excelsior-usa.com/jetlicenses.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b82468c9cb1543b7beb42323ed4cd7f9a9a5c72ca82538bcbcf8c90adb1630ad"
+  }
+}

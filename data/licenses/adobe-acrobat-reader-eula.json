@@ -1,0 +1,25 @@
+{
+  "key": "adobe-acrobat-reader-eula",
+  "name": "Adobe Acrobat Reader EULA",
+  "short_name": "Adobe Acrobat Reader EULA",
+  "spdx_license_key": "LicenseRef-scancode-adobe-acrobat-reader-eula",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dfd9c3d237f2eb9c309962b764a92d44a75926cf49e9906d1d922bc98a494263"
+  }
+}

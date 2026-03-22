@@ -1,0 +1,35 @@
+{
+  "key": "syntext-serna-exception-1.0",
+  "name": "Syntext Serna exception to GPL 2.0 or GPL 3.0",
+  "short_name": "Syntext Serna exception to GPL 2.0 or GPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-syntext-serna-exception-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/ydirson/serna-free/blob/master/GPL_EXCEPTION.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "99cdd26a19bcd6443cbfc7593afaf7385126434b5b6270747ca75bf3e8d2688a"
+  }
+}

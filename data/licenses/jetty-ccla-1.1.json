@@ -1,0 +1,24 @@
+{
+  "key": "jetty-ccla-1.1",
+  "name": "Jetty Project Corporate Contributor License Agreement V1.1",
+  "short_name": "Jetty CCLA 1.1",
+  "spdx_license_key": "LicenseRef-scancode-jetty-ccla-1.1",
+  "category": "CLA",
+  "homepage_url": "https://raw.githubusercontent.com/eclipse/jetty.project/jetty-9.4.x/LICENSE-CONTRIBUTOR/ccla-template.txt",
+  "text_urls": [
+    "https://raw.githubusercontent.com/eclipse/jetty.project/jetty-9.4.x/LICENSE-CONTRIBUTOR/ccla-template.txt"
+  ],
+  "grants": [
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6cf533e80e7392bb5584b98339eba3fc3b3e1bd9ce262b12cc8fb7a7d3e18b8f"
+  }
+}

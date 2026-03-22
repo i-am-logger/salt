@@ -1,0 +1,29 @@
+{
+  "key": "can-ogl-toronto-1.0",
+  "name": "Open Government Licence Toronto 1.0",
+  "short_name": "OGL Toronto 1.0",
+  "spdx_license_key": "LicenseRef-scancode-can-ogl-toronto-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fa11bc5f44a92eb782daa37e132e1e144dc89cb0d1615442fda678f315618e40"
+  }
+}

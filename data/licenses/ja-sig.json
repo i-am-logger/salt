@@ -1,0 +1,29 @@
+{
+  "key": "ja-sig",
+  "name": "JA-SiG License",
+  "short_name": "JA-SiG License",
+  "spdx_license_key": "LicenseRef-scancode-ja-sig",
+  "category": "Permissive",
+  "homepage_url": "http://web.archive.org/web/20040402030132/http://uportal.org/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c78994894c3e361ea44fe17a65c8b436256e9b7463415ec45551217024bed0ba"
+  }
+}

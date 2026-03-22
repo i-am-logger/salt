@@ -1,0 +1,44 @@
+{
+  "key": "nicta-exception",
+  "name": "NICTA Exception to AGPL",
+  "short_name": "NICTA Exception to AGPL",
+  "spdx_license_key": "LicenseRef-scancode-nicta-exception",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/echronos/test-client-repo/blob/3ab330c3dcaa549d135c81c80e866184011c51d1/LICENSE_AGPLv3_with_additional_terms.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "429a8bda05722c5ba25a07d47cdaf61b6f985b812a25dca4af83c63141448d78"
+  }
+}

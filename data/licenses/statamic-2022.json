@@ -1,0 +1,31 @@
+{
+  "key": "statamic-2022",
+  "name": "Statamic License 2022",
+  "short_name": "Statamic License 2022",
+  "spdx_license_key": "LicenseRef-scancode-statamic-2022",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/statamic/cms?tab=License-1-ov-file#readme",
+  "text_urls": [
+    "https://raw.githubusercontent.com/statamic/cms/refs/heads/5.x/LICENSE.md"
+  ],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "91a81a0330f76f646b3c5974c83fe367a7f834d46612ba3439d4c373c89aeb39"
+  }
+}

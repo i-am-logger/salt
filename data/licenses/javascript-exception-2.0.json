@@ -1,0 +1,35 @@
+{
+  "key": "javascript-exception-2.0",
+  "name": "Javascript exception to GPL 2.0",
+  "short_name": "Javascript exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-javascript-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fb10a334ed1d8037fe9bd31830bb247a05ede5eb3e3a1dcdcfa5a76b43e4fecf"
+  }
+}

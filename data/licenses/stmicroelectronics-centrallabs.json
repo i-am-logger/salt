@@ -1,0 +1,28 @@
+{
+  "key": "stmicroelectronics-centrallabs",
+  "name": "STMicroelectronics CentralLabs License",
+  "short_name": "STMicroelectronics CentralLabs License",
+  "spdx_license_key": "LicenseRef-scancode-stmicroelectronics-centrallabs",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/STMicroelectronics-CentralLabs",
+  "text_urls": [
+    "https://github.com/STMicroelectronics-CentralLabs/BlueSTSDK_GUI_iOS/blob/master/LICENSE"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2246c4dc7ab2739deb12123daddad7a3076d11d46cd4b9826d2dd8ec3ddc03b4"
+  }
+}

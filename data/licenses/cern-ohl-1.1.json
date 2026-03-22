@@ -1,0 +1,32 @@
+{
+  "key": "cern-ohl-1.1",
+  "name": "CERN Open Hardware License v1.1",
+  "short_name": "CERN Open Hardware License v1.1",
+  "spdx_license_key": "CERN-OHL-1.1",
+  "category": "Permissive",
+  "homepage_url": "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.1",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e3c25c7c8215c88b613c403aa085551f17d165ad586ef74cb4879719655c5343"
+  }
+}

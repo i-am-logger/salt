@@ -1,0 +1,29 @@
+{
+  "key": "caramel-license-1.0",
+  "name": "Caramel Software License 1.0",
+  "short_name": "Caramel License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-caramel-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/stan-dev/math/blob/develop/lib/boost_1.84.0/tools/boostbook/xsl/caramel/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "640c5e876d7973bcc662f359c6b76659c72406064a36f7567d2d49c7bf3e559a"
+  }
+}

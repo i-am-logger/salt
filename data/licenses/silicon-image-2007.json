@@ -1,0 +1,30 @@
+{
+  "key": "silicon-image-2007",
+  "name": "Silicon Image Proprietary License 2007",
+  "short_name": "Silicon Image Proprietary License 2007",
+  "spdx_license_key": "LicenseRef-scancode-silicon-image-2007",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/BPI-SINOVOIP/BPI-Rockchip-Android11/blob/master/external/camera_engine_rkaiq/common/media_buffer/media_buffer.c",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f3546fc7d7c2b3baa36b80333eedcc2d45e58e7fd2ed66ee9cc896e5ee2d07f3"
+  }
+}

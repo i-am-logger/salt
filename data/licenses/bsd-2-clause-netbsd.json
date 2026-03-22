@@ -1,0 +1,31 @@
+{
+  "key": "bsd-2-clause-netbsd",
+  "name": "BSD-2-Clause-NetBSD License",
+  "short_name": "BSD-2-Clause-NetBSD",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "http://www.netbsd.org/about/redistribution.html#default",
+  "text_urls": [
+    "http://www.netbsd.org/about/redistribution.html#default"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "935f6cb8502dd371525f44dbc3ef55c6874d8636174faf6a65b5139ac519f2fd"
+  }
+}

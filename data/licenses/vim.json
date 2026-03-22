@@ -1,0 +1,38 @@
+{
+  "key": "vim",
+  "name": "VIM License",
+  "short_name": "VIM License",
+  "spdx_license_key": "Vim",
+  "category": "Copyleft",
+  "homepage_url": "http://vimdoc.sourceforge.net/htmldoc/uganda.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d25441eb3f101aa533128467cf75e1dada29c6f8b8d57c25a914039fa44b61a8"
+  }
+}

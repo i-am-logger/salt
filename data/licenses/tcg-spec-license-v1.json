@@ -1,0 +1,31 @@
+{
+  "key": "tcg-spec-license-v1",
+  "name": "Trusted Computing Group Spec License v1",
+  "short_name": "TCG Spec License v1",
+  "spdx_license_key": "LicenseRef-scancode-tcg-spec-license-v1",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/MIPS/external-tpm2/blob/dev-mips-nougat/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "841f3171fbb4822bb4b1163a2db860b32bd8cf22d9fd8e8fc7989c742882a211"
+  }
+}

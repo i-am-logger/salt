@@ -1,0 +1,26 @@
+{
+  "key": "netapp-sdk-aug2020",
+  "name": "NetApp Manageability SDK License Agreement rev. Aug2020",
+  "short_name": "NetApp SDK License Agreement rev. Aug2020",
+  "spdx_license_key": "LicenseRef-scancode-netapp-sdk-aug2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=60427",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5a8b5c3d0edcf4dcb680fc43c81fe79c8eed9306c50afe6f0b1227f9aa890406"
+  }
+}

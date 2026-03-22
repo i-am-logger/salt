@@ -1,0 +1,25 @@
+{
+  "key": "salesforce-ai-aup-2025",
+  "name": "Salesforce Artificial Intelligence Acceptable Use Policy 2025",
+  "short_name": "Salesforce AI Acceptable Use Policy 2025",
+  "spdx_license_key": "LicenseRef-scancode-salesforce-ai-aup-2025",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ai-acceptable-use-policy.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e954e0094fd001a12b38b4ba7533848d8418624150543b55c0144e12a4ac889f"
+  }
+}

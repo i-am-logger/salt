@@ -1,0 +1,32 @@
+{
+  "key": "truecrypt-3.1",
+  "name": "TrueCrypt License 3.1",
+  "short_name": "TrueCrypt License 3.1",
+  "spdx_license_key": "LicenseRef-scancode-truecrypt-3.1",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "23f8ebccb8c94a9163bda4f06204ee543ccb1745e781f1e2333fb4f493b80255"
+  }
+}

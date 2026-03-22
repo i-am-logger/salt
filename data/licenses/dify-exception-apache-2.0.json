@@ -1,0 +1,34 @@
+{
+  "key": "dify-exception-apache-2.0",
+  "name": "Dify Exception to Apache 2.0",
+  "short_name": "Dify Exception to Apache 2.0",
+  "spdx_license_key": "LicenseRef-scancode-dify-exception-apache-2.0",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/langgenius/dify/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6eacd4c48e9746e6f2b62620171455f3c0917a1d1f356f05456a3f3481e50a85"
+  }
+}

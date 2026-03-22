@@ -1,0 +1,32 @@
+{
+  "key": "purdue-bsd",
+  "name": "Purdue BSD-Style License",
+  "short_name": "Purdue BSD-Style License",
+  "spdx_license_key": "lsof",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/lsof-org/lsof/blob/master/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eedcbe6b7f161475a57b95d5b84a0918f16ffe2e950f2736b9a85fcf0081d946"
+  }
+}

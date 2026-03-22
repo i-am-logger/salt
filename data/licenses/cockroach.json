@@ -1,0 +1,35 @@
+{
+  "key": "cockroach",
+  "name": "Cockroach Community License",
+  "short_name": "CCL",
+  "spdx_license_key": "LicenseRef-scancode-cockroach",
+  "category": "Source-available",
+  "homepage_url": "https://www.cockroachlabs.com/cockroachdb-community-license",
+  "text_urls": [
+    "https://github.com/cockroachdb/cockroach/blob/master/licenses/CCL.txt"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cff014cae6cbec32c6d39c4ba8173e5eeb50923a33cd29903a94878ff7dd231f"
+  }
+}

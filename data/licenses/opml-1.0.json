@@ -1,0 +1,29 @@
+{
+  "key": "opml-1.0",
+  "name": "OPML Specification License 1.0",
+  "short_name": "OPML 1.0",
+  "spdx_license_key": "LicenseRef-scancode-opml-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://dev.opml.org/spec1.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "82bfb4adc69747a3c9c6826272ca6eedfbf0f9d52afab81f0e38fb61c27dab5b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "spell-checker-exception-lgpl-2.1-plus",
+  "name": "Spell-Checker exception to LGPL 2.1 or later",
+  "short_name": "Spell-Checker exception to LGPL 2.1 or later",
+  "spdx_license_key": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/AbiWord/enchant/blob/master/src/enchant.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "26211777740968e9a753f4589f799ba54a27a1f93248c7492023d8bb11250a7b"
+  }
+}

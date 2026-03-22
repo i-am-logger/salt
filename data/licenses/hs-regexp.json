@@ -1,0 +1,38 @@
+{
+  "key": "hs-regexp",
+  "name": "Henry Spencer Regexp License",
+  "short_name": "Henry Spencer Regexp License",
+  "spdx_license_key": "Spencer-94",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/garyhouston/regex/blob/master/COPYRIGHT",
+  "text_urls": [
+    "http://search.cpan.org/~knok/File-MMagic-1.12/MMagic.pm",
+    "http://stbase.org/manual/es/mod/mod_mime_magic.html",
+    "http://www.cisco.com/c/en/us/td/docs/switches/metro/me3600x_3800x/software/release/15-3_1_S/command/reference/3800x3600xcr/ossack.html",
+    "http://www.pell.portland.or.us/~orc/Code/magicfilter/magicfilter-2.3.c/file/process.c",
+    "https://dev.mysql.com/doc/mysql-security-excerpt/5.0/en/license-regex.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "68ae079cd4a1864689c359455cec432d8dbae26282399723152fc858a60a892c"
+  }
+}

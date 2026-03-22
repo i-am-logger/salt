@@ -1,0 +1,29 @@
+{
+  "key": "usrobotics-permissive",
+  "name": "USRobotics Permissive License",
+  "short_name": "USRobotics Permissive License",
+  "spdx_license_key": "LicenseRef-scancode-usrobotics-permissive",
+  "category": "Permissive",
+  "homepage_url": "http://web.mit.edu/kolya/.f/root/athena.mit.edu/net/project/radius/3.6B/src/resources.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e30e8cd21c428816579a9c04b2e1ecaa5388a15abc8ab828abe2617cf998f3f2"
+  }
+}

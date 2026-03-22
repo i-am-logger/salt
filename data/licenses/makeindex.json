@@ -1,0 +1,37 @@
+{
+  "key": "makeindex",
+  "name": "MakeIndex Distribution Notice",
+  "short_name": "MakeIndex Distribution Notice",
+  "spdx_license_key": "MakeIndex",
+  "category": "Copyleft",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/MakeIndex",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "faaf538a9e5107dcd559de532b5ac58cfd7403de5dcc2989c593163a19e13de1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "rackspace",
+  "name": "Rackspace License",
+  "short_name": "Rackspace License",
+  "spdx_license_key": "LicenseRef-scancode-rackspace",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7a3ca2f52c93fee93b0f5d5bf1c71fedfce51365cbf27071740f248a22c85b32"
+  }
+}

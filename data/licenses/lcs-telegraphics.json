@@ -1,0 +1,29 @@
+{
+  "key": "lcs-telegraphics",
+  "name": "LCS-Telegraphics License",
+  "short_name": "LCS-Telegraphics License",
+  "spdx_license_key": "LicenseRef-scancode-lcs-telegraphics",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f9020a07d84fd0a461e63656da459fae156518414ec80d83f02ddf39554d3a95"
+  }
+}

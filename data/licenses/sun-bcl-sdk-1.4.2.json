@@ -1,0 +1,25 @@
+{
+  "key": "sun-bcl-sdk-1.4.2",
+  "name": "Sun BCL SDK 1.4.2",
+  "short_name": "Sun BCL SDK 1.4.2",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-sdk-1.4.2",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "190a9ee7b8130ae7702ff9fe21124639a431510a4be0b20c40331102755c2d86"
+  }
+}

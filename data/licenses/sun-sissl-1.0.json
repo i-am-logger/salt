@@ -1,0 +1,26 @@
+{
+  "key": "sun-sissl-1.0",
+  "name": "Sun Industry Standards Source License 1.0",
+  "short_name": "Sun Industry Standards Source License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-sun-sissl-1.0",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b5dc4b3913782803daea3a24ee96e37898a8f2e82c1a086cd44ef7da14f74e81"
+  }
+}

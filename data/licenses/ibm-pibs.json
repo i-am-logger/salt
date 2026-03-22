@@ -1,0 +1,31 @@
+{
+  "key": "ibm-pibs",
+  "name": "IBM PowerPC Initialization and Boot Software",
+  "short_name": "IBM PowerPC Software",
+  "spdx_license_key": "IBM-pibs",
+  "category": "Permissive",
+  "homepage_url": "http://git.denx.de/?p=u-boot.git;a=blob;f=arch/powerpc/cpu/ppc4xx/miiphy.c;h=297155fdafa064b955e53e9832de93bfb0cfb85b;hb=9fab4bf4cc077c21e43941866f3f2c196f28670d",
+  "text_urls": [
+    "http://git.denx.de/?p=u-boot.git;a=blob;f=arch/powerpc/cpu/ppc4xx/miiphy.c;h=297155fdafa064b955e53e9832de93bfb0cfb85b;hb=9fab4bf4cc077c21e43941866f3f2c196f28670d"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a98c69e0be0881907c52a092bacc982fc43ca167b4d1d80a900bb4ebf7281623"
+  }
+}

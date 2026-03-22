@@ -1,0 +1,31 @@
+{
+  "key": "libgd-2018",
+  "name": "libgd License 2018",
+  "short_name": "libgd License 2018",
+  "spdx_license_key": "GD",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/libgd/libgd/blob/master/COPYING",
+  "text_urls": [
+    "https://libgd.github.io/manuals/2.3.0/files/license-txt.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f6e94c4e34e7ea9432970f2b2f55520eba3eec13bd2b9b339976344905a582ac"
+  }
+}

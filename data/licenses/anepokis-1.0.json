@@ -1,0 +1,40 @@
+{
+  "key": "anepokis-1.0",
+  "name": "Anepokis License 1.0",
+  "short_name": "Anepokis License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-anepokis-1.0",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/salif/anepokis-license",
+  "text_urls": [
+    "https://salif.github.io/anepokis-license/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "30423addf6eb41fb03057902c96f059a9db4ffcf3869d95d3c54fa60705c351d"
+  }
+}

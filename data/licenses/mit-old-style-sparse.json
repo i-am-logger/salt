@@ -1,0 +1,29 @@
+{
+  "key": "mit-old-style-sparse",
+  "name": "MIT Old Style Spare",
+  "short_name": "MIT Old Style Spare",
+  "spdx_license_key": "LicenseRef-scancode-mit-old-style-sparse",
+  "category": "Permissive",
+  "homepage_url": "http://sparse.sourceforge.net",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0ea6b9fad8b56366a1044d502ef77b0f0acab4551414721f7b44eae51d109f85"
+  }
+}

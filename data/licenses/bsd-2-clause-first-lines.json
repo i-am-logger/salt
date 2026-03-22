@@ -1,0 +1,29 @@
+{
+  "key": "bsd-2-clause-first-lines",
+  "name": "BSD 2-Clause - first lines requirement",
+  "short_name": "BSD 2-Clause first lines",
+  "spdx_license_key": "BSD-2-Clause-first-lines",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d7235e3f68eddbc060b558441fb38831698d0acf609a53e952d017f1ce992f97"
+  }
+}

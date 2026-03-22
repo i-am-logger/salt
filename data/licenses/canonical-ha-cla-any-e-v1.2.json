@@ -1,0 +1,32 @@
+{
+  "key": "canonical-ha-cla-any-e-v1.2",
+  "name": "Canonical Entity Contributor License Agreement v1.2",
+  "short_name": "Canonical-HA-CLA-ANY-E_v1.2",
+  "spdx_license_key": "LicenseRef-scancode-canonical-ha-cla-any-e-v1.2",
+  "category": "CLA",
+  "homepage_url": "https://ubuntu.com/legal/contributors",
+  "text_urls": [
+    "https://assets.ubuntu.com/v1/31b14270-Canonical-HA-CLA-ANY-E_v1.2.pdf?_ga=2.258319818.1182458054.1702670858-529171056.1702670858"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "612faf138b2fdf72adf4002730db6f5bf82743f79236f230903f45391ab99504"
+  }
+}

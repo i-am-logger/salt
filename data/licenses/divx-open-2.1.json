@@ -1,0 +1,32 @@
+{
+  "key": "divx-open-2.1",
+  "name": "DivX Open License v2.1",
+  "short_name": "DivX Open License 2.1",
+  "spdx_license_key": "LicenseRef-scancode-divx-open-2.1",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ae64e4238ff33c26279b0976b9613c48a67a700b79042dc13ba76cd4be072e3f"
+  }
+}

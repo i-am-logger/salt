@@ -1,0 +1,31 @@
+{
+  "key": "bsd-original-uc",
+  "name": "BSD-Original-UC",
+  "short_name": "BSD-Original-UC",
+  "spdx_license_key": "BSD-4-Clause-UC",
+  "category": "Permissive",
+  "homepage_url": "ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change",
+  "text_urls": [
+    "http://www.xfree86.org/3.3.6/COPYRIGHT2.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "584607f7b8d070bf67e32fa414cda1cb9c25de79d2e4c6938e20724a3a9a4b8f"
+  }
+}

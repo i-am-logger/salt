@@ -1,0 +1,32 @@
+{
+  "key": "mit-with-modification-obligations",
+  "name": "MIT With Modification Obligations",
+  "short_name": "MIT With Modification Obligations",
+  "spdx_license_key": "HPND-export-US-modify",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L1157-L1182",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0af6d8baeea09c9d99db0b04d5b6fa5f6c75b3035766e4aa8fcebdf061e9047d"
+  }
+}

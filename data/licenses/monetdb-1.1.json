@@ -1,0 +1,37 @@
+{
+  "key": "monetdb-1.1",
+  "name": "MonetDB Public License Version 1.1",
+  "short_name": "MonetDB 1.1",
+  "spdx_license_key": "LicenseRef-scancode-monetdb-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.monetdb.org/Legal/MonetDBLicense",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b301be26cc3c30f3a329297e321d4229a32d91d7c3f7cbb92e83676dcb924447"
+  }
+}

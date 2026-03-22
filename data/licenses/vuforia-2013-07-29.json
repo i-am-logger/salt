@@ -1,0 +1,27 @@
+{
+  "key": "vuforia-2013-07-29",
+  "name": "Vuforia SDK License Agreement 2013-07-29",
+  "short_name": "Vuforia 2013-07-29",
+  "spdx_license_key": "LicenseRef-scancode-vuforia-2013-07-29",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.vuforia.com/legal/license",
+  "text_urls": [
+    "https://developer.vuforia.com/legal/license"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f204d01dcd094771ff27bcb1a9562fa4fd2956b6383accfc494ca5c2f613334f"
+  }
+}

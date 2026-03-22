@@ -1,0 +1,29 @@
+{
+  "key": "ulem",
+  "name": "ulem License",
+  "short_name": "ulem License",
+  "spdx_license_key": "ulem",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "277e6b36db3308e2be4e777316622baf6ccfdd9b6a0f46f38446570e3d63cdbb"
+  }
+}

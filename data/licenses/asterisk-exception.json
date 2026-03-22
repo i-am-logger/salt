@@ -1,0 +1,38 @@
+{
+  "key": "asterisk-exception",
+  "name": "Asterisk exception",
+  "short_name": "Asterisk exception",
+  "spdx_license_key": "Asterisk-exception",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7a4534457ce0169d4393ae1e27daec2c471dc6f182c314eb0b6da69f0e67f27c"
+  }
+}

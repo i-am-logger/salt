@@ -1,0 +1,25 @@
+{
+  "key": "oracle-gftc-2023-06-12",
+  "name": "Oracle GraalVM Free Terms and Conditions (GFTC) 2023-06-12",
+  "short_name": "Oracle GFTC 2023-06-12",
+  "spdx_license_key": "LicenseRef-scancode-oracle-gftc-2023-06-12",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.oracle.com/downloads/licenses/graal-free-license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "985a67b4916d09e82dabff2f466013380e2e8a771ed85fab8ce5fe42dbd1cde8"
+  }
+}

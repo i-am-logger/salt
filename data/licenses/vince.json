@@ -1,0 +1,29 @@
+{
+  "key": "vince",
+  "name": "MIT (SEI)",
+  "short_name": "MIT (SEI)",
+  "spdx_license_key": "LicenseRef-scancode-vince",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/CERTCC/VINCE/blob/main/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2f4742670fcdb8aafce6c735077b9264f23a8e354e48da57c9cfb494cf060dd"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "gutenberg-2020",
+  "name": "Project Gutenberg License 2020",
+  "short_name": "Gutenberg License 2020",
+  "spdx_license_key": "LicenseRef-scancode-gutenberg-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "http://dev.gutenberg.org/policy/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d50f4bcec8fb4b8a0b04f96dcf66e30eea733647ad950ab2ca54c105eeff4e5b"
+  }
+}

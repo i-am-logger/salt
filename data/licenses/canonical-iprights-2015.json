@@ -1,0 +1,30 @@
+{
+  "key": "canonical-iprights-2015",
+  "name": "Canonical Intellectual Property Rights Policy 2015",
+  "short_name": "Canonical IP Rights Policy 2015",
+  "spdx_license_key": "LicenseRef-scancode-canonical-iprights-2015",
+  "category": "Proprietary Free",
+  "homepage_url": "https://ubuntu.com/legal/intellectual-property-policy",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "42938039fe2bb8b4896bc8ded8b9da8d168740b2f96ad0da21e57f2cb8324f7b"
+  }
+}

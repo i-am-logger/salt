@@ -1,0 +1,29 @@
+{
+  "key": "iozone",
+  "name": "IOzone License",
+  "short_name": "IOzone License",
+  "spdx_license_key": "LicenseRef-scancode-iozone",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.iozone.org/docs/Iozone_License.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8b1df5353c0d253bae369e588be4138bc3287b0ff8c979565cbc1141af4a22b2"
+  }
+}

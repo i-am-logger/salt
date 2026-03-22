@@ -1,0 +1,33 @@
+{
+  "key": "kubesphere-osl-2024",
+  "name": "KubeSphere Open Source License 2024",
+  "short_name": "KubeSphere Open Source License 2024",
+  "spdx_license_key": "LicenseRef-scancode-kubesphere-osl-2024",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/kubesphere/kubesphere/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2bc34cc2d6890da65d5bedd24de2fd9200ce59a2bc332f3e992b8fd2088cac8f"
+  }
+}

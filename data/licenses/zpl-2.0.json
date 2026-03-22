@@ -1,0 +1,31 @@
+{
+  "key": "zpl-2.0",
+  "name": "Zope Public License 2.0",
+  "short_name": "ZPL 2.0",
+  "spdx_license_key": "ZPL-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.zope.org/Resources/License/",
+  "text_urls": [
+    "http://www.zope.org/Resources/License/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a1b6ba0547c0aa01ac41ea3fbcb294484f07cfb7503836688860b8d899571e7f"
+  }
+}

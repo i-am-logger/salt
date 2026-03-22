@@ -1,0 +1,26 @@
+{
+  "key": "oxygen-xml-webhelp-eula",
+  "name": "Oxygen XML WebHelp End-User License Agreement",
+  "short_name": "Oxygen XML WebHelp EULA",
+  "spdx_license_key": "LicenseRef-scancode-oxygen-xml-webhelp-eula",
+  "category": "Commercial",
+  "homepage_url": "https://www.oxygenxml.com/eula_webhelp.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e6b7974a5adef60a5768d0f7ee811a8a4693921a07ab6cd5657e6e9f03cfe576"
+  }
+}

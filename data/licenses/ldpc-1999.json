@@ -1,0 +1,40 @@
+{
+  "key": "ldpc-1999",
+  "name": "Linux Documentation Project Copying License 1999-09-30",
+  "short_name": "LDPC-1999",
+  "spdx_license_key": "LicenseRef-scancode-ldpc-1999",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [
+    "http://linuxmafia.com/faq/Licensing_and_Law/ldpc-license-1999-09-16.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e693006a5fbc571f4a1a814d5f4e0dc99f21fa9e21af0c5ff2fe44de10f946ca"
+  }
+}

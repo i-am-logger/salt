@@ -1,0 +1,31 @@
+{
+  "key": "mediainfo-lib",
+  "name": "MediaInfo(Lib) License",
+  "short_name": "MediaInfo(Lib) License",
+  "spdx_license_key": "LicenseRef-scancode-mediainfo-lib",
+  "category": "Permissive",
+  "homepage_url": "http://mediainfo.sourceforge.net/en",
+  "text_urls": [
+    "http://mediainfo.sourceforge.net/en"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f5099f5fb81c98960a7ee96834eb78108825ef38e7f0014bbad192fe7113abcf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "gemini-api-additional-tos-2025",
+  "name": "Gemini API Additional Terms of Service 2025",
+  "short_name": "Gemini API Additional TOS 2025",
+  "spdx_license_key": "LicenseRef-scancode-gemini-api-additional-tos-2025",
+  "category": "Commercial",
+  "homepage_url": "https://ai.google.dev/gemini-api/terms",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f91db3f73d0beaf595fa31bbd1ffc703e7689ac86b7127c33a8f12f1073261dc"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-edge-webview2",
+  "name": "Microsoft Edge WebView2 Runtime License",
+  "short_name": "MS Edge WebView2 Runtime",
+  "spdx_license_key": "LicenseRef-scancode-ms-edge-webview2",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b3b4a701826540c905c6a1869e567c536403c8705d09e79b30776c8b1fda2f96"
+  }
+}

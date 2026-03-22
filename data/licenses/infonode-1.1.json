@@ -1,0 +1,26 @@
+{
+  "key": "infonode-1.1",
+  "name": "InfoNode Software License Version 1.1",
+  "short_name": "InfoNode Software License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-infonode-1.1",
+  "category": "Commercial",
+  "homepage_url": "http://www.infonode.net/licenses/InfoNodeLicense.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1d10b227fb9e2b6fd74536aa8593d45bf35e217e972a7c8bebe4e0caa9733d87"
+  }
+}

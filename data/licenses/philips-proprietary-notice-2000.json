@@ -1,0 +1,26 @@
+{
+  "key": "philips-proprietary-notice-2000",
+  "name": "Philips Proprietary Notice 2000",
+  "short_name": "Philips Proprietary Notice 2000",
+  "spdx_license_key": "LicenseRef-scancode-philips-proprietary-notice2000",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bbb3150c06c765bed01e7419379a7ecee47d7f41c2fd5e8f8012ce3f2d31283d"
+  }
+}

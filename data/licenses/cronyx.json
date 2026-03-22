@@ -1,0 +1,29 @@
+{
+  "key": "cronyx",
+  "name": "Cronyx License",
+  "short_name": "Cronyx License",
+  "spdx_license_key": "Cronyx",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "02e143b3eba541e42355f8da2614b8262e2198f1a4d479fe5be564100c497197"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "key": "cognitive-web-osl-1.1",
+  "name": "CognitiveWeb Open Source License 1.1",
+  "short_name": "CognitiveWeb Open Source License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-cognitive-web-osl-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.cognitiveweb.org/legal/license/",
+  "text_urls": [
+    "http://www.cognitiveweb.org/legal/license/CognitiveWebOpenSourceLicense-1.1.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "914980a19d8de8eb4cf0565b06e4377f623d81ce6b687b386dccd23592eaefd1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "see-license",
+  "name": "See License mention",
+  "short_name": "See License mention",
+  "spdx_license_key": "",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8da8cba4c417393103e4bbdcdea82bf7c783d02c076152d190fe5537e5a28acf"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "zipeg",
+  "name": "Zipeg License",
+  "short_name": "Zipeg License",
+  "spdx_license_key": "LicenseRef-scancode-zipeg",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.zipeg.com/about",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce2a5571c6136c4a920db3fc3e7bca39a3a980812b77f1e4779795ed641fd828"
+  }
+}

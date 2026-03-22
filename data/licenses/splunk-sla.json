@@ -1,0 +1,27 @@
+{
+  "key": "splunk-sla",
+  "name": "Splunk Software License Agreement",
+  "short_name": "Splunk SLA",
+  "spdx_license_key": "LicenseRef-scancode-splunk-sla",
+  "category": "Commercial",
+  "homepage_url": "https://www.splunk.com/en_us/legal/splunk-software-license-agreement.html",
+  "text_urls": [
+    "https://www.splunk.com/en_us/legal/splunk-software-license-agreement.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cc0601890434a18a54ad9099c2b87a95905209625e809f65dc3265b7f1244800"
+  }
+}

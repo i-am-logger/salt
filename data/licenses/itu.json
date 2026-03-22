@@ -1,0 +1,31 @@
+{
+  "key": "itu",
+  "name": "ITU License",
+  "short_name": "ITU License",
+  "spdx_license_key": "LicenseRef-scancode-itu",
+  "category": "Permissive",
+  "homepage_url": "http://www.itu.int/",
+  "text_urls": [
+    "http://www.itu.int/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6b76c67090b43ff08f3f5efa35ec62dbce85714f8c6546b32e3cb96137dae228"
+  }
+}

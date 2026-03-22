@@ -1,0 +1,29 @@
+{
+  "key": "mit-khronos-old",
+  "name": "MIT Khronos - old variant",
+  "short_name": "MIT Khronos - old variant",
+  "spdx_license_key": "MIT-Khronos-old",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a4af911ff9b1321e03a83388df1e8766dd0e93379097410c97dd727cebac74a2"
+  }
+}

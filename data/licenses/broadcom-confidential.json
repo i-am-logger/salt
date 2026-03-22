@@ -1,0 +1,26 @@
+{
+  "key": "broadcom-confidential",
+  "name": "Broadcom Confidential",
+  "short_name": "Broadcom Confidential",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-confidential",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7a6967789786c849def062519f639a4a3b89abf134027e377c8fd9004933c6a3"
+  }
+}

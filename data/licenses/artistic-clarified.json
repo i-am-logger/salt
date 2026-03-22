@@ -1,0 +1,33 @@
+{
+  "key": "artistic-clarified",
+  "name": "Clarified Artistic License",
+  "short_name": "Clarified Artistic License",
+  "spdx_license_key": "ClArtistic",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/ArtisticClarified",
+  "text_urls": [
+    "http://www.ncftp.com/ncftp/doc/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "77423c9ece4f85ed3f7b9410e320fad0e402dc0563004e9fba43c26a1aeb824e"
+  }
+}

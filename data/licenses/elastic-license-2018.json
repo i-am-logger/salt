@@ -1,0 +1,28 @@
+{
+  "key": "elastic-license-2018",
+  "name": "Elastic License Agreement 2018",
+  "short_name": "Elastic License 2018",
+  "spdx_license_key": "LicenseRef-scancode-elastic-license-2018",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/elastic/elasticsearch/blob/0d8aa7527e242fbda9d84867ab8bc955758eebce/licenses/ELASTIC-LICENSE.txt",
+  "text_urls": [
+    "https://github.com/elastic/elasticsearch/blob/0d8aa7527e242fbda9d84867ab8bc955758eebce/licenses/ELASTIC-LICENSE.txt"
+  ],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "404a31ff96e8998c41b3171de80c89bb3c60001cb19958ef048684ddc29236be"
+  }
+}

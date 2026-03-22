@@ -1,0 +1,35 @@
+{
+  "key": "dbmx-foss-exception-1.0.9",
+  "name": "Kyoto Products FOSS License Exception v1.0.9",
+  "short_name": "Kyoto Products FOSS License Exception v1.0.9",
+  "spdx_license_key": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://metadata.ftp-master.debian.org/changelogs//main/k/kyotocabinet/kyotocabinet_1.2.79-2_copyright",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "285ec4017651446485c19c82a5cd7681c508cb7026deafe404d1a970531d7e1d"
+  }
+}

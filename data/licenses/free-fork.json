@@ -1,0 +1,32 @@
+{
+  "key": "free-fork",
+  "name": "University of Washington Free-Fork License",
+  "short_name": "Free-Fork License",
+  "spdx_license_key": "LicenseRef-scancode-free-fork",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2e51cbb2f9cc23b1900a18c4ee5a636bdbe1f2bd5a177e333861fdbc1e39ca3a"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "gcc-compiler-exception-2.0",
+  "name": "GCC Compiler exception to GPL 2.0",
+  "short_name": "GCC compiler exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-gcc-compiler-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2746157734a07c5f2f096009b2c39524d79b2c467c4db9916eb7b6c4dda9b2e"
+  }
+}

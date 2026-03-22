@@ -1,0 +1,29 @@
+{
+  "key": "infineon-free",
+  "name": "Infineon Free Software License",
+  "short_name": "Infineon Free Software License",
+  "spdx_license_key": "LicenseRef-scancode-infineon-free",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "be72ad0913296a238003e28aa05031d2a04a3a3ddaa5c73f1f88300844486669"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "proprietary-license",
+  "name": "Proprietary License",
+  "short_name": "Proprietary License",
+  "spdx_license_key": "LicenseRef-scancode-proprietary-license",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5b3c953cd4b3e5c814ff4c2ee8c5b2e4d234986fc5845a969a9ae064a14812e1"
+  }
+}

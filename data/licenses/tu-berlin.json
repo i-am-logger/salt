@@ -1,0 +1,29 @@
+{
+  "key": "tu-berlin",
+  "name": "Technische Universitaet Berlin Attribution License 1.0",
+  "short_name": "TU Berlin License 1.0",
+  "spdx_license_key": "TU-Berlin-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/swh/ladspa/blob/7bf6f3799fdba70fda297c2d8fd9f526803d9680/gsm/COPYRIGHT",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b731078e78d360080053616d816a340249e58ca5372d57ecc51e22fb5a46cbbf"
+  }
+}

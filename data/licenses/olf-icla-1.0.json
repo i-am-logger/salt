@@ -1,0 +1,19 @@
+{
+  "key": "olf-icla-1.0",
+  "name": "Open Logistics Foundation Individual Contributor ICLA 1.0",
+  "short_name": "OLF-ICLA-1.0",
+  "spdx_license_key": "LicenseRef-scancode-olf-icla-1.0",
+  "category": "CLA",
+  "homepage_url": "https://www.openlogisticsfoundation.org/licenses",
+  "text_urls": [
+    "https://openlogisticsfoundation.org/download/16902/?tmstv=1746546308"
+  ],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4b5c92b9193cb8fea93e8ca83b00f572f82fc5c75ad9c2fd73272c1c2fa5ad74"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-plus-nant",
+  "name": "GPL 2.0 or later with NAnt exception",
+  "short_name": "GPL 2.0 or later with NAnt exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a0824c39d7212db56a7a13792d82096aa15156e484f92a42e9f15d7c5708af14"
+  }
+}

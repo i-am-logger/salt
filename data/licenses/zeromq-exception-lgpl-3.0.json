@@ -1,0 +1,39 @@
+{
+  "key": "zeromq-exception-lgpl-3.0",
+  "name": "ZeroMQ exception to LGPL 3.0",
+  "short_name": "ZeroMQ exception to LGPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/zeromq/zeromq3-x/blob/master/COPYING.LESSER",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "167064301d7426ee682e62ecb30812ed2bff73c5410043cb17b4d46d67cfe5d4"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "ibm-developerworks-community-download",
+  "name": "IBM developerWorks Community Download of Content Agreement",
+  "short_name": "IBM developerWorks Community Download Agreement",
+  "spdx_license_key": "LicenseRef-scancode-ibm-developerworks-community",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.ibm.com/developerworks/community/terms/download?lang=en",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "74909e6b4cef565f6588de601175c78fdbde6a743c71ef761e9de713eec39bdd"
+  }
+}

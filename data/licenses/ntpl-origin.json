@@ -1,0 +1,29 @@
+{
+  "key": "ntpl-origin",
+  "name": "NTP Origin License",
+  "short_name": "NTP Origin License",
+  "spdx_license_key": "LicenseRef-scancode-ntpl-origin",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f96e240c4593f2de27d31485b614f50a33378477d1cb4909687bf6e4516b5b3"
+  }
+}

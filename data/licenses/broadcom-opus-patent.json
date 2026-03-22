@@ -1,0 +1,22 @@
+{
+  "key": "broadcom-opus-patent",
+  "name": "Broadcom Opus Patent License",
+  "short_name": "Broadcom Opus Patent License",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-opus-patent",
+  "category": "Patent License",
+  "homepage_url": "https://datatracker.ietf.org/ipr/1526/",
+  "text_urls": [],
+  "grants": [
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6a3964436aecb9b6949b43e4f223e266834bc757dcc5c92034a51a2a3a32cf03"
+  }
+}

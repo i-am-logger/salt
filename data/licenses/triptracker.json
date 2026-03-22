@@ -1,0 +1,30 @@
+{
+  "key": "triptracker",
+  "name": "TripTracker Slideshow License",
+  "short_name": "TripTracker License",
+  "spdx_license_key": "LicenseRef-scancode-triptracker",
+  "category": "Non-Commercial",
+  "homepage_url": "http://slideshow.triptracker.net/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b10b2a9ed178774d469e0a1720319cf51b93b57e2dce4002dc19fa04d29296f3"
+  }
+}

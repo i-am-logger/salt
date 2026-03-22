@@ -1,0 +1,27 @@
+{
+  "key": "jsel-2.0",
+  "name": "JAHIA Sustainable Enterprise License (JSEL) 2.0",
+  "short_name": "JSEL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-jsel-2.0",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/Jahia/jahia/blob/master/license/jsel.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5aa6e015c896cf8662dd4f4a761eba4e2baa5fd63151ba1938c6c14a8a9b98e5"
+  }
+}

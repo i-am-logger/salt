@@ -1,0 +1,26 @@
+{
+  "key": "odb-cpl",
+  "name": "ODB Commercial Proprietary License (CPL)",
+  "short_name": "ODB CPL",
+  "spdx_license_key": "LicenseRef-scancode-odb-cpl",
+  "category": "Commercial",
+  "homepage_url": "https://www.codesynthesis.com/products/odb/license.xhtml",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ae45464756ab3a4621ee787a161e2efc2c2b2948dc2c0404c59b6f8933c7bd52"
+  }
+}

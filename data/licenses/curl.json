@@ -1,0 +1,32 @@
+{
+  "key": "curl",
+  "name": "cURL License",
+  "short_name": "cURL License",
+  "spdx_license_key": "curl",
+  "category": "Permissive",
+  "homepage_url": "http://curl.haxx.se/",
+  "text_urls": [
+    "http://curl.haxx.se/docs/copyright.html",
+    "http://www.focuseek.com/manuals/License/curl-license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0522cb1e4c72e2ca02b0a5268cfb5eef3a16922af582803f304a8248d7ae4203"
+  }
+}

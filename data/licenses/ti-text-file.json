@@ -1,0 +1,30 @@
+{
+  "key": "ti-text-file",
+  "name": "Texas Instruments Text File License",
+  "short_name": "Texas Instruments Text File License",
+  "spdx_license_key": "LicenseRef-scancode-ti-text-file",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/TI-ECS/bt-firmware/blob/169b2df5b968f0ede32ea9044859942fc220c435/LICENCE#L1",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0869a12c1fee6af49b0563d3732775a8be60c9fdefd5e38638f9da20edade13e"
+  }
+}

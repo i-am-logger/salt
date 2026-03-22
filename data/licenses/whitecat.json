@@ -1,0 +1,30 @@
+{
+  "key": "whitecat",
+  "name": "Whitecat License",
+  "short_name": "Whitecat License",
+  "spdx_license_key": "LicenseRef-scancode-whitecat",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/whitecatboard/Lua-RTOS-ESP32/blob/master/components/mklfs/src/mklfs.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e4e38193e9b2049a8393d15aeb96e1eee28a6782192f228c36c0de2a47d537e0"
+  }
+}

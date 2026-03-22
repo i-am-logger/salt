@@ -1,0 +1,29 @@
+{
+  "key": "apafml",
+  "name": "Adobe Postscript AFM License",
+  "short_name": "Adobe Postscript AFM License",
+  "spdx_license_key": "APAFML",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "56b636f149ccef7eb071412dfb8fa4c19a2339399aed277806ddacf4170cb5d6"
+  }
+}

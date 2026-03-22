@@ -1,0 +1,26 @@
+{
+  "key": "fabric-agreement-2017",
+  "name": "Fabric Software and Services Agreement 2017",
+  "short_name": "Fabric Software and Services Agreement 2017",
+  "spdx_license_key": "LicenseRef-scancode-fabric-agreement-2017",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0335c1dee0853fad208d4c8c15b00541f362b415b5c00fc89b91b74d2921f1af"
+  }
+}

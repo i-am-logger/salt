@@ -1,0 +1,32 @@
+{
+  "key": "nvidia-1-way-commercial",
+  "name": "NVIDIA Source Code License (1-Way Commercial)",
+  "short_name": "NVIDIA 1-Way Commercial",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-1-way-commercial",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/NVlabs/few-shot-vid2vid/blob/master/License.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "14db86e5bd7876fccfdbcac541008b86d07cc3a50bd19a66aa26e61bdc1b1863"
+  }
+}

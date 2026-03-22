@@ -1,0 +1,29 @@
+{
+  "key": "intel-bsd-export-control",
+  "name": "Intel BSD - Export Control",
+  "short_name": "Intel BSD - Export Control",
+  "spdx_license_key": "Intel",
+  "category": "Permissive",
+  "homepage_url": "http://opensource.org/licenses/intel-open-source-license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2723c923f0fa7390cdfc9ae441ae79283d542e4e0112e0c2e8c16b05743fa93a"
+  }
+}

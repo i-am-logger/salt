@@ -1,0 +1,29 @@
+{
+  "key": "aml",
+  "name": "Apple Sample Code License 2006",
+  "short_name": "Apple MIT License",
+  "spdx_license_key": "AML",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Apple_MIT_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "00ca21dc8166c49901f2e2d635da62ab3b8f3e3fd6677c56b63183a02d76a4d5"
+  }
+}

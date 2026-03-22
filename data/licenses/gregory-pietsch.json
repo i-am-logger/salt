@@ -1,0 +1,29 @@
+{
+  "key": "gregory-pietsch",
+  "name": "Gregory Pietsch Liberal License",
+  "short_name": "Gregory Pietsch Liberal License",
+  "spdx_license_key": "LicenseRef-scancode-gregory-pietsch",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4f164d7e03d7d68fa27d41739ef431fcc252b902e5ba6bef19af682c4673b901"
+  }
+}

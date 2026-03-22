@@ -1,0 +1,26 @@
+{
+  "key": "ms-windows-os-2018",
+  "name": "Microsoft Windows Operating System License 2019",
+  "short_name": "MS Windows OS 2018",
+  "spdx_license_key": "LicenseRef-scancode-ms-windows-os-2018",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "87dd0e51ff1c3f52327056a01cf1c022b6d78d252f546dbeb647dd11e64c055c"
+  }
+}

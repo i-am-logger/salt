@@ -1,0 +1,43 @@
+{
+  "key": "apsl-1.1",
+  "name": "Apple Public Source License 1.1",
+  "short_name": "APSL 1.1",
+  "spdx_license_key": "APSL-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://web.archive.org/web/20000901055846/http://www.opensource.apple.com/apsl/",
+  "text_urls": [
+    "http://www.opensource.apple.com/apsl/1.1.txt",
+    "http://www.opensource.apple.com/source/IOSerialFamily/IOSerialFamily-7/APPLE_LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "abeda0e64b9dc9a28e02864c831d187c4c6bc447015509b8a785e3dd1a2f9b98"
+  }
+}

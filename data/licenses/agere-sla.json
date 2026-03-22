@@ -1,0 +1,31 @@
+{
+  "key": "agere-sla",
+  "name": "Agere Systems WinModem EULA",
+  "short_name": "Agere WindModem EULA",
+  "spdx_license_key": "LicenseRef-scancode-agere-sla",
+  "category": "Proprietary Free",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/Agere_LT_Modem_Driver_License",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing/Agere_LT_Modem_Driver_License"
+  ],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "49a4a2b73291515a806c41789d431956bfdaa713f42e4f4e8548a564ff79c4cc"
+  }
+}

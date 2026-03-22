@@ -1,0 +1,25 @@
+{
+  "key": "max-mojo-community-20240828",
+  "name": "MAX & Mojo Community License 20240828",
+  "short_name": "MAX & Mojo Community License 20240828",
+  "spdx_license_key": "LicenseRef-scancode-max-mojo-community-20240828",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.modular.com/legal/max-mojo-license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "352c5d385465beeb502bc7976c39be12d5cd15829e0956b3fbf262c6b7375120"
+  }
+}

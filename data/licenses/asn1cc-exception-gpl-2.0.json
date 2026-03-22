@@ -1,0 +1,38 @@
+{
+  "key": "asn1cc-exception-gpl-2.0",
+  "name": "ASN1SCC Exception to GPL-2.0",
+  "short_name": "ASN1SCC Exception to GPL-2.0",
+  "spdx_license_key": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/esa/asn1scc/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "93e953672256b6be3bab2597f78caee8144d83ea45c5e81f189a0435322dbce8"
+  }
+}

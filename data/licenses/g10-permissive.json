@@ -1,0 +1,29 @@
+{
+  "key": "g10-permissive",
+  "name": "g10-permissive",
+  "short_name": "g10-permissive",
+  "spdx_license_key": "LicenseRef-scancode-g10-permissive",
+  "category": "Permissive",
+  "homepage_url": "https://changelogs.ubuntu.com/changelogs/pool/main/d/dbus/dbus_1.10.6-1ubuntu3.6/copyright",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1d67c12944d0ea9c755cb28285f4567cbce4b5a40f49935fc40d3aafa941fec9"
+  }
+}

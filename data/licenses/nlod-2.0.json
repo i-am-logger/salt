@@ -1,0 +1,29 @@
+{
+  "key": "nlod-2.0",
+  "name": "Norwegian Licence for Open Government Data (NLOD) 2.0",
+  "short_name": "NLOD-2.0",
+  "spdx_license_key": "NLOD-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://data.norge.no/nlod/en/2.0/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "143d8451305a26e8068c6d40a1952e2931b512c82af018e2d23daa5a59f8881c"
+  }
+}

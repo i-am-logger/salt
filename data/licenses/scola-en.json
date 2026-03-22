@@ -1,0 +1,32 @@
+{
+  "key": "scola-en",
+  "name": "Statistics Canada Open Licence Agreement",
+  "short_name": "Statistics Canada Open Licence Agreement",
+  "spdx_license_key": "LicenseRef-scancode-scola-en",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.statcan.gc.ca/eng/reference/licence",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "182e13d5356b813d289fb13027418c72a66a38eddfa49f33d3178ceb0fb39857"
+  }
+}

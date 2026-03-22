@@ -1,0 +1,28 @@
+{
+  "key": "ago-private-1.0",
+  "name": "Ago Private License 1.0",
+  "short_name": "Ago Private License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-ago-private-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [
+    "https://bitbucket.org/mikechung/agobot3/src/master/apl.txt"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1fac67aacae0ada57d424960dd930478880fa88aa22564c894faa3d450114b11"
+  }
+}

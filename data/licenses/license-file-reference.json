@@ -1,0 +1,22 @@
+{
+  "key": "license-file-reference",
+  "name": "license-file-reference",
+  "short_name": "license-file-reference",
+  "spdx_license_key": "",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "38cbcfb60652584b96fd2d0140e93d32b89a03a7e25e43df3a44e5f416277cf1"
+  }
+}

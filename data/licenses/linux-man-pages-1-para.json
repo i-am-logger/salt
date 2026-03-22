@@ -1,0 +1,32 @@
+{
+  "key": "linux-man-pages-1-para",
+  "name": "Linux man-pages - 1 paragraph",
+  "short_name": "Linux man-pages - 1 paragraph",
+  "spdx_license_key": "Linux-man-pages-1-para",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b12feac50a3509e5e6d62e5e9bafbcb60817977905bf2ee6a78dbc89fb6cf54f"
+  }
+}

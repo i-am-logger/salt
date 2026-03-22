@@ -1,0 +1,27 @@
+{
+  "key": "beegfs-eula-2024",
+  "name": "BeeGFS End User License Agreement 2024",
+  "short_name": "BeeGFS EULA 2024",
+  "spdx_license_key": "LicenseRef-scancode-beegfs-eula-2024",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/ThinkParQ/beegfs/blob/master/LICENSE.txt",
+  "text_urls": [
+    "https://www.beegfs.io/docs/BeeGFS_EULA.txt"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eebbeb7e1451c1b4ebbe0672aab9429b6c473209979b02fc11c3f88ef0e64d76"
+  }
+}

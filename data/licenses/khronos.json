@@ -1,0 +1,29 @@
+{
+  "key": "khronos",
+  "name": "Khronos License",
+  "short_name": "Khronos License",
+  "spdx_license_key": "LicenseRef-scancode-khronos",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "664f7730e2e84ddcb9db49315c7eb6184a449eac74849b08a61ca1c7296b88c0"
+  }
+}

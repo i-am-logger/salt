@@ -1,0 +1,29 @@
+{
+  "key": "bsd-simplified-intel",
+  "name": "BSD-Simplified Intel",
+  "short_name": "BSD-Simplified Intel",
+  "spdx_license_key": "LicenseRef-scancode-bsd-simplified-intel",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/ofiwg/libfabric/blob/master/include/linux/rdpmc.h",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "458c2054f8fd5b4ffe21380387eb45487e45a969cd040b9456ba38183d1ce99e"
+  }
+}

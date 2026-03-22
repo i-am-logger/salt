@@ -1,0 +1,26 @@
+{
+  "key": "pdf-creator-pilot",
+  "name": "PDF Creator Pilot License Agreement",
+  "short_name": "PDF Creator Pilot License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-pdf-creator-pilot",
+  "category": "Commercial",
+  "homepage_url": "http://www.colorpilot.com/pdflibrary_eula.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4329cc62dc1333675870dd9b5c9090dc3cb9d46d40c2b8460c1e9886c134fbe9"
+  }
+}

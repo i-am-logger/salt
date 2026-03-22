@@ -1,0 +1,41 @@
+{
+  "key": "jelurida-public-1.1",
+  "name": "Jeulurida Public License 1.1",
+  "short_name": "Jeulurida Public License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-jelurida-public-1.1",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/mrv777/NXT/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "distribution",
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "27d2e87f1208f74193572dfc4242ff010f90bd4955019abaf07c957de291adaf"
+  }
+}

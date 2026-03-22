@@ -1,0 +1,37 @@
+{
+  "key": "glide",
+  "name": "3DFX GLIDE Source Code General Public License",
+  "short_name": "3DFX GLIDE",
+  "spdx_license_key": "Glide",
+  "category": "Copyleft",
+  "homepage_url": "http://www.users.on.net/~triforce/glidexp/COPYING.txt",
+  "text_urls": [
+    "http://www.users.on.net/~triforce/glidexp/COPYING.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "201a4e5fd2a5d0dae5bef8bc8595ee88d96a46a3f00189015e28a51f2ea6c58c"
+  }
+}

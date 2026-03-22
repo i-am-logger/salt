@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-inria-imag",
+  "name": "Historical Permission Notice and Disclaimer - INRIA-IMAG variant",
+  "short_name": "Historical - INRIA-IMAG variant",
+  "spdx_license_key": "HPND-INRIA-IMAG",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9debb469e390b38f227703edc5f35cd56f964ebd3fe4ef4c57edad6a2d44488b"
+  }
+}

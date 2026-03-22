@@ -1,0 +1,26 @@
+{
+  "key": "telerik-eula",
+  "name": "Telerik EULA",
+  "short_name": "Telerik EULA",
+  "spdx_license_key": "LicenseRef-scancode-telerik-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.telerik.com/purchase/license-agreement/kendo-ui-professional",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "320b18f04d4423a21314754773b9d95d9b98e5e374a2628787d1758e0b4d3c90"
+  }
+}

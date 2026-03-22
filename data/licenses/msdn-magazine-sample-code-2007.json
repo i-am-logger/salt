@@ -1,0 +1,29 @@
+{
+  "key": "msdn-magazine-sample-code-2007",
+  "name": "Microsoft MSDN Magazine Sample Code EULA 2007",
+  "short_name": "MSDN Magazine Sample Code EULA 2007",
+  "spdx_license_key": "LicenseRef-scancode-msdn-magazine-sample-code-2007",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9901f977daf8dd6dc5f907ecac6dbaecc910fa3cb6bd844009e2a6fd061b9373"
+  }
+}

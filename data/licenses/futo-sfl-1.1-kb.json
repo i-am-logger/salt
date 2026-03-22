@@ -1,0 +1,36 @@
+{
+  "key": "futo-sfl-1.1-kb",
+  "name": "FUTO Source First License 1.1-kb",
+  "short_name": "FUTO Source First License 1.1-kb",
+  "spdx_license_key": "LicenseRef-scancode-futo-sfl-1.1-kb",
+  "category": "Non-Commercial",
+  "homepage_url": "https://gitlab.futo.org/keyboard/latinime/-/blob/master/LICENSE.md?ref_type=heads",
+  "text_urls": [
+    "https://gitlab.futo.org/keyboard/latinime/-/blob/master/LICENSE.md?ref_type=heads&plain=1"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a1623d0835c1c74b832e594922d06094973d0b5296123cddc5982fb25d531779"
+  }
+}

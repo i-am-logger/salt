@@ -1,0 +1,31 @@
+{
+  "key": "qpopper",
+  "name": "Qpopper License",
+  "short_name": "Qpopper License",
+  "spdx_license_key": "LicenseRef-scancode-qpopper",
+  "category": "Permissive",
+  "homepage_url": "http://www.eudora.com/products/unsupported/qpopper/license.html",
+  "text_urls": [
+    "http://www.eudora.com/products/unsupported/qpopper/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ddbb32159b156a76c0375ca6e92ad5d9d15b6abed4613b005b462799b173f64c"
+  }
+}

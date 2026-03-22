@@ -1,0 +1,26 @@
+{
+  "key": "anthropic-commercial-tos-2025",
+  "name": "Anthropic Commercial Terms of Service 2025",
+  "short_name": "Anthropic Commercial Terms of Service 2025",
+  "spdx_license_key": "LicenseRef-scancode-anthropic-commercial-tos-2025",
+  "category": "Commercial",
+  "homepage_url": "https://www.anthropic.com/legal/commercial-terms",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "021f54352d347829149356cadef929cb16a4029cd2ba1778a675c2a327e883af"
+  }
+}

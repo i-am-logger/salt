@@ -1,0 +1,38 @@
+{
+  "key": "gnu-emacs-gpl-1985",
+  "name": "GNU emacs General Public License 1985",
+  "short_name": "GNU emacs General Public License 1985",
+  "spdx_license_key": "LicenseRef-scancode-gnu-emacs-gpl-1985",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/larsbrinkhoff/emacs-history/blob/sources/bitsavers.org/bits/DEC/vax/ultrix/3.0/gnuemacs.tar.gz",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f17fd345970d86bd4a70be1cb33065a26209b711cd980c81b06b99dc38bdf959"
+  }
+}

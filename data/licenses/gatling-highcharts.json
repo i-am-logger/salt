@@ -1,0 +1,25 @@
+{
+  "key": "gatling-highcharts",
+  "name": "Gatling-Highcharts License",
+  "short_name": "Gatling-Highcharts License",
+  "spdx_license_key": "LicenseRef-scancode-gatling-highcharts",
+  "category": "Proprietary Free",
+  "homepage_url": "https://raw.githubusercontent.com/gatling/gatling-highcharts/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "73c11ee2396a9bed1117340a768b0c75be78cd81086917b3120832733b300e5d"
+  }
+}

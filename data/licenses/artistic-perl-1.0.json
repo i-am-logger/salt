@@ -1,0 +1,33 @@
+{
+  "key": "artistic-perl-1.0",
+  "name": "Artistic License (Perl) 1.0",
+  "short_name": "Artistic-Perl-1.0",
+  "spdx_license_key": "Artistic-1.0-Perl",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://dev.perl.org/licenses/artistic.html",
+  "text_urls": [
+    "http://dev.perl.org/licenses/artistic.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d13f2b727446b20a27637ba68afe9aad5562db7e13a4330a417a5430d6f7d7c4"
+  }
+}

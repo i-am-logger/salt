@@ -1,0 +1,26 @@
+{
+  "key": "trca-odl-1.0",
+  "name": "Toronto Region Conservation Authority Open Data Licence 1.0",
+  "short_name": "TRCA Open Data Licence 1.0",
+  "spdx_license_key": "LicenseRef-scancode-trca-odl-1.0",
+  "category": "Free Restricted",
+  "homepage_url": "https://trca.ca/datalicense",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3ee4ea890dcf89f58d3f4a6675a6199c8787a0e8faf4da00b0c03f9fc58bce71"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "sun-bcl-11-08",
+  "name": "Sun BCL 11 plus 8",
+  "short_name": "Sun BCL 11 plus 8",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-11-08",
+  "category": "Proprietary Free",
+  "homepage_url": "http://download.java.net/media/jai/builds/release/1_1_3/LICENSE-jai.txt",
+  "text_urls": [
+    "http://download.java.net/media/jai/builds/release/1_1_3/LICENSE-jai.txt"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "94b87988bb92328cc04092acc46da9593479e1432a85ba8b0a594aa514928fcb"
+  }
+}

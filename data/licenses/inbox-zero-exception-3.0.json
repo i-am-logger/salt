@@ -1,0 +1,43 @@
+{
+  "key": "inbox-zero-exception-3.0",
+  "name": "Inbox Zero Exception to AGPL 3.0",
+  "short_name": "Inbox Zero Exception to AGPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-inbox-zero-exception-3.0",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/elie222/inbox-zero/blob/2785c48e3324b88dcc99c30a4dd8102cf0acc9de/LICENSE#L8",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0483df60d5cb00d76a438d1b92c4238777b90111bdf4f892c70fe00a3b7e5205"
+  }
+}

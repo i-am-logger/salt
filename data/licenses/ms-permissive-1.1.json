@@ -1,0 +1,31 @@
+{
+  "key": "ms-permissive-1.1",
+  "name": "Microsoft Permissive License (MS-PL) v1.1",
+  "short_name": "MS-PL 1.1",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://web.archive.org/web/20180120185447/http://entlibcontrib.codeplex.com/license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea5c467efcb3592930638d03b0034c122a9ada5f6663feab48bed798496e7689"
+  }
+}

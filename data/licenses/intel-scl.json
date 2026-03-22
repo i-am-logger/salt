@@ -1,0 +1,29 @@
+{
+  "key": "intel-scl",
+  "name": "Intel Source Code License Agreement",
+  "short_name": "Intel Source Code License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-intel-scl",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a39a2a1025e9d1caf9fa80d783640e7608b9dcdf7a65b94483f88943a32438b2"
+  }
+}

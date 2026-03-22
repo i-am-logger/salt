@@ -1,0 +1,29 @@
+{
+  "key": "ms-windows-container-base-image-eula-2020",
+  "name": "Microsoft Windows Container Base Image EULA 2020",
+  "short_name": "MS Windows Container Base Image EULA 2020",
+  "spdx_license_key": "LicenseRef-scancode-ms-win-container-eula-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.microsoft.com/en-us/virtualization/windowscontainers/images-eula",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e09a8f48b0b783ca420388745fe280658ecb492b82180bbfc181c156c7d15870"
+  }
+}

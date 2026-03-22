@@ -1,0 +1,31 @@
+{
+  "key": "openmarket-fastcgi",
+  "name": "FastCGI License for Spec Implementation",
+  "short_name": "FastCGI License for Spec Implementation",
+  "spdx_license_key": "LicenseRef-scancode-openmarket-fastcgi",
+  "category": "Permissive",
+  "homepage_url": "http://www.fastcgi.com/drupal/node/8",
+  "text_urls": [
+    "http://www.fastcgi.com/drupal/node/8"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "79641f783a4b7ec0fdd9df19431a43958a13da7d520aa88e62d09627737df2a9"
+  }
+}

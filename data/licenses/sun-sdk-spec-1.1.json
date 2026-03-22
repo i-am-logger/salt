@@ -1,0 +1,25 @@
+{
+  "key": "sun-sdk-spec-1.1",
+  "name": "Sun SDK Specification 1.1",
+  "short_name": "Sun SDK Specification 1.1",
+  "spdx_license_key": "LicenseRef-scancode-sun-sdk-spec-1.1",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4a39f316861b671c9f3c2630b85ad05455f96d488486dc8416a91a4483c8f91a"
+  }
+}

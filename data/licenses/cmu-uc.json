@@ -1,0 +1,29 @@
+{
+  "key": "cmu-uc",
+  "name": "CMU Style",
+  "short_name": "CMU Style",
+  "spdx_license_key": "MIT-CMU",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bfce59b5b5c1a1ee86385145529b91a4a1f259fa511bf6909cc75ac60870f13f"
+  }
+}

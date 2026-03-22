@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-fenneberg-livingston",
+  "name": "Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant",
+  "short_name": "Historical Fenneberg-Livingston variant",
+  "spdx_license_key": "HPND-Fenneberg-Livingston",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "14ea16a8c48efff2a62b6566ec4e62dd2b95e6ca9ab51a77f2361533a6473427"
+  }
+}

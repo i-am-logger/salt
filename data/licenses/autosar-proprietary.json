@@ -1,0 +1,29 @@
+{
+  "key": "autosar-proprietary",
+  "name": "AUTOSAR Proprietary Notice",
+  "short_name": "AUTOSAR Proprietary Notice",
+  "spdx_license_key": "LicenseRef-scancode-autosar-proprietary",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [
+    "https://www.autosar.org/fileadmin/standards/R22-11/FO/AUTOSAR_PRS_SOMEIPProtocol.pdf",
+    "https://www.autosar.org/fileadmin/standards/R22-11/FO/AUTOSAR_PRS_SOMEIPServiceDiscoveryProtocol.pdf"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f69ca108aaf87d19a9c90ed5be96581e505228bae1d334d3132334153737c31"
+  }
+}

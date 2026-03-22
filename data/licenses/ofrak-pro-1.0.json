@@ -1,0 +1,26 @@
+{
+  "key": "ofrak-pro-1.0",
+  "name": "OFRAK Pro License Agreement 1.0",
+  "short_name": "OFRAK Pro License Agreement 1.0",
+  "spdx_license_key": "LicenseRef-scancode-ofrak-pro-1.0",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/redballoonsecurity/ofrak/blob/master/LICENSE#L220",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b94ff3b7d61f59e9132da49c0e8d475bef84be84b8979fdaa575b0b50eccd9f3"
+  }
+}

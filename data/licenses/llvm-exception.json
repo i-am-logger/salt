@@ -1,0 +1,31 @@
+{
+  "key": "llvm-exception",
+  "name": "LLVM Exception to Apache 2.0",
+  "short_name": "LLVM Exception to Apache 2.0",
+  "spdx_license_key": "LLVM-exception",
+  "category": "Permissive",
+  "homepage_url": "http://llvm.org/foundation/relicensing/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea6b00e8e4f579dd050d1638a7cd1fcd99053d82402858e913563cdf7f8fd35c"
+  }
+}

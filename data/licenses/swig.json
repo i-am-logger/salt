@@ -1,0 +1,31 @@
+{
+  "key": "swig",
+  "name": "SWIG Library License",
+  "short_name": "SWIG Library License",
+  "spdx_license_key": "LicenseRef-scancode-swig",
+  "category": "Permissive",
+  "homepage_url": "http://www.swig.org/",
+  "text_urls": [
+    "http://www.swig.org/Release/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5ac088ded6d92247323dbf2b7eac6b6df4608f967cdbbf73364b8a57fad8ba69"
+  }
+}

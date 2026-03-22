@@ -1,0 +1,29 @@
+{
+  "key": "ms-net-library",
+  "name": "Microsoft .NET Library License",
+  "short_name": "MS .NET Library License",
+  "spdx_license_key": "LicenseRef-scancode-ms-net-library",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "685357b103fd1b4ea687887ddd40cbb8e8ec305e092994ea038fd6c785b58163"
+  }
+}

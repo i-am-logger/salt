@@ -1,0 +1,40 @@
+{
+  "key": "rh-eula-gpl2",
+  "name": "Red Hat GPLv2-Based End User License Agreement",
+  "short_name": "Red Hat GPLv2-Based EULA",
+  "spdx_license_key": "LicenseRef-scancode-rh-eula-gpl2",
+  "category": "Copyleft",
+  "homepage_url": "https://www.redhat.com/en/about/eulas",
+  "text_urls": [
+    "https://www.redhat.com/licenses/Red_Hat_GPLv2-Based_EULA_20191118.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2c58dc15a283dd21b74f0542d99c777961d413a5101f2857994a31cafc37f9a8"
+  }
+}

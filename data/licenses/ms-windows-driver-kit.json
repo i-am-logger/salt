@@ -1,0 +1,25 @@
+{
+  "key": "ms-windows-driver-kit",
+  "name": "Microsoft Windows Driver Kit License",
+  "short_name": "MS Windows Driver Kit License",
+  "spdx_license_key": "LicenseRef-scancode-ms-windows-driver-kit",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "01201ef88391b739b8a3184b4b8a494ef6839c9c5d0edae41431207308402797"
+  }
+}

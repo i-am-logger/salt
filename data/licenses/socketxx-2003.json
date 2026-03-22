@@ -1,0 +1,31 @@
+{
+  "key": "socketxx-2003",
+  "name": "Socketxx License 2003",
+  "short_name": "Socketxx License 2003",
+  "spdx_license_key": "LicenseRef-scancode-socketxx-2003",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/hstraub/socketxx/blob/master/COPYING",
+  "text_urls": [
+    "https://github.com/malaterre/socketxx-1/blob/master/COPYING"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "675f603c0d892b93647718780a47e47b30ce781be76b2eec35e513c972004b2c"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-nuget-package-manager",
+  "name": "Microsoft NuGet-Based Package Manager License",
+  "short_name": "MS NuGet-Based Package Manager License",
+  "spdx_license_key": "LicenseRef-scancode-ms-nuget-package-manager",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/nuget_release_eula.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d67095e8ba5efaeab7d690acfeead2cdc854b58f286f8cddf576d8b2a97e840e"
+  }
+}

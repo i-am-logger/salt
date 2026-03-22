@@ -1,0 +1,29 @@
+{
+  "key": "clearthought-2.0",
+  "name": "Clearthought Software License v2.0",
+  "short_name": "Clearthought Software License v2.0",
+  "spdx_license_key": "LicenseRef-scancode-clearthought-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/nerro/table-layout/blob/v4.3.0/src/main/resources/META-INF/LICENCE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "18dff61ef17d77669b9949a587c6267498bd5a569eda7d5fcba09bc71f95836b"
+  }
+}

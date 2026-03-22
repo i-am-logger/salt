@@ -1,0 +1,29 @@
+{
+  "key": "aardvark-py-2014",
+  "name": "Aardvark I2C/SPI Software and Firmware License 2014",
+  "short_name": "Aardvark I2C/SPI 2014",
+  "spdx_license_key": "LicenseRef-scancode-aardvark-py-2014",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/totalphase/aardvark_py/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a5ab857646b2ea85e02b22a04eed299c94a7027951cff0e94b5028dcbae0c47e"
+  }
+}

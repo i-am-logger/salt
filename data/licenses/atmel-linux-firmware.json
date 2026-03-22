@@ -1,0 +1,30 @@
+{
+  "key": "atmel-linux-firmware",
+  "name": "Atmel Linux Firmware License",
+  "short_name": "Atmel Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-atmel-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.atmel",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "64fc1972d984943cc70c2b27fa2919c8cff3f09e57d86d954f316bcbed8297f8"
+  }
+}

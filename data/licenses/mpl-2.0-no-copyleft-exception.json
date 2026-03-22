@@ -1,0 +1,37 @@
+{
+  "key": "mpl-2.0-no-copyleft-exception",
+  "name": "Mozilla Public License 2.0 (no copyleft exception)",
+  "short_name": "MPL 2.0 with no copyleft exception",
+  "spdx_license_key": "MPL-2.0-no-copyleft-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.mozilla.org/MPL/2.0/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8618f35b2e7349dcc319a09138ad3de3539d15edc0e758f1ef02655007d087d5"
+  }
+}

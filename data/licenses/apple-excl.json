@@ -1,0 +1,29 @@
+{
+  "key": "apple-excl",
+  "name": "Apple Example Code License",
+  "short_name": "Apple Example Code License",
+  "spdx_license_key": "LicenseRef-scancode-apple-excl",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f221753f5090f0b10f95bb4d37f0f91e97c5f2e58df19ca93cac8ced32136ae2"
+  }
+}

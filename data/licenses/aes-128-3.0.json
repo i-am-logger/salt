@@ -1,0 +1,26 @@
+{
+  "key": "aes-128-3.0",
+  "name": "AES-128 v3.0 License",
+  "short_name": "AES-128 3.0 License",
+  "spdx_license_key": "LicenseRef-scancode-aes-128-3.0",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e5c99b17f8d6ac13985dcbd06399654e3fcbc45bca7432dfefec21f8002e2ef4"
+  }
+}

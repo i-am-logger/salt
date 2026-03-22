@@ -1,0 +1,41 @@
+{
+  "key": "scilab-fr",
+  "name": "Licence SCILAB",
+  "short_name": "SCILAB FR",
+  "spdx_license_key": "LicenseRef-scancode-scilab-fr",
+  "category": "Non-Commercial",
+  "homepage_url": "http://web.archive.org/web/20051212214843/http://www.scilab.org/legal/license.html",
+  "text_urls": [
+    "https://directory.fsf.org/wiki/License:Scilab-old"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4eb7cb8b36c1e1b0f3477bfb99f62eed59f035565f07d8640ca6df6ac00cac42"
+  }
+}

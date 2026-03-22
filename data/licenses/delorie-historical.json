@@ -1,0 +1,29 @@
+{
+  "key": "delorie-historical",
+  "name": "Delorie Historical License",
+  "short_name": "Delorie Historical License",
+  "spdx_license_key": "LicenseRef-scancode-delorie-historical",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4292cb73c51d7ddc8fb08b7e8ad0b61d710c24a51cfce29397bf6b8dfbbf45c3"
+  }
+}

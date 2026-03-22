@@ -1,0 +1,29 @@
+{
+  "key": "can-ogl-alberta-2.1",
+  "name": "Open Government Licence Alberta 2.1",
+  "short_name": "OGL Alberta 2.1",
+  "spdx_license_key": "LicenseRef-scancode-can-ogl-alberta-2.1",
+  "category": "Permissive",
+  "homepage_url": "https://open.alberta.ca/licence",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fa2a739d9fedc53e78636ceae81e6461bc781acef34666e274622e531ba70949"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ossp",
+  "name": "OSSP License",
+  "short_name": "OSSP License",
+  "spdx_license_key": "OSSP",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0a007a7578c872d7a8b75e536c9e3a3fd26c0885a2f1ef2dd8ff4bb7cb4dc233"
+  }
+}

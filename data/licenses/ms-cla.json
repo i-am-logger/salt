@@ -1,0 +1,32 @@
+{
+  "key": "ms-cla",
+  "name": "Microsoft Contribution License Agreement (CLA)",
+  "short_name": "MS Contribution License Agreement (CLA)",
+  "spdx_license_key": "LicenseRef-scancode-ms-cla",
+  "category": "CLA",
+  "homepage_url": "https://cla.microsoft.com",
+  "text_urls": [
+    "https://opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ec960999a0777b0d5dd0c8a0720f131f3bc614f17e1aa7bfd4cf8c7fcbc41865"
+  }
+}

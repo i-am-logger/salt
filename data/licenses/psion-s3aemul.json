@@ -1,0 +1,25 @@
+{
+  "key": "psion-s3aemul",
+  "name": "Psion User LIcence for S3AEMUL",
+  "short_name": "Psion User LIcence for S3AEMUL",
+  "spdx_license_key": "LicenseRef-scancode-psion-s3aemul",
+  "category": "Proprietary Free",
+  "homepage_url": "https://psion.gtkc.net/psion-gmbh/emulator/serie3a/licence.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d25e49c7dc8c78d97415516be4a57fb2d71527a6da931e8f4864ec4ea3d545ee"
+  }
+}

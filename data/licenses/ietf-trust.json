@@ -1,0 +1,31 @@
+{
+  "key": "ietf-trust",
+  "name": "IETF Trust License",
+  "short_name": "IETF Trust License",
+  "spdx_license_key": "LicenseRef-scancode-ietf-trust",
+  "category": "Permissive",
+  "homepage_url": "http://trustee.ietf.org/docs/IETF-Trust-License-Policy.pdf",
+  "text_urls": [
+    "http://trustee.ietf.org/docs/IETF-Trust-License-Policy.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e265ee500fbccac6dbf4723bdc1753468eb51500f1610fe8252c93d772251b7f"
+  }
+}

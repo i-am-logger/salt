@@ -1,0 +1,32 @@
+{
+  "key": "openssl-ssleay",
+  "name": "OpenSSL/SSLeay License",
+  "short_name": "OpenSSL/SSLeay License",
+  "spdx_license_key": "OpenSSL",
+  "category": "Permissive",
+  "homepage_url": "http://www.openssl.org/source/license.html",
+  "text_urls": [
+    "http://www.openssl.org/source/license.html",
+    "https://www.openssl.org/source/license-openssl-ssleay.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c44c3c01eb4a705ca585f668c7e0f03e09e70a073a8a482b2b353352d842d56c"
+  }
+}

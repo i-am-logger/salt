@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-uc",
+  "name": "Historical Permission Notice and Disclaimer University of California variant",
+  "short_name": "Historical UC variant",
+  "spdx_license_key": "HPND-UC",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "322f441683e9ee5b2b607d6491e273d250212fe2e3ccbd39a1514f7768e54278"
+  }
+}

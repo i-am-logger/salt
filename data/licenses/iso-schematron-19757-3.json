@@ -1,0 +1,32 @@
+{
+  "key": "iso-schematron-19757-3",
+  "name": "ISO/IEC Schematron 19757-3 License",
+  "short_name": "ISO/IEC 19757-3",
+  "spdx_license_key": "LicenseRef-scancode-iso-schematron-19757-3",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/lxml/lxml/blob/lxml-6.0.2/src/lxml/isoschematron/resources/rng/iso-schematron.rng#L4-L26",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "51f4b5798014b645ee8a0b8b97a43cf2edd14ea52160e18e58b9a051dbe4d121"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "php-3.01",
+  "name": "PHP License 3.01",
+  "short_name": "PHP License 3.01",
+  "spdx_license_key": "PHP-3.01",
+  "category": "Permissive",
+  "homepage_url": "http://www.php.net/license/3_01.txt",
+  "text_urls": [
+    "http://www.php.net/license/3_01.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "22f47254f43d77c2f2d473634be484d5e95421e82d5eb6c75423920c11c890d7"
+  }
+}

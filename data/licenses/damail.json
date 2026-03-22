@@ -1,0 +1,29 @@
+{
+  "key": "damail",
+  "name": "Don't Ask Me About It License",
+  "short_name": "DAMAIL",
+  "spdx_license_key": "LicenseRef-scancode-damail",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/nslater/DAMAIL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8196fe627ce3b268ba00ca2545f38c52d612ef03ed9743212957c589083e6ae8"
+  }
+}

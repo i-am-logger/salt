@@ -1,0 +1,26 @@
+{
+  "key": "northwoods-sla-2021",
+  "name": "Northwoods Software SLA 2021",
+  "short_name": "Northwoods Software SLA 2021",
+  "spdx_license_key": "LicenseRef-scancode-northwoods-sla-2021",
+  "category": "Commercial",
+  "homepage_url": "https://gojs.net/latest/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "77fabbb114e5f6e3e21f5afa47c4f4eac7d493315b66ff687ddb9db434dafd26"
+  }
+}

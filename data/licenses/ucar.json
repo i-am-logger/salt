@@ -1,0 +1,30 @@
+{
+  "key": "ucar",
+  "name": "UCAR License",
+  "short_name": "UCAR License",
+  "spdx_license_key": "UCAR",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/Unidata/UDUNITS-2/blob/master/COPYRIGHT",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0a18617a5c8fda5676df7887bd7f7fb08c9af8830289f9995eb9f52aeb25db31"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "asal-1.0",
+  "name": "Any Source Available License 1.0",
+  "short_name": "ASAL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-asal-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/anyproto/open/blob/cbc42aa92c77789f8d5b2e8d3852401f1bec199a/templates/LICENSE-ASAL.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "48ea927ecee1e75daeb7daa7d7fb2acb7db52e2dd53f4512d378c886122c7694"
+  }
+}

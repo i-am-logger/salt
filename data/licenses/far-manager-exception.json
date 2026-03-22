@@ -1,0 +1,29 @@
+{
+  "key": "far-manager-exception",
+  "name": "Far Manager exception to BSD-3-Clause",
+  "short_name": "Far Manager exception to BSD-3-Clause",
+  "spdx_license_key": "LicenseRef-scancode-far-manager-exception",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d0a1b0ba3e54574b69bd56a227d302ec11112f6221c050e48187c0339501a1b4"
+  }
+}

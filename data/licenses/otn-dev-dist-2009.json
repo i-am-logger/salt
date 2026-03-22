@@ -1,0 +1,25 @@
+{
+  "key": "otn-dev-dist-2009",
+  "name": "Oracle Technology Network Free Developer License 2009",
+  "short_name": "OTN License 2009",
+  "spdx_license_key": "LicenseRef-scancode-otn-dev-dist-2009",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.oracle.com/technetwork/testcontent/standard-license-088383.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a59f99a6b7b44197a1ecc20cd30dcc3e2139b099618a6457859c595e183bffaf"
+  }
+}

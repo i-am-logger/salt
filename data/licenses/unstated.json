@@ -1,0 +1,17 @@
+{
+  "key": "unstated",
+  "name": "Unstated License",
+  "short_name": "Unstated License",
+  "spdx_license_key": "LicenseRef-scancode-unstated",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c8cb8bb8c8452b1d9facf84e03792cc36cc5ac1543e36ee382816b15bb575012"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "cnri-python-1.6.1",
+  "name": "CNRI Open Source License Agreement for Python 1.6.1",
+  "short_name": "CNRI Python 1.6.1",
+  "spdx_license_key": "CNRI-Python-GPL-Compatible",
+  "category": "Permissive",
+  "homepage_url": "http://www.python.org/download/releases/1.6.1/download_win/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "af187d21f288513791db318ea14657e11dff634183e42519efcc8b81af417933"
+  }
+}

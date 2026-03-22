@@ -1,0 +1,31 @@
+{
+  "key": "mentalis",
+  "name": "Mentalis Source Code License",
+  "short_name": "Mentalis License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "http://mentalis.org/site/license.qpx",
+  "text_urls": [
+    "http://mentalis.org/site/license.qpx"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0631d4d6c41fef580058c255b6542352a4e66e25258058f96154a2cafe580dfa"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "microsoft-enterprise-library-eula",
+  "name": "Microsoft Enterprise Library EULA",
+  "short_name": "MS Enterprise Library EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-enterprise-library-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "http://msdn.microsoft.com/en-us/library/ms998253",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "77d16a7463c0590f94e8062be6a5b4d417fb638ebd56a8a84504f582f20ec4e9"
+  }
+}

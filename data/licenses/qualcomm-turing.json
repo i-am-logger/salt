@@ -1,0 +1,31 @@
+{
+  "key": "qualcomm-turing",
+  "name": "Qualcomm Turing License",
+  "short_name": "Qualcomm Turing License",
+  "spdx_license_key": "LicenseRef-scancode-qualcomm-turing",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/arantius/tivodecode/blob/master/Turing.h",
+  "text_urls": [
+    "https://github.com/arantius/tivodecode/blob/master/Turing.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dec94c471988bed4fead0e70d3999e63636426effaca83e0e58f3cc083619b15"
+  }
+}

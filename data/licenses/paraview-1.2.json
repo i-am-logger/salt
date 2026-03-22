@@ -1,0 +1,29 @@
+{
+  "key": "paraview-1.2",
+  "name": "ParaView License 1.2",
+  "short_name": "ParaView License 1.2",
+  "spdx_license_key": "LicenseRef-scancode-paraview-1.2",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "28186ebb13c4e4925a9640f0cfea92b68f1046f33f5f3dc16441720c9966177c"
+  }
+}

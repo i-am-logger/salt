@@ -1,0 +1,26 @@
+{
+  "key": "ti-restricted",
+  "name": "Texas Instruments Restricted Use License",
+  "short_name": "TI Restricted Use License",
+  "spdx_license_key": "LicenseRef-scancode-ti-restricted",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d10476d80d4da3f19cf4506f9fa2aa35afaaf7aee490a59d515c509575cef29c"
+  }
+}

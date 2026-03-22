@@ -1,0 +1,29 @@
+{
+  "key": "brian-clapper",
+  "name": "Brian Clapper License",
+  "short_name": "Brian Clapper License",
+  "spdx_license_key": "LicenseRef-scancode-brian-clapper",
+  "category": "Permissive",
+  "homepage_url": "http://software.clapper.org/poll/index.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8bc09d8775007ac3502908feca08022659cc8a839e6a2698738d998a9fe4f139"
+  }
+}

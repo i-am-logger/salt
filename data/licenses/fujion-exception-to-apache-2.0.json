@@ -1,0 +1,31 @@
+{
+  "key": "fujion-exception-to-apache-2.0",
+  "name": "Fujion Clinical Exception to Apache 2.0",
+  "short_name": "Fujion Clinical Exception to Apache 2.0",
+  "spdx_license_key": "LicenseRef-scancode-fujion-exception-to-apache-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/fujionclinical/fujion-clinical-plugins/blob/c2b48c04daca42e4759e3b49c234f3436a2d5ccd/DISCLAIMER.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c23d5fdc8c1260c22c1a09de94dfc7d99fab741ddeec74eb138457c9ad816363"
+  }
+}

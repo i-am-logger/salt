@@ -1,0 +1,29 @@
+{
+  "key": "intel-sample-source-code-2015",
+  "name": "Intel Sample Source Code License Agreement 2015",
+  "short_name": "Intel Sample Source Code 2015",
+  "spdx_license_key": "LicenseRef-scancode-intel-sample-source-code-2015",
+  "category": "Proprietary Free",
+  "homepage_url": "https://software.intel.com/protected-download/267270/734854",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5cdff5b40edc51412e2778033531e352d67d39eb3e58ae68a2532a9b08b384ba"
+  }
+}

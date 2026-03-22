@@ -1,0 +1,30 @@
+{
+  "key": "mit-no-trademarks",
+  "name": "MIT No Commercial Use of Trademarks",
+  "short_name": "MIT No Commercial Use of Trademarks",
+  "spdx_license_key": "LicenseRef-scancode-mit-no-trademarks",
+  "category": "Permissive",
+  "homepage_url": "http://web.mit.edu/ivlib/www/copyright.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f29f4a44b511a8855531be761fa86d8187e59d2b6e4993a37f6ae16ede0df717"
+  }
+}

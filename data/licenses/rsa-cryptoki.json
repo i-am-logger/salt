@@ -1,0 +1,31 @@
+{
+  "key": "rsa-cryptoki",
+  "name": "RSA Cryptoki License",
+  "short_name": "RSA Cryptoki License",
+  "spdx_license_key": "LicenseRef-scancode-rsa-cryptoki",
+  "category": "Permissive",
+  "homepage_url": "http://www.rsa.com/rsalabs/node.asp?id=2133",
+  "text_urls": [
+    "http://www.rsa.com/rsalabs/node.asp?id=2133"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9225668ee8b45edbaf3ff58b5edd5898f0ad69ccb054d582ba6a1a159ccf773c"
+  }
+}

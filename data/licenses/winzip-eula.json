@@ -1,0 +1,26 @@
+{
+  "key": "winzip-eula",
+  "name": "WinZip EULA",
+  "short_name": "WinZip EULA",
+  "spdx_license_key": "LicenseRef-scancode-winzip-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.winzip.com/eula.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c372451b3ec4f3f90016f2b2581df7c9afed59d9b2aaf120823619f474ed36a7"
+  }
+}

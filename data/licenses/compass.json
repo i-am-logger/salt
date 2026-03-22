@@ -1,0 +1,29 @@
+{
+  "key": "compass",
+  "name": "Compass License",
+  "short_name": "Compass License",
+  "spdx_license_key": "LicenseRef-scancode-compass",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "023cdc68813524c2a0a74c8d2008effd743ae653d05a812f2d5fbe35b89ae24b"
+  }
+}

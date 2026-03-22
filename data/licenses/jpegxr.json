@@ -1,0 +1,31 @@
+{
+  "key": "jpegxr",
+  "name": "JPEG XR License",
+  "short_name": "JPEG XR License",
+  "spdx_license_key": "LicenseRef-scancode-jpegxr",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/ArtifexSoftware/ghostpdl/blob/483ae47b729734a463c2753e4e9c5cbb4abf3997/jpegxr/COPYRIGHT.txt#L4"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "76ef1b14bc6ebd57fe6c77ae888a72587bfe31fb63319d1966ee048505c4f18c"
+  }
+}

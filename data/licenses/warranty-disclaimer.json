@@ -1,0 +1,22 @@
+{
+  "key": "warranty-disclaimer",
+  "name": "Generic Bare Warranty Disclaimer",
+  "short_name": "Generic Bare Warranty Disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-warranty-disclaimer",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7970249e0d5b05d9636db133289e36136b632f6812270f297d585e4a85e6bb0b"
+  }
+}

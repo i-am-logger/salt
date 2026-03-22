@@ -1,0 +1,24 @@
+{
+  "key": "google-patent-license-webrtc",
+  "name": "Google Patent License for WebRTC",
+  "short_name": "Google Patent License for WebRTC",
+  "spdx_license_key": "LicenseRef-scancode-google-patent-license-webrtc",
+  "category": "Patent License",
+  "homepage_url": "https://webrtc.org/license/additional-ip-grant/",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c90f2b6076471b2d57bc37fe8d67a7245a82c91d4c83290d260c292d4e98cd21"
+  }
+}

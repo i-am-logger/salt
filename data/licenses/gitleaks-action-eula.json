@@ -1,0 +1,26 @@
+{
+  "key": "gitleaks-action-eula",
+  "name": "Gitleaks-Action EULA",
+  "short_name": "Gitleaks-Action EULA",
+  "spdx_license_key": "LicenseRef-scancode-gitleaks-action-eula",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/gitleaks/gitleaks-action/blob/master/COMMERCIAL-LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a63735c44c90a9b69a02ca17e0e479e835772b7b6957ed37ab1d5bb722c5df46"
+  }
+}

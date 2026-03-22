@@ -1,0 +1,30 @@
+{
+  "key": "daikon-2022",
+  "name": "Daikon License 2022",
+  "short_name": "Daikon License 2022",
+  "spdx_license_key": "LicenseRef-scancode-daikon-2022",
+  "category": "Permissive",
+  "homepage_url": "https://plse.cs.washington.edu/daikon/download/doc/daikon.html#License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9c8abac97a5a08d8d43e4436c2ea1f14a284dc6af6986600da77f53c20926b6a"
+  }
+}

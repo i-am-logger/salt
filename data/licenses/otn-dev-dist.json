@@ -1,0 +1,31 @@
+{
+  "key": "otn-dev-dist",
+  "name": "Oracle Technology Network Development and Distribution License Terms",
+  "short_name": "OTN License",
+  "spdx_license_key": "LicenseRef-scancode-otn-dev-dist",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/licenses/distribution-license-152002.html",
+  "text_urls": [
+    "http://www.oracle.com/technetwork/licenses/distribution-license-152002.html"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0f4c311aa2b2a326347a7d9cd69d2576b6752ba89394bfbeabe98d5556712677"
+  }
+}

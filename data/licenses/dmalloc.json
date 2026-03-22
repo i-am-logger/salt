@@ -1,0 +1,29 @@
+{
+  "key": "dmalloc",
+  "name": "dmalloc License",
+  "short_name": "dmalloc License",
+  "spdx_license_key": "LicenseRef-scancode-dmalloc",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e5be5a2576f407f22c00a8540db8a6049f3a1cd028b9d87b1d4c4ca342020f89"
+  }
+}

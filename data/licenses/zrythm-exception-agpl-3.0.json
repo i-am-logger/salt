@@ -1,0 +1,45 @@
+{
+  "key": "zrythm-exception-agpl-3.0",
+  "name": "Zrythm Exception to AGPL 3.0",
+  "short_name": "Zrythm Exception to AGPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-zrythm-exception-agpl-3.0",
+  "category": "Copyleft",
+  "homepage_url": "https://git.sr.ht/~alextee/zrythm/tree/master/item/LICENSES/LicenseRef-ZrythmLicense.txt",
+  "text_urls": [
+    "https://git.sr.ht/~alextee/zrythm/blob/master/TRADEMARKS.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a0f78cf53d3c0e35fa2ce62804fa7e16f5df5ac0221fc056ca70e45d5a86a62c"
+  }
+}

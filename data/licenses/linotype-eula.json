@@ -1,0 +1,30 @@
+{
+  "key": "linotype-eula",
+  "name": "Linotype EULA",
+  "short_name": "Linotype EULA",
+  "spdx_license_key": "LicenseRef-scancode-linotype-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.linotype.com/2061-28225/licenseagreementforfontsoftware.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a670ab1cdc052a1f37fc1f64e951849999dd715e1a505b22cd2ad8ecea159891"
+  }
+}

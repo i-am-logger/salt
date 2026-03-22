@@ -1,0 +1,29 @@
+{
+  "key": "musl-exception",
+  "name": "musl attribution exception",
+  "short_name": "musl attribution exception",
+  "spdx_license_key": "LicenseRef-scancode-musl-exception",
+  "category": "Permissive",
+  "homepage_url": "http://www.musl-libc.org/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1521dddd39c3a0f0fec911d05839879de920de0abcad8e08a44e3b253147555a"
+  }
+}

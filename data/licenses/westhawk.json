@@ -1,0 +1,29 @@
+{
+  "key": "westhawk",
+  "name": "Westhawk License",
+  "short_name": "Westhawk License",
+  "spdx_license_key": "LicenseRef-scancode-westhawk",
+  "category": "Permissive",
+  "homepage_url": "http://westhawksnmp.cvs.sourceforge.net/viewvc/westhawksnmp/westhawksnmp/src/uk/co/westhawk/snmp/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dd4c63007b93af57545dbb189f88501c14d5e2d0b05cbcb4b99c8af849251019"
+  }
+}

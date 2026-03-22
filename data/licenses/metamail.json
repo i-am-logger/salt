@@ -1,0 +1,29 @@
+{
+  "key": "metamail",
+  "name": "metamail License",
+  "short_name": "metamail License",
+  "spdx_license_key": "metamail",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ab5e41b0dceb9491558f64e8d7a42c08b426b1ced6dee8bdd9ad8f580fcb8932"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "yale-cas",
+  "name": "Yale CAS License",
+  "short_name": "Yale CAS License",
+  "spdx_license_key": "LicenseRef-scancode-yale-cas",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/apereo/cas/blob/6e29bc0001e3c304375efc5f8cbb04918d8f8691/docs/cas-server-documentation/protocol/CAS-Protocol-V2-Specification.md#appendix-d-cas-license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f6b1b503399d5e6add30a82d237cad67fb68298f205169a76f97d25d0f1f7a7a"
+  }
+}

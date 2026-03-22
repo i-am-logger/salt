@@ -1,0 +1,32 @@
+{
+  "key": "ms-rndis",
+  "name": "Remote Network Driver Interface Specification (RNDIS) Protocol",
+  "short_name": "MS-RNDIS",
+  "spdx_license_key": "LicenseRef-scancode-ms-rndis",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/WinArchive/%255BMS-RNDIS%255D.pdf&ved=2ahUKEwj7tLeb1K6IAxVLGDQIHT04EPcQFnoECBQQAQ&usg=AOvVaw1MW_JFPyy4nCIfftPqsKC_"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "72897f018551d877084d717a47e17bfc1b783cd1c6d4af19d0d302f78ea624a0"
+  }
+}

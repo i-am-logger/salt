@@ -1,0 +1,37 @@
+{
+  "key": "gfdl-1.1",
+  "name": "GNU Free Documentation License v1.1",
+  "short_name": "GFDL 1.1",
+  "spdx_license_key": "GFDL-1.1-only",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
+  "text_urls": [
+    "http://www.gnu.org/licenses/fdl-1.1.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "22e43264aac0c5e8a484361e969bc23a7c7e63c786105ea714c07c3e1a9be41f"
+  }
+}

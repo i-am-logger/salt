@@ -1,0 +1,30 @@
+{
+  "key": "imagen",
+  "name": "IMAGEN License",
+  "short_name": "IMAGEN License",
+  "spdx_license_key": "LicenseRef-scancode-imagen",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bdea5fe950a247761d689bfcdf50160434c857bb27a68e596f780d3723b08b12"
+  }
+}

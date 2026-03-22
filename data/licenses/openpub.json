@@ -1,0 +1,31 @@
+{
+  "key": "openpub",
+  "name": "Open Publication License v1.0",
+  "short_name": "Open Publication License 1.0",
+  "spdx_license_key": "OPUBL-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://opencontent.org/openpub/",
+  "text_urls": [
+    "https://opencontent.org/openpub/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "75ae4e3e1dde2ccf305b12e4f7439ff225b846b3ddd749692cad0979fb8ae919"
+  }
+}

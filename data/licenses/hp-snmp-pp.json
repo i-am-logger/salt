@@ -1,0 +1,29 @@
+{
+  "key": "hp-snmp-pp",
+  "name": "SNMP++ License",
+  "short_name": "SNMP++ License",
+  "spdx_license_key": "LicenseRef-scancode-hp-snmp-pp",
+  "category": "Permissive",
+  "homepage_url": "https://www.agentpp.com/licenses/SNMP_PP_LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "70640eaed309890f401fc0a5dddd5655e47ad3c68140c8d2383d1c90cf21eabf"
+  }
+}

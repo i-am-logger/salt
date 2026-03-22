@@ -1,0 +1,26 @@
+{
+  "key": "ms-pre-release-sla-2023",
+  "name": "Microsoft Pre-Release Software License Terms 2023",
+  "short_name": "MS Pre-Release SLA 2023",
+  "spdx_license_key": "LicenseRef-scancode-ms-pre-release-sla-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://code.visualstudio.com/preview-license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "42673b49a114373e493fb8e8a4ea29b221c54a026cb2b5e03116b238dd78116c"
+  }
+}

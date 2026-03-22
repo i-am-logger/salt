@@ -1,0 +1,40 @@
+{
+  "key": "ocsl-1.0",
+  "name": "Oracle Community Source License v1.0",
+  "short_name": "OCSL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-ocsl-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://oss.oracle.com/licenses/OCSL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b4f0562fb41ecf7ec91b04ea512c687bf204a5b38c27bf7c4c09ec31b619a522"
+  }
+}

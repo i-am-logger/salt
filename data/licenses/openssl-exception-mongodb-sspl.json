@@ -1,0 +1,36 @@
+{
+  "key": "openssl-exception-mongodb-sspl",
+  "name": "OpenSSL exception to the Server Side Public License",
+  "short_name": "OpenSSL exception to SSPL",
+  "spdx_license_key": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "07ff438928187ccdaa8e6dc826b54a65c0d95f5cf577e47ba79b354f3e2dbd8c"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sparky",
+  "name": "Sparky License",
+  "short_name": "Sparky License",
+  "spdx_license_key": "LicenseRef-scancode-sparky",
+  "category": "Permissive",
+  "homepage_url": "http://www.cgl.ucsf.edu/home/sparky/",
+  "text_urls": [
+    "http://www.cgl.ucsf.edu/home/sparky/sparky-license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f0f9350651ff3c1f5c8877c11a30fdf999db71d57cc69d4e6a3b75fd13eda771"
+  }
+}

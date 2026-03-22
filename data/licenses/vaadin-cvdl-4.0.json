@@ -1,0 +1,26 @@
+{
+  "key": "vaadin-cvdl-4.0",
+  "name": "Commercial Vaadin Developer License 4.0",
+  "short_name": "Commercial Vaadin Developer License 4.0",
+  "spdx_license_key": "LicenseRef-scancode-vaadin-cvdl-4.0",
+  "category": "Commercial",
+  "homepage_url": "https://vaadin.com/license/cvdl-4.0",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "666da71d1a6f73c24cfe981dd348145e12460eba57970f34a6cb5a4e23318eb8"
+  }
+}

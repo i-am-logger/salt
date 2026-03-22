@@ -1,0 +1,29 @@
+{
+  "key": "unixcrypt",
+  "name": "UnixCrypt License",
+  "short_name": "UnixCrypt License",
+  "spdx_license_key": "UnixCrypt",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d655f0d65a334f2bec9dc7209c6130c08e2902e8cfe8e5d53043eeeedf0c2aea"
+  }
+}

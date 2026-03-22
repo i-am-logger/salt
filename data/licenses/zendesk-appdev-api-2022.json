@@ -1,0 +1,26 @@
+{
+  "key": "zendesk-appdev-api-2022",
+  "name": "Zendesk Application Developer and API Agreement 2022",
+  "short_name": "Zendesk AppDev API Agreement 2022",
+  "spdx_license_key": "LicenseRef-scancode-zendesk-appdev-api-2022",
+  "category": "Commercial",
+  "homepage_url": "https://www.zendesk.co.uk/company/agreements-and-terms/application-developer-api-license-agreement/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fe1652c131d0bca8d96880ac7f280ea0c02ac09c14bb4f92370da4a39fa0056c"
+  }
+}

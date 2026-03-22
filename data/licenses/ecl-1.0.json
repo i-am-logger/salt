@@ -1,0 +1,31 @@
+{
+  "key": "ecl-1.0",
+  "name": "Educational Community License 1.0",
+  "short_name": "ECL 1.0",
+  "spdx_license_key": "ECL-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.org/licenses/ecl1.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/ecl1.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ed5898eb46bb2a10f2984c01e9f7a1385cb79a764b59d175eb267e82f5c7392"
+  }
+}

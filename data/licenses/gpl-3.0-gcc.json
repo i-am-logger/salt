@@ -1,0 +1,38 @@
+{
+  "key": "gpl-3.0-gcc",
+  "name": "GPL 3.0 with GCC runtime library exception",
+  "short_name": "GPL 3.0 with GCC runtime library exception",
+  "spdx_license_key": "GPL-3.0-with-GCC-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/gcc-exception-3.1.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/gcc-exception-3.1.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c17ee6553e7423db4e9a86869b03c989a9f1d7020c8ba3309b38f09736509b75"
+  }
+}

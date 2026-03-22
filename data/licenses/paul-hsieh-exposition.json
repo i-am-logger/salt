@@ -1,0 +1,30 @@
+{
+  "key": "paul-hsieh-exposition",
+  "name": "Paul Hsieh Exposition License",
+  "short_name": "Paul Hsieh Exposition License",
+  "spdx_license_key": "LicenseRef-scancode-paul-hsieh-exposition",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.azillionmonkeys.com/qed/weblicense.html",
+  "text_urls": [
+    "http://www.azillionmonkeys.com/qed/weblicense.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "87cd9710f99e534af245e58d33b889ef86963a3a95e39cfbf1a41c086f6ee130"
+  }
+}

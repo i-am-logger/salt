@@ -1,0 +1,29 @@
+{
+  "key": "enisa-legal-notice-2025",
+  "name": "ENISA Legal Notice 2025",
+  "short_name": "ENISA Legal Notice 2025",
+  "spdx_license_key": "LicenseRef-scancode-enisa-legal-notice-2025",
+  "category": "Permissive",
+  "homepage_url": "https://www.enisa.europa.eu/about-enisa/legal-notice",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "413041c15c87180f3376d034c4c4136630abba1c9d440090b41365f9af6b041b"
+  }
+}

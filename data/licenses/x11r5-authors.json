@@ -1,0 +1,29 @@
+{
+  "key": "x11r5-authors",
+  "name": "X11-R5 Authors",
+  "short_name": "X11-R5 Authors",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c48684f2e6c44a315c552275da2c722bd203949c48af0c3a17ba7ca00bae11a2"
+  }
+}

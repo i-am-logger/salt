@@ -1,0 +1,29 @@
+{
+  "key": "ralink-firmware",
+  "name": "Ralink Firmware License",
+  "short_name": "Ralink Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-ralink-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "http://iotdk.intel.com/repos/3.0/licenses/linux-firmware/LICENCE.ralink-firmware.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0f0a60731f03c706ddaca2635107f85758b8b0e1dea6b3fc5aabcaa35a3d677"
+  }
+}

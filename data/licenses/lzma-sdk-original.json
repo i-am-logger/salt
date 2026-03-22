@@ -1,0 +1,35 @@
+{
+  "key": "lzma-sdk-original",
+  "name": "LZMA SDK Original",
+  "short_name": "LZMA SDK Original",
+  "spdx_license_key": "LicenseRef-scancode-lzma-sdk-original",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.7-zip.org/sdk.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7eca7b37eb600ae59ae165683b8b9c7794f242d42bdd5e198f7c33911a69f198"
+  }
+}

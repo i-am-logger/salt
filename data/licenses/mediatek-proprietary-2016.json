@@ -1,0 +1,25 @@
+{
+  "key": "mediatek-proprietary-2016",
+  "name": "Mediatek Proprietary License 2016",
+  "short_name": "Mediatek Proprietary License 2016",
+  "spdx_license_key": "LicenseRef-scancode-mediatek-proprietary-2016",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/mangOH/MT7697_WiFi_BT_fw/blob/master/inc/task_def.h",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a10f6761df3b0ddf374b0e14b3a0b735705239520c3bb1c0ad34319f0bff353a"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "python-2.0.1",
+  "name": "Python Software Foundation License v2.0.1",
+  "short_name": "Python License 2.0.1",
+  "spdx_license_key": "Python-2.0.1",
+  "category": "Permissive",
+  "homepage_url": "http://docs.python.org/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "521e193c21393831b72162b2cf48ff648068e30d12271e8343610c893cb0ea77"
+  }
+}

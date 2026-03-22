@@ -1,0 +1,26 @@
+{
+  "key": "us-govt-public-domain",
+  "name": "United States Government Public Domain",
+  "short_name": "US Government Public Domain",
+  "spdx_license_key": "LicenseRef-scancode-us-govt-public-domain",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f6c8fc007b0ab8df65695f7e581cc703ca7daf1944a08b134905702dccf79601"
+  }
+}

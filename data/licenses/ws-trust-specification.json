@@ -1,0 +1,30 @@
+{
+  "key": "ws-trust-specification",
+  "name": "WS-Trust Specification",
+  "short_name": "WS-Trust Specification",
+  "spdx_license_key": "LicenseRef-scancode-ws-trust-specification",
+  "category": "Permissive",
+  "homepage_url": "https://en.wikipedia.org/wiki/WS-Trust",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "24a4c59b4c9e85f40c259f970d4a8a709d7889b4e5a00366b809c2f25ac2df9b"
+  }
+}

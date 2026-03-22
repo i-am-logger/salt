@@ -1,0 +1,29 @@
+{
+  "key": "liferay-dxp-eula-2.0.0-2023-06",
+  "name": "Liferay-DXP-EULA-2.0.0-2023-06",
+  "short_name": "Liferay-DXP-EULA-2.0.0-2023-06",
+  "spdx_license_key": "LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/liferay/liferay-portal/blob/master/LICENSES/LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "498584daf4c22478a26c34a71df24171bb6bfd155c4f7c19d57644bb695c7b35"
+  }
+}

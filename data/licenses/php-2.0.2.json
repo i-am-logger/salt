@@ -1,0 +1,30 @@
+{
+  "key": "php-2.0.2",
+  "name": "PHP License 2.0.2",
+  "short_name": "PHP License 2.0.2",
+  "spdx_license_key": "LicenseRef-scancode-php-2.0.2",
+  "category": "Permissive",
+  "homepage_url": "http://www.php.net/license/2_02.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9594fbe629b12a210c954ccea9f05931b0f73d2d52ec73124ead6c50eccc6b75"
+  }
+}

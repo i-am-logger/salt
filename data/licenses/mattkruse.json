@@ -1,0 +1,31 @@
+{
+  "key": "mattkruse",
+  "name": "Matt Kruse License",
+  "short_name": "Matt Kruse License",
+  "spdx_license_key": "LicenseRef-scancode-mattkruse",
+  "category": "Permissive",
+  "homepage_url": "http://www.mattkruse.com/",
+  "text_urls": [
+    "http://www.mattkruse.com/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3cf0bb5101ca1955961ae42d44fac28235434ebbdd29a50f945cf804f483e144"
+  }
+}

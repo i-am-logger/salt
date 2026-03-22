@@ -1,0 +1,33 @@
+{
+  "key": "sgi-glx-1.0",
+  "name": "SGI GLX Public License v1.0",
+  "short_name": "SGI GLX Public License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-sgi-glx-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.sgi.com/products/software/opensource/glx/glxlicense.txt",
+  "text_urls": [
+    "http://velib.kyb.mpg.de/docu/GLX.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "33a6bbb25732e9c813b6d5f4dfb88cb0198f97fec3be65ec64958d413369fe43"
+  }
+}

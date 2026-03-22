@@ -1,0 +1,26 @@
+{
+  "key": "vnc-viewer-ios",
+  "name": "VNCViewer for iOS EULA",
+  "short_name": "VNCViewer iOS EULA",
+  "spdx_license_key": "LicenseRef-scancode-vnc-viewer-ios",
+  "category": "Commercial",
+  "homepage_url": "https://www.realvnc.com/products/ios/licensing.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "60e4493f84963483f080010163af7542a9b7b9c4b26feda6f3cd03de2200b74d"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "brad-martinez-vb-32",
+  "name": "Brad Martinez VB-32 License",
+  "short_name": "Brad Martinez VB-32 License",
+  "spdx_license_key": "LicenseRef-scancode-brad-martinez-vb-32",
+  "category": "Non-Commercial",
+  "homepage_url": "http://btmtz.mvps.org/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "820c5665d56d5da0bb66d8ed7cc281f9cafcbae6817068bf775df6e60f4f0794"
+  }
+}

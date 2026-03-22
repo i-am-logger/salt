@@ -1,0 +1,29 @@
+{
+  "key": "kerberos",
+  "name": "Kerberos License",
+  "short_name": "Kerberos License",
+  "spdx_license_key": "LicenseRef-scancode-kerberos",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8b1aaecf20063d608d676ad13909329249de46e5ce1d92a2b95f476ceef9a910"
+  }
+}

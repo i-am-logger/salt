@@ -1,0 +1,32 @@
+{
+  "key": "x11-doc",
+  "name": "X11 Documentation License",
+  "short_name": "X11 Documentation License",
+  "spdx_license_key": "LicenseRef-scancode-x11-doc",
+  "category": "Permissive",
+  "homepage_url": "https://www.x.org/",
+  "text_urls": [
+    "https://answers.launchpad.net/ubuntu-leb/oneiric/+source/libxext/+copyright",
+    "https://www.x.org/releases/X11R7.7/doc/libXtst/xtestlib.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fadbd236b4ebbb7057c52555c3c15313738f758b7d30fe71ec6984276ac3c25b"
+  }
+}

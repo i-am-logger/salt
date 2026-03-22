@@ -1,0 +1,41 @@
+{
+  "key": "openssl-exception-agpl-3.0-monit",
+  "name": "OpenSSL exception to AGPL 3.0 - Monit style",
+  "short_name": "OpenSSL exception to AGPL 3.0 - Monit style",
+  "spdx_license_key": "LicenseRef-scancode-openssl-exception-agpl3.0monit",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "94d762b0651bc98f0d293bfdcc3e27c3a05c2dbf6c6d435f9c852c57693570ce"
+  }
+}

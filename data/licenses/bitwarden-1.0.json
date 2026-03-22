@@ -1,0 +1,27 @@
+{
+  "key": "bitwarden-1.0",
+  "name": "Bitwarden License Agreement v1",
+  "short_name": "Bitwarden License Agreement v1",
+  "spdx_license_key": "LicenseRef-scancode-bitwarden-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/bitwarden/server/blob/v1.38.1/LICENSE_BITWARDEN.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0338c72e0d1161604715214928659231baa843bd8ac1ae324b2868836e8896e3"
+  }
+}

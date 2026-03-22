@@ -1,0 +1,29 @@
+{
+  "key": "chelsio-linux-firmware",
+  "name": "Chelsio Linux Firmware License",
+  "short_name": "Chelsio Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-chelsio-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENCE.chelsio_firmware",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6976f6cae269fabadb5f443a826a2eed058f0f6b42a5c8b01ddbb5cecdce7fce"
+  }
+}

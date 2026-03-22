@@ -1,0 +1,32 @@
+{
+  "key": "broadcom-unmodified-exception",
+  "name": "Broadcom Unmodified Linking Exception",
+  "short_name": "Broadcom Unmodified Linking Exception",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-unmodified-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3d554663e3284efbcca2f1b313973556296e50aa7eccf700425cd573a719e9dc"
+  }
+}

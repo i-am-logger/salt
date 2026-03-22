@@ -1,0 +1,40 @@
+{
+  "key": "qpl-1.0-inria-2004",
+  "name": "Q Public License 1.0 - INRIA 2004 variant",
+  "short_name": "Q Public License 1.0 - INRIA 2004 variant",
+  "spdx_license_key": "QPL-1.0-INRIA-2004",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/maranget/hevea/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "14c3ce7609687ca6f1394abc379c99dfb46829f983e735ded595e5a0031df8b4"
+  }
+}

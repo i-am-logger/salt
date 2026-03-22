@@ -1,0 +1,25 @@
+{
+  "key": "zhorn-stickies",
+  "name": "Zhorn Stickies License",
+  "short_name": "Zhorn Stickies License",
+  "spdx_license_key": "LicenseRef-scancode-zhorn-stickies",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.zhornsoftware.co.uk/stickies/download.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4346636a5415128ba65fcfeced8f7d110d04538a977f7c60b62f604e706a3b63"
+  }
+}

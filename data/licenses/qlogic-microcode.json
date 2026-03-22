@@ -1,0 +1,29 @@
+{
+  "key": "qlogic-microcode",
+  "name": "QLogic Microcode",
+  "short_name": "QLogic Microcode",
+  "spdx_license_key": "LicenseRef-scancode-qlogic-microcode",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8663a6ccf14ee61e688b0873ae475ae18003173abfba95a59876a5a9598e9672"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "hessla",
+  "name": "Hacktivismo Enhanced-Source Software License Agreement",
+  "short_name": "HESSLA",
+  "spdx_license_key": "LicenseRef-scancode-hessla",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.hacktivismo.com/about/hessla.php",
+  "text_urls": [
+    "https://directory.fsf.org/wiki/License:HESSLA"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6e31a8219167dec70f03bd640a5f4a95a5148ceb8351abf24d3885430ac5eb2b"
+  }
+}

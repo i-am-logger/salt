@@ -1,0 +1,38 @@
+{
+  "key": "msntp",
+  "name": "MSNTP software license",
+  "short_name": "MSNTP License",
+  "spdx_license_key": "LicenseRef-scancode-msntp",
+  "category": "Copyleft",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/MSNTP",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing/MSNTP"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9a411cf14679377aaf8b12acdb1450e204732506b6110a21b447fb05954815e8"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "key": "ms-patent-promise",
+  "name": "Microsoft Patent Promise for .NET Libraries and Runtime Components",
+  "short_name": "MS Patent Promise for .NET",
+  "spdx_license_key": "LicenseRef-scancode-ms-patent-promise",
+  "category": "Patent License",
+  "homepage_url": "https://github.com/dotnet/corefx/blob/master/PATENTS.TXT",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0f45e86cda239ce37cf569b61cc0357297bc0fd5ad8ff6b5a487e30e0c52bc82"
+  }
+}

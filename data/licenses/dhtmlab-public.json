@@ -1,0 +1,29 @@
+{
+  "key": "dhtmlab-public",
+  "name": "Dynamic HTML Lab Public License",
+  "short_name": "dhtmlab Public License",
+  "spdx_license_key": "LicenseRef-scancode-dhtmlab-public",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "da2bc559a590f27567d5e9f2bf35e1a8ed8414af4698ece828189db8c773f00a"
+  }
+}

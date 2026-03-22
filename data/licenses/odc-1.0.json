@@ -1,0 +1,40 @@
+{
+  "key": "odc-1.0",
+  "name": "Open Data Commons Attribution License",
+  "short_name": "ODC-By",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": "https://opendatacommons.org/",
+  "text_urls": [
+    "http://www.opendatacommons.org/licenses/by/1.0/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9d0b3e552999c5a6d2cbdcc94597d1a3bbe8b0d9015163898daa6b5fb8abe769"
+  }
+}

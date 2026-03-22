@@ -1,0 +1,32 @@
+{
+  "key": "stax",
+  "name": "Stax License",
+  "short_name": "Stax License",
+  "spdx_license_key": "LicenseRef-scancode-stax",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.jcp.org/aboutJava/communityprocess/licenses/jsr173/JSR173_Spec_License_Streaming_API_XML-1_3-10_22_13.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4806c438bfa2cd7749df8ba103b71a1c3b44574204617356d7abefa64845cb26"
+  }
+}

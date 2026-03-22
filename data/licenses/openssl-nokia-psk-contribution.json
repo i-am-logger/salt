@@ -1,0 +1,22 @@
+{
+  "key": "openssl-nokia-psk-contribution",
+  "name": "Patent Disclaimer for OpenSSL",
+  "short_name": "Patent Disclaimer for OpenSSL",
+  "spdx_license_key": "LicenseRef-scancode-openssl-nokia-psk-contribution",
+  "category": "Patent License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f531d48513c0aaa4e57efde046655c50c9be08b63b773502c2d38a1e38f8880a"
+  }
+}

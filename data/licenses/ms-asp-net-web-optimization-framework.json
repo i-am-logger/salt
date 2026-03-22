@@ -1,0 +1,29 @@
+{
+  "key": "ms-asp-net-web-optimization-framework",
+  "name": "Microsoft ASP.NET Web Optimization Framework",
+  "short_name": "MS ASP.NET Web Optimization Framework",
+  "spdx_license_key": "LicenseRef-scancode-ms-asp-net-web-optimization",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.microsoft.com/web/webpi/eula/weboptimization_1_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3be64a45fe3cad9337a3c97255ad0972e2cb8fe6ac5e5df789aafb45c38c02ce"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ubc",
+  "name": "University of British Columbia License",
+  "short_name": "University of British Columbia License",
+  "spdx_license_key": "LicenseRef-scancode-ubc",
+  "category": "Permissive",
+  "homepage_url": "https://raw.github.com/orgcandman/esnacc-ng/master/c++-lib/src/asn-len.cpp",
+  "text_urls": [
+    "https://github.com/esnacc/esnacc-ng/blob/55eb00bfb50439620f6fc64b1e8373dd2ad0abb5/cxx-lib/src/asn-len.cpp"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "de557304df9ff1dcf5849dfd087c64c5e5a4200b5a83956dfbf87396231d3d3c"
+  }
+}

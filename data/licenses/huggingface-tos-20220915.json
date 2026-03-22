@@ -1,0 +1,25 @@
+{
+  "key": "huggingface-tos-20220915",
+  "name": "HuggingFace Terms of Service 2022-09-15",
+  "short_name": "HuggingFace TOS 2022-09-15",
+  "spdx_license_key": "LicenseRef-scancode-huggingface-tos-20220915",
+  "category": "Commercial",
+  "homepage_url": "https://huggingface.co/terms-of-service",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "827010b558eaed28a6db09bafc7c491c24c23ee797917525c98af9d56d9b4d9c"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "clear-bsd",
+  "name": "Clear BSD License",
+  "short_name": "Clear BSD License",
+  "spdx_license_key": "BSD-3-Clause-Clear",
+  "category": "Permissive",
+  "homepage_url": "http://labs.metacarta.com/license-explanation.html",
+  "text_urls": [
+    "http://labs.metacarta.com/license-explanation.html#license"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5de92325c17891e7abe62d26403e5913b11ec089eb760353126b3976ba81fc5a"
+  }
+}

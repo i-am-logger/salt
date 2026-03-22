@@ -1,0 +1,32 @@
+{
+  "key": "matt-gallagher-attribution",
+  "name": "Matt Gallagher Attribution License",
+  "short_name": "Matt Gallagher Attribution License",
+  "spdx_license_key": "LicenseRef-scancode-matt-gallagher-attribution",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://gist.github.com/wiliams-xu/508933756ca83c49a865",
+    "https://github.com/DJBen/Werewolves-of-Millers-Hollows-For-Host/blob/master/Werewolf/ReorderingTableView/ATSDragToReorderTableViewController.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1753b799da5cd26727b103a7e5d7b43f5865116fe708a76eca72fd3fe471d157"
+  }
+}

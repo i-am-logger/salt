@@ -1,0 +1,32 @@
+{
+  "key": "cryptoswift",
+  "name": "CryptoSwift License",
+  "short_name": "CryptoSwift License",
+  "spdx_license_key": "CryptoSwift",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/krzyzanowskim/CryptoSwift/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "519ca138414e0748ecc5f9a6441d49102fc53fe59f3e9e28b897ef13c0468705"
+  }
+}

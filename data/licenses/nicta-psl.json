@@ -1,0 +1,31 @@
+{
+  "key": "nicta-psl",
+  "name": "NICTA Public Software Licence 1.0",
+  "short_name": "NICTA Public Software Licence 1.0",
+  "spdx_license_key": "NICTA-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.apple.com/source/mDNSResponder/mDNSResponder-320.10/mDNSPosix/nss_ReadMe.txt",
+  "text_urls": [
+    "http://www.opensource.apple.com/source/mDNSResponder/mDNSResponder-320.10/mDNSPosix/nss_ReadMe.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed8f21f2d89e64b3570e95c05da1e3097528fd0869493e2fa50e828ef9e03c1e"
+  }
+}

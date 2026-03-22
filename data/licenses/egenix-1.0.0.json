@@ -1,0 +1,29 @@
+{
+  "key": "egenix-1.0.0",
+  "name": "eGenix Public License 1.0.0",
+  "short_name": "eGenix Public License 1.0.0",
+  "spdx_license_key": "LicenseRef-scancode-egenix-1.0.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.egenix.com/www2002/python/eGenix-mx-Extensions-v2.x.html/mxLicense.html#Public",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5021aedf2ff2bedcd111300f8e7fafa9cb9e66891ea0818ac2494ebec84a54b2"
+  }
+}

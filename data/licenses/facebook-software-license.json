@@ -1,0 +1,33 @@
+{
+  "key": "facebook-software-license",
+  "name": "Facebook Software License",
+  "short_name": "Facebook Software License",
+  "spdx_license_key": "LicenseRef-scancode-facebook-software-license",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/facebook/facebook-android-sdk/blob/752ea7b77a1779ed8b784dbd55a886cc00aeb8a6/LICENSE.txt",
+    "https://github.com/facebook/facebook-android-sdk/blob/master/LICENSE.txt",
+    "https://github.com/facebook/facebook-ios-sdk/blob/master/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c38c466c33d5a8811bf146d73c53cb45ed9c6f335a6d3d15b83aecd69a9d7cae"
+  }
+}

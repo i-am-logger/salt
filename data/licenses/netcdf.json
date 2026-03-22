@@ -1,0 +1,29 @@
+{
+  "key": "netcdf",
+  "name": "NetCDF License",
+  "short_name": "NetCDF License",
+  "spdx_license_key": "NetCDF",
+  "category": "Permissive",
+  "homepage_url": "http://www.unidata.ucar.edu/software/netcdf/copyright.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "42642ba6d229b7b890f7701bd223126c963196ca68c24666496e38c8d22b8a3b"
+  }
+}

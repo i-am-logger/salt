@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-koterov",
+  "name": "GPL 2.0 with Dmitry Koterov additions",
+  "short_name": "GPL 2.0 with Dmitry Koterov additions",
+  "spdx_license_key": "LicenseRef-scancode-gpl-2.0-koterov",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/DmitryKoterov/dklab_realplexor/blob/master/dklab_realplexor.license-additional.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "198ddc04493fa12621506b4aa43d65c78e28861649a3e5c9e08c864d5b2905ce"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-visual-studio-2017",
+  "name": "Microsoft Visual Studio 2017",
+  "short_name": "MS Visual Studio 2017",
+  "spdx_license_key": "LicenseRef-scancode-ms-visual-studio-2017",
+  "category": "Commercial",
+  "homepage_url": "https://visualstudio.microsoft.com/license-terms/mlt687465/",
+  "text_urls": [
+    "See https://visualstudio.microsoft.com/wp-content/uploads/2018/03/VS_2017_ENT_PRO_TRIAL_RTW_ENU_Eula.1033.docx",
+    "https://visualstudio.microsoft.com/wp-content/uploads/2018/03/VS_2017_ENT_PRO_TRIAL_RTW_ENU_Eula.1033.docx"
+  ],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "70c16cfa895a361fbd1e6dec72a6286a574b259eb0644c82e5f6e2693ced341b"
+  }
+}

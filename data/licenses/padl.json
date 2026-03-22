@@ -1,0 +1,29 @@
+{
+  "key": "padl",
+  "name": "PADL License",
+  "short_name": "PADL License",
+  "spdx_license_key": "PADL",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "08d266e5116d05a504b288df273822a99e5e7d681deb175b26ffa26301742d95"
+  }
+}

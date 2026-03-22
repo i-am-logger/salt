@@ -1,0 +1,38 @@
+{
+  "key": "sencha-app-floss-exception",
+  "name": "Sencha Open Source License Exception for Applications",
+  "short_name": "Sencha GPL 3.0 Exception for Applications",
+  "spdx_license_key": "LicenseRef-scancode-sencha-app-floss-exception",
+  "category": "Copyleft",
+  "homepage_url": "http://www.sencha.com/products/floss-exception.php",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f9fac76c911d194d6f7a7e100c43544c77b84210397faeb45d8db2a8343cca0f"
+  }
+}

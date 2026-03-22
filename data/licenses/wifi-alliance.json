@@ -1,0 +1,26 @@
+{
+  "key": "wifi-alliance",
+  "name": "Wi-Fi Alliance License",
+  "short_name": "Wi-Fi Alliance",
+  "spdx_license_key": "LicenseRef-scancode-wifi-alliance",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "53824405435c3a28caa364e688fc0f2f777132f5d12816da121cb21f099cf41b"
+  }
+}

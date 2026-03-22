@@ -1,0 +1,29 @@
+{
+  "key": "philippe-de-muyter",
+  "name": "Philippe De Muyter License",
+  "short_name": "Philippe De Muyter License",
+  "spdx_license_key": "LicenseRef-scancode-philippe-de-muyter",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "77d5c3e31019539cf576a7b401bc5f090a201cc25ec5ca367c2b5dfcc6d1836d"
+  }
+}

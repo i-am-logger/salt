@@ -1,0 +1,40 @@
+{
+  "key": "osl-3.0",
+  "name": "Open Software License 3.0",
+  "short_name": "OSL 3.0",
+  "spdx_license_key": "OSL-3.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.opensource.org/licenses/osl-3.0.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/osl-3.0.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "afa169f8f9118db52b494f2f17224da0cdcb52bc548570589234aa29c1de11d4"
+  }
+}

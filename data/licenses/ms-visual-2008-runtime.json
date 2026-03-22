@@ -1,0 +1,29 @@
+{
+  "key": "ms-visual-2008-runtime",
+  "name": "Microsoft Visual C++ 2008 Runtime Libraries License",
+  "short_name": "MS Visual C++ 2008 Runtime Libraries License",
+  "spdx_license_key": "LicenseRef-scancode-ms-visual-2008-runtime",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ba0af4c4b5b421f29ab22f9dea12c3ecca48934aaf0194b17d1f7657140b044b"
+  }
+}

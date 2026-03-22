@@ -1,0 +1,17 @@
+{
+  "key": "djangosnippets-tos",
+  "name": "Djangosnippets Terms of Service",
+  "short_name": "Djangosnippets TOS",
+  "spdx_license_key": "LicenseRef-scancode-djangosnippets-tos",
+  "category": "CLA",
+  "homepage_url": "https://djangosnippets.org/about/tos/",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e46a6a601811357ab92bf00ababb2adc69b851dde26847fb796ae104e72e8295"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "keep-ee-2024",
+  "name": "The Keep Enterprise Edition (EE) license (the Enterprise License)",
+  "short_name": "Keep Enterprise Edition (EE)",
+  "spdx_license_key": "LicenseRef-scancode-keep-ee-2024",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/keephq/keep/blob/main/ee/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "23b81ed049bec8f80e36f79cf007e25e2154158b95b16cf167b377705a1b04fb"
+  }
+}

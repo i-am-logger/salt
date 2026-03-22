@@ -1,0 +1,38 @@
+{
+  "key": "ca-tosl-1.1",
+  "name": "Computer Associates Trusted Open Source License 1.1",
+  "short_name": "CA Trusted Open Source License 1.1",
+  "spdx_license_key": "CATOSL-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.opensource.org/licenses/ca-tosl1.1.php",
+  "text_urls": [
+    "http://www.opensource.org/licenses/ca-tosl1.1.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7db4433314433bc95b3112497dfab61009ca60966aa43e04abab12c8611674e1"
+  }
+}

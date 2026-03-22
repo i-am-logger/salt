@@ -1,0 +1,30 @@
+{
+  "key": "woodruff-2002",
+  "name": "Woodruff Restricted MIT 2002",
+  "short_name": "Woodruff Restricted MIT 2002",
+  "spdx_license_key": "LicenseRef-scancode-woodruff-2002",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/woodruffw/ff2mpv/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d13f2ed30a8849aabf0bde16cc53561d15f111ec22c1aa682c2c3f2beb164453"
+  }
+}

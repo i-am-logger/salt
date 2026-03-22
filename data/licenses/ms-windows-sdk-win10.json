@@ -1,0 +1,29 @@
+{
+  "key": "ms-windows-sdk-win10",
+  "name": "Microsoft Enterprise Windows Driver Kit License 2021",
+  "short_name": "MS Enterprise Windows Driver Kit 2021",
+  "spdx_license_key": "LicenseRef-scancode-ms-windows-sdk-win10",
+  "category": "Commercial",
+  "homepage_url": "https://docs.microsoft.com/en-us/legal/windows-sdk/license-terms-ewdk",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e97ad1039cf1b26a0c403f75218d2ff54e7ec0d81d93447a48a0faeb426b84ea"
+  }
+}

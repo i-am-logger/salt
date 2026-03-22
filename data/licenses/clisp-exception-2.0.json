@@ -1,0 +1,40 @@
+{
+  "key": "clisp-exception-2.0",
+  "name": "CLISP Exception to GPL 2.0",
+  "short_name": "CLISP Exception to GPL 2.0",
+  "spdx_license_key": "CLISP-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT",
+  "text_urls": [
+    "http://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5cd165bc57a3aa311733f36dd13d32b14409c529c27653ce3e86f251817a41b4"
+  }
+}

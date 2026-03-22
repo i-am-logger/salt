@@ -1,0 +1,29 @@
+{
+  "key": "snprintf",
+  "name": "snprintf License",
+  "short_name": "snprintf License",
+  "spdx_license_key": "snprintf",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "37b9d7977636dda8cfa894dde5c4c607e762fca05fb657d0445e6797d9445d7b"
+  }
+}

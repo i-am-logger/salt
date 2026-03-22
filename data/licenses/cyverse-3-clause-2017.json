@@ -1,0 +1,29 @@
+{
+  "key": "cyverse-3-clause-2017",
+  "name": "Cyverse 3-Clause License 2017",
+  "short_name": "Cyverse 3-Clause License 2017",
+  "spdx_license_key": "LicenseRef-scancode-cyverse-3-clause-2017",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/cyverse/openstack-ansible-host-prep/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "87a6e4a2863212cea1097403156c30a82e4b22ec21953d17bbb0dfa3f4737be4"
+  }
+}

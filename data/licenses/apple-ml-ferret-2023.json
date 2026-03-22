@@ -1,0 +1,32 @@
+{
+  "key": "apple-ml-ferret-2023",
+  "name": "Apple ML Ferret License 2023",
+  "short_name": "Apple ML Ferret 2023",
+  "spdx_license_key": "LicenseRef-scancode-apple-ml-ferret-2023",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/apple/ml-ferret/blob/main/LICENSE",
+  "text_urls": [
+    "https://raw.githubusercontent.com/apple/ml-ferret/main/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "083575d132f5ab28c812a8de1269d0f92a29551e2ed232c56910258ef1427794"
+  }
+}

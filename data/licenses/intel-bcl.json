@@ -1,0 +1,25 @@
+{
+  "key": "intel-bcl",
+  "name": "Intel Binary Code License",
+  "short_name": "Intel BCL",
+  "spdx_license_key": "LicenseRef-scancode-intel-bcl",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4547aee5d8b9a169ff7ccd0cf6a0f31cb6118d9540993fe394cd95b1532e2b54"
+  }
+}

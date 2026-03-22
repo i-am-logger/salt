@@ -1,0 +1,29 @@
+{
+  "key": "chicken-dl-0.2",
+  "name": "Chicken Dance v0.2",
+  "short_name": "Chicken Dance License v0.2",
+  "spdx_license_key": "LicenseRef-scancode-chicken-dl-0.2",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/supertunaman/cdl/blob/master/COPYING",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ceded5ff36aaa40a2b4316e5358e25eb0c215cbcf1e12cd4118324a491890908"
+  }
+}

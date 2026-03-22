@@ -1,0 +1,35 @@
+{
+  "key": "merit-network-derivative",
+  "name": "Merit Network Derivative Works License",
+  "short_name": "Merit Network Derivative Works License",
+  "spdx_license_key": "LicenseRef-scancode-merit-network-derivative",
+  "category": "Copyleft",
+  "homepage_url": "http://web.mit.edu/kolya/.f/root/athena.mit.edu/net/project/radius/3.6B/src/resources.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "59178483492dc2f4036016763b7431e780d4b7a671c29f6d3d07ec194d6b0ce0"
+  }
+}

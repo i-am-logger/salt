@@ -1,0 +1,40 @@
+{
+  "key": "arphic-public",
+  "name": "Arphic Public License",
+  "short_name": "Arphic Public License",
+  "spdx_license_key": "Arphic-1999",
+  "category": "Copyleft",
+  "homepage_url": "http://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE",
+  "text_urls": [
+    "http://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "497ff36a70ed180e39bb9204d218e5e0b10b2c638a2746e80864bb358e033efa"
+  }
+}

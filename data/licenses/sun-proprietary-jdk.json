@@ -1,0 +1,26 @@
+{
+  "key": "sun-proprietary-jdk",
+  "name": "Sun proprietary notice for Java sources",
+  "short_name": "Sun proprietary notice for Java sources",
+  "spdx_license_key": "",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6b1d81b70b9bcb8009e6235e377981f38e0cef6037486579f6c4dcefd7255da5"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "osc-1.0",
+  "name": "OSC License 1.0",
+  "short_name": "OSC License 1.0",
+  "spdx_license_key": "OSC-1.0",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3d8fe589e1497d9e53a9d6fdd51c33df43156b3f2ff6995b6a6fd1d9427be16e"
+  }
+}

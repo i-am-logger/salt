@@ -1,0 +1,40 @@
+{
+  "key": "cc-by-nc-sa-4.0",
+  "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License",
+  "short_name": "CC-BY-NC-SA-4.0",
+  "spdx_license_key": "CC-BY-NC-SA-4.0",
+  "category": "Non-Commercial",
+  "homepage_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "267575c0c7cd3833c74bc85ed154a7271870c0deed7afa66866888c0122b6b8c"
+  }
+}

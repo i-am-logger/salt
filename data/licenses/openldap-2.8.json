@@ -1,0 +1,31 @@
+{
+  "key": "openldap-2.8",
+  "name": "OpenLDAP Public License 2.8",
+  "short_name": "OpenLDAP Public License 2.8",
+  "spdx_license_key": "OLDAP-2.8",
+  "category": "Permissive",
+  "homepage_url": "http://www.openldap.org/software/release/license.html",
+  "text_urls": [
+    "http://www.openldap.org/software/release/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "40f22585ec5bd2f16d504fd7b027810c2f1f855f4e57d0f4a5d9f10e580d949d"
+  }
+}

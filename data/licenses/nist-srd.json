@@ -1,0 +1,29 @@
+{
+  "key": "nist-srd",
+  "name": "NIST Standard Reference Data License",
+  "short_name": "NIST SRD License",
+  "spdx_license_key": "LicenseRef-scancode-nist-srd",
+  "category": "Permissive",
+  "homepage_url": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications#srd",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3d4ea932f30e9381e87a41e00c3d9c83c1ffc13f4c01b5cd8b2205429ebcdcfb"
+  }
+}

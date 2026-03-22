@@ -1,0 +1,30 @@
+{
+  "key": "bsd-axis-nomod",
+  "name": "BSD-Axis without modification",
+  "short_name": "BSD-Axis without modification",
+  "spdx_license_key": "LicenseRef-scancode-bsd-axis-nomod",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8aa9c8c38acc9e20a2c22fe1507fdb247d782f060097362fc13cc865eafa3864"
+  }
+}

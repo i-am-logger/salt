@@ -1,0 +1,17 @@
+{
+  "key": "generic-exception",
+  "name": "Generic Exception Notice",
+  "short_name": "Generic Exception Notice",
+  "spdx_license_key": "LicenseRef-scancode-generic-exception",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7fb6efc0f7a66f80c3b0e561973f239397790139ae2e2ba5dd1a4ab81cee2be5"
+  }
+}

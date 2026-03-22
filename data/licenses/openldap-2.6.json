@@ -1,0 +1,31 @@
+{
+  "key": "openldap-2.6",
+  "name": "OpenLDAP Public License 2.6",
+  "short_name": "OpenLDAP Public License 2.6",
+  "spdx_license_key": "OLDAP-2.6",
+  "category": "Permissive",
+  "homepage_url": "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=1cae062821881f41b73012ba816434897abf4205",
+  "text_urls": [
+    "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=1cae062821881f41b73012ba816434897abf4205"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "40bf6779842494b75f87b2a1e31bd82bc6e9b15393744370225a1590d93bdc0f"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "gpl-generic-additional-terms",
+  "name": "GPL Generic Additional Terms",
+  "short_name": "GPL Generic Additional Terms",
+  "spdx_license_key": "LicenseRef-scancode-gpl-generic-additional-terms",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fe64f1e656b181622f62689f3f6254c32920b2029c93713b34165145739a748a"
+  }
+}

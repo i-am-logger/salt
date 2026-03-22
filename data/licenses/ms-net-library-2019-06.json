@@ -1,0 +1,29 @@
+{
+  "key": "ms-net-library-2019-06",
+  "name": "Microsoft .NET Library License 2019-06",
+  "short_name": "MS .NET Library License 2019-06",
+  "spdx_license_key": "LicenseRef-scancode-ms-net-library-2019-06",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.microsoft.com/en-us/web/webpi/eula/net_library_eula_ENU.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fc7c29fcc080dc350cfc41706398427e1cf8b1377b46ec92260f03e464210e10"
+  }
+}

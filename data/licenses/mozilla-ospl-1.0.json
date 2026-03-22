@@ -1,0 +1,25 @@
+{
+  "key": "mozilla-ospl-1.0",
+  "name": "Mozilla Open Software Patent License Agreement v1",
+  "short_name": "Mozilla Open Software Patent License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-mozilla-ospl-1.0",
+  "category": "Patent License",
+  "homepage_url": "https://www.mozilla.org/en-US/about/patents/license/",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ec497d2aabba170a49b57cffdbca9fd9ab5d64c09c6bd209b6bb4271fb8fcfcb"
+  }
+}

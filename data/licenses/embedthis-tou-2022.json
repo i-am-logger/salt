@@ -1,0 +1,26 @@
+{
+  "key": "embedthis-tou-2022",
+  "name": "EmbedThis Terms of Use 2022",
+  "short_name": "EmbedThis TOU 2022",
+  "spdx_license_key": "LicenseRef-scancode-embedthis-tou-2022",
+  "category": "Commercial",
+  "homepage_url": "https://www.embedthis.com/about/terms.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ceeb37da4a9884953a6101f9d452d9976578cb6a7d0a314fa3ea9f3444fc8bb"
+  }
+}

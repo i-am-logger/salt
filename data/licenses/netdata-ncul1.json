@@ -1,0 +1,25 @@
+{
+  "key": "netdata-ncul1",
+  "name": "Netdata Cloud UI License v1.0 (NCUL1)",
+  "short_name": "Netdata Cloud UI License v1.0 (NCUL1)",
+  "spdx_license_key": "LicenseRef-scancode-netdata-ncul1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/netdata/netdata/blob/master/web/gui/v2/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a49b9ee4de1948798cc62ec749203d60b70a3016be4dd46030916e929607b4a5"
+  }
+}

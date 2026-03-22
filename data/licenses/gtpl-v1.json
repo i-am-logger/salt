@@ -1,0 +1,29 @@
+{
+  "key": "gtpl-v1",
+  "name": "Globus Toolkit Public License (GTPL) v1",
+  "short_name": "GTPL-v1",
+  "spdx_license_key": "LicenseRef-scancode-gtpl-v1",
+  "category": "Permissive",
+  "homepage_url": "https://web.archive.org/web/20021213102637/http://www.globus.org/toolkit/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a89a445dc11737bc62bb8ffef0d13c802de7bfddf38273a470280bc5fc7e4617"
+  }
+}

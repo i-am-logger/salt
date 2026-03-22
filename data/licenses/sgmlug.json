@@ -1,0 +1,25 @@
+{
+  "key": "sgmlug",
+  "name": "SGMLUG",
+  "short_name": "SGMLUG",
+  "spdx_license_key": "SGMLUG-PM",
+  "category": "Permissive",
+  "homepage_url": "https://gitweb.gentoo.org/repo/gentoo.git/tree/licenses/SGMLUG?id=7d999af4a47bf55e53e54713d98d145f935935c1",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7c071b4e3ea04ab1699c61a67a545fee884dfc8b7170d6f49f78355c6329d2cd"
+  }
+}

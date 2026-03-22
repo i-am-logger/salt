@@ -1,0 +1,36 @@
+{
+  "key": "artistic-2.0",
+  "name": "Artistic License 2.0",
+  "short_name": "Artistic 2.0",
+  "spdx_license_key": "Artistic-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.perlfoundation.org/",
+  "text_urls": [
+    "https://www.perlfoundation.org/artistic_license_2_0",
+    "https://www.perlfoundation.org/attachment/legal/artistic-2_0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "829bd3dd486b7b55882eea39498078753186c0b87d230be8d2430632c1ec2a51"
+  }
+}

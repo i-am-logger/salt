@@ -1,0 +1,26 @@
+{
+  "key": "tanuki-maintenance",
+  "name": "Tanuki Maintenance Support Services Addendum 1.3",
+  "short_name": "Tanuki Maintenance Addendum 1.3",
+  "spdx_license_key": "LicenseRef-scancode-tanuki-maintenance",
+  "category": "Commercial",
+  "homepage_url": "https://wrapper.tanukisoftware.com/doc/english/licenseDevelopment.html#maintenance",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0fca3f941351508ebad94971f7933a3d8928d88797146eb44ab776b47c23e31c"
+  }
+}

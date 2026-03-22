@@ -1,0 +1,33 @@
+{
+  "key": "xmos-public-1",
+  "name": "XMOS Public Licence v1",
+  "short_name": "XMOS Public Licence v1",
+  "spdx_license_key": "LicenseRef-scancode-xmos-public-1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/xmos/lib_mic_array/blob/develop/LICENSE.rst",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0a43c275a8f97af10afa3458c9499169e0a6fbe7638117ee7d5e814837328a3e"
+  }
+}

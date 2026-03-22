@@ -1,0 +1,31 @@
+{
+  "key": "root-cert-3.0",
+  "name": "Root Certificate License Agreement v3.0",
+  "short_name": "Root Certificate License Agreement v3.0",
+  "spdx_license_key": "LicenseRef-scancode-root-cert-3.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/newrelic/node-newrelic/blob/main/THIRD_PARTY_NOTICES_ADDENDUM.md",
+  "text_urls": [
+    "https://docs.broadcom.com/doc/root-certificate-license-agreement-en"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4a3db4a7ed1772972d3b0c41a8001353c67eb0a67acc2db3c6373a71b5d07aee"
+  }
+}

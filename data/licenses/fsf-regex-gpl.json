@@ -1,0 +1,39 @@
+{
+  "key": "fsf-regex-gpl",
+  "name": "FSF Regex GPL",
+  "short_name": "FSF Regex GPL",
+  "spdx_license_key": "LicenseRef-scancode-fsf-regex-gpl",
+  "category": "Copyleft",
+  "homepage_url": "https://sources.debian.org/src/xxgdb/1.12-9.4potato/regex.h/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "42bea042b5b57b0740332bc1b581ee68e8888d9dffddeec6672e7ac90fe79f1b"
+  }
+}

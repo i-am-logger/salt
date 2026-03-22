@@ -1,0 +1,29 @@
+{
+  "key": "generic-loop",
+  "name": "Common Lisp Generic LOOP License",
+  "short_name": "Common Lisp Generic LOOP License",
+  "spdx_license_key": "LicenseRef-scancode-generic-loop",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bbd18a1058586fc9bc08f28444061f454768d666841a0a5fe7512a9acd8f9abd"
+  }
+}

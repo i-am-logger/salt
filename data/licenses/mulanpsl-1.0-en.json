@@ -1,0 +1,32 @@
+{
+  "key": "mulanpsl-1.0-en",
+  "name": "Mulan Permissive Software License, Version 1 (English)",
+  "short_name": "Mulan PSL v1.0 (En)",
+  "spdx_license_key": "LicenseRef-scancode-mulanpsl-1.0-en",
+  "category": "Permissive",
+  "homepage_url": "https://license.coscl.org.cn/MulanPSL",
+  "text_urls": [
+    "https://license.coscl.org.cn/MulanPSL"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea9bc5a4935f8a320ff88397a0ab5245053f29041d782ebd362265b38a4a1a3c"
+  }
+}

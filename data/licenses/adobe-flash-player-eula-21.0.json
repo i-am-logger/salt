@@ -1,0 +1,25 @@
+{
+  "key": "adobe-flash-player-eula-21.0",
+  "name": "Adobe Flash Player EULA 21.0",
+  "short_name": "Adobe Flash Player EULA 21.0",
+  "spdx_license_key": "LicenseRef-scancode-adobe-flash-player-eula-21.0",
+  "category": "Proprietary Free",
+  "homepage_url": "http://wwwimages.adobe.com/content/dam/acom/en/legal/licenses-terms/pdf/Flash_Player_21_0.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f83b2bd27a01a669168806dab6c8bb7e2ef50a89167e546379d02c590cdef14"
+  }
+}

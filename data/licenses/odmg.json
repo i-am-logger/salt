@@ -1,0 +1,29 @@
+{
+  "key": "odmg",
+  "name": "ODMG License",
+  "short_name": "ODMG License",
+  "spdx_license_key": "LicenseRef-scancode-odmg",
+  "category": "Permissive",
+  "homepage_url": "http://www.odbms.org/odmg-standard/wray-johnson/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d5fe4bff821caa2c8ed695c236a27ff394ebb78d83ffaae05ee282c0ec383f11"
+  }
+}

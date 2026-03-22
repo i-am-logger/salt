@@ -1,0 +1,25 @@
+{
+  "key": "pixabay-content",
+  "name": "Pixabay Content License",
+  "short_name": "Pixabay Content License",
+  "spdx_license_key": "LicenseRef-scancode-pixabay-content",
+  "category": "Free Restricted",
+  "homepage_url": "https://pixabay.com/service/terms/#license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a7b8b7841aaaeb9211fc59dca565eaa291208f7dc2976a932c1a818fba95e2e1"
+  }
+}

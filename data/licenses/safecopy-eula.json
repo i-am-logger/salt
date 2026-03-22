@@ -1,0 +1,25 @@
+{
+  "key": "safecopy-eula",
+  "name": "SafeCopy EULA",
+  "short_name": "SafeCopy EULA",
+  "spdx_license_key": "LicenseRef-scancode-safecopy-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.elwinsoft.com/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "54c4eeb312feb1cd671644bb16eb58fc741e540f7fba80d626bb8d1a6998a0a7"
+  }
+}

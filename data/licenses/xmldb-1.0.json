@@ -1,0 +1,31 @@
+{
+  "key": "xmldb-1.0",
+  "name": "XML:DB Initiative Software License 1.0",
+  "short_name": "XML:DB Initiative Software License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-xmldb-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://xmldb-org.sourceforge.net/index.html",
+  "text_urls": [
+    "http://xmldb-org.sourceforge.net/legal.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8f90abfad46b4995fe034af097042ee0489e44a401a2e8c8abcf4e5300648a15"
+  }
+}

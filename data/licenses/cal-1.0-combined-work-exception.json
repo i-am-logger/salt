@@ -1,0 +1,40 @@
+{
+  "key": "cal-1.0-combined-work-exception",
+  "name": "Cryptographic Autonomy License 1.0 (Combined Work Exception)",
+  "short_name": "CAL-1.0-Combined-Work-Exception",
+  "spdx_license_key": "CAL-1.0-Combined-Work-Exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://opensource.org/licenses/CAL-1.0",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7871d37b8ab744ba5696e47e98c20827f9533f07b630de08a8a31ffeb37ab06a"
+  }
+}

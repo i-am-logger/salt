@@ -1,0 +1,25 @@
+{
+  "key": "gradle-tou-2022-01-13",
+  "name": "Gradle Terms of Use 2022-01-13",
+  "short_name": "Gradle Terms of Use 2022-01-13",
+  "spdx_license_key": "LicenseRef-scancode-gradle-tou-2022-01-13",
+  "category": "Proprietary Free",
+  "homepage_url": "https://gradle.com/legal/terms-of-use/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6cc20981a1dc92ca943e9cba726c89e47f3fa060c3b3244dbfa8b0d3e4814b73"
+  }
+}

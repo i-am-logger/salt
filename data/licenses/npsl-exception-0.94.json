@@ -1,0 +1,43 @@
+{
+  "key": "npsl-exception-0.94",
+  "name": "Nmap NPSL Exception 0.94",
+  "short_name": "Nmap NPSL Exception 0.94",
+  "spdx_license_key": "LicenseRef-scancode-npsl-exception-0.94",
+  "category": "Copyleft",
+  "homepage_url": "https://web.archive.org/web/20211215231956/https://svn.nmap.org/nmap/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fe7f44ede23b38fd6170e6b6d0de35892b182d10936224f3bd5c4e2433a8a5f3"
+  }
+}

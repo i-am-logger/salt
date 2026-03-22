@@ -1,0 +1,29 @@
+{
+  "key": "nxp-mc-firmware",
+  "name": "NXP MC Firmware License",
+  "short_name": "NXP MC Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-nxp-mc-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.nxp_mc_firmware",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "33f9b87c28a6738be58329980f19e7dcecdc47f1b8b897d6a9041c1bc1f057e6"
+  }
+}

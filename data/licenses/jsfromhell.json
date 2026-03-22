@@ -1,0 +1,29 @@
+{
+  "key": "jsfromhell",
+  "name": "JSFromHell License",
+  "short_name": "JSFromHell License",
+  "spdx_license_key": "LicenseRef-scancode-jsfromhell",
+  "category": "Permissive",
+  "homepage_url": "http://jsfromhell.com/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "079fbe8676e34bfbbd723e009618dfefd48d9a1971c99b01d903b812bcee9e78"
+  }
+}

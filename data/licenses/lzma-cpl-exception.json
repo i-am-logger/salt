@@ -1,0 +1,37 @@
+{
+  "key": "lzma-cpl-exception",
+  "name": "LZMA exception to CPL 1.0",
+  "short_name": "LZMA exception to CPL 1.0",
+  "spdx_license_key": "LZMA-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://nsis.sourceforge.net/Docs/AppendixI.html#I.6",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b287ad2562e441b5c1ea9086d2b245c3b91df9b406386a5d5961e797db7ec37c"
+  }
+}

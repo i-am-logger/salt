@@ -1,0 +1,28 @@
+{
+  "key": "cc-devnations-2.0",
+  "name": "Developing Nations 2.0",
+  "short_name": "Developing Nations 2.0",
+  "spdx_license_key": "LicenseRef-scancode-cc-devnations-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://creativecommons.org/licenses/devnations/2.0/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3fd61c2373cd41e2ec5d0c740415b68dfccaab1b3bb6ec85457f7046e1e302f9"
+  }
+}

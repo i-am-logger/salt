@@ -1,0 +1,29 @@
+{
+  "key": "google-playcore-sdk-tos-2020",
+  "name": "Google Play Core Software Development Kit Terms of Service",
+  "short_name": "Google Play Core SDK TOS 2020",
+  "spdx_license_key": "LicenseRef-scancode-google-playcore-sdk-tos-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.android.com/guide/playcore#license",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dac8bd25b1f3e63002ff22094053edfd7bf71af871c8dd0f895f355898077631"
+  }
+}

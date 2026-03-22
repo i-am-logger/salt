@@ -1,0 +1,31 @@
+{
+  "key": "unicode",
+  "name": "Unicode Inc License Agreement",
+  "short_name": "Unicode Inc License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-unicode",
+  "category": "Permissive",
+  "homepage_url": "http://unicode.org/",
+  "text_urls": [
+    "http://unicode.org/copyright.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "654498efa3004a0474d0d30c1a76bc56b66ec81a4ffc6844d8407a9048edabeb"
+  }
+}

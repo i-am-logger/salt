@@ -1,0 +1,30 @@
+{
+  "key": "examdiff",
+  "name": "ExamDiff License",
+  "short_name": "ExamDiff License",
+  "spdx_license_key": "LicenseRef-scancode-examdiff",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.prestosoft.com/edp_examdiff.asp",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed849e73157c5b21ddba4a0f691e1778b72b5e4b7778bb9169cf77d90c58076e"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mit-modern",
+  "name": "MIT Modern Variant",
+  "short_name": "MIT Modern Variant",
+  "spdx_license_key": "MIT-Modern-Variant",
+  "category": "Permissive",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing/MIT",
+  "text_urls": [
+    "http://fedoraproject.org/wiki/Licensing/MIT"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e4373b67b14e42a5962140b5f28c9b28586900c4d0d2b100ba87d95b0503450d"
+  }
+}

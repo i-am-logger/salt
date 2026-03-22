@@ -1,0 +1,29 @@
+{
+  "key": "unpbook",
+  "name": "UNIX Network Programming Book License",
+  "short_name": "UNIX Network Programming Book License",
+  "spdx_license_key": "LicenseRef-scancode-unpbook",
+  "category": "Permissive",
+  "homepage_url": "http://www.unixnetworkprogramming.com/src.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "44bdf7e4e9567d92c9444037d70063348e727a7d13c157671def2dfe95c53af8"
+  }
+}

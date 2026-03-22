@@ -1,0 +1,29 @@
+{
+  "key": "bahyph",
+  "name": "Bahyph License",
+  "short_name": "Bahyph License",
+  "spdx_license_key": "Bahyph",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Bahyph",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b8594d24a287179301516f05a6075fcbed85596c8387066a55f10cc66be4ebe7"
+  }
+}

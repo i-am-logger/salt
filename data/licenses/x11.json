@@ -1,0 +1,31 @@
+{
+  "key": "x11",
+  "name": "X11 License",
+  "short_name": "X11 License",
+  "spdx_license_key": "ICU",
+  "category": "Permissive",
+  "homepage_url": "http://www.xfree86.org/3.3.6/COPYRIGHT2.html",
+  "text_urls": [
+    "http://www.xfree86.org/3.3.6/COPYRIGHT2.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2496c6a7a0d58d86566cfc86d6af966e9e419d40fface82ba51571038d6d58db"
+  }
+}

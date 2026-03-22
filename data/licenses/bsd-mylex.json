@@ -1,0 +1,29 @@
+{
+  "key": "bsd-mylex",
+  "name": "BSD-Mylex",
+  "short_name": "BSD-Mylex",
+  "spdx_license_key": "LicenseRef-scancode-bsd-mylex",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c0f6cb3f07b6adf92c6c633a3d663ec80058958e89baaa83453b87c65ffff35a"
+  }
+}

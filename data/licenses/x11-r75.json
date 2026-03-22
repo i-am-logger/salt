@@ -1,0 +1,29 @@
+{
+  "key": "x11-r75",
+  "name": "X.Org Preferred License",
+  "short_name": "X11-R7.5",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://www.x.org/archive/X11R7.5/doc/LICENSE.html#AEN16",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bb8737d7c09fabbbaee0a98aaae7f0f085d82b4141e39bf5ed51805ee511b144"
+  }
+}

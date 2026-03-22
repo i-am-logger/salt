@@ -1,0 +1,32 @@
+{
+  "key": "jetty",
+  "name": "Jetty License",
+  "short_name": "Jetty License",
+  "spdx_license_key": "LicenseRef-scancode-jetty",
+  "category": "Permissive",
+  "homepage_url": "http://www.tinyos.net/tinyos-1.x/tools/java/jars/JETTY-LICENSE.txt",
+  "text_urls": [
+    "http://svn.apache.org/repos/asf/forrest/trunk/tools/jetty/jetty-4.2.19.jar.license.html",
+    "http://www.tinyos.net/tinyos-1.x/tools/java/jars/JETTY-LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "835d1ad32f7e77e7048a39d281276c8519daaac8b3aeb065c7e68fb3308f7bc0"
+  }
+}

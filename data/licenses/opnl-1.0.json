@@ -1,0 +1,29 @@
+{
+  "key": "opnl-1.0",
+  "name": "Open Innovation License version 1.0",
+  "short_name": "OPNL-1.0",
+  "spdx_license_key": "LicenseRef-scancode-opnl-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/StarkDrones/OPNL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cfd2e2390cdb0be19e4a702ffe2a81377167150a53b8ae07bca2df1ef382451f"
+  }
+}

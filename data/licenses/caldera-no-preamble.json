@@ -1,0 +1,29 @@
+{
+  "key": "caldera-no-preamble",
+  "name": "Caldera License (without preamble)",
+  "short_name": "Caldera License (without preamble)",
+  "spdx_license_key": "Caldera-no-preamble",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8b521b8fce6ee66ed47785bf3cb6ce701685fc86834a99b37ef25c5135a6469d"
+  }
+}

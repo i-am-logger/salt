@@ -1,0 +1,29 @@
+{
+  "key": "carnegie-mellon",
+  "name": "Carnegie Mellon License",
+  "short_name": "Carnegie Mellon License",
+  "spdx_license_key": "LicenseRef-scancode-carnegie-mellon",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a9bb8dc063e3402dfe4cd065b088fed2f7395a7d1d973462e746d84367689242"
+  }
+}

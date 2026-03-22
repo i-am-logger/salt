@@ -1,0 +1,26 @@
+{
+  "key": "ac3filter",
+  "name": "AC3Filter License",
+  "short_name": "AC3Filter License",
+  "spdx_license_key": "LicenseRef-scancode-ac3filter",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.ac3filter.net/wiki/Download_AC3Filter",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "89e5449c95b50963188343f81c4289b9757402469378b09abee29c3f2995927d"
+  }
+}

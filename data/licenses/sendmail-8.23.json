@@ -1,0 +1,36 @@
+{
+  "key": "sendmail-8.23",
+  "name": "Sendmail License 8.23",
+  "short_name": "Sendmail License 8.23",
+  "spdx_license_key": "Sendmail-8.23",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.proofpoint.com/sites/default/files/sendmail-license.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a55d2bd036904f21600245f6f6c2a5af8ee00f0535a575e0709696dc75a71b32"
+  }
+}

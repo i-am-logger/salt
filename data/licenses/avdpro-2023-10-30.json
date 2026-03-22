@@ -1,0 +1,29 @@
+{
+  "key": "avdpro-2023-10-30",
+  "name": "Avdpro License 2023-10-30",
+  "short_name": "Avdpro License 2023-10-30",
+  "spdx_license_key": "LicenseRef-scancode-avdpro-2023-10-30",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/Avdpro/ai2apps/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "12caf7f9d77986ba6cacf6133a04d568875ad08699d69888762b6f60f4362ff2"
+  }
+}

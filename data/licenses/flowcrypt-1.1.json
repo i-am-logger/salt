@@ -1,0 +1,29 @@
+{
+  "key": "flowcrypt-1.1",
+  "name": "FlowCrypt License 1.1",
+  "short_name": "FlowCrypt License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-flowcrypt-1.1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/FlowCrypt/flowcrypt-browser/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8d90804f8401a8d536f69f252859f561ce1801b281b72b867abd43004a213ed9"
+  }
+}

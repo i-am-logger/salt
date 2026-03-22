@@ -1,0 +1,25 @@
+{
+  "key": "lontium-linux-firmware",
+  "name": "Lontium Linux Firmware License",
+  "short_name": "Lontium Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-lontium-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.Lontium",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "40c13432107d3336999e1f293bf1b803e61e4aaacc682e9320878cf90c2abfc4"
+  }
+}

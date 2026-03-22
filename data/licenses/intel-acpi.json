@@ -1,0 +1,29 @@
+{
+  "key": "intel-acpi",
+  "name": "Intel ACPI Software License Agreement",
+  "short_name": "Intel ACPI SLA",
+  "spdx_license_key": "Intel-ACPI",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Intel_ACPI_Software_License_Agreement",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "acf1809c9781a72cbdd9147b28e3e3add9142e580c50dba0f0986a1d0593164f"
+  }
+}

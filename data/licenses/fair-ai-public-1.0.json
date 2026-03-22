@@ -1,0 +1,36 @@
+{
+  "key": "fair-ai-public-1.0",
+  "name": "Fair AI Public License 1.0",
+  "short_name": "Fair AI Public License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-fair-ai-public-1.0",
+  "category": "Copyleft",
+  "homepage_url": "https://freedevproject.org/faipl-1.0.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "69991870ec87d7f1ce01f761b1d594a1da43dd346e97b96e8733b9c8e963697d"
+  }
+}

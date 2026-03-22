@@ -1,0 +1,17 @@
+{
+  "key": "biosl-4.0",
+  "name": "BIOSL v4",
+  "short_name": "BIOSL v4",
+  "spdx_license_key": "LicenseRef-scancode-biosl-4.0",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "26d733f646174752a4de09058a901afbec91b3ec6511aac18fc82268458f8f21"
+  }
+}

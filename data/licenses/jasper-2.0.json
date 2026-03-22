@@ -1,0 +1,30 @@
+{
+  "key": "jasper-2.0",
+  "name": "JasPer License 2.0",
+  "short_name": "JasPer 2.0",
+  "spdx_license_key": "JasPer-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.ece.uvic.ca/~frodo/jasper/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0aa975ca2b908c354807326cfb82b9894a3d3b079d99d5a65b8862f6dc64ce81"
+  }
+}

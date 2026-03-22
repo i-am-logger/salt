@@ -1,0 +1,29 @@
+{
+  "key": "iec-code-components-eula",
+  "name": "IEC Code Components End-user licence agreement",
+  "short_name": "IEC CC EULA",
+  "spdx_license_key": "IEC-Code-Components-EULA",
+  "category": "Permissive",
+  "homepage_url": "https://www.iec.ch/webstore/custserv/pdf/CC-EULA.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6bc5489d2150815fc6e1af5da2df0d8b37b3c0082ceaa8c46863f11d89228615"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "rogue-wave",
+  "name": "Rogue Wave Software License",
+  "short_name": "Rogue Wave Software License",
+  "spdx_license_key": "LicenseRef-scancode-rogue-wave",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a702bd2526878e79f393cd5dd4c3249f1054c04ac2ccfa43ff95468c0af2637b"
+  }
+}

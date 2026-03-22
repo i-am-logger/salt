@@ -1,0 +1,29 @@
+{
+  "key": "rsa-md4",
+  "name": "RSA Data Security MD4",
+  "short_name": "RSA-MD4 License",
+  "spdx_license_key": "LicenseRef-scancode-rsa-md4",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "aa15ac82961578ce9d8c965d257a9a0b05910b59cc2fb17c1842ca8d6a05f529"
+  }
+}

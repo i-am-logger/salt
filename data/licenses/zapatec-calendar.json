@@ -1,0 +1,28 @@
+{
+  "key": "zapatec-calendar",
+  "name": "Zapatec DHTML Javascript Calendar License Agreement",
+  "short_name": "Zapatec Calendar License",
+  "spdx_license_key": "LicenseRef-scancode-zapatec-calendar",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [
+    "http://www.kean.edu/~cpd/calendar/zapatec/zpcal/doc/license.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ddeeaee115f4d08f5eef5c1252c01ee67a2bbf2c681b4e0db8ea71372496b25"
+  }
+}

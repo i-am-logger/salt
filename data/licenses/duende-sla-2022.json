@@ -1,0 +1,25 @@
+{
+  "key": "duende-sla-2022",
+  "name": "Duende SLA 2022",
+  "short_name": "Duende SLA 2022",
+  "spdx_license_key": "LicenseRef-scancode-duende-sla-2022",
+  "category": "Proprietary Free",
+  "homepage_url": "https://duendesoftware.com/license/SoftwareLicense.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "36d3d6a0a4ae68914f8ac3a27a8a07b962e10ee859afd6ff4e51ba6c0dba4961"
+  }
+}

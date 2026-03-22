@@ -1,0 +1,41 @@
+{
+  "key": "dosa-1.0",
+  "name": "Delayed Open Source Attribution License 1.0 (DOSA-1.0)",
+  "short_name": "DOSA-1.0",
+  "spdx_license_key": "LicenseRef-scancode-dosa-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/ChildMindInstitute/DOSA-license/blob/main/DOSA-1.0-license.md",
+  "text_urls": [
+    "https://github.com/ChildMindInstitute/DOSA-license"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2e709942dd881f1b26f897a27cfc0098c77b1a0b676e65f76392b3d56f397bc7"
+  }
+}

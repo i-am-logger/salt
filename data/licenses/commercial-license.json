@@ -1,0 +1,26 @@
+{
+  "key": "commercial-license",
+  "name": "Commercial License",
+  "short_name": "Commercial License",
+  "spdx_license_key": "LicenseRef-scancode-commercial-license",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8565e26c2d8cde74062a2eddfe70bedb7400b01c3fd3031066b064e855c6fcca"
+  }
+}

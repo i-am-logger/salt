@@ -1,0 +1,25 @@
+{
+  "key": "oracle-nftc-2021",
+  "name": "Oracle No-Fee Terms and Conditions (NFTC) 2021",
+  "short_name": "Oracle NFTC 2021",
+  "spdx_license_key": "LicenseRef-scancode-oracle-nftc-2021",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.oracle.com/downloads/licenses/no-fee-license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ad299714d5ff774578252ec53ba953cedb8330860d63cfbd053b26820ca9cbab"
+  }
+}

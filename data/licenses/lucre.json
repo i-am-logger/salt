@@ -1,0 +1,29 @@
+{
+  "key": "lucre",
+  "name": "Lucre License",
+  "short_name": "Lucre License",
+  "spdx_license_key": "LicenseRef-scancode-lucre",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/benlaurie/lucre/blob/master/LICENCE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4cdb283a2d3ea8ded35c5eccc77ebfefcd34cce0fd1b5b5b185862383f3a6e35"
+  }
+}

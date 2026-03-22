@@ -1,0 +1,40 @@
+{
+  "key": "gpl-2.0-uboot",
+  "name": "GPL 2.0 with U-Boot exception",
+  "short_name": "GPL 2.0 with U-Boot exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "55376653a8bf9e8cc8132748b500ddfbf7dec861c4a0434f560b5371b812de3e"
+  }
+}

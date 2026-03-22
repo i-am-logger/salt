@@ -1,0 +1,26 @@
+{
+  "key": "gradle-enterprise-sla-2022-11-08",
+  "name": "Gradle Enterprise Software License Agreement 2022-11-08",
+  "short_name": "Gradle Enterprise SLA 2022-",
+  "spdx_license_key": "LicenseRef-scancode-gradle-enterprise-sla-2022-11-",
+  "category": "Commercial",
+  "homepage_url": "https://gradle.com/legal/gradle-enterprise-software-agreement/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1fa2deb34a14fe83cf3d12bd2af236bfa9714098032fec8bd50d30e03d0a00c0"
+  }
+}

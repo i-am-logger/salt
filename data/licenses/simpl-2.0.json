@@ -1,0 +1,42 @@
+{
+  "key": "simpl-2.0",
+  "name": "Simple Public License Version 2.0",
+  "short_name": "SimPL 2.0",
+  "spdx_license_key": "SimPL-2.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.opensource.org/licenses/simpl-2.0.html",
+  "text_urls": [
+    "Simple Public License"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2c7e2f18657442a5204c63e26915822cec5a054b39d313b17dffbb6008739154"
+  }
+}

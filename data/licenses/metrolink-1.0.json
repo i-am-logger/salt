@@ -1,0 +1,38 @@
+{
+  "key": "metrolink-1.0",
+  "name": "Metro Link Public License 1.0",
+  "short_name": "Metrolink 1.0",
+  "spdx_license_key": "LicenseRef-scancode-metrolink-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://web.archive.org/web/20120411024312/http://www.opengroup.org/openmotif/supporters/metrolink/license.html",
+  "text_urls": [
+    "http://web.archive.org/web/20120411024312/http://www.opengroup.org/openmotif/supporters/metrolink/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5c003e0c0fabd164369ba4d6a565bb7fb2354de5e113f340d51e1ec2bfd48ff5"
+  }
+}

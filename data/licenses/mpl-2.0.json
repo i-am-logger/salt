@@ -1,0 +1,42 @@
+{
+  "key": "mpl-2.0",
+  "name": "Mozilla Public License 2.0",
+  "short_name": "MPL 2.0",
+  "spdx_license_key": "MPL-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://mpl.mozilla.org/2012/01/03/announcing-mpl-2-0/",
+  "text_urls": [
+    "http://www.mozilla.com/MPL/2.0/",
+    "http://www.mozilla.org/MPL/2.0/",
+    "http://www.mozilla.org/MPL/2.0/index.html",
+    "http://www.mozilla.org/MPL/2.0/index.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "48798e50f3bc019ff14d7e3b4f1afdbbc8f7f11c094884bb6c683f6a4e6c2027"
+  }
+}

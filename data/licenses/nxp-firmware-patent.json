@@ -1,0 +1,31 @@
+{
+  "key": "nxp-firmware-patent",
+  "name": "NXP Firmware with Patent License",
+  "short_name": "NXP Firmware with Patent License",
+  "spdx_license_key": "LicenseRef-scancode-nxp-firmware-patent",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.sdma_firmware",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b236f2b6adbe01dd3d3baf03c656e4b50bff32b6feeb435a3ae7f1d2cfe2aa7e"
+  }
+}

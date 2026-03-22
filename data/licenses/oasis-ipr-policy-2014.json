@@ -1,0 +1,31 @@
+{
+  "key": "oasis-ipr-policy-2014",
+  "name": "Oasis IPR Policy License 2014-10-15",
+  "short_name": "Oasis IPR Policy License 2014",
+  "spdx_license_key": "LicenseRef-scancode-oasis-ipr-policy-2014",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.oasis-open.org/policies-guidelines/ipr",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d36ffc2dc6d099897acaef702a40679268753a67c36a1cceacd7cbf49166f734"
+  }
+}

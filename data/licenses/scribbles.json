@@ -1,0 +1,29 @@
+{
+  "key": "scribbles",
+  "name": "Scribbles Demos Recognizer Notice",
+  "short_name": "Scribbles Demos Recognizer Notice",
+  "spdx_license_key": "LicenseRef-scancode-scribbles",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9789f9ee25941622792dfdbb7de3c88f9796f099b633a029552421b45b32eb20"
+  }
+}

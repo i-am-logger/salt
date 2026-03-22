@@ -1,0 +1,25 @@
+{
+  "key": "blessing",
+  "name": "SQLite Blessing",
+  "short_name": "SQLite Blessing",
+  "spdx_license_key": "blessing",
+  "category": "Public Domain",
+  "homepage_url": "https://sqlite.org/src/artifact/df5091916dbb40e6",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9b64ef87276695e894d2b6e86118635050e9673ccbddbe189d18fa288fa0364b"
+  }
+}

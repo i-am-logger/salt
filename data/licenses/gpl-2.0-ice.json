@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-ice",
+  "name": "GPL 2.0 with Ice exception",
+  "short_name": "GPL 2.0 with Ice exception",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/zeroc-ice/ice/blob/master/ICE_LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "199d17d2db8bcb9d2ddc22fc9d187543b907f19210edac5b319086df4b19177d"
+  }
+}

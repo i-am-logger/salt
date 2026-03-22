@@ -1,0 +1,29 @@
+{
+  "key": "bruno-podetti",
+  "name": "Bruno Podetti License",
+  "short_name": "Bruno Podetti License",
+  "spdx_license_key": "LicenseRef-scancode-bruno-podetti",
+  "category": "Permissive",
+  "homepage_url": "http://www.codeproject.com/Articles/2354/Owner-Drawn-Menu-with-Icons-Titles-and-Shading",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "068c31a1c6b5aafd5991b3b7ce7951cf1dc685df5e2eba32345941fe091a7ac3"
+  }
+}

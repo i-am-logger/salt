@@ -1,0 +1,26 @@
+{
+  "key": "isotope-cla",
+  "name": "Isotope Commercial License Agreement",
+  "short_name": "Isotope Commercial License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-isotope-cla",
+  "category": "Commercial",
+  "homepage_url": "http://isotope.metafizzy.co/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f7c3405bb6b0d0a407131bc6d477ca5280406c0a40189c3dd591ae79edf450e1"
+  }
+}

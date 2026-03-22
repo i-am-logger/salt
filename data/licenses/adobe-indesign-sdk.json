@@ -1,0 +1,25 @@
+{
+  "key": "adobe-indesign-sdk",
+  "name": "Adobe SDK License for INDESIGN, INDESIGN SERVER and INCOPY Software",
+  "short_name": "Adobe InDesign SDK License",
+  "spdx_license_key": "LicenseRef-scancode-adobe-indesign-sdk",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.adobe.com/devnet/indesign/sdk/eula_cs55.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e63232a6ff7ae3d6859a6bee9f28e0023e0f97f42b86a4248a766a825404f193"
+  }
+}

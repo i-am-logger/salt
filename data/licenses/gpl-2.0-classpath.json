@@ -1,0 +1,40 @@
+{
+  "key": "gpl-2.0-classpath",
+  "name": "GPL 2.0 with classpath exception",
+  "short_name": "GPL 2.0 with classpath exception",
+  "spdx_license_key": "GPL-2.0-with-classpath-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/software/classpath/",
+  "text_urls": [
+    "http://www.gnu.org/software/classpath/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ea88ddcca6b9aeb8c06e905bb1a6d0a357a5a89cff36d29ab2381e557c0254c"
+  }
+}

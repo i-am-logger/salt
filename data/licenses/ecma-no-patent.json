@@ -1,0 +1,26 @@
+{
+  "key": "ecma-no-patent",
+  "name": "Ecma no patent notice",
+  "short_name": "Ecma no patent notice",
+  "spdx_license_key": "LicenseRef-scancode-ecma-no-patent",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.ecma-international.org/memento/codeofconduct.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e8d955dece12d52358142f6d47b9102c9980dbbca9c0e22e5efe73f82a0c49b1"
+  }
+}

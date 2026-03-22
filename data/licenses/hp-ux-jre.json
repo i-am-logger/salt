@@ -1,0 +1,25 @@
+{
+  "key": "hp-ux-jre",
+  "name": "Hewlett Packard JRE License",
+  "short_name": "HP JRE License",
+  "spdx_license_key": "LicenseRef-scancode-hp-ux-jre",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b35a6944ae363b94cfffaf21df724607d065507a4040f5f7e38d021a4f6b498e"
+  }
+}

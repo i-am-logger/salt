@@ -1,0 +1,43 @@
+{
+  "key": "agpl-3.0-bacula",
+  "name": "AGPL 3.0 with Bacula exception",
+  "short_name": "AGPL 3.0 with Bacula exception",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "84e89dc586145b8a90bb0064d7d4c92c12975abb48e2112c476c08a3519993ea"
+  }
+}

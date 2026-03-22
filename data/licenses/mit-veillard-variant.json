@@ -1,0 +1,31 @@
+{
+  "key": "mit-veillard-variant",
+  "name": "MIT Veillard Variant",
+  "short_name": "MIT Veillard Variant",
+  "spdx_license_key": "ISC-Veillard",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "293ce318acaa4ab002f76dece6f3e7a518c5165ed3c5567175a51958b6937a47"
+  }
+}

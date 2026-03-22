@@ -1,0 +1,31 @@
+{
+  "key": "polyform-small-business-1.0.0",
+  "name": "Polyform Small Business License 1.0.0",
+  "short_name": "Polyform Small Business License 1.0.0",
+  "spdx_license_key": "PolyForm-Small-Business-1.0.0",
+  "category": "Source-available",
+  "homepage_url": "https://polyformproject.org/licenses/small-business/1.0.0/",
+  "text_urls": [
+    "https://polyformproject.org/wp-content/uploads/2019/07/Polyform-Small-Business-1.0.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8213a8f687f3993c744b4dd49fa11a30cbcd5f4e476b0bd82b2e01e121f2e3d1"
+  }
+}

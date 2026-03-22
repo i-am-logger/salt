@@ -1,0 +1,17 @@
+{
+  "key": "w3c-community-cla",
+  "name": "W3C Community Contributor License Agreement (CLA)",
+  "short_name": "W3C Community CLA",
+  "spdx_license_key": "LicenseRef-scancode-w3c-community-cla",
+  "category": "CLA",
+  "homepage_url": "https://www.w3.org/community/about/process/cla/",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "879344464878ee77070636f162e46efefe025108f47ed1c264dfb3d416559540"
+  }
+}

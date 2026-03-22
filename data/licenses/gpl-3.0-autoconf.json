@@ -1,0 +1,41 @@
+{
+  "key": "gpl-3.0-autoconf",
+  "name": "GPL 3.0 with Autoconf exception",
+  "short_name": "GPL 3.0 with Autoconf exception",
+  "spdx_license_key": "GPL-3.0-with-autoconf-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/autoconf-exception-3.0.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/autoconf-exception-3.0.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9d9c3dec0ebec90b6373232a5ac496a7cc16cd53ddeb1cce0680d79d22022ff9"
+  }
+}

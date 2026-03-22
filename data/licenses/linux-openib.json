@@ -1,0 +1,31 @@
+{
+  "key": "linux-openib",
+  "name": "Linux-OpenIB",
+  "short_name": "Linux-OpenIB",
+  "spdx_license_key": "Linux-OpenIB",
+  "category": "Permissive",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/infiniband/core/sa.h",
+  "text_urls": [
+    "https://github.com/ofiwg/libfabric/blob/master/contrib/buildrpm/README"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2cd67f9754ac079f14386918e1bc2831226e621b1c85f1deb341980012ca0a20"
+  }
+}

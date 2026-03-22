@@ -1,0 +1,32 @@
+{
+  "key": "mif-exception",
+  "name": "Macros and Inline Functions Exception to GPL 2.0",
+  "short_name": "Macros and Inline Functions Exception to GPL 2.0",
+  "spdx_license_key": "mif-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://spdx.org/licenses/mif-exception.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "37f6fcb1d7da8bcd4ee0dfe3d09d6fb90f1510e455c5987faa24b4ec664a4412"
+  }
+}

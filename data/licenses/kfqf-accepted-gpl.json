@@ -1,0 +1,38 @@
+{
+  "key": "kfqf-accepted-gpl",
+  "name": "KFQF Accepted GPL",
+  "short_name": "KFQF Accepted GPL",
+  "spdx_license_key": "LicenseRef-scancode-kfqf-accepted-gpl",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/KDE/licensedigger/blob/master/licensetexts/LicenseRef-KFQF-Accepted-GPL.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "46883ae027710d63561a476ce30e40d557277b875968de4a04de042742e86155"
+  }
+}

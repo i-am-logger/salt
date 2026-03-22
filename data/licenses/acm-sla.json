@@ -1,0 +1,30 @@
+{
+  "key": "acm-sla",
+  "name": "ACM Software License Agreement",
+  "short_name": "ACM SLA",
+  "spdx_license_key": "LicenseRef-scancode-acm-sla",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.acm.org/publications/policies/software-copyright-notice",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "26fcd1b69596adcb751589155f424b1f32f2ceb0cfcf368f323c6eac3cde670b"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-doc",
+  "name": "Historical Permission Notice and Disclaimer - documentation variant",
+  "short_name": "Historical documentation variant",
+  "spdx_license_key": "HPND-doc",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9c5bb1b4de1c0ea1247a5c1c7c4a702dab1ddae5d804ed61ded716e1eb7b6a98"
+  }
+}

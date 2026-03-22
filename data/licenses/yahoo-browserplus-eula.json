@@ -1,0 +1,30 @@
+{
+  "key": "yahoo-browserplus-eula",
+  "name": "Yahoo BrowserPlus End User License",
+  "short_name": "Yahoo BrowserPlus EULA",
+  "spdx_license_key": "LicenseRef-scancode-yahoo-browserplus-eula",
+  "category": "Non-Commercial",
+  "homepage_url": "http://info.yahoo.com/legal/us/yahoo/browserplus/browserplus-2122.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3271fe283b1453da87d89d7166ead96d167eacfa9ce5be3e3f2f65982a537d25"
+  }
+}

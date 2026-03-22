@@ -1,0 +1,29 @@
+{
+  "key": "soundex",
+  "name": "Soundex License",
+  "short_name": "Soundex",
+  "spdx_license_key": "Soundex",
+  "category": "Permissive",
+  "homepage_url": "https://metacpan.org/release/RJBS/Text-Soundex-3.05/source/Soundex.pm#L3-11",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "43ef4476416acc0a3347f0abf7044a8cd9bff251732cfa636fe1f0cbb035f24c"
+  }
+}

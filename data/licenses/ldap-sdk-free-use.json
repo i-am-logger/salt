@@ -1,0 +1,30 @@
+{
+  "key": "ldap-sdk-free-use",
+  "name": "UnboundID LDAP SDK Free Use License",
+  "short_name": "UnboundID LDAP SDK Free Use License",
+  "spdx_license_key": "LicenseRef-scancode-ldap-sdk-free-use",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/UnboundID/ldapsdk/blob/master/LICENSE-UnboundID-LDAPSDK.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e55cbd9e1e950a43ed8284ac2bfad0e2191cf721027e4d5e5903569098338c39"
+  }
+}

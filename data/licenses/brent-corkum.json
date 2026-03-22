@@ -1,0 +1,29 @@
+{
+  "key": "brent-corkum",
+  "name": "Brent Corkum License",
+  "short_name": "Brent Corkum License",
+  "spdx_license_key": "LicenseRef-scancode-brent-corkum",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "28d69a4531db22e396ad0f3c28fb86a4717ad96a85983835edbad5bd7e6d589e"
+  }
+}

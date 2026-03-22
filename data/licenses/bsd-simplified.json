@@ -1,0 +1,31 @@
+{
+  "key": "bsd-simplified",
+  "name": "BSD-2-Clause",
+  "short_name": "BSD-2-Clause",
+  "spdx_license_key": "BSD-2-Clause",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.org/licenses/BSD-2-Clause",
+  "text_urls": [
+    "http://opensource.org/licenses/bsd-license.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4ec486d201d9028687b7300ef50c432eef5bd3d05892c07b0e73a6072e58742f"
+  }
+}

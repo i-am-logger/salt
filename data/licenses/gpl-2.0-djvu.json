@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-djvu",
+  "name": "GNU General Public License 2.0 with DjVu Patent Grant",
+  "short_name": "GPL 2.0 with DjVu Patent Grant",
+  "spdx_license_key": "LicenseRef-scancode-gpl-2.0-djvu",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "de7c94ac7d555adf4f969ec66a41f5ff999f35c09367a93e3297b32770ffe147"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "key": "sybase",
+  "name": "Sybase Open Watcom Public License v1.0",
+  "short_name": "Open Watcom 1.0",
+  "spdx_license_key": "Watcom-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "http://opensource.org/licenses/sybase.php",
+  "text_urls": [
+    "http://opensource.org/licenses/sybase.php"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce817dfff7edbc32acd12ad174b659ff2bcae4bbe3e606ca8d82febcca281129"
+  }
+}

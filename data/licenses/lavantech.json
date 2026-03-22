@@ -1,0 +1,28 @@
+{
+  "key": "lavantech",
+  "name": "LavanTech License",
+  "short_name": "LavanTech License",
+  "spdx_license_key": "LicenseRef-scancode-lavantech",
+  "category": "Commercial",
+  "homepage_url": "http://www.lavantech.com/license.shtml",
+  "text_urls": [
+    "http://www.lavantech.com/license.shtml"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "74dcd529aef6b1e45a19338a383a2a28e59258d70bdcbeaf9b1c522d60649de0"
+  }
+}

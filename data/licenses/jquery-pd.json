@@ -1,0 +1,26 @@
+{
+  "key": "jquery-pd",
+  "name": "jQuery Tools Public Domain License",
+  "short_name": "jQuery-Tools-PD",
+  "spdx_license_key": "LicenseRef-scancode-jquery-pd",
+  "category": "Public Domain",
+  "homepage_url": "https://jquerytools.github.io/release-notes/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a9d165f99479db2b74096aa4caa1ad5d277c0b45b1a9a736be9739b3d354c931"
+  }
+}

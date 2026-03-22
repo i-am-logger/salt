@@ -1,0 +1,26 @@
+{
+  "key": "treeware-option-2",
+  "name": "Treeware Option 2",
+  "short_name": "Treeware Option 2",
+  "spdx_license_key": "LicenseRef-scancode-treeware-option-2",
+  "category": "Commercial",
+  "homepage_url": "https://gist.github.com/jamesmills/add9a716c17628494e58f684b2615c66#treeware-option-two",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0fe4e8d26b395108bc620bc6d82c09c23aba8782bfccfbaad18f7e7356bebb12"
+  }
+}

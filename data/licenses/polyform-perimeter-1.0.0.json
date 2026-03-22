@@ -1,0 +1,29 @@
+{
+  "key": "polyform-perimeter-1.0.0",
+  "name": "PolyForm Perimeter License 1.0.0",
+  "short_name": "PolyForm Perimeter License 1.0.0",
+  "spdx_license_key": "LicenseRef-scancode-polyform-perimeter-1.0.0",
+  "category": "Source-available",
+  "homepage_url": "https://polyformproject.org/licenses/perimeter/1.0.0/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3c32502b4629ae3d62bf4de37d21faf6c00e95e0c59eb9c6288a47602458c44d"
+  }
+}

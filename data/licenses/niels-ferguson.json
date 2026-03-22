@@ -1,0 +1,29 @@
+{
+  "key": "niels-ferguson",
+  "name": "Niels Ferguson License",
+  "short_name": "Niels Ferguson License",
+  "spdx_license_key": "LicenseRef-scancode-niels-ferguson",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f0faf45231350f4f513e914a7548293ef8d7dc641bbfd177e62f405f4662380d"
+  }
+}

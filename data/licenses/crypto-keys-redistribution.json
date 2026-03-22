@@ -1,0 +1,40 @@
+{
+  "key": "crypto-keys-redistribution",
+  "name": "Cryptographic keys redistribution",
+  "short_name": "Cryptographic keys redistribution",
+  "spdx_license_key": "LicenseRef-scancode-crypto-keys-redistribution",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [
+    "http://git.savannah.gnu.org/cgit/dmidecode.git/tree/dmidecode.c?id=ee07a1b4249560d620d05194eb8ff61b40d3ce23"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7e935e9c8ff93ee3db620b4e720613c34361fd814af4dc5cb283a041ae2228fd"
+  }
+}

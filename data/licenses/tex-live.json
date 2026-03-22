@@ -1,0 +1,29 @@
+{
+  "key": "tex-live",
+  "name": "TeX Live License",
+  "short_name": "TeX Live License",
+  "spdx_license_key": "LicenseRef-scancode-tex-live",
+  "category": "Permissive",
+  "homepage_url": "ftp://tug.org/historic/systems/texlive/2007/LICENSE.TL",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "25d81cec9dbf3a6fb1b25f807f1df7bd488930ead286b4901e1f66ea8a56d90d"
+  }
+}

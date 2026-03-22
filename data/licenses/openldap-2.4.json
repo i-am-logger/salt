@@ -1,0 +1,31 @@
+{
+  "key": "openldap-2.4",
+  "name": "OpenLDAP Public License 2.4",
+  "short_name": "OpenLDAP Public License 2.4",
+  "spdx_license_key": "OLDAP-2.4",
+  "category": "Permissive",
+  "homepage_url": "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cd1284c4a91a8a380d904eee68d1583f989ed386",
+  "text_urls": [
+    "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cd1284c4a91a8a380d904eee68d1583f989ed386"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b6c1287491d65bde43abc9e0c37652cb226bbed6472eaae13bb963217fb6b316"
+  }
+}

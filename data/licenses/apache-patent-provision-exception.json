@@ -1,0 +1,31 @@
+{
+  "key": "apache-patent-provision-exception",
+  "name": "Apache Patent Provision Exception Deprecated",
+  "short_name": "Apache Patent Provision Exception Deprecated",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/michaelrsweet/mxml/blob/c44aa254ccd90b10b260f04cf9e499bbf971c257/NOTICE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6f8bb10fa48c9f0c4450ae8eee5713af22bddd5f316ddefc95db0497aa77479f"
+  }
+}

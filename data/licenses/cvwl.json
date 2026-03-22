@@ -1,0 +1,25 @@
+{
+  "key": "cvwl",
+  "name": "Collaborative Virtual Workspace License",
+  "short_name": "Collaborative Virtual Workspace License",
+  "spdx_license_key": "LicenseRef-scancode-cvwl",
+  "category": "Proprietary Free",
+  "homepage_url": "https://opensource.org/licenses/mitrepl",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6fb5a6e3885024b9f833c0fdfe05b24c66df5418984d59ce04c4270a5e6d430c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "egrappler",
+  "name": "eGrappler License",
+  "short_name": "eGrappler License",
+  "spdx_license_key": "LicenseRef-scancode-egrappler",
+  "category": "Commercial",
+  "homepage_url": "https://www.egrappler.com/license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9c41808e3ac2039925008c24c72317a300ae202586fdde2e3691b4b6f38dae4d"
+  }
+}

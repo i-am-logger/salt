@@ -1,0 +1,37 @@
+{
+  "key": "ms-office-extensible-file",
+  "name": "Microsoft Office Extensible File License",
+  "short_name": "MS Office Extensible File License",
+  "spdx_license_key": "LicenseRef-scancode-ms-office-extensible-file",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/stephen-hardy/xlsx.js/blob/master/LICENSE.txt",
+    "https://github.com/stephen-hardy/DOCX.js/blob/master/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "96ba26304271f4ebd3c860a151cbaafa10b6ccffa4bea12f2d4c937c6e627126"
+  }
+}

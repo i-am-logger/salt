@@ -1,0 +1,37 @@
+{
+  "key": "wxwindows",
+  "name": "wxWindows Library Licence 3.1",
+  "short_name": "wxWindows Library Licence 3.1",
+  "spdx_license_key": "wxWindows",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.wxwidgets.org/about/newlicen.htm",
+  "text_urls": [
+    "http://www.wxwidgets.org/about/newlicen.htm"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c61ac3f9e855df9d08766b68b210ed76cc7979ce38e6e15e3f47e467e191f022"
+  }
+}

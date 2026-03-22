@@ -1,0 +1,42 @@
+{
+  "key": "nasa-1.3",
+  "name": "NASA Open Source License v1.3",
+  "short_name": "NASA 1.3",
+  "spdx_license_key": "NASA-1.3",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://opensource.arc.nasa.gov/static/html/NASA_Open_Source_Agreement_1.3.txt",
+  "text_urls": [
+    "http://opensource.arc.nasa.gov/static/html/NASA_Open_Source_Agreement_1.3.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f5bc7a0fbb48424c89368ddb53590f358cbba8e484a712d7002c08a8e423c6d7"
+  }
+}

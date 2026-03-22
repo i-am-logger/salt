@@ -1,0 +1,29 @@
+{
+  "key": "x11-realmode",
+  "name": "X11-Style (Realmode)",
+  "short_name": "X11-Style (Realmode)",
+  "spdx_license_key": "LicenseRef-scancode-x11-realmode",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eaf69878254d47547b5ef5d96654cd3c9d94dd10fad7c26ff226b4642c6fc2e3"
+  }
+}

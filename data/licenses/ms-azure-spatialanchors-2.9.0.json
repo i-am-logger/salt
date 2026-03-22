@@ -1,0 +1,29 @@
+{
+  "key": "ms-azure-spatialanchors-2.9.0",
+  "name": "Microsoft Azure Spatial Anchors WinRT 2.9.0",
+  "short_name": "MS Azure Spatial Anchors WinRT 2.9.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-azure-spatialanchors-2.9.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Microsoft.Azure.SpatialAnchors.WinRT/2.9.0/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f659a3f97a803b79eba4443082a2dc2e9c890ec0a8f1ed022d5e4f962ae675b"
+  }
+}

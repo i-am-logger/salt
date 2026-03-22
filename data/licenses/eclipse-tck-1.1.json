@@ -1,0 +1,28 @@
+{
+  "key": "eclipse-tck-1.1",
+  "name": "Eclipse Foundation Technology Compatibility Kit License - v1.1",
+  "short_name": "Eclipse TCK v1.1",
+  "spdx_license_key": "LicenseRef-scancode-eclipse-tck-1.1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.eclipse.org/legal/tck/",
+  "text_urls": [
+    "https://www.eclipse.org/legal/adoc/eftl-1.1.adoc",
+    "https://www.eclipse.org/legal/tck/tck.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ac5a76e1d8a9333e7a1990157ce301586d0acf1b30a8b6a274957b9a3c99faae"
+  }
+}

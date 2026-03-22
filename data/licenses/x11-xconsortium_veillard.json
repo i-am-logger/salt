@@ -1,0 +1,29 @@
+{
+  "key": "x11-xconsortium_veillard",
+  "name": "X11-Style (X Consortium Veillard) - Deprecated",
+  "short_name": "X11-Style (X Consortium Veillard) - Deprecated",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0462d06c4cfcd65fd9556a55293e9c6296bd11e783900aa389d63bfbc41e055e"
+  }
+}

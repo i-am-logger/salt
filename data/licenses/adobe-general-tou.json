@@ -1,0 +1,28 @@
+{
+  "key": "adobe-general-tou",
+  "name": "Adobe General Terms of Use",
+  "short_name": "Adobe General TOU",
+  "spdx_license_key": "LicenseRef-scancode-adobe-general-tou",
+  "category": "Commercial",
+  "homepage_url": "http://www.adobe.com/legal/general-terms.html",
+  "text_urls": [
+    "http://www.adobe.com/legal/general-terms.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f458630e7c15c13436681e909f09f0a5cdf2932900f0c413013d66e48e04b538"
+  }
+}

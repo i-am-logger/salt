@@ -1,0 +1,29 @@
+{
+  "key": "visual-idiot",
+  "name": "Visual Idiot License",
+  "short_name": "Visual Idiot",
+  "spdx_license_key": "LicenseRef-scancode-visual-idiot",
+  "category": "Permissive",
+  "homepage_url": "https://web.archive.org/web/20120502165504/http://licence.visualidiot.com/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3ce35d073283e73b97fd135ba5b3c0901b30d8534f0e311a94dc500348978de3"
+  }
+}

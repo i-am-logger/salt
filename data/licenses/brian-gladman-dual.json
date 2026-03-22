@@ -1,0 +1,31 @@
+{
+  "key": "brian-gladman-dual",
+  "name": "Brian Gladman Dual BSD-GPL",
+  "short_name": "Brian Gladman Dual BSD-GPL",
+  "spdx_license_key": "Brian-Gladman-3-Clause",
+  "category": "Permissive",
+  "homepage_url": "http://www.gladman.me.uk/",
+  "text_urls": [
+    "https://github.com/basho/skerl/blob/master/c_src/brg_types.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d539f351648a74587b642ec0ab706778608de04e2940114427f7845f987acfe7"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "zuora-software",
+  "name": "Zuora Software License",
+  "short_name": "Zuora Software License",
+  "spdx_license_key": "LicenseRef-scancode-zuora-software",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/zuora/rest-java-client/blob/legacy/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0e8f4c46c59080bead0d87cd3836575045fda4b9f7e6a0fcda87961128627b76"
+  }
+}

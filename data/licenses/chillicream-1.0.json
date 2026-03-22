@@ -1,0 +1,32 @@
+{
+  "key": "chillicream-1.0",
+  "name": "ChilliCream License 1.0",
+  "short_name": "ChilliCream License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-chillicream-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://chillicream.com/licensing/chillicream-license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f12100bf04304c1bac2e0eb32eb2f16fda51f2f875c81261b8635992a114a6e3"
+  }
+}

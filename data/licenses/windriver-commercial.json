@@ -1,0 +1,26 @@
+{
+  "key": "windriver-commercial",
+  "name": "Wind River License",
+  "short_name": "Wind River License",
+  "spdx_license_key": "LicenseRef-scancode-windriver-commercial",
+  "category": "Commercial",
+  "homepage_url": "http://www.windriver.com/licensing/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3e804c92cb7742bd39b86059405ad53f62f2ec595c8b240787940071e5ee491c"
+  }
+}

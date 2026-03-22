@@ -1,0 +1,28 @@
+{
+  "key": "sax-pd",
+  "name": "SAX Public Domain Notice",
+  "short_name": "SAX-PD",
+  "spdx_license_key": "SAX-PD",
+  "category": "Public Domain",
+  "homepage_url": "http://www.saxproject.org/copying.html",
+  "text_urls": [
+    "http://www.saxproject.org/copying.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "540846579ee1f27b873ce83380899d0ac21b8c72f175e428df7b212da7f96a25"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "ms-edge-devtools-2022",
+  "name": "Microsoft Edge Developer Tools 2022",
+  "short_name": "MS Edge Developer Tools 2022",
+  "spdx_license_key": "LicenseRef-scancode-ms-edge-devtools-2022",
+  "category": "Proprietary Free",
+  "homepage_url": "https://learn.microsoft.com/en-us/legal/microsoft-edge/microsoft-edge-devtools-license-terms",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3908565eb34b06dbc3c2262899c40a7d34391d57f86b7f729eb2a34205c3c442"
+  }
+}

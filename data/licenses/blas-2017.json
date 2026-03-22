@@ -1,0 +1,31 @@
+{
+  "key": "blas-2017",
+  "name": "BLAS License 2017",
+  "short_name": "BLAS License 2017",
+  "spdx_license_key": "LicenseRef-scancode-blas-2017",
+  "category": "Permissive",
+  "homepage_url": "http://www.netlib.org/blas/#_licensing",
+  "text_urls": [
+    "https://android.googlesource.com/platform/external/cblas/+/master/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "df80a2cc9ae5769346e81af60e4ef9ea23bef412bad05c7010f0a71345a64fb4"
+  }
+}

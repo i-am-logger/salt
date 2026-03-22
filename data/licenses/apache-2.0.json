@@ -1,0 +1,36 @@
+{
+  "key": "apache-2.0",
+  "name": "Apache License 2.0",
+  "short_name": "Apache 2.0",
+  "spdx_license_key": "Apache-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.apache.org/licenses/",
+  "text_urls": [
+    "http://www.apache.org/licenses/LICENSE-2.0"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9e093c2524fe7e93ed4f13323a447c1c0be07366cf91c9f04747b42beac48faf"
+  }
+}

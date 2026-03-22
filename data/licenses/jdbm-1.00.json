@@ -1,0 +1,29 @@
+{
+  "key": "jdbm-1.00",
+  "name": "JDBM License v1.00",
+  "short_name": "JDBM License v1.00",
+  "spdx_license_key": "LicenseRef-scancode-jdbm-1.00",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/joval/jdbm/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a913d5ae26888f5ea1d974465b98e5ef8df8c1dff10cb4bbcacee074979ac730"
+  }
+}

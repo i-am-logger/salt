@@ -1,0 +1,30 @@
+{
+  "key": "adrian",
+  "name": "Andre Adrian DFS license",
+  "short_name": "Andre Adrian DFS license",
+  "spdx_license_key": "LicenseRef-scancode-adrian",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/blob/81c24738d5b62a5f092ce34ea06efab72eefbb9e/src/modules/echo-cancel/adrian-license.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ddca42ef01e5022b5ebd8efaf5f920eb0525b97986c3faaef02f2bb4954e8118"
+  }
+}

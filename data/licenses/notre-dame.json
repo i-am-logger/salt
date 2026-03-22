@@ -1,0 +1,33 @@
+{
+  "key": "notre-dame",
+  "name": "University of Notre Dame License",
+  "short_name": "Notre Dame License",
+  "spdx_license_key": "LicenseRef-scancode-notre-dame",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/RWTH-OS/MP-MPICH/blob/f2ae296477bb9d812fda587221b3419c09f85b4a/MPI-2-C%2B%2B/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b65e6c0f7a54a41b0f74ef5ba67a590635d43e7d299c656c64025839f5e1c17e"
+  }
+}

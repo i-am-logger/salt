@@ -1,0 +1,22 @@
+{
+  "key": "xiph-patent",
+  "name": "Xiph Opus Patent License",
+  "short_name": "Xiph Opus Patent License",
+  "spdx_license_key": "LicenseRef-scancode-xiph-patent",
+  "category": "Patent License",
+  "homepage_url": "https://datatracker.ietf.org/ipr/1524/",
+  "text_urls": [],
+  "grants": [
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "24724274a7907e723b0a52b113e1fed6029d452eb2a9ed8b507f6a9777d8f4e1"
+  }
+}

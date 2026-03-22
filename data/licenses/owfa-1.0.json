@@ -1,0 +1,26 @@
+{
+  "key": "owfa-1.0",
+  "name": "OWFa 1.0 - Patent and Copyright Grants",
+  "short_name": "OWFa 1.0 - Patent and Copyright Grants",
+  "spdx_license_key": "LicenseRef-scancode-owfa-1.0",
+  "category": "Patent License",
+  "homepage_url": "https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owfa-1-0",
+  "text_urls": [
+    "http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owfa-1-0"
+  ],
+  "grants": [
+    "patent-use",
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "db480ef857059589d2e5c00f6af262c149551444e561c0392993a0011c654484"
+  }
+}

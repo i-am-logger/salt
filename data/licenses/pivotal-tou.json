@@ -1,0 +1,26 @@
+{
+  "key": "pivotal-tou",
+  "name": "Pivotal Software Terms of Use",
+  "short_name": "Pivotal Software Terms of Use",
+  "spdx_license_key": "LicenseRef-scancode-pivotal-tou",
+  "category": "Commercial",
+  "homepage_url": "https://pivotal.io/terms-of-use",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "70d7f2c77272afc994bad2325b15b08fc73fc4212e7d72f9f3c464422c56bee0"
+  }
+}

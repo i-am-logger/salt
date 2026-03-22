@@ -1,0 +1,25 @@
+{
+  "key": "oracle-entitlement-05-15",
+  "name": "Oracle Entitlement 5 plus 15",
+  "short_name": "Oracle Entitlement 5 plus 15",
+  "spdx_license_key": "LicenseRef-scancode-oracle-entitlement-05-15",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-eeplat-419426.html#javamail-1.4.4-oth-JPR",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "30d2768ed95aa9855bf287b448d5b1dcca70ad7b229fe5d03fccc9301f17b726"
+  }
+}

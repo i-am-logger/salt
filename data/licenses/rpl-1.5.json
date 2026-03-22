@@ -1,0 +1,45 @@
+{
+  "key": "rpl-1.5",
+  "name": "Reciprocal Public License 1.5",
+  "short_name": "RPL 1.5",
+  "spdx_license_key": "RPL-1.5",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.opensource.org/licenses/rpl1.5.txt",
+  "text_urls": [
+    "http://www.opensource.org/licenses/rpl1.5.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b2ca153919c2a61d00ff2b0ed5e5707c4d0872aa779a85ab5965cc778941d02c"
+  }
+}

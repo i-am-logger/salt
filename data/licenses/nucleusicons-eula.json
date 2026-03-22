@@ -1,0 +1,25 @@
+{
+  "key": "nucleusicons-eula",
+  "name": "NucleusIcons EULA",
+  "short_name": "NucleusIcons EULA",
+  "spdx_license_key": "LicenseRef-scancode-nucleusicons-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://nucleusicons.com/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4871c54060871b0e305467c64448654caea540c02a2f2e9f510f4f2f50441677"
+  }
+}

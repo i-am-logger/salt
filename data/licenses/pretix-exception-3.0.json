@@ -1,0 +1,40 @@
+{
+  "key": "pretix-exception-3.0",
+  "name": "pretix exception to AGPL-3.0",
+  "short_name": "pretix exception to AGPL-3.0",
+  "spdx_license_key": "LicenseRef-scancode-pretix-exception-3.0",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/pretix/pretix/blob/master/LICENSE#L1",
+  "text_urls": [
+    "https://raw.githubusercontent.com/pretix/pretix/refs/heads/master/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "67eee915e09b04dce43a0b87d1b12f75aaf566c9e7571ea608c8aac05ff37946"
+  }
+}

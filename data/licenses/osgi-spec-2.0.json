@@ -1,0 +1,29 @@
+{
+  "key": "osgi-spec-2.0",
+  "name": "OSGi Specification License Version 2.0",
+  "short_name": "OSGi Specification License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-osgi-spec-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.osgi.org/developer/specifications/licensing/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "78236613dc289c61c52cc1c052beac3911d09723e7da13048e614b33fccbe469"
+  }
+}

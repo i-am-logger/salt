@@ -1,0 +1,36 @@
+{
+  "key": "defold-1.0",
+  "name": "Defold License 1.0",
+  "short_name": "Defold License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-defold-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://defold.com/license/",
+  "text_urls": [
+    "https://github.com/defold/defold?tab=License-1-ov-file#readme"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ce3996850e33e2a1dad16a4ab79edf9983d8519565fb4966686833f0fcd847e6"
+  }
+}

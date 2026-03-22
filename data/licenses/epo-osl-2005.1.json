@@ -1,0 +1,40 @@
+{
+  "key": "epo-osl-2005.1",
+  "name": "EPO Open Source Licence No. 2005/1",
+  "short_name": "EPO-OSL",
+  "spdx_license_key": "LicenseRef-scancode-epo-osl-2005.1",
+  "category": "Copyleft",
+  "homepage_url": "http://ephx.sourceforge.net/viewlicence.html",
+  "text_urls": [
+    "http://ephx.sourceforge.net/viewlicence.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "575a3ea94da0f86560d2edcdfbaaa241541748cc2a1f97231ad0764e23276eda"
+  }
+}

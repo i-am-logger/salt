@@ -1,0 +1,36 @@
+{
+  "key": "reactos-exception-gpl-2.0",
+  "name": "ReactOS Exception to GPL 2.0",
+  "short_name": "ReactOS Exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-reactos-exception-gpl-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/reactos/reactos/blob/master/COPYING#L342",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e65a7ac565acf46f618cfe429101e595abcffe80bd07e385aeff161f2b6a8904"
+  }
+}

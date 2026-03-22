@@ -1,0 +1,31 @@
+{
+  "key": "apache-patent-exception",
+  "name": "Apache Patent Provision Exception Terms",
+  "short_name": "Apache Patent Provision Exception Terms",
+  "spdx_license_key": "mxml-exception",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/michaelrsweet/mxml/blob/c44aa254ccd90b10b260f04cf9e499bbf971c257/NOTICE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c3d15af770b0c808502209416977994a096a1838b1ca4aa528c2a859f65a377e"
+  }
+}

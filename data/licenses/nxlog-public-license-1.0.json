@@ -1,0 +1,29 @@
+{
+  "key": "nxlog-public-license-1.0",
+  "name": "NXLOG Public License v1.0",
+  "short_name": "NXLOG Public License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-nxlog-public-license-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://nxlog.co/nxlog-public-license",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "56c636ea39f26e5c3c5a876d1efb2e84180ce59491498436b726b1a26278b6fa"
+  }
+}

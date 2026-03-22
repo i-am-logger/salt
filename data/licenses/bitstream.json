@@ -1,0 +1,30 @@
+{
+  "key": "bitstream",
+  "name": "Bitstream Vera Font License",
+  "short_name": "Bitstream Vera Font License",
+  "spdx_license_key": "Bitstream-Vera",
+  "category": "Permissive",
+  "homepage_url": "http://www.gnome.org/fonts/#Final_Bitstream_Vera_Fonts",
+  "text_urls": [
+    "http://www.gnome.org/fonts/#Final_Bitstream_Vera_Fonts"
+  ],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "87e0c828bf67686421571273500aa3f6f98eaee409f52284c021d1e12717bd14"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "key": "bear-blog-2.0",
+  "name": "Bear Blog License 2.0",
+  "short_name": "Bear Blog License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-bear-blog-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md",
+  "text_urls": [
+    "https://raw.githubusercontent.com/HermanMartinus/bearblog/refs/heads/master/LICENSE.md"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1ddb7f209d2d41b99eb376f064a03c798ef8c6bb85324408a0844650a359df08"
+  }
+}

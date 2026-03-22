@@ -1,0 +1,31 @@
+{
+  "key": "classic-vb",
+  "name": "Classic VB License",
+  "short_name": "Classic VB License",
+  "spdx_license_key": "LicenseRef-scancode-classic-vb",
+  "category": "Permissive",
+  "homepage_url": "http://vb.mvps.org/license.asp",
+  "text_urls": [
+    "http://vb.mvps.org/license.asp"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f10fb9a8dc7b7ba42485c5c7a6b3a16684ace982cef84eea5bd5d1801131bfd5"
+  }
+}

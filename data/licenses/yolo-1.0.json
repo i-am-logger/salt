@@ -1,0 +1,27 @@
+{
+  "key": "yolo-1.0",
+  "name": "YOLO License v1",
+  "short_name": "YOLO License v1",
+  "spdx_license_key": "LicenseRef-scancode-yolo-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/shizukachan/darknet-nnpack/blob/master/LICENSE.v1"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a6646772a666765aa6499faf498826318adb5db1f9b4b59e8517bfec7ae0fccd"
+  }
+}

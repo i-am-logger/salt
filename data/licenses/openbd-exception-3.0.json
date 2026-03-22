@@ -1,0 +1,32 @@
+{
+  "key": "openbd-exception-3.0",
+  "name": "OpenBD exception to GPL 3.0",
+  "short_name": "OpenBD exception to GPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-openbd-exception-3.0",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fd0fc936cf3a0ccbc870ee6e7ef3da524769da1220e68acd65ab1528ab011199"
+  }
+}

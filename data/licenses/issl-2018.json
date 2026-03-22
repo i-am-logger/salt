@@ -1,0 +1,30 @@
+{
+  "key": "issl-2018",
+  "name": "Intel Simplified Software License (Version April 2018)",
+  "short_name": "ISSL 2018",
+  "spdx_license_key": "LicenseRef-scancode-issl-2018",
+  "category": "Free Restricted",
+  "homepage_url": "https://software.intel.com/en-us/license/intel-simplified-software-license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "22fa255c4d8129f0b86a94c78c5b1f53eae2ac08315fbfe5a661e2b714cbd2e8"
+  }
+}

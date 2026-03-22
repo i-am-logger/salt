@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-lmbench",
+  "name": "GPL 2.0 with LMBench exception",
+  "short_name": "GPL 2.0 with LMBench exception",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": "http://lmbench.sourceforge.net/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d34b05356721032f8a86e2a6ddcd0f5b58c58f9808685a20a299488acc87423b"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "unpublished-source",
+  "name": "Unpublished Source License",
+  "short_name": "Unpublished Source License",
+  "spdx_license_key": "LicenseRef-scancode-unpublished-source",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "58c69af1e04bad5bb68eff2ce2cf6a3c9ddc9bce347d96437aa51b7fcb6752a7"
+  }
+}

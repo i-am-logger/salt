@@ -1,0 +1,29 @@
+{
+  "key": "ms-net-library-2016-05",
+  "name": "Microsoft .NET Library License 2016-05",
+  "short_name": "MS .NET Library License 2016-05",
+  "spdx_license_key": "LicenseRef-scancode-ms-net-library-2016-05",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e682e0814dac29a1172035ae289c121807f660995807d18a6d36d6f111efc16f"
+  }
+}

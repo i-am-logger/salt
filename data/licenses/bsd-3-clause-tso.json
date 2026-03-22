@@ -1,0 +1,29 @@
+{
+  "key": "bsd-3-clause-tso",
+  "name": "BSD 3-Clause Tso variant",
+  "short_name": "BSD 3-Clause Tso variant",
+  "spdx_license_key": "BSD-3-Clause-Tso",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "90cbae8d4392ca0f842e8c411dea6fe6e6b7213eb9cab171448ec01e3660d584"
+  }
+}

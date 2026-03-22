@@ -1,0 +1,27 @@
+{
+  "key": "hp-ux-java",
+  "name": "HP-UX 11i Java Technology Software",
+  "short_name": "HP-UX 11i Java Technology Software",
+  "spdx_license_key": "LicenseRef-scancode-hp-ux-java",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.hp.com/products1/unix/java/java2/sdkrte1_3/downloads/license_rte_1-3-1-17_pa-risc.html",
+  "text_urls": [
+    "http://www.hp.com/products1/unix/java/java2/sdkrte1_3/downloads/license_rte_1-3-1-17_pa-risc.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "08879471fb2255ef4e8db4db39a5b991bb617231eac32a65e04b3dc356890a90"
+  }
+}

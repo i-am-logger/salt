@@ -1,0 +1,32 @@
+{
+  "key": "efl-2.0",
+  "name": "Eiffel Forum License 2.0",
+  "short_name": "EFL 2.0",
+  "spdx_license_key": "EFL-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.eiffel-nice.org/license/",
+  "text_urls": [
+    "http://www.eiffel-nice.org/license/eiffel-forum-license-2.txt",
+    "http://www.opensource-definition.org/licenses/ver2_eiffel.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0b174bfb6e1d64544b0a3250af36d81aa5fc4475fb0151095aa10c3cca0b5e1d"
+  }
+}

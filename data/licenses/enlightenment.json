@@ -1,0 +1,31 @@
+{
+  "key": "enlightenment",
+  "name": "Enlightenment (EFL) MIT-Style License",
+  "short_name": "EFL MIT-Style License",
+  "spdx_license_key": "MIT-advertising",
+  "category": "Permissive",
+  "homepage_url": "http://www.enlightenment.org/",
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing/MIT_With_Advertising"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1df40ee12897aa064950d92d1784dfe4c8e1563fe2f239ce1d2375e77261e84f"
+  }
+}

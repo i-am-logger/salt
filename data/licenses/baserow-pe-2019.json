@@ -1,0 +1,26 @@
+{
+  "key": "baserow-pe-2019",
+  "name": "Baserow Premium Edition License (the \"PE License\") 2019",
+  "short_name": "Baserow PE License 2019",
+  "spdx_license_key": "LicenseRef-scancode-baserow-pe-2019",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/bram2w/baserow/blob/master/premium/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9ca0a0cb7ba499d05ae964e829a061b9948238cb50d529fb4b6cdfca79cff81c"
+  }
+}

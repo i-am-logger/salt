@@ -1,0 +1,38 @@
+{
+  "key": "maxmind-geolite2-eula-2019",
+  "name": "MaxMind GeoLite2 End User License Agreement 2019",
+  "short_name": "MaxMind GeoLite2 EULA 2019",
+  "spdx_license_key": "LicenseRef-scancode-maxmind-geolite2-eula-2019",
+  "category": "Copyleft",
+  "homepage_url": "https://www.maxmind.com/en/geolite2/eula",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2b63ce36437ea376ce7cd7e5688bc3160a26a5dce4b7bee4f8359902c38af24f"
+  }
+}

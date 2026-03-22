@@ -1,0 +1,42 @@
+{
+  "key": "nosl-1.0",
+  "name": "Netizen Open Source License 1.0",
+  "short_name": "NOSL 1.0",
+  "spdx_license_key": "NOSL",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://bits.netizen.com.au/licenses/NOSL/",
+  "text_urls": [
+    "http://bits.netizen.com.au/licenses/NOSL/nosl.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3cfc84185add440f98b09796ded699c7e2abdb7d5675978a39ef477ce0afbf88"
+  }
+}

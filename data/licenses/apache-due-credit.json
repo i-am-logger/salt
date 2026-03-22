@@ -1,0 +1,30 @@
+{
+  "key": "apache-due-credit",
+  "name": "Apache Due Credit Variant",
+  "short_name": "Apache Due Credit Variant",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dc3b9d9365909ec4f76cd51d51ebff2b25b91ea41bc67a2b56d5e8934236ab4f"
+  }
+}

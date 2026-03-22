@@ -1,0 +1,33 @@
+{
+  "key": "standard-ml-nj",
+  "name": "Standard ML of New Jersey",
+  "short_name": "Standard ML of New Jersey",
+  "spdx_license_key": "SMLNJ",
+  "category": "Permissive",
+  "homepage_url": "http://www.smlnj.org//license.html",
+  "text_urls": [
+    "http://directory.fsf.org/wiki/License:StandardMLofNJ",
+    "http://www.smlnj.org//license.html",
+    "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Standard_ML_of_New_Jersey_Variant"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2d08c64696ed28b781f6c2d668a795355dedc1cf8bd9a8508c38806ff78032ed"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "tekhvc",
+  "name": "TekHVC License",
+  "short_name": "TekHVC License",
+  "spdx_license_key": "TekHVC",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "98e512ce9b636fff6cd2a85b45ea55b9ecdf993b85b36c20bf3e88d80c36a6c1"
+  }
+}

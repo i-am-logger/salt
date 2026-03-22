@@ -1,0 +1,32 @@
+{
+  "key": "gnuplot",
+  "name": "gnuplot License",
+  "short_name": "gnuplot License",
+  "spdx_license_key": "gnuplot",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Gnuplot?rd=Licensing/Gnuplot",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "aa93ed032a4587d6dab2cfca3543aff34283219815b428753de42c936842ce66"
+  }
+}

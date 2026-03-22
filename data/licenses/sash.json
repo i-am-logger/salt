@@ -1,0 +1,29 @@
+{
+  "key": "sash",
+  "name": "Sash Notice",
+  "short_name": "Sash Notice",
+  "spdx_license_key": "LicenseRef-scancode-sash",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "da10b4efc099219de3e962763c1a18e61c779255300b6bf434183a4b8817792f"
+  }
+}

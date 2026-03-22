@@ -1,0 +1,29 @@
+{
+  "key": "ecma-documentation",
+  "name": "Ecma Documentation License",
+  "short_name": "Ecma Documentation License",
+  "spdx_license_key": "LicenseRef-scancode-ecma-documentation",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.ecma-international.org/publications/DISCLAIMER.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a2a9cdec2e4f82d02c85e81dd62a51d3899547e13ba167dbf925b4250ec5ce6e"
+  }
+}

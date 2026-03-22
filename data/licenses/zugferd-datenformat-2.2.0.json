@@ -1,0 +1,25 @@
+{
+  "key": "zugferd-datenformat-2.2.0",
+  "name": "ZUGFeRD Datenformat Version 2.2.0 14.02.2022",
+  "short_name": "ZUGFeRD Data Format v2.2.0 14.02.2022",
+  "spdx_license_key": "LicenseRef-scancode-zugferd-datenformat-2.2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/ZUGFeRD/corpus/blob/master/XML-Rechnung/CII/EN16931_1_Teilrechnung.cii.xml",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3c5b5a8fbfe06dfb625db2604503d7b80db9099b5b244f6c64aa31230641fa2b"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "jide-sla",
+  "name": "JIDE SLA",
+  "short_name": "JIDE SLA",
+  "spdx_license_key": "LicenseRef-scancode-jide-sla",
+  "category": "Commercial",
+  "homepage_url": "http://www.jidesoft.com/purchase/SLA.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b5a390fd05b53cfb7320fd2e20d3fb16bd95122c57c40883cecb79a26084f5e8"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ocvsal-1.0",
+  "name": "Open Core Ventures Source Available License (OCVSAL) version 1.0",
+  "short_name": "OCVSAL v1.0",
+  "spdx_license_key": "LicenseRef-scancode-ocvsal-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/OpenCoreVentures/open-core-ventures-source-available-license/blob/main/README.md#license-text",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fc73a9c7dc1c8b50d52aa46b1e588835d8294ac859094f4587a3de819a4f72a9"
+  }
+}

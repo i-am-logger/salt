@@ -1,0 +1,33 @@
+{
+  "key": "adi-bsd-2017",
+  "name": "ADI BSD License 2017",
+  "short_name": "ADI BSD 2017",
+  "spdx_license_key": "LicenseRef-scancode-adi-bsd-2017",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/analogdevicesinc/EVAL-ADICUP360/blob/7d76cf79a72e9e6f28345b37f9476a1da2c2d930/projects/ADuCM360_demo_cn0394/include/ADC.h",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed2ef0e119823a813763ad3b6c3d1a6d573f88eaaf04ee0c597c5854aa0114c3"
+  }
+}

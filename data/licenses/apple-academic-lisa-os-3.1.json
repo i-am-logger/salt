@@ -1,0 +1,32 @@
+{
+  "key": "apple-academic-lisa-os-3.1",
+  "name": "Apple Academic License Agreement Lisa OS v3.1",
+  "short_name": "Apple Academic Lisa OS v3.1",
+  "spdx_license_key": "LicenseRef-scancode-apple-academic-lisa-os-3.1",
+  "category": "Non-Commercial",
+  "homepage_url": "https://info.computerhistory.org/apple-lisa-code",
+  "text_urls": [
+    "https://d1yx3ys82bpsa0.cloudfront.net/source/lisa-source.zip"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "98dabb0647c01858e02308eec03276fb5a700f7d2c6a2b9bd364e331d88159d5"
+  }
+}

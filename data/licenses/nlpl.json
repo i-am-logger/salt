@@ -1,0 +1,28 @@
+{
+  "key": "nlpl",
+  "name": "No Limit Public License",
+  "short_name": "NLPL",
+  "spdx_license_key": "NLPL",
+  "category": "Public Domain",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/NLPL",
+  "text_urls": [
+    "http://imapsync.lamiral.info/COPYING",
+    "http://imapsync.lamiral.info/NOLIMIT"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "57a69092a0bcfda4e9651ac70967a4dfccd9ac53735994c304900f8b4aa7d582"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "unknown-license-reference",
+  "name": "Unknown License file reference",
+  "short_name": "Unknown License reference",
+  "spdx_license_key": "LicenseRef-scancode-unknown-license-reference",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "71ae252542b3dcb244ed6a5135e2a4f9e6d43ff021158556ac75beeddd373835"
+  }
+}

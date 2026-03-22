@@ -1,0 +1,30 @@
+{
+  "key": "nvidia-isaac-eula-2019.1",
+  "name": "NVIDIA ISAAC EULA v2019.1",
+  "short_name": "NVIDIA ISAAC EULA v2019.1",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-isaac-eula-2019.1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.nvidia.com/isaac-sdk",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7405d7ba5044e830af947b4a73d19f9438258fc0a7918ef7dacc953b43ec8e72"
+  }
+}

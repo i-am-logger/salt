@@ -1,0 +1,25 @@
+{
+  "key": "whosonfirst-license",
+  "name": "whosonfirst license",
+  "short_name": "whosonfirst license",
+  "spdx_license_key": "LicenseRef-scancode-whosonfirst-license",
+  "category": "Proprietary Free",
+  "homepage_url": "https://whosonfirst.org/docs/licenses/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ab9e12bf6839b119a9855e399aa06fd1e83335ac35c37fad8dcdc67f484aa328"
+  }
+}

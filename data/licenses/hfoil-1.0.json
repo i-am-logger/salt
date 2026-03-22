@@ -1,0 +1,35 @@
+{
+  "key": "hfoil-1.0",
+  "name": "Hugging Face Optimized Inference License 1.0",
+  "short_name": "HFOILv1.0",
+  "spdx_license_key": "LicenseRef-scancode-hfoil-1.0",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/huggingface/text-generation-inference/blob/bde25e62b33b05113519e5dbf75abda06a03328e/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8cc8420124a4cc3048556feb3f08198af007b6f22c2ea3f09aa3c22f6043f4ec"
+  }
+}

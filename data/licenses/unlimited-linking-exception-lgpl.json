@@ -1,0 +1,32 @@
+{
+  "key": "unlimited-linking-exception-lgpl",
+  "name": "Unlimited linking exception to LGPL",
+  "short_name": "Unlimited linking exception to LGPL",
+  "spdx_license_key": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.eglibc.org/cgi-bin/viewvc.cgi/branches/eglibc-2_18/libc/io/stat64.c?revision=23787&view=markup",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea65b16ea189a6868d3e5312254cb2a20b60a1e459dd7c3186ec0607a956a9c7"
+  }
+}

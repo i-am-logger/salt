@@ -1,0 +1,29 @@
+{
+  "key": "ms-windows-sdk-win10-net-6",
+  "name": "Microsoft Windows SDK for Windows 10 and.NET Framework 6",
+  "short_name": "MS Windows SDK Windows10 .NET Framework 6",
+  "spdx_license_key": "LicenseRef-scancode-ms-windows-sdk-win10-net-6",
+  "category": "Proprietary Free",
+  "homepage_url": "https://aka.ms/WinSDKLicenseURL",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bcd21b532947d591f362e91ffcfded131f3e6fc291758d6166d9ef96e750ee9d"
+  }
+}

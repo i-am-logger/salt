@@ -1,0 +1,29 @@
+{
+  "key": "bpmn-io",
+  "name": "bpmn.io License",
+  "short_name": "bpmn.io License",
+  "spdx_license_key": "LicenseRef-scancode-bpmn-io",
+  "category": "Permissive",
+  "homepage_url": "http://bpmn.io/license/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3cb0b01955dca9903b51dc1ae3e393af45cd478879ff2459de7096bcf89f5aee"
+  }
+}

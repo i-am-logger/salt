@@ -1,0 +1,31 @@
+{
+  "key": "ssleay-windows",
+  "name": "Original SSLeay License with Windows Clause",
+  "short_name": "Original SSLeay License with Windows Clause",
+  "spdx_license_key": "SSLeay-standalone",
+  "category": "Permissive",
+  "homepage_url": "https://www.openssl.org/source/license.html",
+  "text_urls": [
+    "http://www.openssl.org/source/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "82c4c11b0422eb4214d62b9ecc93d4c092ed68ee3e7d3294b5e99cd255d50c2d"
+  }
+}

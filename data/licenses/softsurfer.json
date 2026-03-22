@@ -1,0 +1,29 @@
+{
+  "key": "softsurfer",
+  "name": "softSurfer License",
+  "short_name": "softSurfer License",
+  "spdx_license_key": "softSurfer",
+  "category": "Permissive",
+  "homepage_url": "http://geomalgorithms.com/a05-_intersect-1.html#Intersection%20of%202%20Planes",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4613cdfb4db8290d29b67ed3c093bae066c6b469144c3ae3c5d9187c812a5f9f"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "fsl-1.0-apache-2.0",
+  "name": "Functional Source License, Version 1.0, Apache 2.0 Change License",
+  "short_name": "FSL-1.0-Apache-2.0",
+  "spdx_license_key": "LicenseRef-scancode-fsl-1.0-apache-2.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/getsentry/fsl.software/blob/main/FSL-1.0-Apache-2.0.template.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8d404b6ae0e8581b516e07b7f8a7656404ad5fb0ece16514443ce1170b18a706"
+  }
+}

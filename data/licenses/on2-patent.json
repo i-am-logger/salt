@@ -1,0 +1,26 @@
+{
+  "key": "on2-patent",
+  "name": "On2 VP3 Codec Software Patent grant",
+  "short_name": "On2 VP3 Codec Software Patent grant",
+  "spdx_license_key": "LicenseRef-scancode-on2-patent",
+  "category": "Patent License",
+  "homepage_url": "https://github.com/xiph/theora/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "modifications",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f442d34118145f5ce03fec9514c793b96b82253ce91cb0315f712e2fc7c0ba1a"
+  }
+}

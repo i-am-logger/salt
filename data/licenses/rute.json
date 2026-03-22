@@ -1,0 +1,29 @@
+{
+  "key": "rute",
+  "name": "Rute Users Tutorial and Exposition License v0.8.0",
+  "short_name": "Rute Users Tutorial and Exposition License 0.8.0",
+  "spdx_license_key": "LicenseRef-scancode-rute",
+  "category": "Permissive",
+  "homepage_url": "http://rute.sourceforge.net/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "539b1aae79608d8b5804616dc91c77ed47c13a7f4055e6d2892f01de2dd3443f"
+  }
+}

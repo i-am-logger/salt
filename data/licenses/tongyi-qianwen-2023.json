@@ -1,0 +1,33 @@
+{
+  "key": "tongyi-qianwen-2023",
+  "name": "Tongyi Qianwen License Agreement 2023",
+  "short_name": "Tongyi Qianwen License Agreement 2023",
+  "spdx_license_key": "LicenseRef-scancode-tongyi-qianwen-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/Qwen/Qwen2-72B-Instruct/blob/main/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "05b9130f1a8ede7481ab10de88dec8d9a87df9bea99e7d9787dd3bf149dad618"
+  }
+}

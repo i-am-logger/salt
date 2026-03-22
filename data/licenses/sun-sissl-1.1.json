@@ -1,0 +1,38 @@
+{
+  "key": "sun-sissl-1.1",
+  "name": "Sun Industry Standards Source License 1.1",
+  "short_name": "Sun Industry Standards Source License 1.1",
+  "spdx_license_key": "SISSL",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.openoffice.org/licenses/sissl_license.html",
+  "text_urls": [
+    "http://www.openoffice.org/licenses/sissl_license.html"
+  ],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7b668deb4d732ca92e33259a42c647f75b262f309e5f8c5b0e3d57dd7ee297a1"
+  }
+}

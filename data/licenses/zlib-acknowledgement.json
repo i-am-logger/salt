@@ -1,0 +1,32 @@
+{
+  "key": "zlib-acknowledgement",
+  "name": "ZLIB License with Acknowledgment",
+  "short_name": "ZLIB License with Acknowledgment",
+  "spdx_license_key": "zlib-acknowledgement",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:ZlibWithAcknowledgement?rd=Licensing/ZlibWithAcknowledgement",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4b35b4770a317dbb79bb23d4c0112a7107db2c43e0cb1c945b6a9ed0e2622695"
+  }
+}

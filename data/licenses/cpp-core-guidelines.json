@@ -1,0 +1,30 @@
+{
+  "key": "cpp-core-guidelines",
+  "name": "CppCoreGuidelines License",
+  "short_name": "CppCoreGuidelines License",
+  "spdx_license_key": "LicenseRef-scancode-cpp-core-guidelines",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/isocpp/CppCoreGuidelines/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5de51ca6858d9d7c74e9e413b4fb7131da42054a3e2f7a0251e93a9516c3b660"
+  }
+}

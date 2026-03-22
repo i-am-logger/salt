@@ -1,0 +1,26 @@
+{
+  "key": "array-input-method-pl",
+  "name": "Array Input Method Public License",
+  "short_name": "Array Input Method Public License",
+  "spdx_license_key": "LicenseRef-scancode-array-input-method-pl",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Array",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6208d22a2b2ec5919725b4f94f464593e7bf4a31826e2c13116906706473bd7c"
+  }
+}

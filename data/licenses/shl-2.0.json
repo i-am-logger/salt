@@ -1,0 +1,34 @@
+{
+  "key": "shl-2.0",
+  "name": "Solderpad Hardware License v2.0",
+  "short_name": "Solderpad Hardware License v2.0",
+  "spdx_license_key": "SHL-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://solderpad.org/licenses/SHL-2.0/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b2e0e3dea98e335e5b84c06a3082c49fb86dff27354aebf0aae02b1e05274691"
+  }
+}

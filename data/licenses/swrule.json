@@ -1,0 +1,29 @@
+{
+  "key": "swrule",
+  "name": "swrule License",
+  "short_name": "swrule License",
+  "spdx_license_key": "swrule",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2cd2195e8074d74d62fb36b8fbf7af52ade59572e865adccad343fd225531099"
+  }
+}

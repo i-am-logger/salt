@@ -1,0 +1,29 @@
+{
+  "key": "dr-john-maddock",
+  "name": "Dr John Maddock License",
+  "short_name": "Dr John Maddock License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5e58b09f25fef542a38a35022af8aba880a2fd06d60948e4b1294d7f3099c800"
+  }
+}

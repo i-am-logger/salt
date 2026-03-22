@@ -1,0 +1,29 @@
+{
+  "key": "bsd-3-clause-open-mpi",
+  "name": "BSD 3-Clause Open MPI variant",
+  "short_name": "BSD 3-Clause Open MPI variant",
+  "spdx_license_key": "BSD-3-Clause-Open-MPI",
+  "category": "Permissive",
+  "homepage_url": "https://www.open-mpi.org/community/license.php",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2c6dfa1f0cc6a88d8a141799bd080fc7516973b044f4094715861efa33df4032"
+  }
+}

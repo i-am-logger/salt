@@ -1,0 +1,37 @@
+{
+  "key": "odbl-1.0",
+  "name": "ODC Open Database License v1.0",
+  "short_name": "ODbL 1.0",
+  "spdx_license_key": "ODbL-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.opendatacommons.org/licenses/odbl/1.0/",
+  "text_urls": [
+    "https://www.opendatacommons.org/licenses/odbl/1.0/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c475906d434c8dcbfbc45409713d8cc4b4e65de659eb057a8b171afe5daba818"
+  }
+}

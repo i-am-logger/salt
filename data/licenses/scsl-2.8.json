@@ -1,0 +1,40 @@
+{
+  "key": "scsl-2.8",
+  "name": "Sun Community Source License 2.8",
+  "short_name": "Sun Community Source License 2.8",
+  "spdx_license_key": "LicenseRef-scancode-scsl-2.8",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.oracle.com/technetwork/java/scsl-1-1-149938.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c1eeea39eeb5e975bf1b64a2aed66646e63f03b03790c5bbb0fc1e912d4e7458"
+  }
+}

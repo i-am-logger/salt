@@ -1,0 +1,33 @@
+{
+  "key": "artistic-1.0-cl8",
+  "name": "Artistic License 1.0 w/clause 8",
+  "short_name": "Artistic 1.0 w/clause 8",
+  "spdx_license_key": "Artistic-1.0-cl8",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://spdx.org/licenses/Artistic-1.0-cl8",
+  "text_urls": [
+    "http://spdx.org/licenses/Artistic-1.0-cl8"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "368e3a4d602ffb6bc3bd57be4f7f912e6b3afaa788bc22ac79a152c10b60c3a0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "ms-xml-core-4.0",
+  "name": "Microsoft XML Core Services (MSXML) 4.0 EULA",
+  "short_name": "MSXML 4.0 EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-xml-core-4.0",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3b58547c2161bb0e0f89991017d9ed847d5d5f4bba2a657eb4388c9208943f5a"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "x11-swapped",
+  "name": "X11 swapped final paragraphs",
+  "short_name": "X11 swapped final paragraphs",
+  "spdx_license_key": "X11-swapped",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8c4e05b3addc5736b2d0879dd3d99bb97926e23c05db21bcca0045ce96d82ae7"
+  }
+}

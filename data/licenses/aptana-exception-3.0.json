@@ -1,0 +1,40 @@
+{
+  "key": "aptana-exception-3.0",
+  "name": "Aptana exception to GPL 3.0",
+  "short_name": "Aptana exception to GPL 3.0",
+  "spdx_license_key": "LicenseRef-scancode-aptana-exception-3.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/aptana/studio3/blob/development/README.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9d8accfeb8d4034829a4a8e5d3df151e9bc72b06c62a8178388f9a0b78680852"
+  }
+}

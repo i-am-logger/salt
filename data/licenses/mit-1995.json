@@ -1,0 +1,30 @@
+{
+  "key": "mit-1995",
+  "name": "MIT INRIA W3C 1995",
+  "short_name": "MIT 1995",
+  "spdx_license_key": "LicenseRef-scancode-mit-1995",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/robaho/lrmp/blob/master/java/main/inria/net/lrmp/Lrmp.java",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fa4eb8610ac2e900652f4764392bdaf8466943a088f005b15a3e7ee96840be1e"
+  }
+}

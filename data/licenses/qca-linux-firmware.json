@@ -1,0 +1,33 @@
+{
+  "key": "qca-linux-firmware",
+  "name": "QCA Linux Firmware License",
+  "short_name": "QCA Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-qca-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.QualcommAtheros_ath10k",
+  "text_urls": [
+    "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.QualcommAtheros_ar3k"
+  ],
+  "grants": [
+    "private-use",
+    "distribution",
+    "patent-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "09b649fb9fcab66dbe5f1f97500bf60799feb3e5e0b7aa76367d593c2c8193d8"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "us-govt-unlimited-rights",
+  "name": "US Government Grant of Unlimited Rights",
+  "short_name": "US Government Unlimited Rights",
+  "spdx_license_key": "LicenseRef-scancode-us-govt-unlimited-rights",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://github.com/Slicer/Slicer/blob/v4.6.2/COPYRIGHT.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "62ce7567e9076c1b3f44e51f8e206339f33cd8953a96333ac5a83ea42014a337"
+  }
+}

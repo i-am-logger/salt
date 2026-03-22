@@ -1,0 +1,31 @@
+{
+  "key": "bilibili-model-ula-2025-09-09",
+  "name": "bilibili Model Use License Agreement 2025-09-09",
+  "short_name": "bilibili Model ULA 2025-09-09",
+  "spdx_license_key": "LicenseRef-scancode-bilibili-model-ula-2025-09-09",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/index-tts/index-tts/blob/main/LICENSE",
+  "text_urls": [
+    "https://raw.githubusercontent.com/index-tts/index-tts/refs/heads/main/LICENSE"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9dbf25146f02c5c23ba6ad0bce921d32105171c1996e1186ad08ab250a98787c"
+  }
+}

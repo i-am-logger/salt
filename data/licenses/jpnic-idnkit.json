@@ -1,0 +1,31 @@
+{
+  "key": "jpnic-idnkit",
+  "name": "JPNIC idnkit License",
+  "short_name": "JPNIC idnkit License",
+  "spdx_license_key": "JPNIC",
+  "category": "Permissive",
+  "homepage_url": "https://www.nic.ad.jp/ja/idn/idnkit/download/",
+  "text_urls": [
+    "https://dev.w3.org/libwww/modules/idn/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a5af3796006aaddd55a7435c7feb72c1c6b6f4bb581e1b5436455afd453d1cfc"
+  }
+}

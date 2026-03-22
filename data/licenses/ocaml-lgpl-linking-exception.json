@@ -1,0 +1,35 @@
+{
+  "key": "ocaml-lgpl-linking-exception",
+  "name": "OCaml LGPL Linking Exception",
+  "short_name": "OCaml LGPL Linking Exception",
+  "spdx_license_key": "OCaml-LGPL-linking-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://caml.inria.fr/ocaml/license.en.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ee85f02125a6ad254526f181578583e3ad46b7e0170c29e81f974acc5179c614"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "open-diameter",
+  "name": "Open Diameter License",
+  "short_name": "Open Diameter License",
+  "spdx_license_key": "LicenseRef-scancode-open-diameter",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c3f2c769d2004eaab5173d22c81df7f68f8f7b033ea64489f8fb95b7e0564409"
+  }
+}

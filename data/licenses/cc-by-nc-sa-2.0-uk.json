@@ -1,0 +1,35 @@
+{
+  "key": "cc-by-nc-sa-2.0-uk",
+  "name": "Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales",
+  "short_name": "CC-BY-NC-SA-2.0-UK",
+  "spdx_license_key": "CC-BY-NC-SA-2.0-UK",
+  "category": "Non-Commercial",
+  "homepage_url": "http://creativecommons.org/licenses/by-nc-sa/2.0/uk/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by-nc-sa/2.0/uk/legalcode"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "43ddd08c7f0a908b0edf0ef135d4d8623e274eb38644389a4e64ca2a4a19f503"
+  }
+}

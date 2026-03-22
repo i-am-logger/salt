@@ -1,0 +1,29 @@
+{
+  "key": "sun-bsd-no-nuclear",
+  "name": "Sun BSD-Style with Nuclear Restrictions",
+  "short_name": "Sun BSD-Style with Nuclear Restrictions",
+  "spdx_license_key": "BSD-3-Clause-No-Nuclear-License",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e739dbadebef7b899311409f3cf57cf729e09f8e805aec13e666e389acdee231"
+  }
+}

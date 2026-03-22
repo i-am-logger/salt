@@ -1,0 +1,29 @@
+{
+  "key": "bsd-3-clause-no-nuclear-warranty",
+  "name": "BSD 3-Clause No Nuclear Warranty",
+  "short_name": "BSD 3-Clause No Nuclear Warranty",
+  "spdx_license_key": "BSD-3-Clause-No-Nuclear-Warranty",
+  "category": "Free Restricted",
+  "homepage_url": "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "29cb1d9243c7ab9ae15b74d338493bf7927b65d5d203c43bffeb657a82d6daaa"
+  }
+}

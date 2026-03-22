@@ -1,0 +1,26 @@
+{
+  "key": "lzma-sdk-9.11-to-9.20",
+  "name": "LZMA SDK License (versions 9.11 to 9.20)",
+  "short_name": "LZMA SDK License (versions 9.11 to 9.20)",
+  "spdx_license_key": "LZMA-SDK-9.11-to-9.20",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0e40375c82c45c3eb1921a8e18cabe15d27b8a8bac9af42529cd41c5ea7e1c5"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "pycrypto",
+  "name": "PyCrypto License",
+  "short_name": "PyCrypto License",
+  "spdx_license_key": "LicenseRef-scancode-pycrypto",
+  "category": "Permissive",
+  "homepage_url": "http://dev.mysql.com/doc/workbench/en/license-pycrypto.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "953a432f3b5a679bf277f734d2bfdbef2057da0693225fc1edb014a40b68ac9b"
+  }
+}

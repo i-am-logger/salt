@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-sell-mit-disclaimer-xserver",
+  "name": "Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer",
+  "short_name": "Historical sell xserver variant",
+  "spdx_license_key": "HPND-sell-MIT-disclaimer-xserver",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9d1bf9b1ee83274b89520bf5984a5c4e0d0bf25088504c0637371d09c3408a0a"
+  }
+}

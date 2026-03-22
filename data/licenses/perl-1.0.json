@@ -1,0 +1,30 @@
+{
+  "key": "perl-1.0",
+  "name": "Perl 1.0",
+  "short_name": "Perl 1.0",
+  "spdx_license_key": "LicenseRef-scancode-perl-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/AnaTofuZ/Perl-1.0/blob/master/README.orig",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "72d01f568803bc0350b7b21260f34209007ac4d4fb7f695aee34fd6f8511dbbc"
+  }
+}

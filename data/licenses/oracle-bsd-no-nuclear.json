@@ -1,0 +1,26 @@
+{
+  "key": "oracle-bsd-no-nuclear",
+  "name": "Oracle BSD-Style with Nuclear Restrictions",
+  "short_name": "Oracle BSD-Style with Nuclear Restrictions",
+  "spdx_license_key": "BSD-3-Clause-No-Nuclear-License-2014",
+  "category": "Free Restricted",
+  "homepage_url": "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "20887415ef3e96a32ea25fb83180f793cf112237c69540a7f11396b9e7641462"
+  }
+}

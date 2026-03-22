@@ -1,0 +1,26 @@
+{
+  "key": "ziplist5-geocode-end-user-workstation",
+  "name": "ZIPList5 Geocode End-User Workstation (Single-User) License Agreement",
+  "short_name": "ZIPList5 Geocode End-User Workstation License",
+  "spdx_license_key": "LicenseRef-scancode-ziplist5-geocode-workstation",
+  "category": "Commercial",
+  "homepage_url": "https://web.archive.org/web/20160904120244/http://zipinfo.com/products/z5LL/z5lllw.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bab5b8989cb2a5ecf433eb68f7c17b2ffadcd4bf3fbeeda03418b281fe2697b3"
+  }
+}

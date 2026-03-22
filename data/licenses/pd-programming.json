@@ -1,0 +1,25 @@
+{
+  "key": "pd-programming",
+  "name": "PD'Programming License",
+  "short_name": "PD'Programming License",
+  "spdx_license_key": "LicenseRef-scancode-pd-programming",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2328a88c2a1d4435373c4eac9e1eb4f6f95f32502d27e635f2998c36ea42cf01"
+  }
+}

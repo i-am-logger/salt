@@ -1,0 +1,29 @@
+{
+  "key": "xinetd",
+  "name": "xinetd License",
+  "short_name": "xinetd License",
+  "spdx_license_key": "xinetd",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Xinetd_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c92f3bbd253110cf95239210049f189721c886399ae2eb9a73a0185e487709ec"
+  }
+}

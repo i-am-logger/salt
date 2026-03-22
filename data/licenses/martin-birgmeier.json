@@ -1,0 +1,31 @@
+{
+  "key": "martin-birgmeier",
+  "name": "Martin Bergmeier License",
+  "short_name": "Martin Bergmeier License",
+  "spdx_license_key": "Martin-Birgmeier",
+  "category": "Permissive",
+  "homepage_url": "https://chromium.googlesource.com/native_client/nacl-newlib/+/590b76526a1ff92504bf20234610043fd45ae034/newlib/libc/stdlib/rand48.h",
+  "text_urls": [
+    "https://chromium.googlesource.com/native_client/nacl-newlib/+/590b76526a1ff92504bf20234610043fd45ae034/newlib/libc/stdlib/rand48.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "af73d78a411b5831b376820d8262c2db4511b9d69fc1bfd266bda3a0330b10ee"
+  }
+}

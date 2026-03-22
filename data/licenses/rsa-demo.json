@@ -1,0 +1,29 @@
+{
+  "key": "rsa-demo",
+  "name": "RSA Demo License",
+  "short_name": "RSA Demo License",
+  "spdx_license_key": "LicenseRef-scancode-rsa-demo",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4bc0048cf2729645767ef06ef43d2a675d2632fa60f17ff4d9b9e8db870bd401"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "bigdigits",
+  "name": "BigDigits License",
+  "short_name": "BigDigits License",
+  "spdx_license_key": "LicenseRef-scancode-bigdigits",
+  "category": "Permissive",
+  "homepage_url": "http://www.di-mgt.com.au/",
+  "text_urls": [
+    "http://www.di-mgt.com.au/bigdigitsCopyright.txt",
+    "https://web-beta.archive.org/web/20151013165906/http://www.di-mgt.com.au/bigdigitsCopyright.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "10a386c2cad083ebf9a86762eb57af4c5b68cf9397ce6e12eb22c39d5f896b1a"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "vitesse-prop",
+  "name": "Vitesse Proprietary Notice",
+  "short_name": "Vitesse Proprietary Notice",
+  "spdx_license_key": "LicenseRef-scancode-vitesse-prop",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a148348d735e8d05ec7f17aba667a89955ad18347200b65806e3d8fd748944ed"
+  }
+}

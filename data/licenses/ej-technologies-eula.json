@@ -1,0 +1,28 @@
+{
+  "key": "ej-technologies-eula",
+  "name": "ej-technologies EULA",
+  "short_name": "ej-technologies EULA",
+  "spdx_license_key": "LicenseRef-scancode-ej-technologies-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.ej-technologies.com/buy/jprofiler/jprofiler_license.html",
+  "text_urls": [
+    "http://www.ej-technologies.com/buy/jprofiler/jprofiler_license.html"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3bd2e4a5cd35138bf677774688776416204aa8132e32966c184d565f1efd737a"
+  }
+}

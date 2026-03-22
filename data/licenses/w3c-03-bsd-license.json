@@ -1,0 +1,29 @@
+{
+  "key": "w3c-03-bsd-license",
+  "name": "W3C 3-Clause BSD License",
+  "short_name": "W3C 3-Clause BSD License",
+  "spdx_license_key": "LicenseRef-scancode-w3c-03-bsd-license",
+  "category": "Permissive",
+  "homepage_url": "https://www.w3.org/Consortium/Legal/2008/03-bsd-license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9b4849068b4f25b0b81717018612839bdbe2de23ac5820a2553c2b069f3ce37c"
+  }
+}

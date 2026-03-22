@@ -1,0 +1,30 @@
+{
+  "key": "generic-amiwm",
+  "name": "Generic-amiwm",
+  "short_name": "Generic-amiwm",
+  "spdx_license_key": "LicenseRef-scancode-generic-amiwm",
+  "category": "Non-Commercial",
+  "homepage_url": "https://metadata.ftp-master.debian.org/changelogs//non-free/a/amiwm/amiwm_0.22pl2-3_copyright",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2141dc4911a30c3c0a6dbfc279d6dba8467a3c16b085b2136263d038fbf1d9c1"
+  }
+}

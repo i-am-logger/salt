@@ -1,0 +1,29 @@
+{
+  "key": "un-cefact-2016",
+  "name": "UN-CEFACT License 2016",
+  "short_name": "UN-CEFACT License 2016",
+  "spdx_license_key": "LicenseRef-scancode-un-cefact-2016",
+  "category": "Permissive",
+  "homepage_url": "https://unece.org/fileadmin/DAM/cefact/Standards/SupplyChain/SCRDM/D16B_SCRDM__Subset__CII_uncoupled.zip",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b74431521ae66b7bb123b746b7ca373bdb122c542ac37970ffbc6c121887ada7"
+  }
+}

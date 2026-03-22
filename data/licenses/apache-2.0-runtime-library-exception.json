@@ -1,0 +1,31 @@
+{
+  "key": "apache-2.0-runtime-library-exception",
+  "name": "Apache 2.0 with Runtime Library Exception",
+  "short_name": "Apache 2.0 with Runtime Library Exception",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/apple/swift/blob/master/LICENSE.txt#L205",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0807a15b959ab261958e96c309e7b2d8fcedd9aa71442c3e7fe1864fc64d6f6c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "eurosym",
+  "name": "Eurosym License",
+  "short_name": "Eurosym License",
+  "spdx_license_key": "Eurosym",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Eurosym?rd=Licensing/Eurosym",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e2f90cc9ef75649922e32e98c61751636bdba2efc7d0a32a02475a2eb9481e94"
+  }
+}

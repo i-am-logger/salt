@@ -1,0 +1,25 @@
+{
+  "key": "paint-net",
+  "name": "Paint.NET License",
+  "short_name": "Paint.NET License",
+  "spdx_license_key": "LicenseRef-scancode-paint-net",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.getpaint.net/license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bdefab48a286a611812ba501c21f6bd53c963f56cb6366730720d9a713d3d176"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "x11-quarterdeck",
+  "name": "X11-Style (Quarterdeck)",
+  "short_name": "X11-Style (Quarterdeck)",
+  "spdx_license_key": "LicenseRef-scancode-x11-quarterdeck",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3b68f1441ecf6c25d9be15e3645069078fee1f3e0af380177a0c141aae060562"
+  }
+}

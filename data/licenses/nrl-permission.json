@@ -1,0 +1,29 @@
+{
+  "key": "nrl-permission",
+  "name": "NRL permission",
+  "short_name": "NRL permission",
+  "spdx_license_key": "CMU-Mach-nodoc",
+  "category": "Permissive",
+  "homepage_url": "https://web.mit.edu/kerberos/krb5-1.14/doc/mitK5license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8cd8a163105f41894f16540112a25c0c502c1053e66093ff90acf1ddb8991709"
+  }
+}

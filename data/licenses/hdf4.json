@@ -1,0 +1,29 @@
+{
+  "key": "hdf4",
+  "name": "HDF4 License",
+  "short_name": "HDF4 License",
+  "spdx_license_key": "LicenseRef-scancode-hdf4",
+  "category": "Permissive",
+  "homepage_url": "https://bitbucket.hdfgroup.org/projects/HDFFR/repos/hdf4/browse/COPYING?raw",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "babf6339ed72d44e84b06aa4fb3b2a7f700254cfba38c6b8de137f3a8c2815f6"
+  }
+}

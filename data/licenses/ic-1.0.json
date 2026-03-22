@@ -1,0 +1,32 @@
+{
+  "key": "ic-1.0",
+  "name": "Internet Computer Community Source License 1.0",
+  "short_name": "IC 1.0",
+  "spdx_license_key": "LicenseRef-scancode-ic-1.0",
+  "category": "Free Restricted",
+  "homepage_url": "https://dfinity.org/licenses/IC-1.0/",
+  "text_urls": [
+    "https://github.com/dfinity/ic/blob/master/licenses/IC-1.0.txt"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cd0dd4b1db8647dad6ae6b228c7dfa55a2c25fcdcb116f2b77210e10a2e36d90"
+  }
+}

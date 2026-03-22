@@ -1,0 +1,29 @@
+{
+  "key": "wrox-download",
+  "name": "Wrox Download Terms and Conditions",
+  "short_name": "Wrox Download Terms and Conditions",
+  "spdx_license_key": "LicenseRef-scancode-wrox-download",
+  "category": "Source-available",
+  "homepage_url": "http://web.archive.org/web/20030421055623/http://wrox.com/dynamic/books/download-info.aspx?ISBN=1861004257&email=&mode=#terms",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "49b53e045bc8f0d85ff0fa0d876ac6883c59cc602245dcc0d011c81ef9c82c6f"
+  }
+}

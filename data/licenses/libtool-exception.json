@@ -1,0 +1,35 @@
+{
+  "key": "libtool-exception",
+  "name": "GNU Libtool Exception",
+  "short_name": "Libtool Exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9f333d778dcae2df6bdc2df3515b6da95c75f91986fe188af89107d9cc43384a"
+  }
+}

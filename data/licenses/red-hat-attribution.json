@@ -1,0 +1,29 @@
+{
+  "key": "red-hat-attribution",
+  "name": "Red Hat Attribution License",
+  "short_name": "Red Hat Attribution License",
+  "spdx_license_key": "LicenseRef-scancode-red-hat-attribution",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f144ee53915182cf1c02b1e056f37ed305a1980bf3093d9ceb77b5757ab1e8e5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "non-violent-4.0",
+  "name": "Non-Violent Public License v4",
+  "short_name": "NVPL 4.0",
+  "spdx_license_key": "LicenseRef-scancode-non-violent-4.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://thufie.lain.haus/NPL.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5c63a233f71fa268c8156d99fcf7b169b1313f093a5729f69af147328cf6f268"
+  }
+}

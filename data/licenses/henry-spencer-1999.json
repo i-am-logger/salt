@@ -1,0 +1,31 @@
+{
+  "key": "henry-spencer-1999",
+  "name": "Henry Spencer License 1999",
+  "short_name": "Henry Spencer License 1999",
+  "spdx_license_key": "Spencer-99",
+  "category": "Permissive",
+  "homepage_url": "http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c",
+  "text_urls": [
+    "http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e9be040a79d22255a565cef6931bb1ae6bd9c964bd7ce050bc7131944b1153db"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "nonexclusive",
+  "name": "Nonexclusive License",
+  "short_name": "Nonexclusive License",
+  "spdx_license_key": "LicenseRef-scancode-nonexclusive",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2372938c1f993a9d8b90c970207d52539ea93662958b70b2c12f17cb9c6e22f6"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "mvt-1.1",
+  "name": "MVT License 1.1",
+  "short_name": "MVT License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-mvt-1.1",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/mvt-project/license/blob/main/MVT%20License%201.1.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "be656341684b3702357014ae57890c58c270444e9f1f7bed36e01363f35efe5d"
+  }
+}

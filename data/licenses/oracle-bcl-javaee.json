@@ -1,0 +1,25 @@
+{
+  "key": "oracle-bcl-javaee",
+  "name": "Oracle BCL for Java EE Technologies",
+  "short_name": "Oracle BCL for Java EE Technologies",
+  "spdx_license_key": "LicenseRef-scancode-oracle-bcl-javaee",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "624551bb08aace2de0573123406be5d5a4a4cc30ba5c6ab0b98c9f85c34ee448"
+  }
+}

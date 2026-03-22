@@ -1,0 +1,32 @@
+{
+  "key": "ibm-java-portlet-spec-2.0",
+  "name": "IBM Java Portlet Specification 2.0 License",
+  "short_name": "IBM Java Portlet Specification 2.0",
+  "spdx_license_key": "LicenseRef-scancode-ibm-java-portlet-spec-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://docs.oracle.com/cloud/latest/big-data-discovery-cloud/BDDLG/cl_ibm_java_portlet_spec_2.htm#BDDLG-concept_8F2CD6740028425B9BA5429DBDEE9BB3",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c65b0f4cb8034eff67ba38787dda0201fd4c3389c8253080bbd704cf28ba28fa"
+  }
+}

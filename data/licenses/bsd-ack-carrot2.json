@@ -1,0 +1,29 @@
+{
+  "key": "bsd-ack-carrot2",
+  "name": "BSD Acknowledgment (Carrot2) License",
+  "short_name": "BSD Acknowledgment (Carrot2) License",
+  "spdx_license_key": "LicenseRef-scancode-bsd-ack-carrot2",
+  "category": "Permissive",
+  "homepage_url": "http://www.carrot2.org/carrot2.LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b10af48ad4f7350111f68fa62581db35acf541fa936ba19873eda43bc0adb622"
+  }
+}

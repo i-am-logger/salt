@@ -1,0 +1,24 @@
+{
+  "key": "antlr-pd",
+  "name": "ANTLR Software Rights Notice",
+  "short_name": "ANTLR-PD",
+  "spdx_license_key": "ANTLR-PD",
+  "category": "Permissive",
+  "homepage_url": "http://www.antlr2.org/",
+  "text_urls": [
+    "http://www.antlr2.org/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9282fbd7227f194b1cf7e46292988f052124046c903c0abc7f9bf89e060e8393"
+  }
+}

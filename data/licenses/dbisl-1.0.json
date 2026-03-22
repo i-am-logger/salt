@@ -1,0 +1,42 @@
+{
+  "key": "dbisl-1.0",
+  "name": "Deutsche Bahn Inner Source License 1.0",
+  "short_name": "DB Inner Source License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-dbisl-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/dbsystel/open-source-policies/blob/master/DB-Inner-Source-License.md",
+  "text_urls": [
+    "https://raw.githubusercontent.com/dbsystel/open-source-policies/refs/heads/master/DB-Inner-Source-License.md"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "497ea58f22bf62c50da9a91d5001a3c8df8c28e68f0fad0dfbd9d73344816ef7"
+  }
+}

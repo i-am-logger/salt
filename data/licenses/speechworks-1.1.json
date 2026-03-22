@@ -1,0 +1,31 @@
+{
+  "key": "speechworks-1.1",
+  "name": "SpeechWorks Public License v1.1",
+  "short_name": "SpeechWorks Public License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-speechworks-1.1",
+  "category": "Permissive",
+  "homepage_url": "http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt",
+  "text_urls": [
+    "http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2b6800707bcdee72e834cf731c4a20b9e2f711b49b98eed444a898e5afcd0e4c"
+  }
+}

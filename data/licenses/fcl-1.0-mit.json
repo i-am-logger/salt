@@ -1,0 +1,32 @@
+{
+  "key": "fcl-1.0-mit",
+  "name": "Fair Core License, Version 1.0, MIT Future License",
+  "short_name": "FCL-1.0-MIT",
+  "spdx_license_key": "LicenseRef-scancode-fcl-1.0-mit",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/keygen-sh/fcl.dev/blob/master/FCL-1.0-MIT.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "50992c79f7e5b7706ffc7168f09c47d76416b8a90f1a70ef2d36b30bffdbe564"
+  }
+}

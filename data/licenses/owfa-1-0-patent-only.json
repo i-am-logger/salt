@@ -1,0 +1,22 @@
+{
+  "key": "owfa-1-0-patent-only",
+  "name": "OWFa 1.0 - Patent Only",
+  "short_name": "OWFa 1.0 - Patent Only",
+  "spdx_license_key": "LicenseRef-scancode-owfa-1.0-patent-only",
+  "category": "Patent License",
+  "homepage_url": "https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owfa-1-0-patent-only",
+  "text_urls": [],
+  "grants": [
+    "patent-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7aa112cb6ca64e1c51fdf1dbc72e22a9522f4ce359966a7395ab24b7e8ea63a4"
+  }
+}

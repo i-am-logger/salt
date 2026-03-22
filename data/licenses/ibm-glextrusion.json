@@ -1,0 +1,31 @@
+{
+  "key": "ibm-glextrusion",
+  "name": "IBM glextrusion License",
+  "short_name": "IBM glextrusion License",
+  "spdx_license_key": "LicenseRef-scancode-ibm-glextrusion",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/linas/glextrusion/blob/master/src/COPYING.src",
+  "text_urls": [
+    "https://raw.githubusercontent.com/linas/glextrusion/master/src/COPYING.src"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9bf799a79923aef777a5b9637a04e762027dd82163120c38556d2d887e08aab3"
+  }
+}

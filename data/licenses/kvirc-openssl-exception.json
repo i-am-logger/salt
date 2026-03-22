@@ -1,0 +1,35 @@
+{
+  "key": "kvirc-openssl-exception",
+  "name": "kvirc OpenSSL Exception",
+  "short_name": "kvirc OpenSSL Exception",
+  "spdx_license_key": "kvirc-openssl-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e28fa2573f6eaf58955682994f4753794f7a443b3145cc999ee228dfc264a474"
+  }
+}

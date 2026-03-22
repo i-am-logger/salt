@@ -1,0 +1,35 @@
+{
+  "key": "info-zip-2003-05",
+  "name": "Info-Zip License 2003-05",
+  "short_name": "Info-Zip License 2003-05",
+  "spdx_license_key": "LicenseRef-scancode-info-zip-2003-05",
+  "category": "Permissive",
+  "homepage_url": "http://www.info-zip.org/",
+  "text_urls": [
+    "http://web.archive.org/web/20030409023329/http://www.info-zip.org/doc/LICENSE",
+    "http://web.archive.org/web/20030601142019/http://www.info-zip.org/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f07a4df91dddc475779d6e34b19a801caa61f313d567c2c08a1bcd76ac6485dc"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "mediatek-proprietary-2010",
+  "name": "Mediatek Proprietary License 2010",
+  "short_name": "Mediatek Proprietary License 2010",
+  "spdx_license_key": "LicenseRef-scancode-mediatek-proprietary-2010",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/spartan263/vizio_oss/blob/master/uboot/board/mt5398/nand_aes.c",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c3636bed80e69b5388fba8b5ca3ad975ef7a3c5240e69b0ad17faf867c295766"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "key": "gpl-2.0-mysql-floss",
+  "name": "GPL 2.0 with MySQL FLOSS exception",
+  "short_name": "GPL 2.0 with MySQL FLOSS exception",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": "https://mariadb.com/kb/en/mariadb/mariadb-license/#the-floss-exception",
+  "text_urls": [
+    "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e22f79dab16fdcdbff6f8f76e5cddf2e8a14dfe2efc341be13a4d44147bc014e"
+  }
+}

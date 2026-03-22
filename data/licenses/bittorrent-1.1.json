@@ -1,0 +1,41 @@
+{
+  "key": "bittorrent-1.1",
+  "name": "BitTorrent Open Source License 1.1",
+  "short_name": "BitTorrent 1.1",
+  "spdx_license_key": "BitTorrent-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://web.archive.org/web/20080213154112/http://www.bittorrent.com/bittorrent-open-source-license",
+  "text_urls": [
+    "http://www.bittorrent.com/legal/bittorrent-open-source-license"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "63809093655a5a2cd97db412e65ae31bb72e79a20fae776bc69a392643c0d357"
+  }
+}

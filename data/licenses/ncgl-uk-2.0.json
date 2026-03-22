@@ -1,0 +1,30 @@
+{
+  "key": "ncgl-uk-2.0",
+  "name": "Non-Commercial Government Licence",
+  "short_name": "Non-Commercial Government Licence",
+  "spdx_license_key": "NCGL-UK-2.0",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "30f3a17d840aaea8775eefba6435f4740dc9fd5cbaf67ee7801d53635fcc3b41"
+  }
+}

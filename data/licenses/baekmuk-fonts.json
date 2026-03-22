@@ -1,0 +1,29 @@
+{
+  "key": "baekmuk-fonts",
+  "name": "Baekmuk Fonts License",
+  "short_name": "Baekmuk Fonts License",
+  "spdx_license_key": "Baekmuk",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "37fb8c127e7e5de9a66fb280de939c12675c50c3ffb55072f6c72077183fa77e"
+  }
+}

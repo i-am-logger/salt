@@ -1,0 +1,26 @@
+{
+  "key": "anaconda-tos-2024-03-30",
+  "name": "Anaconda Terms of Service 2024-03-30",
+  "short_name": "Anaconda TOS 2024-03-30",
+  "spdx_license_key": "LicenseRef-scancode-anaconda-tos-2024-03-30",
+  "category": "Commercial",
+  "homepage_url": "https://legal.anaconda.com/policies/en?name=terms-of-service#terms-of-service",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2ac034882ac86d6cd1b420a113d6d19bc961cda077f7ff3a5f4c5fd063f713a7"
+  }
+}

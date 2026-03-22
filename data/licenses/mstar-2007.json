@@ -1,0 +1,28 @@
+{
+  "key": "mstar-2007",
+  "name": "MStar Proprietary License 2007",
+  "short_name": "MStar Proprietary License 2007",
+  "spdx_license_key": "LicenseRef-scancode-mstar-2007",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/Benjamin-Dobell/kogan-tv-gpl/blob/master/Kernel_updated/mstar/mstar/ir/mdrv_ir.c",
+  "text_urls": [
+    "https://github.com/GracieZhou/test/blob/master/CODE/android/vendor/mstar/supernova/projects/devices/demodulator/device_demodulator_msb1240.cpp"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c1a938e1ed07f690428d6117d5d88c2be96f655536d26aa7851dd18ddea143e5"
+  }
+}

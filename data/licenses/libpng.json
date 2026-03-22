@@ -1,0 +1,34 @@
+{
+  "key": "libpng",
+  "name": "Libpng License",
+  "short_name": "Libpng License",
+  "spdx_license_key": "Libpng",
+  "category": "Permissive",
+  "homepage_url": "http://www.libpng.org/pub/png/libpng.html",
+  "text_urls": [
+    "http://libpng.org/pub/png/src/libpng-LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "67efb87621a186124785cb577cc4eebecf5eb034d5c5b6d0ffcb6ef9b9e25922"
+  }
+}

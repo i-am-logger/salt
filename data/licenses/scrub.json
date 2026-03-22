@@ -1,0 +1,25 @@
+{
+  "key": "scrub",
+  "name": "SCRUB License",
+  "short_name": "SCRUB License",
+  "spdx_license_key": "LicenseRef-scancode-scrub",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.duxburysystems.com/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8e52d40a475ccddde507f8093087a907b7c63b0a71ad143a3c1a865a6a76a8ce"
+  }
+}

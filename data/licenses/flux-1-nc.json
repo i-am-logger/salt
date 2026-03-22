@@ -1,0 +1,33 @@
+{
+  "key": "flux-1-nc",
+  "name": "FLUX.1 [dev] Non-Commercial License",
+  "short_name": "FLUX.1 [dev] Non-Commercial License",
+  "spdx_license_key": "LicenseRef-scancode-flux-1-nc",
+  "category": "Non-Commercial",
+  "homepage_url": "https://huggingface.co/city96/FLUX.1-dev-gguf/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "faa09f4a6df3529f7c0ccae989844e8bd80b845cc78db6008fd37b5674a18978"
+  }
+}

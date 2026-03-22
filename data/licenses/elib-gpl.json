@@ -1,0 +1,40 @@
+{
+  "key": "elib-gpl",
+  "name": "GNU Elib General Public License",
+  "short_name": "GPL-Elib",
+  "spdx_license_key": "LicenseRef-scancode-elib-gpl",
+  "category": "Copyleft",
+  "homepage_url": "http://www.math.utah.edu/docs/info/elib_1.html",
+  "text_urls": [
+    "http://www.math.utah.edu/docs/info/elib_1.html#SEC1"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ac49337ae271cd73a38eb7fa0df6ff706f3516efb4c2c46d93b5b5b9b96fb472"
+  }
+}

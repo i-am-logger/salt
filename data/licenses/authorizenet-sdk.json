@@ -1,0 +1,29 @@
+{
+  "key": "authorizenet-sdk",
+  "name": "AuthorizeNet Software Development Kit (SDK) License Agreement",
+  "short_name": "AuthorizeNet SDK License",
+  "spdx_license_key": "LicenseRef-scancode-authorizenet-sdk",
+  "category": "Free Restricted",
+  "homepage_url": "https://github.com/AuthorizeNet/sdk-java/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "434067096f5517439be96907f32ace2b83c52575dd32a61b79ece22f1636e004"
+  }
+}

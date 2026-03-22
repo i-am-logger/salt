@@ -1,0 +1,29 @@
+{
+  "key": "bsd-3-clause-devine",
+  "name": "BSD 3-Clause Devine",
+  "short_name": "BSD 3-Clause Devine",
+  "spdx_license_key": "LicenseRef-scancode-bsd-3-clause-devine",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "dd75f7b14211cd7b72443f2c8c37a4546707a74d43b47994305829fa78831302"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "key": "lzma-sdk-pd",
+  "name": "LZMA SDK Public Domain",
+  "short_name": "LZMA SDK Public Domain",
+  "spdx_license_key": "LicenseRef-scancode-lzma-sdk-pd",
+  "category": "Public Domain",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4b34df56af8a572419447816e3962d5e9454c5d0c327c2be6971308a49c49259"
+  }
+}

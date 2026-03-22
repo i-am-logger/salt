@@ -1,0 +1,35 @@
+{
+  "key": "gaussian-splatting-2024",
+  "name": "Gaussian-Splatting License 2024",
+  "short_name": "Gaussian-Splatting License 2024",
+  "spdx_license_key": "LicenseRef-scancode-gaussian-splatting-2024",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md?plain=1",
+  "text_urls": [
+    "https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "23407a9e51e8f4eb0d476470ff06d3d7569aebf2bae9fbe11cd620bc63f0ec46"
+  }
+}

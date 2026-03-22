@@ -1,0 +1,29 @@
+{
+  "key": "mit-old-style-no-advert",
+  "name": "MIT Old Style no advertising",
+  "short_name": "MIT Old Style no advertising",
+  "spdx_license_key": "NTP",
+  "category": "Permissive",
+  "homepage_url": "http://fedoraproject.org/wiki/Licensing:MIT#Old_Style_.28no_advertising_without_permission.29",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fdaf00536b820cab2098537d3249d6f04888fdbf67a5e76044aa469ca8c59803"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "couchbase-community",
+  "name": "Couchbase Community Edition License",
+  "short_name": "Couchbase Community Edition License",
+  "spdx_license_key": "LicenseRef-scancode-couchbase-community",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.couchbase.com/download",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4445ef4e43de1b0b48695a0be9c317b6beeb4aae72ca74664ec5235fedff5894"
+  }
+}

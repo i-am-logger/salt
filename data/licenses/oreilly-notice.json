@@ -1,0 +1,29 @@
+{
+  "key": "oreilly-notice",
+  "name": "O'Reilly Code Sample Notice",
+  "short_name": "O'Reilly Code Sample Notice",
+  "spdx_license_key": "LicenseRef-scancode-oreilly-notice",
+  "category": "Permissive",
+  "homepage_url": "http://shop.oreilly.com/category/customer-service/faq-examples.do",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4485e5c22e914d34040983bf85570bb2a95689f76eebcaa8a3bf65cfd95f0cea"
+  }
+}

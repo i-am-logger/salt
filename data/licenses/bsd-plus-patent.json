@@ -1,0 +1,32 @@
+{
+  "key": "bsd-plus-patent",
+  "name": "BSD-2-Clause Plus Patent",
+  "short_name": "BSD-2-Clause Plus Patent",
+  "spdx_license_key": "BSD-2-Clause-Patent",
+  "category": "Permissive",
+  "homepage_url": "https://opensource.org/licenses/BSDplusPatent",
+  "text_urls": [
+    "https://opensource.org/licenses/BSDplusPatent"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "acd2d3bf220c8ef109767cb860ac84313621415d0bf680278d1cefb8eb105753"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "key": "verbatim-manual",
+  "name": "Verbatim Copies Permission",
+  "short_name": "Verbatim Copies",
+  "spdx_license_key": "Linux-man-pages-copyleft",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [
+    "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/scripts/bpf_helpers_doc.py?h=v5.0-rc4#n202"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d317db2a37d68d1da0b6b81cb5a33c46ef86350683c22b03fb34dcc7c92d110e"
+  }
+}

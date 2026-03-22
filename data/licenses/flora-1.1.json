@@ -1,0 +1,29 @@
+{
+  "key": "flora-1.1",
+  "name": "Flora License v1.1",
+  "short_name": "Flora License v1.1",
+  "spdx_license_key": "LicenseRef-scancode-flora-1.1",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8450e9927e06cc221a9e7d34f5ac6f2091403cbd66919085fe67ed1673bdbcde"
+  }
+}

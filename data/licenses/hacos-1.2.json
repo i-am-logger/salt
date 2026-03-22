@@ -1,0 +1,40 @@
+{
+  "key": "hacos-1.2",
+  "name": "Health Administration Corporation Open Source License 1.2",
+  "short_name": "HACOS 1.2",
+  "spdx_license_key": "LicenseRef-scancode-hacos-1.2",
+  "category": "Copyleft",
+  "homepage_url": "https://sourceforge.net/project/shownotes.php?group_id=123700&release_id=291669",
+  "text_urls": [
+    "https://sourceforge.net/project/shownotes.php?group_id=123700&release_id=291669"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0857bcb5c2bd4a61870c15882568786ca6389029d0f93717713c148627ea1686"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "openai-tou-20241211",
+  "name": "OpenAI Terms of Use 20241211",
+  "short_name": "OpenAI Terms of Use 20241211",
+  "spdx_license_key": "LicenseRef-scancode-openai-tou-20241211",
+  "category": "Commercial",
+  "homepage_url": "https://openai.com/policies/terms-of-use/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bc4d3de0806ee68d347ca249c74e9eeda19cb1b1967f98aecfd710d6059c41fa"
+  }
+}

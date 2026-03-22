@@ -1,0 +1,25 @@
+{
+  "key": "sun-entitlement-jaf",
+  "name": "Sun Entitlement JAF",
+  "short_name": "Sun Entitlement JAF",
+  "spdx_license_key": "LicenseRef-scancode-sun-entitlement-jaf",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "15a45dbf7804340dd46b4050333f7d77b70c91398adb41ebebb87ed8e972ddac"
+  }
+}

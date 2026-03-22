@@ -1,0 +1,26 @@
+{
+  "key": "rar-winrar-eula",
+  "name": "RAR and WinRAR EULA",
+  "short_name": "RAR and WinRAR EULA",
+  "spdx_license_key": "LicenseRef-scancode-rar-winrar-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.win-rar.com/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "43aa9db14d83d8d2a11bd863c2b6e4d7fffd5334d05b28890be143a0c6d7d2c4"
+  }
+}

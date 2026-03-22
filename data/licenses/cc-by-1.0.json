@@ -1,0 +1,31 @@
+{
+  "key": "cc-by-1.0",
+  "name": "Creative Commons Attribution License 1.0",
+  "short_name": "CC-BY-1.0",
+  "spdx_license_key": "CC-BY-1.0",
+  "category": "Permissive",
+  "homepage_url": "http://creativecommons.org/licenses/by/1.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by/1.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f11f1556d9c048a55c7ffab2afd931d15d0460babc48618014f541c00f37f6af"
+  }
+}

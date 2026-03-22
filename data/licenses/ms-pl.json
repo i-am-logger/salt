@@ -1,0 +1,33 @@
+{
+  "key": "ms-pl",
+  "name": "Microsoft Public License",
+  "short_name": "MS-PL",
+  "spdx_license_key": "MS-PL",
+  "category": "Permissive",
+  "homepage_url": "http://www.microsoft.com/opensource/licenses.mspx#Ms-PL",
+  "text_urls": [
+    "http://www.microsoft.com/opensource/licenses.mspx#Ms-PL"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ad9d69e640d2c9d793c3648fc7aed56e14d342a3a8bd1796299ee5694bf2b5d"
+  }
+}

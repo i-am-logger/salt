@@ -1,0 +1,37 @@
+{
+  "key": "gfdl-1.1-no-invariants-only",
+  "name": "GNU Free Documentation License v1.1 only - no invariants",
+  "short_name": "GFDL-1.1-no-invariants-only",
+  "spdx_license_key": "GFDL-1.1-no-invariants-only",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
+  "text_urls": [
+    "http://www.gnu.org/licenses/fdl-1.1.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "40eb9e7f44003e02a2726324450f6230da928d1d0f5ca300ec61a2a2909ade94"
+  }
+}

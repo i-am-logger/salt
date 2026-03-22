@@ -1,0 +1,35 @@
+{
+  "key": "autoconf-simple-exception-2.0",
+  "name": "Autoconf simple exception to GPL-2.0",
+  "short_name": "Autoconf simple exception to GPL-2.0",
+  "spdx_license_key": "Autoconf-exception-generic",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob;f=config.guess;h=a7448442748cc6f98a066d2d1051fad3b043761a;hb=HEAD",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "708ccdfa60f79dbe427b6bb02e7ae4b2c91bf338a510d6c3d321bedca49f4282"
+  }
+}

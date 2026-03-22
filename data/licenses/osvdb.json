@@ -1,0 +1,32 @@
+{
+  "key": "osvdb",
+  "name": "Open Sourced Vulnerability Database (OSVDB) License",
+  "short_name": "OSVDB License",
+  "spdx_license_key": "LicenseRef-scancode-osvdb",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [
+    "https://www.osvdb.org/osvdb_license"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9b922f2c15b519195f16bb70af7dd04498317a6ba2482e074414910ded60d0d1"
+  }
+}

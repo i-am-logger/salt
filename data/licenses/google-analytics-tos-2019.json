@@ -1,0 +1,25 @@
+{
+  "key": "google-analytics-tos-2019",
+  "name": "Google Analytics Terms of Service 2019",
+  "short_name": "Google Analytics Terms of Service 2019",
+  "spdx_license_key": "LicenseRef-scancode-google-analytics-tos-2019",
+  "category": "Proprietary Free",
+  "homepage_url": "https://marketingplatform.google.com/about/analytics/terms/us/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed0b73da0e1e204bb9df947504ba62ef50b40e92288aa8839027299e29a3d4ce"
+  }
+}

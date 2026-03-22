@@ -1,0 +1,43 @@
+{
+  "key": "eupl-1.0",
+  "name": "European Union Public Licence 1.0",
+  "short_name": "EUPL 1.0",
+  "spdx_license_key": "EUPL-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://ec.europa.eu/idabc/en/document/7330.html",
+  "text_urls": [
+    "http://ec.europa.eu/idabc/en/document/7330.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "684e9aacea7ec817ae724bc0c27e3f1b6403d8578a36ab2bbc7a4b7bcf2869d4"
+  }
+}

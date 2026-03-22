@@ -1,0 +1,29 @@
+{
+  "key": "unrar",
+  "name": "UnRar License",
+  "short_name": "UnRar License",
+  "spdx_license_key": "UnRAR",
+  "category": "Source-available",
+  "homepage_url": "http://sharpnews.weebly.com/uploads/1/2/7/9/1279604/license.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2c24881ca8185c4a6f25e418c89b7fb20d45352376d135300a0e865355d00c7f"
+  }
+}

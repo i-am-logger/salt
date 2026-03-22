@@ -1,0 +1,29 @@
+{
+  "key": "oll-1.0",
+  "name": "Open Logistics License Version 1.0",
+  "short_name": "OLL-1.0",
+  "spdx_license_key": "LicenseRef-scancode-oll-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.openlogisticsfoundation.org/licenses/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c7fc104957d74ad2c8683ffa2346d74f17d1c2906315b5765e3ee5e66c57024a"
+  }
+}

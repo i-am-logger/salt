@@ -1,0 +1,30 @@
+{
+  "key": "nvidia-video-codec-agreement",
+  "name": "NVIDIA Video Codec SDK Agreement",
+  "short_name": "NVIDIA Video Codec SDK Agreement",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-video-codec-agreement",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developer.nvidia.com/nvidia-video-codec-sdk-license-agreement",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c7ce18f59858ddac724cc275a4a73804347674477b2fd46172480f60e0765887"
+  }
+}

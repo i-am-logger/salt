@@ -1,0 +1,29 @@
+{
+  "key": "docbook-dtd",
+  "name": "DocBook DTD License",
+  "short_name": "DocBook DTD License",
+  "spdx_license_key": "DocBook-DTD",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f56f8df582ff1ed550818c6daba576fe8b7ae88985d05e68aacb6a6a769bf28e"
+  }
+}

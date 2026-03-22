@@ -1,0 +1,39 @@
+{
+  "key": "fraunhofer-fdk-aac-codec",
+  "name": "Fraunhofer FDK AAC Codec Library for Android",
+  "short_name": "Fraunhofer FDK AAC Codec Library for Android",
+  "spdx_license_key": "FDK-AAC",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://opencore-amr.git.sourceforge.net/git/gitweb.cgi?p=opencore-amr/fdk-aac;a=blob;f=NOTICE",
+  "text_urls": [
+    "http://opencore-amr.git.sourceforge.net/git/gitweb.cgi?p=opencore-amr/fdk-aac;a=blob;f=NOTICE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3ae62ef4418741b3f593feee5464b22902ad7be415df87b5b052886ca050c77b"
+  }
+}

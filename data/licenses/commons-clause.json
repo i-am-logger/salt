@@ -1,0 +1,27 @@
+{
+  "key": "commons-clause",
+  "name": "Commons Clause License Condition v1.0",
+  "short_name": "Commons Clause",
+  "spdx_license_key": "LicenseRef-scancode-commons-clause",
+  "category": "Source-available",
+  "homepage_url": "https://commonsclause.com/",
+  "text_urls": [
+    "https://commonsclause.com/"
+  ],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e5404dca2730e04551ce4c549745c9e32e4ad7458d8dd1a3c84fe2632e459a75"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "key": "efsl-2.0",
+  "name": "Eclipse Foundation Specification License - v2.0",
+  "short_name": "EFSL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-efsl-2.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.eclipse.org/legal/efsl/",
+  "text_urls": [
+    "https://www.eclipse.org/legal/adoc/efsl-2.0.adoc"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a08cec9e75f799b83be19e2ef5102069ed4bb8821daf14157d05059d35b5f10c"
+  }
+}

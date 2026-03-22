@@ -1,0 +1,36 @@
+{
+  "key": "ocb-non-military-2013",
+  "name": "License for Non-MilitarySoftware Implementations of OCB 2013",
+  "short_name": "OCB for Non-MilitarySoftware Implementations2013",
+  "spdx_license_key": "LicenseRef-scancode-ocb-non-military-2013",
+  "category": "Proprietary Free",
+  "homepage_url": "https://web.cs.ucdavis.edu/~rogaway/ocb/license.htm",
+  "text_urls": [
+    "https://web.cs.ucdavis.edu/~rogaway/ocb/license2.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3fdedd3ba7cddd2bea711604df80b7cd6fae038cdae85a48f59647c66546e0ee"
+  }
+}

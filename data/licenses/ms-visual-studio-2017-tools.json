@@ -1,0 +1,30 @@
+{
+  "key": "ms-visual-studio-2017-tools",
+  "name": "Microsoft Visual Studio 2017 Tools",
+  "short_name": "MS Visual Studio 2017 Tools",
+  "spdx_license_key": "LicenseRef-scancode-ms-visual-studio-2017-tools",
+  "category": "Commercial",
+  "homepage_url": "https://visualstudio.microsoft.com/license-terms/mlt552233/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f92c21bf018bf7dfe2da61a5acaa8a4f6eb1975a110ef519b50928f1689fd297"
+  }
+}

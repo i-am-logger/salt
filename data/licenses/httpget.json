@@ -1,0 +1,31 @@
+{
+  "key": "httpget",
+  "name": "httpget notice and disclaimer",
+  "short_name": "httpget notice and disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-httpget",
+  "category": "Permissive",
+  "homepage_url": "http://www.softorchestra.com/downloads/",
+  "text_urls": [
+    "https://github.com/BackupTheBerlios/oolite-linux-svn/blob/4ae1a88fd7bfaae3918d48170710ccfaf252e3d5/branches/DynamicOolite/deps/src/libhttp-1.1/httpget.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f42eda77070518e12751b8ff9f0c3a87ccf3ecb1b0754d8d26c97d72fe2410b6"
+  }
+}

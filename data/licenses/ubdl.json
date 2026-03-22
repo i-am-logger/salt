@@ -1,0 +1,37 @@
+{
+  "key": "ubdl",
+  "name": "Unmodified Binary Distribution Licence Exception",
+  "short_name": "Unmodified Binary Distribution Licence",
+  "spdx_license_key": "UBDL-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/ipxe/ipxe/blob/master/COPYING.UBDL",
+  "text_urls": [
+    "https://git.ipxe.org/ipxe.git/blob_plain/HEAD:/COPYING.UBDL"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0c07165f0b00fc1c892ef4db15fabef332552ec342a8731c3dedadaa892deae2"
+  }
+}

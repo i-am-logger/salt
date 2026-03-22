@@ -1,0 +1,29 @@
+{
+  "key": "bsd-x11",
+  "name": "BSD-3-Clause with X11 disclaimer",
+  "short_name": "BSD-3-Clause X11 disclaimer",
+  "spdx_license_key": "LicenseRef-scancode-bsd-x11",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "977275c918592081875314a5f64b0926c59552c44bc6aea8e6c441652d02f7a3"
+  }
+}

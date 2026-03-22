@@ -1,0 +1,25 @@
+{
+  "key": "bitzi-pd",
+  "name": "Bitzi Public Domain",
+  "short_name": "Bitzi-PD",
+  "spdx_license_key": "LicenseRef-scancode-bitzi-pd",
+  "category": "Permissive",
+  "homepage_url": "http://bitzi.com/publicdomain",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2523696b56aca472c5a612a58af8347f0f12a7408f7422cc6466e7bcd56f7d71"
+  }
+}

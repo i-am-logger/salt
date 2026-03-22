@@ -1,0 +1,32 @@
+{
+  "key": "bsd-source-code",
+  "name": "BSD Source Code Attribution",
+  "short_name": "BSD Source Code Attribution",
+  "spdx_license_key": "BSD-Source-Code",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/infusion/PHP/blob/master/TSRM/LICENSE",
+  "text_urls": [
+    "https://github.com/infusion/PHP/blob/master/TSRM/LICENSE",
+    "https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "24cf475c5c68beb5e0656e9e37425690effdc131e0d188c719d6b31b4fd20a1f"
+  }
+}

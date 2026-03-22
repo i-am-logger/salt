@@ -1,0 +1,29 @@
+{
+  "key": "ietf",
+  "name": "Internet Engineering Task Force License",
+  "short_name": "IETF License",
+  "spdx_license_key": "LicenseRef-scancode-ietf",
+  "category": "Permissive",
+  "homepage_url": "http://www.ietf.org/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1b5b010577734470e3cc9f870a6d13f498f13953175ba345abb06e46deb85d90"
+  }
+}

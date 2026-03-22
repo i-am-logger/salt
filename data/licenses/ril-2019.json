@@ -1,0 +1,29 @@
+{
+  "key": "ril-2019",
+  "name": "RIL (Rick's Internet Licence) 3-Clause License 2019",
+  "short_name": "RIL 2019",
+  "spdx_license_key": "LicenseRef-scancode-ril-2019",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/SupportIntelligence/Icewater/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "831670560fdca6a58cdf057d0ff395b7a85b5f2b9d65fccd615294413a29d906"
+  }
+}

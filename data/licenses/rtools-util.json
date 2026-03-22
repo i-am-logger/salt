@@ -1,0 +1,29 @@
+{
+  "key": "rtools-util",
+  "name": "RTools.Util License",
+  "short_name": "RTools.Util License",
+  "spdx_license_key": "LicenseRef-scancode-rtools-util",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ee83a75bd978ab178e9ad9ba11ec69932169d2b51e38fab1133fdb7ac05f5974"
+  }
+}

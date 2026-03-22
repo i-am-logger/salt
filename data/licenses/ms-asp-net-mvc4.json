@@ -1,0 +1,29 @@
+{
+  "key": "ms-asp-net-mvc4",
+  "name": "Microsoft ASP.NET MVC 4 License",
+  "short_name": "MS ASP.NET MVC4",
+  "spdx_license_key": "LicenseRef-scancode-ms-asp-net-mvc4",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/mvc_4_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b23c4a1472d3e44ee2f11a573bf2ddc8cfe5d0941dd03046039136795994634d"
+  }
+}

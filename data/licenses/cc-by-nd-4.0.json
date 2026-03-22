@@ -1,0 +1,34 @@
+{
+  "key": "cc-by-nd-4.0",
+  "name": "Creative Commons Attribution-NoDerivatives 4.0 International Public License",
+  "short_name": "CC-BY-ND-4.0",
+  "spdx_license_key": "CC-BY-ND-4.0",
+  "category": "Source-available",
+  "homepage_url": "http://creativecommons.org/licenses/by-nd/4.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by-nd/4.0/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2a2fef5120f729865a9898c0c91d330d8ca20a60416916d327a1211d3fbfbaeb"
+  }
+}

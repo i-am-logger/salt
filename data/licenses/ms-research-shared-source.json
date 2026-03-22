@@ -1,0 +1,33 @@
+{
+  "key": "ms-research-shared-source",
+  "name": "Microsoft Research Shared Source License",
+  "short_name": "MS Research Shared Source License",
+  "spdx_license_key": "LicenseRef-scancode-ms-research-shared-source",
+  "category": "Non-Commercial",
+  "homepage_url": "http://research.microsoft.com/downloads",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0c6a9a1b1a03d9f4b85e7823667aed6d2280a3be4914e6f8de5712a979e8c88f"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "lumisoft-mail-server",
+  "name": "LumiSoft Mail Server License",
+  "short_name": "LumiSoft Mail Server License",
+  "spdx_license_key": "LicenseRef-scancode-lumisoft-mail-server",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.lumisoft.ee/lsWWW/ENG/Products/Mail_Server/mail_index_eng.aspx?type=info",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6a08c27e876237201332ed999de45f26daea282ef206c4782c73e8bc1801bf30"
+  }
+}

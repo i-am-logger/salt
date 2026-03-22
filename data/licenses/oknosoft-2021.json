@@ -1,0 +1,26 @@
+{
+  "key": "oknosoft-2021",
+  "name": "Oknosoft License 2021",
+  "short_name": "Oknosoft License 2021",
+  "spdx_license_key": "LicenseRef-scancode-oknosoft-2021",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/oknosoft/genetic-cutting/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "529e407a5f0ddb3c24894e559a6c85b7d4dbe61a2d201fc843f2fbd0b42f3f12"
+  }
+}

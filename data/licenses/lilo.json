@@ -1,0 +1,32 @@
+{
+  "key": "lilo",
+  "name": "LILO License",
+  "short_name": "LILO License",
+  "spdx_license_key": "LicenseRef-scancode-lilo",
+  "category": "Permissive",
+  "homepage_url": "http://www.ingate.com/files/422/fwmanual-en/xx12671.html",
+  "text_urls": [
+    "http://www.ingate.com/files/422/fwmanual-en/xx12671.html",
+    "https://launchpad.net/ubuntu/oneiric/+source/rxtx/+copyright"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b0b5a12bb93cf5c611354b8ec9bee477c07a3f98fa0959c750d2050b406d5189"
+  }
+}

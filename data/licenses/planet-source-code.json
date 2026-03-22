@@ -1,0 +1,29 @@
+{
+  "key": "planet-source-code",
+  "name": "Planet Source Code License",
+  "short_name": "Planet Source Code License",
+  "spdx_license_key": "LicenseRef-scancode-planet-source-code",
+  "category": "Free Restricted",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "948e4cc431ce88cc9f27b3c815ac539ddb61a935ac0bf8dfc39dd2264b2b0d4b"
+  }
+}

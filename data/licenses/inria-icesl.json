@@ -1,0 +1,26 @@
+{
+  "key": "inria-icesl",
+  "name": "INRIA End User License Agreement for IceSL Software",
+  "short_name": "INRIA IceSL EULA",
+  "spdx_license_key": "LicenseRef-scancode-inria-icesl",
+  "category": "Non-Commercial",
+  "homepage_url": "https://icesl.loria.fr/assets/pdf/EULA_IceSL_binary.pdf",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8bd9c25ad708072575ddd779eb7f3bdec7932063a1593e905feb9d0ab7da6f1c"
+  }
+}

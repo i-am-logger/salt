@@ -1,0 +1,44 @@
+{
+  "key": "agpl-2.0",
+  "name": "Affero General Public License 2.0",
+  "short_name": "AGPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-agpl-2.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.affero.org/agpl2.html",
+  "text_urls": [
+    "http://www.affero.org/agpl2.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8458dc18b045cdf229d36e29cf07d722a2d4c0bea2acdbd51e7029a44e1e8491"
+  }
+}

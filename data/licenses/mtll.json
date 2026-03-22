@@ -1,0 +1,30 @@
+{
+  "key": "mtll",
+  "name": "Matrix Template Library License",
+  "short_name": "Matrix Template Library License",
+  "spdx_license_key": "MTLL",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Matrix_Template_Library_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f7f2a0bf3cb1172cd82823a19ced3b2e9273546fc58bf30f2916d7913ba15f7"
+  }
+}

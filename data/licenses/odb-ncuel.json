@@ -1,0 +1,30 @@
+{
+  "key": "odb-ncuel",
+  "name": "ODB Non-Commercial Use and Evaluation License (NCUEL)",
+  "short_name": "ODB NCUEL",
+  "spdx_license_key": "LicenseRef-scancode-odb-ncuel",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.codesynthesis.com/licenses/ncuel.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e49e27cc665d0728597606f3ca3ca77ae836c692b311cba39b5f5f31e0f791b4"
+  }
+}

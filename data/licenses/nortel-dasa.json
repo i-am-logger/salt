@@ -1,0 +1,29 @@
+{
+  "key": "nortel-dasa",
+  "name": "Nortel DASA License",
+  "short_name": "Nortel DASA License",
+  "spdx_license_key": "LicenseRef-scancode-nortel-dasa",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5126a1b97fb4ea1a6906fac93c78d9e08e84cb7f3fff82c31f68a87bc42760be"
+  }
+}

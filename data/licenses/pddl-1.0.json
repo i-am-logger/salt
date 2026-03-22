@@ -1,0 +1,28 @@
+{
+  "key": "pddl-1.0",
+  "name": "Public Domain Dedication & Licence (PDDL)",
+  "short_name": "PDDL 1.0",
+  "spdx_license_key": "PDDL-1.0",
+  "category": "Public Domain",
+  "homepage_url": "http://opendatacommons.org/licenses/pddl/1-0/",
+  "text_urls": [
+    "http://opendatacommons.org/licenses/pddl/1-0/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "abaddf481e85a7e6145cb5e3d1cc9f092504d176657dab27dbbab6e3f647ec0c"
+  }
+}

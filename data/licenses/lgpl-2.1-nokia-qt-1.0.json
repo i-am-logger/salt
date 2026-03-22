@@ -1,0 +1,35 @@
+{
+  "key": "lgpl-2.1-nokia-qt-1.0",
+  "name": "Nokia Qt LGPL Exception v1.0",
+  "short_name": "Nokia Qt LGPL Exception 1.0",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "90416620ab5b42dbe2f4f69836c6784b9d855e549ea2146a70902271dc3e6e1e"
+  }
+}

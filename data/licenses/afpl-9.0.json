@@ -1,0 +1,38 @@
+{
+  "key": "afpl-9.0",
+  "name": "Aladdin Free Public License v9",
+  "short_name": "Aladdin FPL v9",
+  "spdx_license_key": "LicenseRef-scancode-afpl-9.0",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.artifex.com/downloads/doc/Public.htm",
+  "text_urls": [
+    "http://www.artifex.com/downloads/doc/Public.htm"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d0192b648a0c0092f165c1e0f0d2993fc126406b16671e30c8ea13dc1ab51abc"
+  }
+}

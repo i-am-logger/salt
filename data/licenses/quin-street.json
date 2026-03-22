@@ -1,0 +1,33 @@
+{
+  "key": "quin-street",
+  "name": "QuinStreet License",
+  "short_name": "QuinStreet License",
+  "spdx_license_key": "LicenseRef-scancode-quin-street",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.codeguru.com/licensing.html",
+  "text_urls": [
+    "http://www.codeguru.com/licensing.html",
+    "http://www.freevbcode.com/licensing"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "532eb15fd3307e220cfbba13036c864735eba26bec5478d9b96439974c1d3172"
+  }
+}

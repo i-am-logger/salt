@@ -1,0 +1,29 @@
+{
+  "key": "mit-no-false-attribs",
+  "name": "MIT with no false attribution License",
+  "short_name": "MIT no false attribution License",
+  "spdx_license_key": "MITNFA",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/MITNFA",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f941a90ce602a1c22c9dad537626f9b512680114662b4424fe635fe61eb88dd1"
+  }
+}

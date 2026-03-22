@@ -1,0 +1,25 @@
+{
+  "key": "appfire-eula",
+  "name": "Appfire EULA",
+  "short_name": "Appfire EULA",
+  "spdx_license_key": "LicenseRef-scancode-appfire-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "http://appfire.com/eula",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e8351b2aabbac32447e27ba94c7c97c15163e9ddcce867b0cf5e17708cc95554"
+  }
+}

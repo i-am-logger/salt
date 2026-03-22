@@ -1,0 +1,38 @@
+{
+  "key": "opensc-openssl-openpace-exception-gpl",
+  "name": "OpenSC and OpenSSL linking exception to GPL in OpenPace",
+  "short_name": "OpenSC OpenSSL linking exception GPL in OpenPace",
+  "spdx_license_key": "LicenseRef-scancode-openpace-exception-gpl",
+  "category": "Copyleft",
+  "homepage_url": "https://github.com/frankmorgner/openpace/blob/812ecb1f60188e6df89998c7a3704b8021c8bfd7/COPYING#L676",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8db31d36310fa71da7c61aefc2f277d2ed12dda57857d169b88f07c4c46a7de5"
+  }
+}

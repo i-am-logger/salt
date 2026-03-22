@@ -1,0 +1,26 @@
+{
+  "key": "digia-qt-preview",
+  "name": "Digia Qt Technology Preview License Agreement 2.4",
+  "short_name": "Digia Qt Preview Agreement 2.4",
+  "spdx_license_key": "LicenseRef-scancode-digia-qt-preview",
+  "category": "Commercial",
+  "homepage_url": "http://qt.digia.com/licensing",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "14954905cda9a2eaf6ede63b7e919b87829bc3cc82e5c530f3c5fca56fb51694"
+  }
+}

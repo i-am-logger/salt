@@ -1,0 +1,29 @@
+{
+  "key": "ms-web-developer-tools-1.0",
+  "name": "Microsoft Web Developer Tools 1.0",
+  "short_name": "MS Web Developer Tools 1.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-web-developer-tools-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.microsoft.com/web/webpi/eula/webdevelopertools_1_eula_enu.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3e06a30dff2af4d019ea7bbd40ce2445a88379defe24838ad55837a3e327c7ba"
+  }
+}

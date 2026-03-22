@@ -1,0 +1,25 @@
+{
+  "key": "ms-office-system-programs-eula",
+  "name": "Microsoft Office System Programs Software EULA",
+  "short_name": "MS Office System Programs Software EULA",
+  "spdx_license_key": "LicenseRef-scancode-ms-office-system-programs-eula",
+  "category": "Commercial",
+  "homepage_url": "http://www.dmcwest.com/software/Microsoft/Office/Office%202003%20Interop%20Assemblies/o2003PIA_EULA.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "67374deec48421a2aae9e588b26a0185825c3cf80a84b9351f220e7599b97be7"
+  }
+}

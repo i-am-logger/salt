@@ -1,0 +1,35 @@
+{
+  "key": "hippocratic-2.1",
+  "name": "Hippocratic License v2.1",
+  "short_name": "Hippocratic License v2.1",
+  "spdx_license_key": "Hippocratic-2.1",
+  "category": "Free Restricted",
+  "homepage_url": "https://firstdonoharm.dev/",
+  "text_urls": [
+    "https://firstdonoharm.dev/version/2/1/license.md",
+    "https://firstdonoharm.dev/version/2/1/license.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5423fecdcbcb093d2aea441f2251573eb240210d4be6ab945c35a884d1eae691"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "phorum-2.0",
+  "name": "Phorum License 2.0",
+  "short_name": "Phorum License 2.0",
+  "spdx_license_key": "LicenseRef-scancode-phorum-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://www.phorum.org/license.txt",
+  "text_urls": [
+    "http://www.phorum.org/license.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "011887d11fc5aeec273d0f0e7b73d67dc0cc1d00ea7032de81137f1e7333c68d"
+  }
+}

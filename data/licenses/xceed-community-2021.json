@@ -1,0 +1,30 @@
+{
+  "key": "xceed-community-2021",
+  "name": "Xceed Community License 2021",
+  "short_name": "Xceed Community License 2021",
+  "spdx_license_key": "LicenseRef-scancode-xceed-community-2021",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/xceedsoftware/wpftoolkit/blob/master/license.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d1d992e71443e13930fa2d23ec5e4d8234b2283898335d0b27cee8aaf182f212"
+  }
+}

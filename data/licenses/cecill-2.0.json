@@ -1,0 +1,44 @@
+{
+  "key": "cecill-2.0",
+  "name": "CeCILL Free Software License Agreement v2.0",
+  "short_name": "CeCILL 2.0",
+  "spdx_license_key": "CECILL-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.cecill.info/licences.en.html",
+  "text_urls": [
+    "http://www.cecill.info/licences/Licence_CeCILL_V2-en.html",
+    "http://www.cecill.info/licences/Licence_CeCILL_V2-en.txt",
+    "http://www.cecill.info/licences/Licence_CeCILL_V2-fr.html",
+    "http://www.cecill.info/licences/Licence_CeCILL_V2-fr.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "edd17773a24950ea09aea42114c95a43bb31f9aafb30461b8c2b71563ae9f2d9"
+  }
+}

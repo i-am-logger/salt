@@ -1,0 +1,24 @@
+{
+  "key": "fsf-free",
+  "name": "Free Software Foundation - Free Software License",
+  "short_name": "FSF Free Software License",
+  "spdx_license_key": "FSFUL",
+  "category": "Public Domain",
+  "homepage_url": "http://www.fsf.org/licensing/licenses/",
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "505ea5ff9a7ccfdc5336b2ef7b0e587881a0a6efcc2ba7fa968ab98d76934e64"
+  }
+}

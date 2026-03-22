@@ -1,0 +1,29 @@
+{
+  "key": "paul-mackerras-binary",
+  "name": "Paul Mackerras Binary License",
+  "short_name": "Paul Mackerras Binary License",
+  "spdx_license_key": "LicenseRef-scancode-paul-mackerras-binary",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "543473d2962cff6a8a224a76c82d3a970154a84af1f56b709fc03aca29a9b58b"
+  }
+}

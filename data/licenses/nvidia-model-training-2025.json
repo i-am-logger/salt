@@ -1,0 +1,26 @@
+{
+  "key": "nvidia-model-training-2025",
+  "name": "NVIDIA Data Agreement for Model Training 2025",
+  "short_name": "NVIDIA Data Agreement for Model Training 2025",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-model-training-2025",
+  "category": "Proprietary Free",
+  "homepage_url": "https://huggingface.co/datasets/nvidia/Nemotron-Pretraining-Dataset-sample/raw/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b578d8176f04853b43e1496cc0eee33d9611417d0c8063d154c0a197a56a31e9"
+  }
+}

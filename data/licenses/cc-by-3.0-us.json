@@ -1,0 +1,29 @@
+{
+  "key": "cc-by-3.0-us",
+  "name": "Creative Commons Attribution 3.0 United States",
+  "short_name": "CC-BY-3.0-US",
+  "spdx_license_key": "CC-BY-3.0-US",
+  "category": "Permissive",
+  "homepage_url": "http://creativecommons.org/licenses/by/3.0/us",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f9be640f59921b69bc787f9a1857e0b86aee919467bc20118d537c7f3324fcc"
+  }
+}

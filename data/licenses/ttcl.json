@@ -1,0 +1,31 @@
+{
+  "key": "ttcl",
+  "name": "The Talis Community License",
+  "short_name": "Talis Community License",
+  "spdx_license_key": "LicenseRef-scancode-ttcl",
+  "category": "Permissive",
+  "homepage_url": "https://opendefinition.org/licenses/tcl/",
+  "text_urls": [
+    "https://web.archive.org/web/20130923083859/http://tdnarchive.capita-libraries.co.uk/tcl"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "44b745a232b13422ee75c768e823564b7937f7d89fede92aea3edb695adcae86"
+  }
+}

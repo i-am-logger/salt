@@ -1,0 +1,29 @@
+{
+  "key": "leptonica",
+  "name": "Leptonica License",
+  "short_name": "Leptonica License",
+  "spdx_license_key": "Leptonica",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Leptonica",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bb2943aa68287e0e7d1d742c76f8afe466b3c7aaa63863ea7d0c35662fb18685"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "bakoma-fonts-1995",
+  "name": "BaKoMa Fonts Licence 1995",
+  "short_name": "BaKoMa Fonts Licence 1995",
+  "spdx_license_key": "LicenseRef-scancode-bakoma-fonts-1995",
+  "category": "Permissive",
+  "homepage_url": "http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma",
+  "text_urls": [
+    "http://ctan.cs.uu.nl/fonts/cm/ps-type1/bakoma/LICENCE",
+    "http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma/LICENCE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e4de94bcf174857eb9aa0f21490a81d3677404e2de9adc948aaa9f5a644f49c4"
+  }
+}

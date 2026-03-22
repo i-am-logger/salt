@@ -1,0 +1,25 @@
+{
+  "key": "adobe-dng-spec-patent",
+  "name": "Adobe Digital Negative (DNG) Specification patent license",
+  "short_name": "Adobe DNG Specification patent license",
+  "spdx_license_key": "LicenseRef-scancode-adobe-dng-spec-patent",
+  "category": "Patent License",
+  "homepage_url": "https://helpx.adobe.com/camera-raw/digital-negative.html#dng",
+  "text_urls": [],
+  "grants": [
+    "patent-use",
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2b7f5fc184d3e4706ba2b13f8b5937f801faf2400c94acfe0dbd01ea7845228a"
+  }
+}

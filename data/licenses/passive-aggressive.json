@@ -1,0 +1,30 @@
+{
+  "key": "passive-aggressive",
+  "name": "Passive-Aggressive License",
+  "short_name": "Passive-Aggressive License",
+  "spdx_license_key": "LicenseRef-scancode-passive-aggressive",
+  "category": "Non-Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "59450e65b2a1660b303131ca8e3704a005f561673e39c5ffd570d6d657adc7eb"
+  }
+}

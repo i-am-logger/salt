@@ -1,0 +1,30 @@
+{
+  "key": "bsd-unchanged",
+  "name": "BSD Simplified with Unchanged requirement",
+  "short_name": "BSD Unchanged",
+  "spdx_license_key": "LicenseRef-scancode-bsd-unchanged",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9df2399b59b27faf3d6788cd10c283b520f6ef769481b93bd298f7683e2c12e4"
+  }
+}

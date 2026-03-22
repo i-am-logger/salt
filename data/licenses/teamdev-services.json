@@ -1,0 +1,26 @@
+{
+  "key": "teamdev-services",
+  "name": "TeamDev Services License",
+  "short_name": "TeamDev Services License",
+  "spdx_license_key": "LicenseRef-scancode-teamdev-services",
+  "category": "Commercial",
+  "homepage_url": "https://www.teamdev.com/services",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "16010dace67e655945d36a1b9f84eb77329ee37a8ab1db7e6c7a014892a27e64"
+  }
+}

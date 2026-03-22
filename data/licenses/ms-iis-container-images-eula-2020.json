@@ -1,0 +1,29 @@
+{
+  "key": "ms-iis-container-images-eula-2020",
+  "name": "Microsoft IIS Container Images EULA 202",
+  "short_name": "MS IIS Container Images EULA 2020",
+  "spdx_license_key": "LicenseRef-scancode-ms-iis-container-eula-2020",
+  "category": "Proprietary Free",
+  "homepage_url": "https://hub.docker.com/_/microsoft-windows-servercore-iis",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f9a38b72213a6a5c0ad1a37898f18aa5bcc72b79607112a72863e9f2bca110c"
+  }
+}

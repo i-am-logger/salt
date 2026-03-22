@@ -1,0 +1,33 @@
+{
+  "key": "gemma-tou-2024-04-01",
+  "name": "Gemma Terms of Use 2024-04-01",
+  "short_name": "Gemma ToU 2024-04-01",
+  "spdx_license_key": "LicenseRef-scancode-gemma-tou-2024-04-01",
+  "category": "Proprietary Free",
+  "homepage_url": "https://ai.google.dev/gemma/terms",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c4cc13b1068b9544c9354905dbccdbac9f3846b867ba1775e1fa167dc50d98e3"
+  }
+}

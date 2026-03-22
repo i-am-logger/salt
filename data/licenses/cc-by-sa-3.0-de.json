@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-sa-3.0-de",
+  "name": "Creative Commons Attribution Share Alike 3.0 Germany",
+  "short_name": "CC-BY-SA-3.0-DE",
+  "spdx_license_key": "CC-BY-SA-3.0-DE",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c246e5a738f70c6fa890a708ec64dd16260bdbb4568fdc34434f24b50a59b72a"
+  }
+}

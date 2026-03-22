@@ -1,0 +1,37 @@
+{
+  "key": "openldap-1.1",
+  "name": "OpenLDAP Public License 1.1",
+  "short_name": "OpenLDAP Public License 1.1",
+  "spdx_license_key": "OLDAP-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f",
+  "text_urls": [
+    "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7f65a1d9ad4440f4e54f5271f66d3e0e1bc3a136aa9dfb6d8de0ccedc8f20d5a"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "key": "ms-eula-win-script-host",
+  "name": "Microsoft EULA for Windows Script Host",
+  "short_name": "MS EULA for Windows Script Host",
+  "spdx_license_key": "LicenseRef-scancode-ms-eula-win-script-host",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a28c01a747d6190d05bdea4aa2edd6601e10e33f3315fbd68359ac94b8d0765d"
+  }
+}

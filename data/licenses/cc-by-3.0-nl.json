@@ -1,0 +1,29 @@
+{
+  "key": "cc-by-3.0-nl",
+  "name": "Creative Commons Attribution 3.0 Netherlands",
+  "short_name": "Creative Commons Attribution 3.0 Netherlands",
+  "spdx_license_key": "CC-BY-3.0-NL",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "496c1fa07a045be9f2497465672b255703be4d275ff1e377f5245deadaa33456"
+  }
+}

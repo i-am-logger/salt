@@ -1,0 +1,29 @@
+{
+  "key": "mit-export-control",
+  "name": "MIT with Export Control",
+  "short_name": "MIT with Export Control",
+  "spdx_license_key": "Xerox",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Xerox?rd=Licensing/Xerox",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6a1a9c7a77d20239164fe7293f282d32e73d170b6e1e743dcc677b3b5925bbd2"
+  }
+}

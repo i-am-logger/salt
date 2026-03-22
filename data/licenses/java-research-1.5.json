@@ -1,0 +1,33 @@
+{
+  "key": "java-research-1.5",
+  "name": "Java Research License Version 1.5",
+  "short_name": "Java Research License 1.5",
+  "spdx_license_key": "LicenseRef-scancode-java-research-1.5",
+  "category": "Non-Commercial",
+  "homepage_url": "http://download.java.net/jdk6/6u3/promoted/b05/jdk-6u3-fcs-src-b05-jrl-24_sep_2007.jar?q=download/jdk6/6u3/promoted/b05/jdk-6u3-fcs-src-b05-jrl-24_sep_2007.jar",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d60bdfb0ae04de1677931be0cc209be2ac6e212523957d8c84e147701cfa7edb"
+  }
+}

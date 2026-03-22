@@ -1,0 +1,32 @@
+{
+  "key": "mpeg-iso",
+  "name": "MPEG-2 NBC MPEG-4 Audio ISO License",
+  "short_name": "MPEG-2 NBC MPEG-4 Audio ISO",
+  "spdx_license_key": "LicenseRef-scancode-mpeg-iso",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "http://faac.cvs.sourceforge.net/viewvc/faac/faad/libfaad/config.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9f3736c2bc32e5a1e4aab6f222c0de48eb4e0a4562f84f6a426236078fb1e9b2"
+  }
+}

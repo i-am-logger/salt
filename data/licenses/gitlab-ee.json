@@ -1,0 +1,26 @@
+{
+  "key": "gitlab-ee",
+  "name": "GitLab Enterprise Edition (EE) license",
+  "short_name": "GitLab EE",
+  "spdx_license_key": "LicenseRef-scancode-gitlab-ee",
+  "category": "Commercial",
+  "homepage_url": "https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8e26c9091d5d7ff779dfe72d919b0aef6426a922a48584d5d9ed5983ec437c9d"
+  }
+}

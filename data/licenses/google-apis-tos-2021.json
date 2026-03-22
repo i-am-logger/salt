@@ -1,0 +1,25 @@
+{
+  "key": "google-apis-tos-2021",
+  "name": "Google APIs Terms of Service 2021",
+  "short_name": "Google APIs TOS 2021",
+  "spdx_license_key": "LicenseRef-scancode-google-apis-tos-2021",
+  "category": "Proprietary Free",
+  "homepage_url": "https://developers.google.com/terms",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4ceb93e598f10069eb915aca3be915e31d56535b3b754d754c7d4450aeaa815b"
+  }
+}

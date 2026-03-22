@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-sell-variant-critical-systems",
+  "name": "HPND - sell variant with safety critical systems clause",
+  "short_name": "HPND-SV with safety critical systems clause",
+  "spdx_license_key": "HPND-sell-variant-critical-systems",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8ea1fc37be2a6a63b02dc1b4f3a6ffd0b747ddd11f06b95e183b21c335f14555"
+  }
+}

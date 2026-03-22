@@ -1,0 +1,29 @@
+{
+  "key": "liferay-marketplace-tos",
+  "name": "Liferay Marketplace Terms of Service Agreement",
+  "short_name": "Liferay Marketplace TOS",
+  "spdx_license_key": "LicenseRef-scancode-liferay-marketplace-tos",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.liferay.com/en/legal/marketplace-terms-of-service",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cb0ec32a15143c117bbb7ce7783b702223a5d6cbfbbedbed2597d8c1e204e460"
+  }
+}

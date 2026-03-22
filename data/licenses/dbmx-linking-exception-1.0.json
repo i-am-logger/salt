@@ -1,0 +1,35 @@
+{
+  "key": "dbmx-linking-exception-1.0",
+  "name": "Kyoto Products Specific FOSS Library Linking Exception v1.0",
+  "short_name": "Kyoto Products FOSS Library Linking Exception v1.0",
+  "spdx_license_key": "LicenseRef-scancode-dbmx-linking-exception-1.0",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d894035078706a470c7023616bc08caa0e931a9d289d840a3ec4d5c249d2cd9a"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "kevan-stannard",
+  "name": "Kevan Stannard Free Software License",
+  "short_name": "Kevan Stannard License",
+  "spdx_license_key": "LicenseRef-scancode-kevan-stannard",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/jmlingeman/Network-Inference-Workspace/blob/master/algorithms/banjo/src/edu/duke/cs/banjo/utility/JZOOWildCardFilter.java#L30",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1e73392afa3bccd930ffd0ba9632135f85ed8ede0bacd1d0ef932be14b74143e"
+  }
+}

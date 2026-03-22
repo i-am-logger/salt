@@ -1,0 +1,26 @@
+{
+  "key": "odoo-pl-1.0",
+  "name": "Odoo Proprietary License v1.0",
+  "short_name": "Odoo Proprietary License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-odoo-pl-1.0",
+  "category": "Commercial",
+  "homepage_url": "https://www.odoo.com/documentation/18.0/legal/licenses.html#odoo-apps",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3571477221362abe449d9123d1bee1190c006b69221dba35e01ece072e0e6234"
+  }
+}

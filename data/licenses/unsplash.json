@@ -1,0 +1,26 @@
+{
+  "key": "unsplash",
+  "name": "Unsplash License",
+  "short_name": "Unsplash License",
+  "spdx_license_key": "LicenseRef-scancode-unsplash",
+  "category": "Free Restricted",
+  "homepage_url": "https://unsplash.com/license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "83ad11b235ffdb226427b784d2a0c5858984e689c5bd58ed8c73ceffe94d1eec"
+  }
+}

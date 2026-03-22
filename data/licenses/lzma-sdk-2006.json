@@ -1,0 +1,35 @@
+{
+  "key": "lzma-sdk-2006",
+  "name": "LZMA SDK 2006",
+  "short_name": "LZMA SDK 2006",
+  "spdx_license_key": "LicenseRef-scancode-lzma-sdk-2006",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8003883eda41c37ebf4d6c2a4d8c5bcafdd6795448598ae4dadfa3469ad26ad2"
+  }
+}

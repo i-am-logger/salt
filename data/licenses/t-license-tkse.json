@@ -1,0 +1,25 @@
+{
+  "key": "t-license-tkse",
+  "name": "T-License for T-Kernel Standard Extension",
+  "short_name": "T-License for TKSE",
+  "spdx_license_key": "LicenseRef-scancode-t-license-tkse",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.tron.org/download/index.php?route=information/information&information_id=32",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "79d2a28ad9a6cf65f3b788eb72e4e66470297d12366a484004a9d05245b9903b"
+  }
+}

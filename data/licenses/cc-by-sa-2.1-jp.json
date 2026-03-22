@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-sa-2.1-jp",
+  "name": "Creative Commons Attribution Share Alike 2.1 Japan",
+  "short_name": "Creative Commons Attribution Share Alike 2.1 Japan",
+  "spdx_license_key": "CC-BY-SA-2.1-JP",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0d2c7fb7595a0defcbf2e94a557ecc391426636bb1997bdca8a9d50b2df29dfb"
+  }
+}

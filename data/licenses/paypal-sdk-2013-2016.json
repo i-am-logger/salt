@@ -1,0 +1,29 @@
+{
+  "key": "paypal-sdk-2013-2016",
+  "name": "PayPal SDK License 2013-2016",
+  "short_name": "PayPal SDK License 2013-2016",
+  "spdx_license_key": "LicenseRef-scancode-paypal-sdk-2013-2016",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/paypal/sdk-core-ruby/blob/master/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "286e44a2f155a76b85f89b7c268227632c36a3d3d48c8dfc5e35bbca258ddb34"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "bsd-zero",
+  "name": "BSD Zero Clause License",
+  "short_name": "BSD Zero Clause License",
+  "spdx_license_key": "0BSD",
+  "category": "Permissive",
+  "homepage_url": "http://landley.net/toybox/license.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fa68653640424520bc1de98300434da6bc5c0e2fb3bbe8e466348955af2c88e7"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "ppl",
+  "name": "Peer Production License",
+  "short_name": "Peer Production License",
+  "spdx_license_key": "PPL",
+  "category": "Copyleft",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a5b5ade764e0260efdefb85c6380846b7c1e1dbaf9d533de2f5a664d84b282e1"
+  }
+}

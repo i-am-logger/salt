@@ -1,0 +1,30 @@
+{
+  "key": "zeebe-community-1.0",
+  "name": "Zeebe Community License v1.0",
+  "short_name": "Zeebe Community License v1.0",
+  "spdx_license_key": "LicenseRef-scancode-zeebe-community-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://camunda.com/legal/terms/cloud-terms-and-conditions/zeebe-community-license-v1-0/",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8680b5c16b2143f13eeacc41308e392936b492e07f014d2c41c542409669d8d6"
+  }
+}

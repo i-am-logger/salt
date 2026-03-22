@@ -1,0 +1,32 @@
+{
+  "key": "ms-azure-rtos-2020-05",
+  "name": "Microsoft Azure RTOS 2020-05",
+  "short_name": "MS Azure RTOS 2020-05",
+  "spdx_license_key": "LicenseRef-scancode-ms-azure-rtos-2020-05",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/eclipse-threadx/threadx/blob/852421fda03a7722d7adb45b187235cd66fa264e/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c4f72a130b1f047b93b0e1712b5956d40cad7087e86e7c2f91ef477ccca278bf"
+  }
+}

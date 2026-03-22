@@ -1,0 +1,38 @@
+{
+  "key": "aslr",
+  "name": "Artop Software License Based on AUTOSAR Released Material",
+  "short_name": "Artop ASLR",
+  "spdx_license_key": "LicenseRef-scancode-aslr",
+  "category": "Copyleft",
+  "homepage_url": "http://www.artop.org/aslr.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "982858e0d36d060a7dd7e16902ed93776e9488651f0b373a7a32358c447e7032"
+  }
+}

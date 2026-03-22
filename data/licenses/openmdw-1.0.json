@@ -1,0 +1,30 @@
+{
+  "key": "openmdw-1.0",
+  "name": "OpenMDW License Agreement, version 1.0",
+  "short_name": "OpenMDW-1.0",
+  "spdx_license_key": "OpenMDW-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/OpenMDW/OpenMDW/blob/main/1.0/LICENSE.openmdw",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c06e51ea814eae9f920ccf4310cb15f09e981f19fb0da3c79e756bdd04204942"
+  }
+}

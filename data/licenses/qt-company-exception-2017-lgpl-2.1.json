@@ -1,0 +1,32 @@
+{
+  "key": "qt-company-exception-2017-lgpl-2.1",
+  "name": "Qt Company Exception to LGPL 2.1 2017",
+  "short_name": "Qt Company Exception to LGPL 2.1 2017",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "56c79de6998566051f540de068fff8bab09451a446ec443a751dbeba4b484413"
+  }
+}

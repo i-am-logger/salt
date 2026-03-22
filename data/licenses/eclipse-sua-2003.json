@@ -1,0 +1,32 @@
+{
+  "key": "eclipse-sua-2003",
+  "name": "Eclipse Foundation Software User Agreement 2003",
+  "short_name": "Eclipse Foundation Software User Agreement 2003",
+  "spdx_license_key": "LicenseRef-scancode-eclipse-sua-2003",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://web.archive.org/web/20030210115256/http://www.eclipse.org/legal/notice.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6cad3a98d9e6928ae93fd5c9c5d0a1144cf36878d639da2680ad3aa9974f9d10"
+  }
+}

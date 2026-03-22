@@ -1,0 +1,29 @@
+{
+  "key": "unlimited-binary-linking",
+  "name": "Unlimited Binary Linking Exception",
+  "short_name": "Unlimited Binary Linking Exception",
+  "spdx_license_key": "LicenseRef-scancode-unlimited-binary-linking",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c62c68bd73791620bb665e71d1cac83b79be53aae7f18034209c915bca49a29c"
+  }
+}

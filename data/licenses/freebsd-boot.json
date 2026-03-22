@@ -1,0 +1,31 @@
+{
+  "key": "freebsd-boot",
+  "name": "FreeBSD Boot",
+  "short_name": "FreeBSD Boot",
+  "spdx_license_key": "LicenseRef-scancode-freebsd-boot",
+  "category": "Permissive",
+  "homepage_url": "http://freebsd.active-venture.com/FreeBSD-srctree/newsrc/boot/i386/boot2/boot2.c.html",
+  "text_urls": [
+    "http://freebsd.active-venture.com/FreeBSD-srctree/newsrc/boot/i386/boot2/boot2.c.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6320cc51a2af5033e6440ee6f6f6acfaf0ab395bc745e0fb33654af0081e848b"
+  }
+}

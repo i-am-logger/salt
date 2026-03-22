@@ -1,0 +1,32 @@
+{
+  "key": "tidy",
+  "name": "Tidy License",
+  "short_name": "Tidy License",
+  "spdx_license_key": "HTMLTIDY",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "55bf82f9940f5480522df90069758c2df5ed50618e170a298786065e8475a8ae"
+  }
+}

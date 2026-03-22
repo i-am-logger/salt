@@ -1,0 +1,40 @@
+{
+  "key": "scsl-3.0",
+  "name": "Sun Community Source License 3.0",
+  "short_name": "Sun Community Source License 3.0",
+  "spdx_license_key": "LicenseRef-scancode-scsl-3.0",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2bebe50d6b67faa135679f4d61f4f31a202ce95bc6b22039d66a2b8465793f63"
+  }
+}

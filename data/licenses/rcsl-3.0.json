@@ -1,0 +1,36 @@
+{
+  "key": "rcsl-3.0",
+  "name": "RealNetworks Community Source License v3.0",
+  "short_name": "RCSL R&D 3.0",
+  "spdx_license_key": "LicenseRef-scancode-rcsl-3.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://helixcommunity.org/content/rcsl",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "54aeb0f9ab2487e5f5fc8da8fc4386b945800a2363c8efba73e6fa27d0c5fa91"
+  }
+}

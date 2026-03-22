@@ -1,0 +1,25 @@
+{
+  "key": "powervr-tools-software-eula",
+  "name": "PowerVR Tools Software End User License Agreement",
+  "short_name": "PowerVR Tools Software EULA",
+  "spdx_license_key": "LicenseRef-scancode-powervr-tools-software-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.imgtec.com/developers/powervr-sdk-tools/powervr-tools-software-eula/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "35ba4aa3d8572efe317fdd7e1557e325e18f5e3e783bfe85c7d9a18065a6797c"
+  }
+}

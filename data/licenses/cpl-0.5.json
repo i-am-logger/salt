@@ -1,0 +1,39 @@
+{
+  "key": "cpl-0.5",
+  "name": "Common Public License 0.5",
+  "short_name": "CPL 0.5",
+  "spdx_license_key": "LicenseRef-scancode-cpl-0.5",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.eclipse.org/legal/cpl-v05.html",
+  "text_urls": [
+    "http://www.eclipse.org/legal/cpl-v05.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4a4712f6918f5013ba0643d1601507f2b9a8e6472ff4b5657e204924d10805d4"
+  }
+}

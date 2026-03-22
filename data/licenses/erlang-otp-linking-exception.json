@@ -1,0 +1,32 @@
+{
+  "key": "erlang-otp-linking-exception",
+  "name": "Erlang/OTP Linking Exception",
+  "short_name": "Erlang/OTP Linking Exception",
+  "spdx_license_key": "erlang-otp-linking-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "662d5ed60701bd4562a625fcf3b075f2bf9d0e67c5648e6fb62267a568d99b07"
+  }
+}

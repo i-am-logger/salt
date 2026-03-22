@@ -1,0 +1,25 @@
+{
+  "key": "ms-device-emulator-3.0",
+  "name": "Microsoft Device Emulator 3.0",
+  "short_name": "MS Device Emulator 3.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-device-emulator-3.0",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4afe369d6522e21c1e74c921232f02c4080bb102d3e80504d2cd76da9756aa8c"
+  }
+}

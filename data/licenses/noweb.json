@@ -1,0 +1,35 @@
+{
+  "key": "noweb",
+  "name": "Noweb License",
+  "short_name": "Noweb License",
+  "spdx_license_key": "Noweb",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing:Noweb?rd=Licensing/Noweb",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "19693bed80e6fe90bc69616a0dc76250252725473816187b36b6ea483784e9ca"
+  }
+}

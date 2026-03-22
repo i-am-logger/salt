@@ -1,0 +1,30 @@
+{
+  "key": "snapeda-design-exception-1.0",
+  "name": "SnapEDA Design Exception 1.0",
+  "short_name": "SnapEDA Design Exception 1.0",
+  "spdx_license_key": "LicenseRef-scancode-snapeda-design-exception-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.snapeda.com/about/terms/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b90fae90f90c18a057f8582ea5b368d4c0e3e501730aa284691acf94729e7ed5"
+  }
+}

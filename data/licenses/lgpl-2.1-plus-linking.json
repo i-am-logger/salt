@@ -1,0 +1,37 @@
+{
+  "key": "lgpl-2.1-plus-linking",
+  "name": "LGPL 2.1 or later with Linking exception",
+  "short_name": "LGPL 2.1 or later with Linking exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [
+    "http://sources.redhat.com/git/gitweb.cgi?p=glibc.git;a=blob;f=libio/libio.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "258948c46d9d87e6bc53c68037c8f8bf018fc940ea4a6e1fc480f43e59e7e92d"
+  }
+}

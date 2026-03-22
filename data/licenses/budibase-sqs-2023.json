@@ -1,0 +1,22 @@
+{
+  "key": "budibase-sqs-2023",
+  "name": "Budibase SQS License 2023",
+  "short_name": "Budibase SQS License 2023",
+  "spdx_license_key": "LicenseRef-scancode-budibase-sqs-2023",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/Budibase/budibase/blob/master/SQS_LICENSE",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c09be7d79cbe146cbdc69448e84742a056421b395e32ad6c3385c5b68437e902"
+  }
+}

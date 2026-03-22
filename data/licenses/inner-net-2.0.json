@@ -1,0 +1,29 @@
+{
+  "key": "inner-net-2.0",
+  "name": "Inner Net License 2.0",
+  "short_name": "Inner Net 2.0",
+  "spdx_license_key": "Inner-Net-2.0",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a24074c3a81bca66036daff4a487657a2f03f3a6d3da34ddc79dac3e46b03670"
+  }
+}

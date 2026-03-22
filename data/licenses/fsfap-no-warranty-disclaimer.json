@@ -1,0 +1,26 @@
+{
+  "key": "fsfap-no-warranty-disclaimer",
+  "name": "FSF All Permissive License (without Warranty)",
+  "short_name": "FSF All Permissive License (without Warranty)",
+  "spdx_license_key": "FSFAP-no-warranty-disclaimer",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cc2142649cdf49fe1b1f342463378255b13e4d2562347681bfa54219d654bee4"
+  }
+}

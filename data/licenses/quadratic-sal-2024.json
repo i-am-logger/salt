@@ -1,0 +1,33 @@
+{
+  "key": "quadratic-sal-2024",
+  "name": "Quadratic Source Available License 2024",
+  "short_name": "Quadratic Source Available License 2024",
+  "spdx_license_key": "LicenseRef-scancode-quadratic-sal-2024",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/quadratichq/quadratic/blob/qa/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "493e34c14ee15f7551c1614a1b0300cf4c5cf8b67814c92f40c6ccc8cb09b96b"
+  }
+}

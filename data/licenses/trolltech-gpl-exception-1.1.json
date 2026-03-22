@@ -1,0 +1,38 @@
+{
+  "key": "trolltech-gpl-exception-1.1",
+  "name": "Trolltech GPL Exception version v1.1",
+  "short_name": "Trolltech GPL Exception 1.1",
+  "spdx_license_key": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+  "category": "Copyleft",
+  "homepage_url": "https://doc.qt.io/archives/4.3/license-gpl-exceptions.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0cf0748ac318b392100ed80f5465771fed2db368bca5f17b8f9069336a067054"
+  }
+}

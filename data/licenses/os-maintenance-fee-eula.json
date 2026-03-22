@@ -1,0 +1,25 @@
+{
+  "key": "os-maintenance-fee-eula",
+  "name": "Open Source Maintenance Fee EULA",
+  "short_name": "Open Source Maintenance Fee EULA",
+  "spdx_license_key": "LicenseRef-scancode-os-maintenance-fee-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://opensourcemaintenancefee.org/maintainers/eulas/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f87ca1b02d039cadb98b2bd49d49354d6a44923d77f169c101191a6e0ba03b12"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "key": "liliq-r-1.1",
+  "name": "Licence Libre du Québec – Réciprocité version 1.1",
+  "short_name": "LiLiQ-R-1.1",
+  "spdx_license_key": "LiLiQ-R-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://opensource.org/licenses/LiLiQ-R-1.1",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "cf080b20fc195917c93a3d105cfc2d3771fab0a38d9e8853aa18ccf19c98a2ca"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "tested-software",
+  "name": "Tested Software License",
+  "short_name": "Tested Software License",
+  "spdx_license_key": "LicenseRef-scancode-tested-software",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e468255e101c5ea83c1940c95cb7525ea9ebcd9b27e2682dfba57e9f5512dd54"
+  }
+}

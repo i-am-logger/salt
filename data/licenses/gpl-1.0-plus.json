@@ -1,0 +1,40 @@
+{
+  "key": "gpl-1.0-plus",
+  "name": "GNU General Public License 1.0 or later",
+  "short_name": "GPL 1.0 or later",
+  "spdx_license_key": "GPL-1.0-or-later",
+  "category": "Copyleft",
+  "homepage_url": "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
+  "text_urls": [
+    "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8fff8879d7127e84b3e2ebb79a134273887cb578b9a4fd815743073958c70d19"
+  }
+}

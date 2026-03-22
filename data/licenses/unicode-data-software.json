@@ -1,0 +1,31 @@
+{
+  "key": "unicode-data-software",
+  "name": "Unicode License Agreement - Data Files and Software",
+  "short_name": "Unicode - Data Files and Software",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "http://unicode.org/",
+  "text_urls": [
+    "http://unicode.org/copyright.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "07172f55e1ca738796816d62b73cb2e388ecc927ca57bc8df5c4ed0f2ffea6af"
+  }
+}

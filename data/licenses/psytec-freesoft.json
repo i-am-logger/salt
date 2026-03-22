@@ -1,0 +1,31 @@
+{
+  "key": "psytec-freesoft",
+  "name": "Psytec Free Software License",
+  "short_name": "Psytec Free Software License",
+  "spdx_license_key": "LicenseRef-scancode-psytec-freesoft",
+  "category": "Permissive",
+  "homepage_url": "http://www.psytec.co.jp/freesoft/02/#L04",
+  "text_urls": [
+    "http://www.psytec.co.jp/freesoft/02/#L04"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ffdba4d6e8acb6480fab6bbceb5146690bcc81a458909b9e7c10b16d66e071de"
+  }
+}

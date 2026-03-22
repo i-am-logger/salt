@@ -1,0 +1,40 @@
+{
+  "key": "gpl-2.0-plus-geoserver",
+  "name": "GPL 2.0 or later with GeoServer exception",
+  "short_name": "GPL 2.0 or later with GeoServer exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://geoserver.org/",
+  "text_urls": [
+    "https://master.dl.sourceforge.net/project/geoserver/GeoServer/2.5/geoserver-2.5-src.zip"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8a2713d2021491b7c0bce394b94816e857bc25d44acc09497275a0d3401030d7"
+  }
+}

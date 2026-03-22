@@ -1,0 +1,29 @@
+{
+  "key": "plastimatch-1.0",
+  "name": "Plastimatch Software License Version 1.0",
+  "short_name": "Plastimatch 1.0",
+  "spdx_license_key": "LicenseRef-scancode-plastimatch-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://gitlab.com/plastimatch/plastimatch/-/blob/master/src/LICENSE.TXT?ref_type=heads",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "78fbca0321ab41ab4775b8c88919325d41c6679b46d01e4ce7b32ad7452950be"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "adi-bsd",
+  "name": "ADI BSD License",
+  "short_name": "ADI BSD",
+  "spdx_license_key": "LicenseRef-scancode-adi-bsd",
+  "category": "Permissive",
+  "homepage_url": "https://docs.blackfin.uclinux.org/doku.php?id=adi_bsd",
+  "text_urls": [
+    "https://docs.blackfin.uclinux.org/doku.php?id=adi_bsd"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9e21b2c1326ec76662dd69812af42ab948d8956acbc9c92ed6bee3677cbd1c48"
+  }
+}

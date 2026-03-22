@@ -1,0 +1,29 @@
+{
+  "key": "hpnd-export-us",
+  "name": "HPND with US Government export control warning",
+  "short_name": "HPND with US Government export control warning",
+  "spdx_license_key": "HPND-export-US",
+  "category": "Free Restricted",
+  "homepage_url": "https://www.kermitproject.org/ck90.html#source",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "25311563d75f804039a92d161e6c73e3ea129d5c74723a4a067bf0487a23a03e"
+  }
+}

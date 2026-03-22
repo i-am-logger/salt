@@ -1,0 +1,29 @@
+{
+  "key": "takao-abe",
+  "name": "Takao Abe License",
+  "short_name": "Takao Abe License",
+  "spdx_license_key": "LicenseRef-scancode-takao-abe",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0539657cc30bdebb5e20120cf436a8b8220ac2129eb06bef7c8c599493083cfe"
+  }
+}

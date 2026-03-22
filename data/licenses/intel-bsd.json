@@ -1,0 +1,32 @@
+{
+  "key": "intel-bsd",
+  "name": "Intel BSD License",
+  "short_name": "Intel BSD License",
+  "spdx_license_key": "BSD-3-Clause-acpica",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://git.kernel.org/pub/scm/linux/kernel/git/history/history.git/tree/include/acpi/acoutput.h?h=v2.6.24&id=f9f4601f331aa1226d7a798a01950efbb388f07f",
+    "https://github.com/rwatson/mbufs/blob/748b87203d7219fd9fe2f73894359a6301ce5be1/sys/xen/xenstore/xenstore_internal.h"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8987f1313991fc5c1f363849ed0973cad6c38fd70c5a668228b38d58a427cf78"
+  }
+}

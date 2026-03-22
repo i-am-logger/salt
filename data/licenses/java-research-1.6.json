@@ -1,0 +1,33 @@
+{
+  "key": "java-research-1.6",
+  "name": "Java Research License Version 1.6",
+  "short_name": "Java Research License 1.6",
+  "spdx_license_key": "LicenseRef-scancode-java-research-1.6",
+  "category": "Non-Commercial",
+  "homepage_url": "https://web.archive.org/web/20070112020225/http://www.java.net/jrl.csp",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3def226fdef9318c17afce060b6fa24bba1476daf5551ca456374c616fca4576"
+  }
+}

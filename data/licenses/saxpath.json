@@ -1,0 +1,29 @@
+{
+  "key": "saxpath",
+  "name": "Saxpath License",
+  "short_name": "Saxpath License",
+  "spdx_license_key": "Saxpath",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/Saxpath_License",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "11f32e7168ea2c4c7ccf558ddf47a9c40edbc845b90778109754eb6844df7819"
+  }
+}

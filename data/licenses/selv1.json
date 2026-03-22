@@ -1,0 +1,30 @@
+{
+  "key": "selv1",
+  "name": "Stalwart Enterprise License 1.0 (SELv1) Agreement",
+  "short_name": "SELv1",
+  "spdx_license_key": "LicenseRef-scancode-selv1",
+  "category": "Commercial",
+  "homepage_url": "https://github.com/stalwartlabs/mail-server/blob/main/LICENSES/LicenseRef-SEL.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e37291a5a1e4dbbae6be7347027578efb0423386a57b9deba4428d11a0ac785b"
+  }
+}

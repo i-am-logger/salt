@@ -1,0 +1,29 @@
+{
+  "key": "bsd-systemics",
+  "name": "Systemics BSD variant license",
+  "short_name": "Systemics BSD variant license",
+  "spdx_license_key": "BSD-Systemics",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a5b47a15711362224b6cade927bd7d3024d2a3fe2ad940d6ced03ad3981fa8d7"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "adacore-doc",
+  "name": "AdaCore Doc License",
+  "short_name": "AdaCore Doc License",
+  "spdx_license_key": "AdaCore-doc",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a3d943ec799c097e1001a639591542860b5234f4a695a6a3973bcf185655c577"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "volla-1.0",
+  "name": "Volla Licence 1.0",
+  "short_name": "Volla Licence 1.0",
+  "spdx_license_key": "LicenseRef-scancode-volla-1.0",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/HelloVolla/volla-chat/blob/release-script/LICENSE.txt",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "80cced44bc730c7dbfb15473fe50935c1f45fc553ac1bfbc215a8ae6461aafea"
+  }
+}

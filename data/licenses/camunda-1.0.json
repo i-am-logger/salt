@@ -1,0 +1,32 @@
+{
+  "key": "camunda-1.0",
+  "name": "Camunda License 1.0",
+  "short_name": "Camunda License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-camunda-1.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/camunda/camunda/blob/main/licenses/CAMUNDA-LICENSE-1.0.txt",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "036cf9bbd9633152b212564b129ff11115b33bf1b9d78165d82fcae8996619b8"
+  }
+}

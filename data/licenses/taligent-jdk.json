@@ -1,0 +1,25 @@
+{
+  "key": "taligent-jdk",
+  "name": "Taligent JDK Proprietary Notice",
+  "short_name": "Taligent JDK Proprietary Notice",
+  "spdx_license_key": "LicenseRef-scancode-taligent-jdk",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/typetools/checker-framework/blob/3c427f380f61f234688893467d9bc433cf1a584c/checker/jdk/index/src/java/sun/util/resources/OpenListResourceBundle.java#L26-L39",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f0b727e0b4256f7ef37d5c7a339d91352a4bd09f3f002c8ca7d2fb38dfc445a3"
+  }
+}

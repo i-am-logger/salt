@@ -1,0 +1,31 @@
+{
+  "key": "x11-dec1",
+  "name": "X11-Style (DEC 1)",
+  "short_name": "X11-Style (DEC 1)",
+  "spdx_license_key": "LicenseRef-scancode-x11-dec1",
+  "category": "Permissive",
+  "homepage_url": "http://www.xfree86.org/current/LICENSE5.html",
+  "text_urls": [
+    "http://www.xfree86.org/current/LICENSE5.html"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "84196abb1c0e48d348707ed00158601a1b4b2a4cacbf902394c33d9852c0aef2"
+  }
+}

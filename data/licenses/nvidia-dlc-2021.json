@@ -1,0 +1,32 @@
+{
+  "key": "nvidia-dlc-2021",
+  "name": "NVIDIA Deep Learning Container License 2021",
+  "short_name": "NVIDIA Deep Learning Container License 2021",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-dlc-2021",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "https://developer.download.nvidia.com/licenses/NVIDIA_Deep_Learning_Container_License.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8f57bf2bf057060d41b634e167338c1b6178793caba5fee697dd917c63ae260d"
+  }
+}

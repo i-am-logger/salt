@@ -1,0 +1,35 @@
+{
+  "key": "info-zip-2002-02",
+  "name": "Info-Zip License 2002-02",
+  "short_name": "Info-Zip License 2002-02",
+  "spdx_license_key": "LicenseRef-scancode-info-zip-2002-02",
+  "category": "Permissive",
+  "homepage_url": "http://www.info-zip.org/",
+  "text_urls": [
+    "http://web.archive.org/web/20020603162955/http://www.info-zip.org/license.html",
+    "http://web.archive.org/web/20030409023329/http://www.info-zip.org/doc/LICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "08d1c2144c38fd15f2c6e7ac092b8ba494b681974bf3a264a14e46391b487cab"
+  }
+}

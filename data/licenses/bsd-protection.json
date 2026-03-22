@@ -1,0 +1,37 @@
+{
+  "key": "bsd-protection",
+  "name": "BSD Protection License",
+  "short_name": "BSD Protection License",
+  "spdx_license_key": "BSD-Protection",
+  "category": "Copyleft",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/BSD_Protection_License",
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing/BSD_Protection_License"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "68560a3999ec76ba014b1721f4b0357eae4f54d3a3f049e02ff8af2bf80879d9"
+  }
+}

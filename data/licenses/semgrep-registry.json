@@ -1,0 +1,25 @@
+{
+  "key": "semgrep-registry",
+  "name": "Semgrep Registry License",
+  "short_name": "Semgrep Registry License",
+  "spdx_license_key": "LicenseRef-scancode-semgrep-registry",
+  "category": "Source-available",
+  "homepage_url": "https://web.archive.org/web/20220701195047/https://semgrep.dev/docs/licensing/",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "934e4d6fb14f315061975a9cf3d0f17d1f8438fc3af58e247a1cb621be8f6709"
+  }
+}

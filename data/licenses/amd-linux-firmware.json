@@ -1,0 +1,29 @@
+{
+  "key": "amd-linux-firmware",
+  "name": "AMD Linux Firmware License",
+  "short_name": "AMD Linux Firmware License",
+  "spdx_license_key": "LicenseRef-scancode-amd-linux-firmware",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/LICENSE.radeon",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "63cf2a18c28fd7677aaff2346beab027e2c493d68c737b742c5fa5b4a6f81fa9"
+  }
+}

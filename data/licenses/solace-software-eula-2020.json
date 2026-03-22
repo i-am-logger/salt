@@ -1,0 +1,28 @@
+{
+  "key": "solace-software-eula-2020",
+  "name": "Solace-Software-EULA-2020",
+  "short_name": "Solace-Software-EULA-2020",
+  "spdx_license_key": "LicenseRef-scancode-solace-software-eula-2020",
+  "category": "Non-Commercial",
+  "homepage_url": "https://solace.com/license-software/",
+  "text_urls": [
+    "https://solace.com/wp-content/uploads/2019/03/Solace-Software-EULA.pdf"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3aab6fe40ae9ab3033976368091d1ce69fcdbe74474d9406eda5eb7fa1f27d3e"
+  }
+}

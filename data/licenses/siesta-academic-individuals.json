@@ -1,0 +1,33 @@
+{
+  "key": "siesta-academic-individuals",
+  "name": "Siesta Academic Licence for Individuals",
+  "short_name": "Siesta Academic Licence for Individuals",
+  "spdx_license_key": "LicenseRef-scancode-siesta-academic-individuals",
+  "category": "Non-Commercial",
+  "homepage_url": "https://web.archive.org/web/20160302091445/http://departments.icmab.es/leem/siesta/CodeAccess/academic-licence.html",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "008273488f0245ee72bfdd392ad11d30cfdc6b9334ae07cecaaf1a5d504a035d"
+  }
+}

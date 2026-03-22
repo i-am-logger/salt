@@ -1,0 +1,38 @@
+{
+  "key": "swi-exception",
+  "name": "SWI exception to GPL 2.0 or later",
+  "short_name": "SWI exception to GPL 2.0 or later",
+  "spdx_license_key": "SWI-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://github.com/SWI-Prolog/packages-clpqr/blob/bfa80b9270274f0800120d5b8e6fef42ac2dc6a5/clpqr/class.pl",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "711bec3760665e57c11dc43c9d40be30a661ca27b7441b6c2f4005d10a7e74d0"
+  }
+}

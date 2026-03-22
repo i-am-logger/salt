@@ -1,0 +1,29 @@
+{
+  "key": "ttf2pt1",
+  "name": "TTF2PT1 Project License",
+  "short_name": "TTF2PT1 Project License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "66d0e9a442443263f708ab8a0a484e7ac9fcc0e32940cc1efe3c2a2a2a05200f"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "free-unknown",
+  "name": "Free unknown license detected but not recognized",
+  "short_name": "Free unknown",
+  "spdx_license_key": "LicenseRef-scancode-free-unknown",
+  "category": "Unstated License",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f7424663854b9dcdb19897e128f015d334f29158b5ef3bdaa2c9e3e37dda618"
+  }
+}

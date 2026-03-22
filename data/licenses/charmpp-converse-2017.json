@@ -1,0 +1,30 @@
+{
+  "key": "charmpp-converse-2017",
+  "name": "Charm++/Converse License 2017",
+  "short_name": "Charm++/Converse License 2017",
+  "spdx_license_key": "LicenseRef-scancode-charmpp-converse-2017",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/charmplusplus/charm4py/blob/fb67656fc0f39773c567fcc4181fbf76429fe5ab/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "514353bcf519c590e4b7571ff010bfbef397a68d89987fef36bc20d86553d103"
+  }
+}

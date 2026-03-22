@@ -1,0 +1,31 @@
+{
+  "key": "jboss-eula",
+  "name": "JBoss EULA",
+  "short_name": "JBoss EULA",
+  "spdx_license_key": "LicenseRef-scancode-jboss-eula",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [
+    "http://repository.jboss.org/licenses/jbossorg-eula.txt"
+  ],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f3dbb1621abde5511434a3dca7e561bf339fbd7722fd77e8f7289d9c08b53869"
+  }
+}

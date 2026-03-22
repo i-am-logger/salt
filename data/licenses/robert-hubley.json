@@ -1,0 +1,29 @@
+{
+  "key": "robert-hubley",
+  "name": "Robert Hubley License",
+  "short_name": "Robert Hubley License",
+  "spdx_license_key": "LicenseRef-scancode-robert-hubley",
+  "category": "Permissive",
+  "homepage_url": "http://www.bullzip.com/md5/vb/md5-vb-class.htm",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9325b1c9bef99abb6640f493091dcadbf9c804b89dc8c7098ee926441717fea2"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "binary-linux-firmware-patent",
+  "name": "Binary-Only Linux Firmware Patent License",
+  "short_name": "Binary-Only Linux Firmware Patent License",
+  "spdx_license_key": "LicenseRef-scancode-binary-linux-firmware-patent",
+  "category": "Proprietary Free",
+  "homepage_url": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c2348b8925b9fcab3fc0571619f07286e0dfb98c9c1c2427ec2706a67a7e4280"
+  }
+}

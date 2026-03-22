@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-nc-2.0",
+  "name": "Creative Commons Attribution Non-Commercial 2.0",
+  "short_name": "CC-BY-NC-2.0",
+  "spdx_license_key": "CC-BY-NC-2.0",
+  "category": "Non-Commercial",
+  "homepage_url": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "text_urls": [
+    "http://creativecommons.org/licenses/by-nc/2.0/legalcode"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5d317ea934d4b58f5c80288afc676644e8bc0ff2e2f97ca5b0963caf1f43a986"
+  }
+}

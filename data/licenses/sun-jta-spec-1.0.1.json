@@ -1,0 +1,25 @@
+{
+  "key": "sun-jta-spec-1.0.1",
+  "name": "Sun JTA Specification License v1.0.1",
+  "short_name": "Sun JTA Specification License 1.0.1",
+  "spdx_license_key": "LicenseRef-scancode-sun-jta-spec-1.0.1",
+  "category": "Proprietary Free",
+  "homepage_url": "http://download.oracle.com/otndocs/jcp/7286-jta-1.0.1-spec-oth-JSpec/?submit=Download",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "45494abcae9f70ba4b0360c17509887599572ebfeaaf3dcb9d003b16dd41d033"
+  }
+}

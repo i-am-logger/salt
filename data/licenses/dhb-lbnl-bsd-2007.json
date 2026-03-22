@@ -1,0 +1,31 @@
+{
+  "key": "dhb-lbnl-bsd-2007",
+  "name": "David H. Bailey LBNL BSD License 2007",
+  "short_name": "DHB LBNL BSD License 2007",
+  "spdx_license_key": "LicenseRef-scancode-dhb-lbnl-bsd-2007",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.davidhbailey.com/dhbsoftware/",
+  "text_urls": [
+    "https://www.davidhbailey.com/dhbsoftware/LBNL-BSD-License.docx"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "bbc3a159b9096b4a0360060fa51542dc5109fc10a6b1bdc740fa6e0a2f55d541"
+  }
+}

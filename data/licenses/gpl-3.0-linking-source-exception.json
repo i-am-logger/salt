@@ -1,0 +1,36 @@
+{
+  "key": "gpl-3.0-linking-source-exception",
+  "name": "GPL-3.0 Linking Exception (with Corresponding Source)",
+  "short_name": "GPL-3.0 Linking Source Exception",
+  "spdx_license_key": "GPL-3.0-linking-source-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.gnu.org/licenses/gpl-faq.en.html#GPLIncompatibleLibs",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a1801daecaeab302b01c1e0bb087bd5ff0043dc510684ac034d7e1e849643184"
+  }
+}

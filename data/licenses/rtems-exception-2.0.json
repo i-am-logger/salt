@@ -1,0 +1,37 @@
+{
+  "key": "rtems-exception-2.0",
+  "name": "RTEMS exception to GPL 2.0",
+  "short_name": "RTEMS exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-rtems-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://www.rtems.org/license/license/",
+  "text_urls": [
+    "https://www.rtems.org/license/license/license.pdf"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "01ec7bda09778c3bd2f46523f50aed8ee9b0205076efe48cc8016e60d5ee105f"
+  }
+}

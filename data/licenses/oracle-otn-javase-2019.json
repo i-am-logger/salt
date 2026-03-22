@@ -1,0 +1,25 @@
+{
+  "key": "oracle-otn-javase-2019",
+  "name": "Oracle Technology Network License Agreement for Oracle Java SE",
+  "short_name": "OTN for Oracle Java SE 2019",
+  "spdx_license_key": "LicenseRef-scancode-oracle-otn-javase-2019",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.oracle.com/downloads/licenses/oracle-javase-license.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f125333605a21b9a6084247f97e8c19c809e7d3af9fbf2eae6e77de37368ccf6"
+  }
+}

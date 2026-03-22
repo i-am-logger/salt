@@ -1,0 +1,25 @@
+{
+  "key": "selinux-nsa-declaration-1.0",
+  "name": "selinux-nsa-declaration-1.0",
+  "short_name": "selinux-nsa-declaration-1.0",
+  "spdx_license_key": "libselinux-1.0",
+  "category": "Public Domain",
+  "homepage_url": "https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1efb1031677191b5b3c4ca7761fd12d942d2b75606850891305206a6126e1b7d"
+  }
+}

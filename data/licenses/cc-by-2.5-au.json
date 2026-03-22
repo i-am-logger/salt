@@ -1,0 +1,29 @@
+{
+  "key": "cc-by-2.5-au",
+  "name": "Creative Commons Attribution 2.5 Australia",
+  "short_name": "Creative Commons Attribution 2.5 Australia",
+  "spdx_license_key": "CC-BY-2.5-AU",
+  "category": "Permissive",
+  "homepage_url": "http://creativecommons.org/licenses/by/2.5/au/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "11550e4ee6af18c4fc3c08aa71bea343f16651dab638a7f4f8dfcd11822c982e"
+  }
+}

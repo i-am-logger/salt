@@ -1,0 +1,30 @@
+{
+  "key": "nvidia-nccl-sla-2016",
+  "name": "NVIDIA NCCL SLA 2016",
+  "short_name": "NVIDIA NCCL SLA 2016",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-nccl-sla-2016",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.nvidia.com/deeplearning/nccl/archives/nccl_2251/sla/index.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "72c7b3fe5e428f6890c8a744f0e95fb8c25cd7a8d645128409aea694c7a3845f"
+  }
+}

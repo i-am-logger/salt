@@ -1,0 +1,29 @@
+{
+  "key": "android-sdk-2009",
+  "name": "Android Software Development Kit License Agreement 2009",
+  "short_name": "Android SDK License 2009",
+  "spdx_license_key": "LicenseRef-scancode-android-sdk-2009",
+  "category": "Proprietary Free",
+  "homepage_url": "https://android.googlesource.com/platform/prebuilts/sdk/+/master/NOTICE",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e1e3584e6ec69e377632d39e436c00465f73d1edaaac0556194ba1cd38c563b8"
+  }
+}

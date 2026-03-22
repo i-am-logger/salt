@@ -1,0 +1,41 @@
+{
+  "key": "erlangpl-1.1",
+  "name": "Erlang Public License v1.1",
+  "short_name": "Erlang Public License 1.1",
+  "spdx_license_key": "ErlPL-1.1",
+  "category": "Copyleft",
+  "homepage_url": "http://www.erlang.org/EPLICENSE",
+  "text_urls": [
+    "http://www.erlang.org/EPLICENSE"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "05183c3bb6120df0b6fcee7258135815839c7231622ad9d9f19affe7bcccffea"
+  }
+}

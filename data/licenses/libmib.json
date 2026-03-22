@@ -1,0 +1,29 @@
+{
+  "key": "libmib",
+  "name": "LibMib License",
+  "short_name": "LibMib License",
+  "spdx_license_key": "LicenseRef-scancode-libmib",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5590ce8774d603ac7e2083fcdbe66c01fc6181db7ebd519856f424f7693429b4"
+  }
+}

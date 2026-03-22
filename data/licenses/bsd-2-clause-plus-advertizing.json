@@ -1,0 +1,29 @@
+{
+  "key": "bsd-2-clause-plus-advertizing",
+  "name": "BSD-2-Clause-plus-advertizing",
+  "short_name": "BSD-2-Clause-plus-advertizing",
+  "spdx_license_key": "LicenseRef-scancode-bsd-2-clause-plus-advertizing",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b7113984b2948efc044dad4136bda28f1205441b11fc72df670f7f5ac131062f"
+  }
+}

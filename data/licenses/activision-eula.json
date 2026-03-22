@@ -1,0 +1,26 @@
+{
+  "key": "activision-eula",
+  "name": "Activision EULA",
+  "short_name": "Activision EULA",
+  "spdx_license_key": "LicenseRef-scancode-activision-eula",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.doomworld.com/eternity/activision_eula.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "22df086bf990cd57473926049b0ce781b1fbf5fb60696368bd718daac227817e"
+  }
+}

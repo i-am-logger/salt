@@ -1,0 +1,32 @@
+{
+  "key": "matthew-kwan",
+  "name": "Matthew Kwan License",
+  "short_name": "Matthew Kwan License",
+  "spdx_license_key": "LicenseRef-scancode-matthew-kwan",
+  "category": "Permissive",
+  "homepage_url": "http://www.darkside.com.au/bitslice/",
+  "text_urls": [
+    "http://www.darkside.com.au/bitslice/sboxes.c",
+    "http://www.darkside.com.au/bitslice/nonstd.c"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5d52e73216ca38af9791a1bc3f3adbb96ca94c22bbbf6d0a28295a9f9a16e5d4"
+  }
+}

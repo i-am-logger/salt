@@ -1,0 +1,30 @@
+{
+  "key": "lsi-proprietary-eula",
+  "name": "LSI Proprietary EULA",
+  "short_name": "LSI Proprietary EULA",
+  "spdx_license_key": "LicenseRef-scancode-lsi-proprietary-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.lsi.com/Pages/user/eula.aspx",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "f5940b13b47c92365fea9915f11e599009027b7800b280b797e11456720689fb"
+  }
+}

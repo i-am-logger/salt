@@ -1,0 +1,31 @@
+{
+  "key": "bsd-export",
+  "name": "BSD-Export",
+  "short_name": "BSD-Export",
+  "spdx_license_key": "LicenseRef-scancode-bsd-export",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://download.juniper.net/disclosure/attributions/junos/10.4R1.9/disclosures.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c351bfcdc8e3c3d7508676f3cd3fdc93e5d0e305c57f1f22ccef1da3a0f4dbb1"
+  }
+}

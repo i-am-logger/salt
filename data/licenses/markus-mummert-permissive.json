@@ -1,0 +1,29 @@
+{
+  "key": "markus-mummert-permissive",
+  "name": "Markus Mummert Permissive",
+  "short_name": "Markus Mummert Permissive",
+  "spdx_license_key": "LicenseRef-scancode-markus-mummert-permissive",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/festvox/flite/blob/master/src/speech/rateconv.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "821d9f6324c3fcf97770ecefad17a63bfe65266db9b56966b297800b091dbfeb"
+  }
+}

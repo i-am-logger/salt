@@ -1,0 +1,38 @@
+{
+  "key": "gpl-2.0-oracle-mysql-foss",
+  "name": "GPL 2.0 with Oracle MySQL FOSS exception",
+  "short_name": "GPL 2.0 with Oracle MySQL FOSS exception",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": "http://www.mysql.com/about/legal/licensing/foss-exception.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "54a80f5878afa87c0811f1d4a551ea3c0e0430630cdf27b081e5a3db076aab78"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ms-typescript-msbuild-4.1.4",
+  "name": "Microsoft TypeScript MSBuild 4.1.4",
+  "short_name": "MS TypeScript MSBuild 4.1.4",
+  "spdx_license_key": "LicenseRef-scancode-ms-typescript-msbuild-4.1.4",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Microsoft.TypeScript.MSBuild/4.1.4/License",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d40d616ec53dde42e2afc15a18740dd91a8df7cc57f66f38829c5aee4c916fe7"
+  }
+}

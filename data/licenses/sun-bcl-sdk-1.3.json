@@ -1,0 +1,25 @@
+{
+  "key": "sun-bcl-sdk-1.3",
+  "name": "Sun BCL SDK 1.3",
+  "short_name": "Sun BCL SDK 1.3",
+  "spdx_license_key": "LicenseRef-scancode-sun-bcl-sdk-1.3",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2cbebca3d03f1b7dfa9529e838ecbdceaf8b236676e074a9728fc3d033042812"
+  }
+}

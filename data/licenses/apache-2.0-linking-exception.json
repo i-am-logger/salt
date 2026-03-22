@@ -1,0 +1,34 @@
+{
+  "key": "apache-2.0-linking-exception",
+  "name": "Apache 2.0 with Linking Exception",
+  "short_name": "Apache 2.0 with Linking Exception",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/compuphase/minIni/blob/master/LICENSE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a31a91a6ea2c870a057712c2d9b7776ed49ecfb76e9646a540df25fbd3c2d68f"
+  }
+}

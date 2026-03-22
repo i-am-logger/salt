@@ -1,0 +1,30 @@
+{
+  "key": "tsl-2018",
+  "name": "Timescale License Agreement",
+  "short_name": "TSL Agreement",
+  "spdx_license_key": "LicenseRef-scancode-tsl-2018",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/timescale/timescaledb/blob/master/tsl/LICENSE-TIMESCALE",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0d0eff4ec7835287561753ebfa0ed64252964076b5cc5a530b0474f2bcab437a"
+  }
+}

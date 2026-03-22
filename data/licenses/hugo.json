@@ -1,0 +1,24 @@
+{
+  "key": "hugo",
+  "name": "Hugo License",
+  "short_name": "Hugo License",
+  "spdx_license_key": "LicenseRef-scancode-hugo",
+  "category": "Source-available",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d2e275202e6e2abd53be64f014bc67c1650641b8027a0242a90ff455fb28c79a"
+  }
+}

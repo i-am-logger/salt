@@ -1,0 +1,30 @@
+{
+  "key": "adaptec-downloadable",
+  "name": "Adaptec Downloadable Software License",
+  "short_name": "Adaptec Downloadable Software License",
+  "spdx_license_key": "LicenseRef-scancode-adaptec-downloadable",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/gooselinux/aic94xx-firmware/blob/master/LICENSE.aic94xx",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d451385f5ada508c835c9bc1b38820693df130cff290db6167df7b5f45cdd6de"
+  }
+}

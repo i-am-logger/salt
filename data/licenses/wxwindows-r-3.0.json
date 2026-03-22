@@ -1,0 +1,37 @@
+{
+  "key": "wxwindows-r-3.0",
+  "name": "wxWindows Restricted Licence 3.0",
+  "short_name": "wxWindows Restricted Licence 3.0",
+  "spdx_license_key": "LicenseRef-scancode-wxwindows-r-3.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.wxwidgets.org/about/licence.htm",
+  "text_urls": [
+    "http://www.wxwidgets.org/about/licence.htm"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8725917e26e9ae242c2c73ea56c04f293d624dc589e53019e1cc2d80dfdd5737"
+  }
+}

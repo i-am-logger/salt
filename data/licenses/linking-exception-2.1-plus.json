@@ -1,0 +1,35 @@
+{
+  "key": "linking-exception-2.1-plus",
+  "name": "Linking exception to LGPL 2.1 or later",
+  "short_name": "Linking exception to LGPL 2.1 or later",
+  "spdx_license_key": "LicenseRef-scancode-linking-exception-2.1-plus",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6cc3c4a9922b02b38ecda7cf36a40504e8bb181a8b6efab6003c491c4fc71b99"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "svndiff",
+  "name": "svndiff License",
+  "short_name": "svndiff License",
+  "spdx_license_key": "LicenseRef-scancode-svndiff",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "614505cf7c7af1531bc96c1c8db7779593688d8576909900db4429efb25f3870"
+  }
+}

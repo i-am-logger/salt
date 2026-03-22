@@ -1,0 +1,31 @@
+{
+  "key": "multics",
+  "name": "Multics License",
+  "short_name": "Multics License",
+  "spdx_license_key": "Multics",
+  "category": "Permissive",
+  "homepage_url": "http://www.multicians.org/",
+  "text_urls": [
+    "http://opensource.org/licenses/multics.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "770d39ed3158eaa4833bd92a32d422f4a2f795337da72e3372dba61cd33ebead"
+  }
+}

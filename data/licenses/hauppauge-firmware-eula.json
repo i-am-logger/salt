@@ -1,0 +1,25 @@
+{
+  "key": "hauppauge-firmware-eula",
+  "name": "Hauppauge Firmware EULA",
+  "short_name": "Hauppauge Firmware EULA",
+  "spdx_license_key": "LicenseRef-scancode-hauppauge-firmware-eula",
+  "category": "Proprietary Free",
+  "homepage_url": "https://lists.debian.org/debian-devel/2007/02/msg00498.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "86a805b90c40e01b107cfe41f051fb45de4a5dedaf6c9b0764cf00d9041b2208"
+  }
+}

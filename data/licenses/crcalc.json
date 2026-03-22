@@ -1,0 +1,32 @@
+{
+  "key": "crcalc",
+  "name": "CRCalc license",
+  "short_name": "CRCalc license",
+  "spdx_license_key": "LicenseRef-scancode-crcalc",
+  "category": "Permissive",
+  "homepage_url": "http://www.hboehm.info/crcalc/COPYRIGHT.txt",
+  "text_urls": [
+    "http://www.hboehm.info/crcalc/COPYRIGHT.txt",
+    "http://www.hboehm.info/new_crcalc/COPYRIGHT.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "06057027d0229aa2f765fecd3d54beb649acacdac80f2ab27779f14f812ebc70"
+  }
+}

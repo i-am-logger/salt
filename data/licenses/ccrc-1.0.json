@@ -1,0 +1,38 @@
+{
+  "key": "ccrc-1.0",
+  "name": "Common Cure Rights Commitment v1.0",
+  "short_name": "Common Cure Rights Commitment v1.0",
+  "spdx_license_key": "",
+  "category": "Copyleft",
+  "homepage_url": "https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing",
+  "text_urls": [
+    "http://git.gluster.org/cgit/glusterfs.git/tree/COMMITMENT",
+    "https://raw.githubusercontent.com/wildfly/wildfly/master/COMMITMENT"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3dd99b7b98744f0b724aa63a2d03fed54c6dc25d59d9450c169662ea9af113e6"
+  }
+}

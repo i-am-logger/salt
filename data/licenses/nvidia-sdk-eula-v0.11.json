@@ -1,0 +1,30 @@
+{
+  "key": "nvidia-sdk-eula-v0.11",
+  "name": "License Agreement for NVIDIA Software Development Kits v0.11",
+  "short_name": "NVIDIA SDK EULA v0.11",
+  "spdx_license_key": "LicenseRef-scancode-nvidia-sdk-eula-v0.11",
+  "category": "Proprietary Free",
+  "homepage_url": "https://docs.nvidia.com/pdf/EULA.pdf",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "59652a20d43d492ca3d4d6a843702f13b31383e8bb9f72692ee32589f473ea13"
+  }
+}

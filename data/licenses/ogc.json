@@ -1,0 +1,29 @@
+{
+  "key": "ogc",
+  "name": "OGC Software Notice",
+  "short_name": "OGC Software Notice",
+  "spdx_license_key": "LicenseRef-scancode-ogc",
+  "category": "Permissive",
+  "homepage_url": "https://www.ogc.org/ogc/software",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5f8884d87b9bb34403256c33155e5b462e55cce895ab1706186bc132f46813f6"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "key": "do-no-harm-0.1",
+  "name": "Do No Harm",
+  "short_name": "Do No Harm",
+  "spdx_license_key": "LicenseRef-scancode-do-no-harm-0.1",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/raisely/NoHarm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "06769362eb0c8875600e84443d9d619c638b724a6352603e6fb5ef6c2f361383"
+  }
+}

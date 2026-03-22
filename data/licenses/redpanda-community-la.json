@@ -1,0 +1,25 @@
+{
+  "key": "redpanda-community-la",
+  "name": "Redpanda Community License Agreement",
+  "short_name": "Redpanda Community License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-redpanda-community-la",
+  "category": "Source-available",
+  "homepage_url": "https://github.com/redpanda-data/redpanda/blob/dev/licenses/rcl.md",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e005a8cb302135f6873888e9250c60f02619678003d58e2e6a6fc628e2ef80f3"
+  }
+}

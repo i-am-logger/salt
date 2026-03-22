@@ -1,0 +1,29 @@
+{
+  "key": "docbook-stylesheet",
+  "name": "DocBook Stylesheet License",
+  "short_name": "DocBook Stylesheet License",
+  "spdx_license_key": "DocBook-Stylesheet",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6548209b19b2f0c3b32b6c644816c19a1f54b4e5eacc5be295459352287e6f0f"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "ogl-canada-2.0-fr",
+  "name": "Licence du gouvernement ouvert Canada 2.0",
+  "short_name": "OGL Canada 2.0 Francais",
+  "spdx_license_key": "LicenseRef-scancode-ogl-canada-2.0-fr",
+  "category": "Permissive",
+  "homepage_url": "https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3864ae2dd9737ba4ba76f1c281d2c6985af138f5a948ea2b02756a7ffc8e3a4b"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "broadcom-cfe",
+  "name": "Broadcom CFE License",
+  "short_name": "Broadcom CFE License",
+  "spdx_license_key": "LicenseRef-scancode-broadcom-cfe",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "209d18aaff55d24cf363db9a800d0d2179fef3c9330fa1d11ca62ebb24178d54"
+  }
+}

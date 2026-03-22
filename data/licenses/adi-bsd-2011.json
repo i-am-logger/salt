@@ -1,0 +1,30 @@
+{
+  "key": "adi-bsd-2011",
+  "name": "ADI BSD License 2011",
+  "short_name": "ADI BSD 2011",
+  "spdx_license_key": "LicenseRef-scancode-adi-bsd-2011",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/analogdevicesinc/Linduino/blob/bff9185178d2bf694d0fed14a85392f21655c7de/LICENSE_ADIBSD.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1067fcd0ad6d080ddc496e304e204474828bebb46ce051e7b98ff36c5ab69a7f"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "salesforce-ai-ethics-2025",
+  "name": "Salesforce AI Ethics Disclaimer 2025",
+  "short_name": "Salesforce AI Ethics Disclaimer 2025",
+  "spdx_license_key": "LicenseRef-scancode-salesforce-ai-ethics-2025",
+  "category": "Non-Commercial",
+  "homepage_url": "https://github.com/salesforce/CodeGen/blob/533a6cc52b4dbd46286cfb12f492390f379ed8a1/AI_ETHICS.md",
+  "text_urls": [],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a6cb4bba8436b8446a4fdfb60f4a0d6842dadb00019e7178b1831aa1ceea17f6"
+  }
+}

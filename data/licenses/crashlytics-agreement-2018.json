@@ -1,0 +1,26 @@
+{
+  "key": "crashlytics-agreement-2018",
+  "name": "Crashlytics Agreement 2018",
+  "short_name": "Crashlytics Agreement 2018",
+  "spdx_license_key": "LicenseRef-scancode-crashlytics-agreement-2018",
+  "category": "Commercial",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "60635af060d0a7f02043bcf52f47e305e61045d5ceece7c2a91e300a872b46cf"
+  }
+}

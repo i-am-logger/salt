@@ -1,0 +1,38 @@
+{
+  "key": "okl",
+  "name": "OKL license",
+  "short_name": "OKL license",
+  "spdx_license_key": "LicenseRef-scancode-okl",
+  "category": "Copyleft",
+  "homepage_url": "https://gdmissionsystems.com/cyber/products/trusted-computing-cross-domain/microvisor-products/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "5ed944ffdd4ca05cb08b57eb88135719c590879c58add18aeca982fc00cb2183"
+  }
+}

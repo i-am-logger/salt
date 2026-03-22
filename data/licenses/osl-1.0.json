@@ -1,0 +1,47 @@
+{
+  "key": "osl-1.0",
+  "name": "Open Software License 1.0",
+  "short_name": "OSL 1.0",
+  "spdx_license_key": "OSL-1.0",
+  "category": "Copyleft",
+  "homepage_url": "http://www.opensource.org/licenses/osl-1.0.txt",
+  "text_urls": [
+    "http://www.opensource.org/licenses/osl-1.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eda1b44aea8268986505f56ec7c67de9f62149deb1aa54bfe7d9be769f5b5edf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "embedthis-evaluation",
+  "name": "EmbedThis Evaluation License",
+  "short_name": "EmbedThis Evaluation License",
+  "spdx_license_key": "LicenseRef-scancode-embedthis-evaluation",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.embedthis.com/about/eval.html",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4ec2fba3ae3fefccb891903cf59c395769eb1dd8009d7b06c5af21f908713b4a"
+  }
+}

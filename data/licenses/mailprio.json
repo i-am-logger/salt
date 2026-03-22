@@ -1,0 +1,29 @@
+{
+  "key": "mailprio",
+  "name": "mailprio License",
+  "short_name": "mailprio License",
+  "spdx_license_key": "mailprio",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "7a11b10b3604a8a80cd502cce4903dc20c23a29d1f8031a73d317987733f62ef"
+  }
+}

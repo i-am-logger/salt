@@ -1,0 +1,31 @@
+{
+  "key": "reportbug",
+  "name": "Debian reportbug License",
+  "short_name": "Debian reportbug License",
+  "spdx_license_key": "LicenseRef-scancode-reportbug",
+  "category": "Permissive",
+  "homepage_url": "https://tracker.debian.org/media/packages/r/reportbug/copyright-6.6.6",
+  "text_urls": [
+    "https://tracker.debian.org/media/packages/r/reportbug/copyright-6.6.6"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "34f9406d99ec79f1d50a2d1e8f68addd42e48ff76169e5f2eba7c2a4ae983d7c"
+  }
+}

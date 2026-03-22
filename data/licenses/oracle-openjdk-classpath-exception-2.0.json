@@ -1,0 +1,32 @@
+{
+  "key": "oracle-openjdk-classpath-exception-2.0",
+  "name": "Oracle OpenJDK classpath exception to GPL 2.0",
+  "short_name": "Oracle OpenJDK classpath exception to GPL 2.0",
+  "spdx_license_key": "LicenseRef-scancode-oracle-openjdk-exception-2.0",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://openjdk.java.net/legal/gplv2+ce.html",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ea8cc36559a1b1ee3701500868e7f7156ad9c9306e75e4a1844488fe9ed178dc"
+  }
+}

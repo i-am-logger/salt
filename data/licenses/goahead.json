@@ -1,0 +1,34 @@
+{
+  "key": "goahead",
+  "name": "GoAhead License",
+  "short_name": "GoAhead License",
+  "spdx_license_key": "LicenseRef-scancode-goahead",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/socoola/yhrouter/blob/master/user/goahead/license.txt",
+  "text_urls": [
+    "https://github.com/socoola/yhrouter/blob/master/user/goahead/license.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "96cd08c491c79af95e79649c5b85b553f8600f4ee5503dd2fcd9a3beb6fe4a70"
+  }
+}

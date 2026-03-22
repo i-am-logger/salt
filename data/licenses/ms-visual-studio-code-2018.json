@@ -1,0 +1,26 @@
+{
+  "key": "ms-visual-studio-code-2018",
+  "name": "Microsoft Visual Studio Code License 2018",
+  "short_name": "MS Visual Studio Code License 2018",
+  "spdx_license_key": "LicenseRef-scancode-ms-visual-studio-code-2018",
+  "category": "Proprietary Free",
+  "homepage_url": "https://code.visualstudio.com/license",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c3c73ef5fa1b96c367c726a440f7cdc4a123c5db404973b86610a86e7e956af2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "tremaru",
+  "name": "Trema.ru License",
+  "short_name": "Trema.ru License",
+  "spdx_license_key": "LicenseRef-scancode-tremaru",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/tremaru/iarduino_VpH/blob/main/License.txt",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "fb0e6cd0cd89d1c6d61a013a42989744309fa3d235e2575adf24f3f62f93ad25"
+  }
+}

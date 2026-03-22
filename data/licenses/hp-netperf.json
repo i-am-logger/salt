@@ -1,0 +1,29 @@
+{
+  "key": "hp-netperf",
+  "name": "HP Netperf License",
+  "short_name": "HP Netperf License",
+  "spdx_license_key": "LicenseRef-scancode-hp-netperf",
+  "category": "Non-Commercial",
+  "homepage_url": "http://www.netperf.org/netperf/training/Netperf.html",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "modifications"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "daba5d64e84b546060c9e7a8fd3d6d0fc27b402346ed767e19754e8bedf6ee65"
+  }
+}

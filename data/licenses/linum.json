@@ -1,0 +1,29 @@
+{
+  "key": "linum",
+  "name": "Linum Software License",
+  "short_name": "Linum Software License",
+  "spdx_license_key": "",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0ac64e9f78ec407ee0601eb636ffada09e635c64208823601c824bffe9fdd24c"
+  }
+}

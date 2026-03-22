@@ -1,0 +1,31 @@
+{
+  "key": "nist-pd-fallback",
+  "name": "NIST Public Domain Notice with license fallback",
+  "short_name": "NIST Public Domain Notice with fallback",
+  "spdx_license_key": "NIST-PD-fallback",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/usnistgov/jsip/blob/59700e6926cbe96c5cdae897d9a7d2656b42abe3/LICENSE",
+  "text_urls": [
+    "https://github.com/usnistgov/fipy/blob/86aaa5c2ba2c6f1be19593c5986071cf6568cc34/LICENSE.rst"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9669893fbbb749d8900fb32d59843175da1caed94658ab27b166a52f44dcd58b"
+  }
+}

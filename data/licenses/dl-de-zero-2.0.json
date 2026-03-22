@@ -1,0 +1,25 @@
+{
+  "key": "dl-de-zero-2.0",
+  "name": "Data licence Germany – zero – version 2.0",
+  "short_name": "Data licence Germany – zero – version 2.0",
+  "spdx_license_key": "DL-DE-ZERO-2.0",
+  "category": "Permissive",
+  "homepage_url": "https://www.govdata.de/dl-de/zero-2-0",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "6808b9cc4afc906612792a6650a04e0adb1b533d5eea7d2b7ff57811dcfa88f8"
+  }
+}

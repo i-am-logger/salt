@@ -1,0 +1,30 @@
+{
+  "key": "kreative-relay-fonts-free-use-1.2f",
+  "name": "Kreative Software Relay Fonts Free Use License 1.2f",
+  "short_name": "Kreative Software Relay Fonts Free Use 1.2f",
+  "spdx_license_key": "LicenseRef-scancode-kreative-relay-fonts-free-1.2f",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.kreativekorp.com/software/fonts/FreeLicense.txt",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "2493379636050756e781b20191c2304b47985449a80af435e8ac1cdfc8d3bfb2"
+  }
+}

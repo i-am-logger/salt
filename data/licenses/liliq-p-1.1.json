@@ -1,0 +1,31 @@
+{
+  "key": "liliq-p-1.1",
+  "name": "Licence Libre du Québec – Permissive version 1.1",
+  "short_name": "LiLiQ-P-1.1",
+  "spdx_license_key": "LiLiQ-P-1.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "https://opensource.org/licenses/LiLiQ-P-1.1",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "51e0c07b2a1658fee8ce2a20439b308db76f1868a0509b55c382877f959f37a3"
+  }
+}

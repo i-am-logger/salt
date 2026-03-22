@@ -1,0 +1,29 @@
+{
+  "key": "databricks-db",
+  "name": "Databricks DB License",
+  "short_name": "Databricks DB License",
+  "spdx_license_key": "LicenseRef-scancode-databricks-db",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.databricks.com/legal/db-license",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4ef41cf0ea6f199107731d1656585ca0d9ccf42d39733667581046d8a7c91b36"
+  }
+}

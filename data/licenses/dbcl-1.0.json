@@ -1,0 +1,32 @@
+{
+  "key": "dbcl-1.0",
+  "name": "ODC Database Contents License v1.0",
+  "short_name": "DbCL 1.0",
+  "spdx_license_key": "LicenseRef-scancode-dbcl-1.0",
+  "category": "Copyleft",
+  "homepage_url": "https://opendatacommons.org/licenses/dbcl/1-0/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ceef1859a631ad9839e8aa296e4ac5c57f208393bdaee0c44a5e96d873ac9dcd"
+  }
+}

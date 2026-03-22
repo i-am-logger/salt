@@ -1,0 +1,25 @@
+{
+  "key": "oracle-bcl-javase-javafx-2013",
+  "name": "Oracle BCL for Java SE and JavaFX Technologies 2013",
+  "short_name": "Oracle BCL for Java SE and JavaFX 2013",
+  "spdx_license_key": "LicenseRef-scancode-oracle-bcl-javase-javafx-2013",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.oracle.com/technetwork/java/javase/downloads/java-se-archive-license-1382604.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3d61bebdd8d73b275e50b003a470775a8c7175c27a88282289a7a1413f844ff1"
+  }
+}

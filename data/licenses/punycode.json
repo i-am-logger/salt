@@ -1,0 +1,31 @@
+{
+  "key": "punycode",
+  "name": "Punycode License",
+  "short_name": "Punycode License",
+  "spdx_license_key": "LicenseRef-scancode-punycode",
+  "category": "Permissive",
+  "homepage_url": "https://git.savannah.gnu.org/gitweb/?p=libidn.git;a=blob;f=lib/punycode.c;h=14d70152b9c5723778af174ff6027cc3742b749e;hb=HEAD#l54",
+  "text_urls": [
+    "https://datatracker.ietf.org/doc/html/rfc3492#page-22"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "06bc2f5f5bed6cc4b44557672fac1ca4f509d4702d68a858c55e00bf5d00fc74"
+  }
+}

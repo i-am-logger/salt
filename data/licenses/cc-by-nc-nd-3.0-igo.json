@@ -1,0 +1,32 @@
+{
+  "key": "cc-by-nc-nd-3.0-igo",
+  "name": "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO",
+  "short_name": "CC-BY-NC-ND-3.0-IGO",
+  "spdx_license_key": "CC-BY-NC-ND-3.0-IGO",
+  "category": "Non-Commercial",
+  "homepage_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode"
+  ],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "4928e69f5d464021cb2f081b55d8903f021a90a0e96119bf77f22293ea366677"
+  }
+}

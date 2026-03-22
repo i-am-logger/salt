@@ -1,0 +1,31 @@
+{
+  "key": "fsf-unlimited-no-warranty",
+  "name": "FSF Unlimited License No Warranty",
+  "short_name": "FSF Unlimited License No Warranty",
+  "spdx_license_key": "FSFULLRWD",
+  "category": "Permissive",
+  "homepage_url": "http://www.fsf.org/licensing/licenses/",
+  "text_urls": [
+    "http://www.fsf.org/licensing/licenses/"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "c24daaa61a330383fdb128556174ce4e3c768b24f0b4a058b11b4a1b7926db18"
+  }
+}

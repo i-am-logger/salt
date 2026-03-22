@@ -1,0 +1,39 @@
+{
+  "key": "gpl-3.0-389-ds-base-exception",
+  "name": "GPL-3.0 389 DS Base Exception",
+  "short_name": "GPL-3.0 389 DS Base Exception",
+  "spdx_license_key": "GPL-3.0-389-ds-base-exception",
+  "category": "Copyleft Limited",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "eadbc9ca761034db9b00f48688b3eb5f0aa080626aaa32e1facc27498a1243ca"
+  }
+}

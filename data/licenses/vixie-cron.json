@@ -1,0 +1,29 @@
+{
+  "key": "vixie-cron",
+  "name": "Vixie Cron License",
+  "short_name": "Vixie Cron License",
+  "spdx_license_key": "Vixie-Cron",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b6918ab9d2d8d8cab32f4b0d235e3b8e5a146bde767376b9023b92a50b7a23c9"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "key": "installsite",
+  "name": "InstallSite License Agreement",
+  "short_name": "InstallSite License Agreement",
+  "spdx_license_key": "LicenseRef-scancode-installsite",
+  "category": "Free Restricted",
+  "homepage_url": "http://www.installsite.org/pages/en/license.htm",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1baebdad2b0f408bfb75dc75e96f7cb6027c774a7cf1b3258061139daeee8a39"
+  }
+}

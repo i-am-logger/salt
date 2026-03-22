@@ -1,0 +1,42 @@
+{
+  "key": "oset-pl-2.1",
+  "name": "OSET Public License version 2.1",
+  "short_name": "OSET-PL-2.1",
+  "spdx_license_key": "OSET-PL-2.1",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://www.osetfoundation.org/public-license/",
+  "text_urls": [
+    "http://www.osetfoundation.org/s/OPL_v21-plain.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "same-license--file": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "patent-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9b9ff8d779b58ef44d176543fd0427f10b04ca589ba4244b41da6133e92f6aa5"
+  }
+}

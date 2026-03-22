@@ -1,0 +1,33 @@
+{
+  "key": "w3c",
+  "name": "W3C Software Notice and License",
+  "short_name": "W3C Software Notice and License",
+  "spdx_license_key": "W3C",
+  "category": "Permissive",
+  "homepage_url": "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231",
+  "text_urls": [
+    "http://www.open-xchange.com/fileadmin/downloads/W3C_SOFTWARE_NOTICE_AND_LICENSE.pdf",
+    "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "827fe3af461d728e289a7b39a02b6ceca84a332016cf84a3ad5af40c5e7bf438"
+  }
+}

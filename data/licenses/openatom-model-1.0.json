@@ -1,0 +1,33 @@
+{
+  "key": "openatom-model-1.0",
+  "name": "OpenAtom Model License Version 1.0",
+  "short_name": "OpenAtom Model License 1.0",
+  "spdx_license_key": "LicenseRef-scancode-openatom-model-1.0",
+  "category": "Permissive",
+  "homepage_url": "https://huggingface.co/vivo-ai/BlueLM-7B-Chat-32K/blob/651a2bd18a9bf28bc08cf45025afbe90b3775037/OpenAtom%20Model%20License.pdf",
+  "text_urls": [
+    "https://atomgit.com/OpenAtomFoundation/ModelLicense"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b7463df6b64913e6a03b4dff32f2a2e2be2df37ae4254910b1712e16a5156e94"
+  }
+}

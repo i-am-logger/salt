@@ -1,0 +1,19 @@
+{
+  "key": "dco-1.0",
+  "name": "Developer Certificate of Origin 1.0",
+  "short_name": "DCO 1.0",
+  "spdx_license_key": "LicenseRef-scancode-dco-1.0",
+  "category": "CLA",
+  "homepage_url": "https://developercertificate.org/",
+  "text_urls": [
+    "https://developercertificate.org/"
+  ],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "0d72e12a349ca1d9985e072fb3fdd2c31d21fdeeaf84f9a496c3c09be860ad74"
+  }
+}

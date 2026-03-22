@@ -1,0 +1,25 @@
+{
+  "key": "iso-recorder",
+  "name": "ISO Recorder License",
+  "short_name": "ISO Recorder License",
+  "spdx_license_key": "LicenseRef-scancode-iso-recorder",
+  "category": "Proprietary Free",
+  "homepage_url": "http://isorecorder.alexfeinman.com/v1.htm",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "9ac4ad8217b0eb5b98d7a64778cd90d963cdc626b34ea93560458561dfc4af91"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "x11-tiff",
+  "name": "X11-Style (Tiff)",
+  "short_name": "X11-Style (Tiff)",
+  "spdx_license_key": "libtiff",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://fedoraproject.org/wiki/Licensing/libtiff"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b7df541549ab220827299420da0a72b80afd10c56756b24e0f8764d5fda1d197"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "sh-cla-1.1",
+  "name": "Software Heritage Contributor License Agreement 1.1",
+  "short_name": "Software Heritage CLA 1.1",
+  "spdx_license_key": "LicenseRef-scancode-sh-cla-1.1",
+  "category": "CLA",
+  "homepage_url": "https://forge.softwareheritage.org/L3",
+  "text_urls": [],
+  "grants": [],
+  "obligations": {},
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "11832d339fdf50ae2f8e5bc06cd29235f85f233b811bd441236836ab6122d61d"
+  }
+}

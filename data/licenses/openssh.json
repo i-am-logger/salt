@@ -1,0 +1,32 @@
+{
+  "key": "openssh",
+  "name": "OpenSSH License",
+  "short_name": "OpenSSH License",
+  "spdx_license_key": "SSH-OpenSSH",
+  "category": "Permissive",
+  "homepage_url": "https://github.com/openssh/openssh-portable/blob/V_7_3_P1/LICENCE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "1cbd2ab6988958f9de585270e6fbd8ad2fc8f309e31e16e2fc643649c0783321"
+  }
+}

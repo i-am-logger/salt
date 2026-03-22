@@ -1,0 +1,31 @@
+{
+  "key": "cc-by-3.0-igo",
+  "name": "Creative Commons Attribution 3.0 IGO",
+  "short_name": "Creative Commons Attribution 3.0 IGO",
+  "spdx_license_key": "CC-BY-3.0-IGO",
+  "category": "Permissive",
+  "homepage_url": "https://creativecommons.org/licenses/by/3.0/igo",
+  "text_urls": [
+    "https://creativecommons.org/licenses/by/3.0/igo/legalcode"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3421af87f69ff2544254ae693f9c83e2caf4d3ee251ef521080a18abbe5c21a3"
+  }
+}

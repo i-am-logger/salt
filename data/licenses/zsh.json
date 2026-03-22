@@ -1,0 +1,29 @@
+{
+  "key": "zsh",
+  "name": "Z Shell License",
+  "short_name": "zsh License",
+  "spdx_license_key": "LicenseRef-scancode-zsh",
+  "category": "Permissive",
+  "homepage_url": "https://sourceforge.net/p/zsh/code/ci/master/tree/LICENCE",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "35ec83460172fe6632c70af49e11ab2549221721d36ac6d768be4ba37d84b71a"
+  }
+}

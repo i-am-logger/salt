@@ -1,0 +1,29 @@
+{
+  "key": "ms-kinext-win-sdk",
+  "name": "Microsoft Kinect for Windows SDK License",
+  "short_name": "MS Kinect for Windows SDK License",
+  "spdx_license_key": "LicenseRef-scancode-ms-kinext-win-sdk",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.microsoft.com/en-us/kinectforwindows/develop/sdk-eula.aspx",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a11274ad4bdce591c2a3290ef757e896f4c4496e0c18f6c94cb1653753fcd3f1"
+  }
+}

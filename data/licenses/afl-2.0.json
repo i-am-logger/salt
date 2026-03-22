@@ -1,0 +1,36 @@
+{
+  "key": "afl-2.0",
+  "name": "Academic Free License 2.0",
+  "short_name": "AFL 2.0",
+  "spdx_license_key": "AFL-2.0",
+  "category": "Permissive",
+  "homepage_url": "http://opensource.linux-mirror.org/licenses/afl-2.0.txt",
+  "text_urls": [
+    "http://flashlinux.org.uk/licenses/licenses/AFL-2.0.txt"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty",
+    "trademark-use"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "b7bfbf44f34ea57de609c1714922bd8a76a477569cf2bad4986df10c54050ce2"
+  }
+}

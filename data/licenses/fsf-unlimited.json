@@ -1,0 +1,26 @@
+{
+  "key": "fsf-unlimited",
+  "name": "Free Software Foundation - Unlimited License",
+  "short_name": "FSF-Unlimited",
+  "spdx_license_key": "FSFULLR",
+  "category": "Permissive",
+  "homepage_url": "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License#License_Retention_Variant",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "42ce4b25ab9245b0d3d44b295b562a9caede088fc1e0e0239c3a4d52216b4e6b"
+  }
+}

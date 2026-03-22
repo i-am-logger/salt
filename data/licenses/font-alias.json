@@ -1,0 +1,31 @@
+{
+  "key": "font-alias",
+  "name": "font-alias License",
+  "short_name": "font-alias License",
+  "spdx_license_key": "LicenseRef-scancode-font-alias",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [
+    "https://www.x.org/releases/individual/font/font-alias-1.0.3.tar.bz2"
+  ],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "17d0f5ec7bf020a795b617e0eca3dd7357c4c37546c1f8ba8d906fc450f88068"
+  }
+}

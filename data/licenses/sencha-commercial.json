@@ -1,0 +1,26 @@
+{
+  "key": "sencha-commercial",
+  "name": "Sencha Commercial License v1.1",
+  "short_name": "Sencha Commercial License 1.1",
+  "spdx_license_key": "LicenseRef-scancode-sencha-commercial",
+  "category": "Commercial",
+  "homepage_url": "http://www.sencha.com/legal/sencha-commercial-software-license-agreement/",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e3fc11ad0dfd3c5641ab6e2ad0d64760fac2eebf08e7a02e9c835a08ba88e8e8"
+  }
+}

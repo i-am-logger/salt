@@ -1,0 +1,32 @@
+{
+  "key": "bsd-new-derivative",
+  "name": "BSD-Derivative",
+  "short_name": "BSD-Derivative",
+  "spdx_license_key": "LicenseRef-scancode-bsd-new-derivative",
+  "category": "Permissive",
+  "homepage_url": "http://www.tcpdump.org/sniffex.c",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "a6d4c9a907350be322affb1fab5171c0fa18c4309ff25fdb5a8237a058486ce2"
+  }
+}

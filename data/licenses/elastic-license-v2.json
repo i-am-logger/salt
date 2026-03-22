@@ -1,0 +1,29 @@
+{
+  "key": "elastic-license-v2",
+  "name": "Elastic License 2.0 (ELv2)",
+  "short_name": "Elastic License 2.0 (ELv2)",
+  "spdx_license_key": "Elastic-2.0",
+  "category": "Source-available",
+  "homepage_url": "https://www.elastic.co/licensing/elastic-license",
+  "text_urls": [
+    "https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE-2.0.txt",
+    "https://raw.githubusercontent.com/elastic/elasticsearch/6ab35978f28351e91dcf51d0ee2f4d5a74e02697/licenses/ELASTIC-LICENSE-2.0.txt"
+  ],
+  "grants": [
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "8902ab466d290dc63b5bda9e4dbccff71ae5da154051866b4fe153c51b5376c7"
+  }
+}

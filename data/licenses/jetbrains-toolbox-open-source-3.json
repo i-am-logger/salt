@@ -1,0 +1,26 @@
+{
+  "key": "jetbrains-toolbox-open-source-3",
+  "name": "Toolbox Subscription License Agreement For Open Source Projects Version 3",
+  "short_name": "JetBrains Toolbox Open Source License v3",
+  "spdx_license_key": "LicenseRef-scancode-jetbrains-toolbox-oss-3",
+  "category": "Non-Commercial",
+  "homepage_url": "https://www.jetbrains.com/store/license_opensource.html",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "commercial-use": true,
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "24961a7e86423a52e2b83bd41e35f6b2e645c79df2748363a2d77c5f087eefaf"
+  }
+}

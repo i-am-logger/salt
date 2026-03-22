@@ -1,0 +1,25 @@
+{
+  "key": "activestate-komodo-edit",
+  "name": "ActiveState Komodo Edit EULA",
+  "short_name": "ActiveState Komodo Edit EULA",
+  "spdx_license_key": "LicenseRef-scancode-activestate-komodo-edit",
+  "category": "Proprietary Free",
+  "homepage_url": "http://www.activestate.com/komodo-edit/license-agreement",
+  "text_urls": [],
+  "grants": [
+    "private-use"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "distribution": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "3e30525498ecc7fcc4d29d2e9feb6b9518223c238e460634963bd91997e80250"
+  }
+}

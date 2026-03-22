@@ -1,0 +1,29 @@
+{
+  "key": "ms-testplatform-17.0.0",
+  "name": "Microsoft Visual Studio TestPlatform 17.0.0",
+  "short_name": "MS TestPlatform 17.0.0",
+  "spdx_license_key": "LicenseRef-scancode-ms-testplatform-17.0.0",
+  "category": "Proprietary Free",
+  "homepage_url": "https://www.nuget.org/packages/Microsoft.TestPlatform/17.0.0/license",
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d1515147997bb8e1a93b520bcdaf4c515f94a50164a474d80702f714ea1521ba"
+  }
+}

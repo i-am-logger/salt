@@ -1,0 +1,29 @@
+{
+  "key": "osassy-2025",
+  "name": "O'Saasy License Agreement 2025",
+  "short_name": "O'Saasy License Agreement 2025",
+  "spdx_license_key": "LicenseRef-scancode-osassy-2025",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/basecamp/fizzy/blob/main/LICENSE.md",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "d202803ebacfd12167a7f0bdf9f29eb5f69f99ca0340b189f47622407a96e5e3"
+  }
+}

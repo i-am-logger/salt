@@ -1,0 +1,30 @@
+{
+  "key": "ftdi",
+  "name": "Future Technology Devices International License",
+  "short_name": "FTDI License",
+  "spdx_license_key": "LicenseRef-scancode-ftdi",
+  "category": "Proprietary Free",
+  "homepage_url": "https://github.com/psi46/psi46test/blob/master/linux/ftd2xx.h",
+  "text_urls": [],
+  "grants": [
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {
+    "commercial-use": true,
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ec0576ed14bee351833081e16b51878730663346945add01d8ee8241db9fc308"
+  }
+}

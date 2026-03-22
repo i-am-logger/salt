@@ -1,0 +1,43 @@
+{
+  "key": "agpl-3.0-linking-exception",
+  "name": "AGPL 3.0 linking exception",
+  "short_name": "AGPL 3.0 linking exception",
+  "spdx_license_key": "",
+  "category": "Copyleft Limited",
+  "homepage_url": "http://mo.morsi.org/blog/2009/08/13/lesser_affero_gplv3/",
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "patent-use",
+    "private-use"
+  ],
+  "obligations": {
+    "disclose-source": [
+      "distribution",
+      "saas"
+    ],
+    "document-changes": [
+      "distribution"
+    ],
+    "include-copyright": [
+      "distribution"
+    ],
+    "network-use-disclose": [
+      "saas"
+    ],
+    "same-license--library": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "029c119421ab55794a3083754587a66167c37397c096f010a2e890cae0422cb1"
+  }
+}

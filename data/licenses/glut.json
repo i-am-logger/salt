@@ -1,0 +1,29 @@
+{
+  "key": "glut",
+  "name": "OpenGL Utility Toolkit (GLUT) License",
+  "short_name": "GLUT License",
+  "spdx_license_key": "LicenseRef-scancode-glut",
+  "category": "Permissive",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "obligations": {
+    "include-copyright": [
+      "distribution"
+    ]
+  },
+  "restrictions": {},
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "ed35547f415def379bc28222fda938b558324d4303900fa454f260fc847da8f2"
+  }
+}
