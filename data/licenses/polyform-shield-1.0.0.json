@@ -19,13 +19,15 @@
       "distribution"
     ]
   },
-  "restrictions": {},
+  "restrictions": {
+    "competing-use": true
+  },
   "disclaimers": [
     "liability",
     "warranty"
   ],
   "integrity": {
     "algorithm": "sha256",
-    "digest": "32cad8a127066ff6ba909e2202dba039b33fd77b7c8273205db2a7e5d0cdb455"
+    "digest": "65cf12d947af23ef55e5e74037ded068f9658d1d3d36d53708aa7e3688b7add2"
   }
 }

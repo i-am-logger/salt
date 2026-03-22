@@ -36,6 +36,8 @@ What the license prohibits:
 | `distribution` | Cannot redistribute |
 | `modifications` | Cannot modify |
 | `saas` | Cannot provide as a hosted or managed service |
+| `endorsement` | Cannot use contributor names to endorse or promote derived products |
+| `competing-use` | Cannot use in competing products or services |
 
 ## Disclaimers
 

@@ -13285,7 +13285,9 @@
     ],
     "allRestrictionKeys": [
       "commercial-use",
+      "competing-use",
       "distribution",
+      "endorsement",
       "modifications",
       "saas"
     ],

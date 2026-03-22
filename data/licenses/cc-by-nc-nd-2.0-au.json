@@ -19,7 +19,8 @@
   },
   "restrictions": {
     "commercial-use": true,
-    "modifications": true
+    "modifications": true,
+    "endorsement": true
   },
   "disclaimers": [
     "liability",
@@ -27,6 +28,6 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "digest": "e9d6386a78919c3634cd75b89afabded7b283bb0e422372a9838654518600c25"
+    "digest": "4513751b50a3003d06778b0ba98c4e390f4a2095f9ec8cc410d3caa3039307e0"
   }
 }

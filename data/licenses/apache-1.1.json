@@ -22,7 +22,9 @@
       "distribution"
     ]
   },
-  "restrictions": {},
+  "restrictions": {
+    "endorsement": true
+  },
   "disclaimers": [
     "liability",
     "warranty",
@@ -30,6 +32,6 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "digest": "b6661196adfffc040eb6b82e35ee6d6858f2c0a2bf541192086194101eea944f"
+    "digest": "4bb34e0e1d4c96f7d9917967b625ecf53287f1ecbd3fd2b7f45f57af3c907c5d"
   }
 }

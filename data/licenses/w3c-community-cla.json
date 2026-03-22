@@ -8,10 +8,12 @@
   "text_urls": [],
   "grants": [],
   "obligations": {},
-  "restrictions": {},
+  "restrictions": {
+    "endorsement": true
+  },
   "disclaimers": [],
   "integrity": {
     "algorithm": "sha256",
-    "digest": "879344464878ee77070636f162e46efefe025108f47ed1c264dfb3d416559540"
+    "digest": "0fc79b5d28fd3356565712ce29360f83a48a122f13be8225c247a72cba51f9cc"
   }
 }
