@@ -17,7 +17,8 @@
   },
   "restrictions": {
     "commercial-use": true,
-    "distribution": true
+    "distribution": true,
+    "saas": true
   },
   "disclaimers": [
     "liability",
@@ -25,6 +26,6 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "digest": "e6063ea6a0b9214dc1e75fdda4cb4ce363747902a4c5b3b0205bf72ec442be59"
+    "digest": "ca4f9d66da297cbd386fe546f06d82a5b4381079b4b8c0379fd7e764d04d65ed"
   }
 }

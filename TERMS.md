@@ -35,6 +35,7 @@ What the license prohibits:
 | `commercial-use` | Cannot use commercially |
 | `distribution` | Cannot redistribute |
 | `modifications` | Cannot modify |
+| `saas` | Cannot provide as a hosted or managed service |
 
 ## Disclaimers
 
