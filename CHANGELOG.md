@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/i-am-logger/salt/compare/salt-v0.2.2...salt-v0.3.0) (2026-03-22)
+
+
+### Features
+
+* add saas restriction to 22 licenses ([3ddf592](https://github.com/i-am-logger/salt/commit/3ddf59289b021a2ebd6a7567b60f9e8e38ab2f7a))
+
 ## [0.2.2](https://github.com/i-am-logger/salt/compare/salt-v0.2.1...salt-v0.2.2) (2026-03-22)
 
 
