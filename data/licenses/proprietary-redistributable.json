@@ -1,0 +1,25 @@
+{
+  "key": "proprietary-redistributable",
+  "name": "Proprietary Redistributable",
+  "short_name": "Proprietary Redistributable",
+  "spdx_license_key": "LicenseRef-scancode-proprietary-redistributable",
+  "category": "Proprietary Free",
+  "homepage_url": null,
+  "text_urls": [],
+  "grants": [
+    "private-use",
+    "distribution"
+  ],
+  "obligations": {},
+  "restrictions": {
+    "modifications": true
+  },
+  "disclaimers": [
+    "liability",
+    "warranty"
+  ],
+  "integrity": {
+    "algorithm": "sha256",
+    "digest": "e087f2c88be509fb0dc6d5d55ce2f590c14100de3b36b48d64e0073844d2f853"
+  }
+}
