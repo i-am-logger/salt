@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/i-am-logger/salt/compare/salt-v0.4.0...salt-v0.5.0) (2026-03-23)
+
+
+### Features
+
+* add proprietary-redistributable license key for unfreeRedistributable packages ([49c9f93](https://github.com/i-am-logger/salt/commit/49c9f9367afef8e2e8f74efb69b203d21cd46f74))
+
 ## [0.4.0](https://github.com/i-am-logger/salt/compare/salt-v0.3.0...salt-v0.4.0) (2026-03-22)
 
 
